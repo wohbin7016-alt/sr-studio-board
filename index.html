@@ -1,0 +1,158 @@
+<!doctype html><html lang="ko"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>🎬 에스알스튜디오 운영현황</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,'Pretendard','Apple SD Gothic Neo',sans-serif;background:#0d1117;color:#e6edf3;padding:20px;max-width:1080px;margin:0 auto}
+h1{font-size:22px} .ts{color:#7d8590;font-size:12px;margin:4px 0 20px}
+h2{font-size:15px;margin:26px 0 12px;color:#58a6ff}
+.kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:8px}
+.kpi{background:linear-gradient(135deg,#161b22,#1c2230);border:1px solid #21262d;border-radius:14px;padding:18px;text-align:center}
+.kpi .n{font-size:40px;font-weight:800;line-height:1} .kpi .l{font-size:12px;color:#8b949e;margin-top:6px}
+.kpi.g .n{color:#3fb950} .kpi.b .n{color:#58a6ff} .kpi.p .n{color:#bc8cff}
+.prow{display:flex;align-items:center;gap:12px;margin:9px 0}
+.pl{width:170px;font-size:13px} .psub{color:#7d8590;font-size:11px}
+.pbar{flex:1;height:22px;background:#161b22;border:1px solid #21262d;border-radius:11px;position:relative;overflow:hidden}
+.pfill{height:100%;border-radius:11px;transition:width .6s}
+.pnum{position:absolute;right:10px;top:2px;font-size:12px;font-weight:700}
+.card{background:#161b22;border:1px solid #21262d;border-radius:12px;padding:16px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{background:#1a2b1f;border:1px solid #2a4a35;color:#7ee2a8;border-radius:20px;padding:5px 12px;font-size:12px}
+.depts{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+.dcard{background:#161b22;border:1px solid #21262d;border-radius:10px;padding:12px 14px}
+.dhead{font-size:13px;margin-bottom:5px} .demoji{margin-right:5px}
+.drole{color:#7d8590;font-size:11px}
+.dmetric{font-size:12px;font-weight:700;color:#c9d1d9;margin-bottom:4px}
+.dsum{font-size:11px;color:#8b949e;line-height:1.45}
+@media(max-width:640px){.depts{grid-template-columns:1fr}}
+.dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px;vertical-align:middle}
+table{width:100%;border-collapse:collapse;font-size:13px}
+td{padding:7px 10px;border-bottom:1px solid #21262d}
+.muted{color:#7d8590} .ok{color:#3fb950}
+.chartbox{background:#161b22;border:1px solid #21262d;border-radius:12px;padding:16px;height:300px}
+.foot{margin-top:30px;color:#484f58;font-size:11px;text-align:center}
+.live{display:inline-block;width:8px;height:8px;background:#3fb950;border-radius:50%;margin-right:5px;animation:pulse 2s infinite}
+@keyframes pulse{50%{opacity:.3}}
+</style></head><body>
+<h1>🎬 에스알스튜디오 운영현황</h1>
+<div class="ts"><span class="live"></span>실시간 자동 갱신 · 2026-06-08 18:31 · 동업자 공유(읽기전용)</div>
+
+<div class="kpis">
+  <div class="kpi g"><div class="n">12</div><div class="l">오늘 제작·배포</div></div>
+  <div class="kpi b"><div class="n">12<span style="font-size:18px;color:#7d8590">/77</span></div><div class="l">이번주 (2026-W24)</div></div>
+  <div class="kpi p"><div class="n">127</div><div class="l">누적 총 제작</div></div>
+</div>
+
+<h2>📦 오늘 나간 영상</h2>
+<div class="card"><div class="chips"><span class="chip" style="border-color:#2BE89A66"><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">쿠파스</b> 삼성 갤럭시북5 프로 360</span><span class="chip" style="border-color:#2BE89A66"><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">쿠파스</b> HP 2023 오멘 16</span><span class="chip" style="border-color:#2BE89A66"><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">쿠파스</b> 기가바이트 에어로 X16 RTX5070</span><span class="chip" style="border-color:#FF5A4D66"><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b> HP 옴니북 X 플립 14</span><span class="chip" style="border-color:#FF5A4D66"><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b> MSI 2025 사이보그 15 RTX5060</span><span class="chip" style="border-color:#58a6ff66"><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b> 렉서스RX 대시보드 가죽복원</span><span class="chip" style="border-color:#58a6ff66"><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b> 무도색 덴트 복원(글루풀 PDR)</span><span class="chip" style="border-color:#3fd6c866"><span class="dot" style="background:#3fd6c8"></span><b style="color:#3fd6c8">해외쇼츠1</b> 벽 파이프 통과 그라인더 가공</span><span class="chip" style="border-color:#3fd6c866"><span class="dot" style="background:#3fd6c8"></span><b style="color:#3fd6c8">해외쇼츠1</b> 울타리 와이어 안 풀리는 매듭</span><span class="chip" style="border-color:#f0c04066"><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">왜그럴까</b> 코끼리가 가젤 곁을 지키는 이유</span><span class="chip" style="border-color:#f0c04066"><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">왜그럴까</b> 치타 사냥 성공률이 낮은 이유</span><span class="chip" style="border-color:#f0c04066"><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">왜그럴까</b> 개복치는 왜 반쪽처럼 생겼나</span></div></div>
+
+<h2>👥 부서별 오늘 실적</h2>
+<div class="depts"><div class="dcard" style="border-left:3px solid #58a6ff">
+          <div class="dhead"><span class="demoji">🎬</span><b style="color:#58a6ff">피디</b> <span class="drole">총괄PD · 배치/운영</span></div>
+          <div class="dmetric">오늘 배치 가동 · 제작 7 · 배포 11</div>
+          <div class="dsum">오늘 배치 가동: morning(08:00), manual(08:26). 오전(08시)·오후(16시) 정규 배치 2회 + 수동 보강.</div>
+        </div>
+<div class="dcard" style="border-left:3px solid #3fd6c8">
+          <div class="dhead"><span class="demoji">🔍</span><b style="color:#3fd6c8">서치</b> <span class="drole">리서치 · 주제/소스 발굴</span></div>
+          <div class="dmetric">후보풀 갱신 · 6개 채널 라인</div>
+          <div class="dsum">확보 소스/주제: 후보풀 7종 갱신(해외쇼츠/해외쇼츠1/왜그럴까/쿠파스 라인).</div>
+        </div>
+<div class="dcard" style="border-left:3px solid #bc8cff">
+          <div class="dhead"><span class="demoji">✍️</span><b style="color:#bc8cff">라이타</b> <span class="drole">작가 · 대본 작성</span></div>
+          <div class="dmetric">대본 작성 진행</div>
+          <div class="dsum">작성 대본: 14편</div>
+        </div>
+<div class="dcard" style="border-left:3px solid #f0c040">
+          <div class="dhead"><span class="demoji">🎞️</span><b style="color:#f0c040">컷장인</b> <span class="drole">제작 · 렌더링</span></div>
+          <div class="dmetric">렌더 완료 7편</div>
+          <div class="dsum">렌더 완료: 7편 (쇼츠 7 / 롱폼 0)</div>
+        </div>
+<div class="dcard" style="border-left:3px solid #2BE89A">
+          <div class="dhead"><span class="demoji">✅</span><b style="color:#2BE89A">깐깐이</b> <span class="drole">검수 · QC 게이트</span></div>
+          <div class="dmetric">QC 게이트 가동</div>
+          <div class="dsum">QC 반려/재작업: 4건 (오늘 기록 기준)</div>
+        </div>
+<div class="dcard" style="border-left:3px solid #FF5A4D">
+          <div class="dhead"><span class="demoji">📤</span><b style="color:#FF5A4D">발송이</b> <span class="drole">배포 · 메일발송</span></div>
+          <div class="dmetric">메일 발송 11편</div>
+          <div class="dsum">메일 발송: 10편 (value425 수신, 쿠팡 제휴링크+고지문 동봉)</div>
+        </div>
+<div class="dcard" style="border-left:3px solid #ff8c42">
+          <div class="dhead"><span class="demoji">📊</span><b style="color:#ff8c42">숫자맨</b> <span class="drole">분석 · 성과추적</span></div>
+          <div class="dmetric">누적 127편 추적 · 성과 D+3~D+7</div>
+          <div class="dsum">오늘 발행분 10편 → 성과는 D+3~D+7 발화구간 측정 예정(당일 0뷰 정상).</div>
+        </div></div>
+
+<h2>🎯 주간 목표 진행률 · 2026-06-08 ~ 2026-06-14</h2>
+<div class="card"><div class="prow">
+          <div class="pl"><span class="dot" style="background:#2BE89A"></span><b>쿠파스</b> <span class="psub">🛒 놓치면손해템</span></div>
+          <div class="pbar"><div class="pfill" style="width:21%;background:#2BE89A"></div>
+            <span class="pnum">3 / 14</span></div>
+        </div>
+<div class="prow">
+          <div class="pl"><span class="dot" style="background:#FF5A4D"></span><b>쿠파스1</b> <span class="psub">🛒 가전스튜디오</span></div>
+          <div class="pbar"><div class="pfill" style="width:14%;background:#FF5A4D"></div>
+            <span class="pnum">2 / 14</span></div>
+        </div>
+<div class="prow">
+          <div class="pl"><span class="dot" style="background:#58a6ff"></span><b>해외쇼츠</b> <span class="psub">🔧 메카닉스튜디오</span></div>
+          <div class="pbar"><div class="pfill" style="width:14%;background:#58a6ff"></div>
+            <span class="pnum">2 / 14</span></div>
+        </div>
+<div class="prow">
+          <div class="pl"><span class="dot" style="background:#3fd6c8"></span><b>해외쇼츠1</b> <span class="psub">🔧 숏츠시작</span></div>
+          <div class="pbar"><div class="pfill" style="width:14%;background:#3fd6c8"></div>
+            <span class="pnum">2 / 14</span></div>
+        </div>
+<div class="prow">
+          <div class="pl"><span class="dot" style="background:#f0c040"></span><b>왜그럴까</b> <span class="psub">💡 왜그럴까</span></div>
+          <div class="pbar"><div class="pfill" style="width:21%;background:#f0c040"></div>
+            <span class="pnum">3 / 14</span></div>
+        </div>
+<div class="prow">
+          <div class="pl"><span class="dot" style="background:#bc8cff"></span><b>신이슈TV</b> <span class="psub">📰 신이슈TV</span></div>
+          <div class="pbar"><div class="pfill" style="width:0%;background:#30363d"></div>
+            <span class="pnum">0 / 7</span></div>
+        </div></div>
+
+<h2>📊 채널별 누적 제작</h2>
+<div class="chartbox"><canvas id="ch1"></canvas></div>
+
+<h2>🕐 최근 제작 이력</h2>
+<div class="card"><table><tr><td class="muted">2026-06-08</td><td><b>쿠파스</b></td><td>삼성 갤럭시북5 프로 360</td></tr>
+<tr><td class="muted">2026-06-08</td><td><b>쿠파스</b></td><td>HP 2023 오멘 16</td></tr>
+<tr><td class="muted">2026-06-08</td><td><b>쿠파스</b></td><td>기가바이트 에어로 X16 RTX5070</td></tr>
+<tr><td class="muted">2026-06-08</td><td><b>쿠파스1</b></td><td>HP 옴니북 X 플립 14</td></tr>
+<tr><td class="muted">2026-06-08</td><td><b>쿠파스1</b></td><td>MSI 2025 사이보그 15 RTX5060</td></tr>
+<tr><td class="muted">2026-06-08</td><td><b>해외쇼츠</b></td><td>렉서스RX 대시보드 가죽복원</td></tr>
+<tr><td class="muted">2026-06-08</td><td><b>해외쇼츠</b></td><td>무도색 덴트 복원(글루풀 PDR)</td></tr>
+<tr><td class="muted">2026-06-08</td><td><b>해외쇼츠1</b></td><td>벽 파이프 통과 그라인더 가공</td></tr>
+<tr><td class="muted">2026-06-08</td><td><b>해외쇼츠1</b></td><td>울타리 와이어 안 풀리는 매듭</td></tr>
+<tr><td class="muted">2026-06-08</td><td><b>왜그럴까</b></td><td>코끼리가 가젤 곁을 지키는 이유</td></tr>
+<tr><td class="muted">2026-06-08</td><td><b>왜그럴까</b></td><td>치타 사냥 성공률이 낮은 이유</td></tr>
+<tr><td class="muted">2026-06-08</td><td><b>왜그럴까</b></td><td>개복치는 왜 반쪽처럼 생겼나</td></tr></table></div>
+
+<h2>⚠️ 막힌 항목</h2>
+<div class="card"><table><tr><td><b>왜그럴까</b></td><td>/tmp/wae_alife/script_tts.txt</td><td class="muted">QC 불합격: 자막 한글숫자(아라비아여야): &#x27;백 킬로&#x27; in 「시속 {</td></tr>
+<tr><td><b>왜그럴까</b></td><td>쓰나미 단면(원큐)+코끼리가젤(대체)</td><td class="muted">쓰나미=AI합성+영문라벨(룰14·실사아님). 코끼리가젤 대체=LAD BIBLE 워터마크 우</td></tr>
+<tr><td><b>해외쇼츠</b></td><td>1990 트럭 복원</td><td class="muted">영문자막 &#x27;1990 Year old car restoration&#x27; 상단 </td></tr>
+<tr><td><b>전체</b></td><td>NAS 대용량 업로드</td><td class="muted">Tailscale 대용량 POST timeout(600s) — API쿼리는 정상, 22MB</td></tr>
+<tr><td><b>왜그럴까</b></td><td>오리 비올때 가만히 서있는 이유</td><td class="muted">애니메이션+영문자막 → 실사다큐 아님</td></tr></table></div>
+
+<div class="foot">에스알스튜디오 자동화 · 민감정보(키·비번) 미포함 · 제작/배포 시 자동 갱신 · 30분 주기 발행</div>
+<script>
+new Chart(document.getElementById('ch1'),{
+  type:'bar',
+  data:{labels:["쿠파스", "쿠파스1", "해외쇼츠", "해외쇼츠1", "왜그럴까", "신이슈TV"],datasets:[
+    {label:'누적',data:[23, 18, 44, 33, 9, 0],backgroundColor:["#2BE89A", "#FF5A4D", "#58a6ff", "#3fd6c8", "#f0c040", "#bc8cff"],borderRadius:4},
+    {label:'이번주',data:[3, 2, 2, 2, 3, 0],backgroundColor:'#ffffff',borderRadius:4}
+  ]},
+  options:{responsive:true,maintainAspectRatio:false,
+    plugins:{legend:{labels:{color:'#8b949e'}}},
+    scales:{x:{ticks:{color:'#8b949e'},grid:{color:'#21262d'}},
+            y:{ticks:{color:'#8b949e'},grid:{color:'#21262d'},beginAtZero:true}}
+  }
+});
+</script>
+</body></html>
