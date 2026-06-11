@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31600,
       "sampled": 20,
-      "avg_views": 6087,
+      "avg_views": 6095,
       "median_views": 2105,
       "uploads_30d": 20,
-      "views_30d": 121744,
+      "views_30d": 121909,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15641,
+          "views": 15646,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "짐 묶을 때 줄이 자꾸 풀린다면, 트럭커스 히치 하나면 끝",
-          "views": 1429,
+          "views": 1498,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VJreJqvAdtI"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "짐 묶을 때 이렇게 안 하면 가다가 다 풀립니다 (트럭커 매듭)",
-          "views": 3117,
+          "views": 3191,
           "date": "2026-06-09",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=BKs7ZikMBOA"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "울타리 와이어 이렇게 묶으면 금방 풀립니다, 안 풀리는 법",
-          "views": 1394,
+          "views": 1410,
           "date": "2026-06-08",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=myFVupwUnAs"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         }
       ],
-      "analyzed_at": "2026-06-12 02:45"
+      "analyzed_at": "2026-06-12 03:47"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,22 +130,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 13,
-      "avg_views": 577,
+      "avg_views": 584,
       "median_views": 466,
       "uploads_30d": 13,
-      "views_30d": 6934,
+      "views_30d": 7009,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1637,
+          "views": 1657,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 1431,
+          "views": 1481,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -159,7 +159,7 @@ window.DATA = {
         },
         {
           "title": "배기 볼트 머리째 부러졌을 때... 드릴부터 잡으면 차 버립니다",
-          "views": 1041,
+          "views": 1046,
           "date": "2026-06-09",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=FK-ioqCcmyc"
@@ -182,7 +182,7 @@ window.DATA = {
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 1431,
+          "views": 1481,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -196,7 +196,7 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1637,
+          "views": 1657,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -210,7 +210,7 @@ window.DATA = {
         },
         {
           "title": "배기 볼트 머리째 부러졌을 때... 드릴부터 잡으면 차 버립니다",
-          "views": 1041,
+          "views": 1046,
           "date": "2026-06-09",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=FK-ioqCcmyc"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=KE0q9iDR5o0"
         }
       ],
-      "analyzed_at": "2026-06-12 02:45"
+      "analyzed_at": "2026-06-12 03:47"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,22 +252,22 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 19,
-      "avg_views": 5226,
+      "avg_views": 5269,
       "median_views": 1849,
       "uploads_30d": 19,
-      "views_30d": 99310,
+      "views_30d": 100121,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29581,
+          "views": 29626,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 21562,
+          "views": 21950,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -281,7 +281,7 @@ window.DATA = {
         },
         {
           "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
-          "views": 6147,
+          "views": 6214,
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
@@ -297,14 +297,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 1349,
+          "views": 1435,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 1578,
+          "views": 1802,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
@@ -332,7 +332,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 21562,
+          "views": 21950,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -346,7 +346,7 @@ window.DATA = {
         },
         {
           "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
-          "views": 6147,
+          "views": 6214,
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
         }
       ],
-      "analyzed_at": "2026-06-12 02:46"
+      "analyzed_at": "2026-06-12 03:47"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -377,7 +377,7 @@ window.DATA = {
       "avg_views": 1200,
       "median_views": 1360,
       "uploads_30d": 20,
-      "views_30d": 24015,
+      "views_30d": 24009,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -426,7 +426,7 @@ window.DATA = {
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1645,
+          "views": 1640,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -447,7 +447,7 @@ window.DATA = {
         },
         {
           "title": "가방에 넣은 줄도 모를 1kg, 14인치 2.8K OLED 들고 다니는 노트북 (레노버 요가 슬림 7i 울트라)",
-          "views": 1741,
+          "views": 1740,
           "date": "2026-06-09",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=HBrDMeUg5jo"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=MaxDG0orUWA"
         }
       ],
-      "analyzed_at": "2026-06-12 02:46"
+      "analyzed_at": "2026-06-12 03:48"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 693,
+      "avg_views": 695,
       "median_views": 292,
       "uploads_30d": 20,
-      "views_30d": 13866,
+      "views_30d": 13918,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -541,7 +541,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "큰 화면 노트북이 부담스러웠다면, 에이서 아스파이어 라이트 16",
-          "views": 569,
+          "views": 621,
           "date": "2026-06-11",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=GtEEFE4Gbuc"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=hK9UkAUlMog"
         }
       ],
-      "analyzed_at": "2026-06-12 02:46"
+      "analyzed_at": "2026-06-12 03:48"
     }
   ],
-  "generated_at": "2026-06-12 02:45"
+  "generated_at": "2026-06-12 03:47"
 };
