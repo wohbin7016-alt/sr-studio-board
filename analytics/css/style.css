@@ -671,8 +671,122 @@ a:hover {
   }
 }
 
+/* ---------- 모바일 (폰): 사이드바 → 하단 탭바 ---------- */
 @media (max-width: 560px) {
   .page-title { font-size: 17px; }
   .topbar .meta { display: none; }
-  .kpi-value { font-size: 27px; }
+  .kpi-value { font-size: 24px; }
+
+  .app {
+    display: flex;
+    flex-direction: column;
+    height: 100dvh;
+  }
+
+  .sidebar {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: auto;
+    height: auto;
+    flex-direction: row;
+    align-items: center;
+    padding: 6px 8px calc(6px + env(safe-area-inset-bottom));
+    border-right: none;
+    border-top: 1px solid var(--border);
+    background: rgba(10, 14, 26, 0.88);
+    backdrop-filter: blur(18px);
+    -webkit-backdrop-filter: blur(18px);
+    z-index: 50;
+  }
+
+  .logo { display: none; }
+
+  .menu {
+    flex-direction: row;
+    flex: 1;
+    justify-content: space-around;
+    gap: 0;
+  }
+
+  .menu-item {
+    flex-direction: column;
+    gap: 3px;
+    width: auto;
+    flex: 1;
+    padding: 8px 2px;
+    font-size: 10px;
+    text-align: center;
+    align-items: center;
+  }
+
+  .menu-item span { display: block; }
+  .menu-item .icon { font-size: 19px; }
+
+  .menu-item.active::before {
+    left: 22%;
+    right: 22%;
+    top: 0;
+    bottom: auto;
+    width: auto;
+    height: 3px;
+    border-radius: 0 0 3px 3px;
+    background: linear-gradient(90deg, var(--cyan), var(--purple));
+  }
+
+  .main {
+    height: auto;
+    flex: 1;
+    padding-bottom: calc(74px + env(safe-area-inset-bottom));
+  }
+
+  .page {
+    padding: 14px 14px 28px;
+  }
+
+  .topbar {
+    padding: 12px 14px;
+  }
+
+  .kpi-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+
+  .kpi-card { padding: 14px; }
+  .kpi-label { font-size: 10px; }
+
+  .grid-2,
+  .chan-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .card, .chart-card { padding: 14px; }
+  .chart-card canvas { max-height: 240px; }
+
+  .filter-row { flex-wrap: wrap; }
+  .filter-row select, .filter-row input {
+    flex: 1;
+    min-width: 0;
+    font-size: 14px;
+    padding: 10px 12px;
+  }
+
+  .table-wrap {
+    -webkit-overflow-scrolling: touch;
+  }
+  .table-wrap table { font-size: 12px; min-width: 560px; }
+  .table-wrap tbody td, .table-wrap thead th { padding: 8px 9px; }
+  .table-wrap tbody td:has(a) { min-width: 170px; max-width: 260px; }
+
+  /* 성능: 오브 축소 + 블러 감소 */
+  body::before, body::after {
+    width: 320px;
+    height: 320px;
+    filter: blur(70px);
+    opacity: 0.35;
+    animation: none;
+  }
 }
