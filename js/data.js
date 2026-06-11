@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31600,
       "sampled": 20,
-      "avg_views": 6131,
+      "avg_views": 6139,
       "median_views": 2145,
       "uploads_30d": 20,
-      "views_30d": 122631,
+      "views_30d": 122784,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,14 +23,14 @@ window.DATA = {
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 31432,
+          "views": 31551,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15646,
+          "views": 15655,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "짐 묶을 때 줄이 자꾸 풀린다면, 트럭커스 히치 하나면 끝",
-          "views": 1519,
+          "views": 1534,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VJreJqvAdtI"
@@ -81,14 +81,14 @@ window.DATA = {
         },
         {
           "title": "짐 묶을 때 이렇게 안 하면 가다가 다 풀립니다 (트럭커 매듭)",
-          "views": 3198,
+          "views": 3203,
           "date": "2026-06-09",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=BKs7ZikMBOA"
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 31432,
+          "views": 31551,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "몰딩 굴곡에 장판 딱 맞게 붙이는 법, 연필 하나면 끝",
-          "views": 1828,
+          "views": 1829,
           "date": "2026-06-07",
           "duration": 15,
           "url": "https://www.youtube.com/watch?v=sG6uwpWRzcU"
@@ -122,18 +122,18 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         }
       ],
-      "analyzed_at": "2026-06-12 05:50"
+      "analyzed_at": "2026-06-12 06:51"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
       "name": "메카닉스튜디오",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
-      "subscribers": 1130,
+      "subscribers": 1140,
       "sampled": 13,
-      "avg_views": 590,
-      "median_views": 465,
+      "avg_views": 544,
+      "median_views": 257,
       "uploads_30d": 13,
-      "views_30d": 7081,
+      "views_30d": 7082,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -175,7 +175,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 0,
+          "views": 1,
           "date": "2026-06-11",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=VxQ1vfTGrRs"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=KE0q9iDR5o0"
         }
       ],
-      "analyzed_at": "2026-06-12 05:50"
+      "analyzed_at": "2026-06-12 06:52"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 19,
-      "avg_views": 5317,
+      "avg_views": 5323,
       "median_views": 1934,
       "uploads_30d": 19,
-      "views_30d": 101033,
+      "views_30d": 101141,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
@@ -267,7 +267,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 22489,
+          "views": 22586,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -281,7 +281,7 @@ window.DATA = {
         },
         {
           "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
-          "views": 6214,
+          "views": 6247,
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
@@ -297,14 +297,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 1461,
+          "views": 1479,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 2130,
+          "views": 2090,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
@@ -332,7 +332,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 22489,
+          "views": 22586,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -346,7 +346,7 @@ window.DATA = {
         },
         {
           "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
-          "views": 6214,
+          "views": 6247,
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
         }
       ],
-      "analyzed_at": "2026-06-12 05:50"
+      "analyzed_at": "2026-06-12 06:52"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -377,7 +377,7 @@ window.DATA = {
       "avg_views": 1201,
       "median_views": 1360,
       "uploads_30d": 20,
-      "views_30d": 24024,
+      "views_30d": 24025,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -396,7 +396,7 @@ window.DATA = {
         },
         {
           "title": "이 가격에 QHD 165Hz? HP 오멘 16 화면 보고 바로 담았습니다",
-          "views": 2197,
+          "views": 2198,
           "date": "2026-06-08",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=lbKXPjJZw34"
@@ -426,7 +426,7 @@ window.DATA = {
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1645,
+          "views": 1646,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -447,7 +447,7 @@ window.DATA = {
         },
         {
           "title": "가방에 넣은 줄도 모를 1kg, 14인치 2.8K OLED 들고 다니는 노트북 (레노버 요가 슬림 7i 울트라)",
-          "views": 1741,
+          "views": 1740,
           "date": "2026-06-09",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=HBrDMeUg5jo"
@@ -468,7 +468,7 @@ window.DATA = {
         },
         {
           "title": "이 가격에 QHD 165Hz? HP 오멘 16 화면 보고 바로 담았습니다",
-          "views": 2197,
+          "views": 2198,
           "date": "2026-06-08",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=lbKXPjJZw34"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=MaxDG0orUWA"
         }
       ],
-      "analyzed_at": "2026-06-12 05:51"
+      "analyzed_at": "2026-06-12 06:52"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 695,
+      "avg_views": 696,
       "median_views": 294,
       "uploads_30d": 20,
-      "views_30d": 13918,
+      "views_30d": 13928,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -532,7 +532,7 @@ window.DATA = {
         },
         {
           "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1908,
+          "views": 1918,
           "date": "2026-06-11",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
@@ -548,7 +548,7 @@ window.DATA = {
         },
         {
           "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1908,
+          "views": 1918,
           "date": "2026-06-11",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=hK9UkAUlMog"
         }
       ],
-      "analyzed_at": "2026-06-12 05:51"
+      "analyzed_at": "2026-06-12 06:53"
     }
   ],
-  "generated_at": "2026-06-12 05:50"
+  "generated_at": "2026-06-12 06:51"
 };
