@@ -360,11 +360,63 @@
     root.appendChild(el('p', 'muted footer-line', '데이터 생성 시각: ' + gen));
   }
 
+  // ---- 💡 AI 어드바이스 (window.ADVICE — gen_advice.py가 Claude로 생성) ----
+  function gradeType(g) {
+    return g === 'A' ? 'good' : g === 'B' ? 'neutral' : g === 'C' ? 'warn' : 'bad';
+  }
+
+  function advice(root) {
+    root.innerHTML = '';
+    var A = window.ADVICE;
+    if (!A || !A.channels) {
+      var emptyBody = el('div');
+      emptyBody.appendChild(el('p', 'muted',
+        '아직 어드바이스가 생성되지 않았습니다. 터미널에서 실행:'));
+      emptyBody.appendChild(el('pre', 'muted code-block',
+        'python3 ~/srstudio/scripts/gen_advice.py --force'));
+      root.appendChild(UI.card('💡 AI 어드바이스', emptyBody));
+      return;
+    }
+
+    // 종합 전략
+    var overallWrap = el('div', 'grid-2');
+    (A.overall || []).forEach(function (o) {
+      var body = el('div');
+      body.appendChild(el('p', '', o.body || ''));
+      overallWrap.appendChild(UI.card('🎯 ' + (o.title || ''), body));
+    });
+    root.appendChild(el('h2', 'card-title section-head', '종합 전략'));
+    root.appendChild(overallWrap);
+
+    // 채널별 진단
+    root.appendChild(el('h2', 'card-title section-head', '채널별 진단·처방'));
+    var grid = el('div', 'chan-grid');
+    (A.channels || []).forEach(function (c) {
+      var card = el('div', 'chan-card');
+      var head = el('div', 'chan-head');
+      head.appendChild(el('h3', '', c.name || ''));
+      head.appendChild(UI.badge('등급 ' + (c.grade || '?'), gradeType(c.grade)));
+      card.appendChild(head);
+      card.appendChild(el('p', '', c.diagnosis || ''));
+      var ul = el('ul', 'advice-actions');
+      (c.actions || []).forEach(function (a) {
+        ul.appendChild(el('li', '', a));
+      });
+      card.appendChild(ul);
+      grid.appendChild(card);
+    });
+    root.appendChild(grid);
+
+    root.appendChild(el('p', 'muted footer-line',
+      'AI 분석 생성 시각: ' + (A.generated_at || '-') + ' · 데이터 갱신 시 자동 재분석'));
+  }
+
   window.PAGES = {
     dashboard: dashboard,
     channels: channels_page,
     videos: videos,
     growth: growth,
+    advice: advice,
     settings: settings
   };
 })();

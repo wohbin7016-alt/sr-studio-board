@@ -671,6 +671,29 @@ a:hover {
   }
 }
 
+/* ---------- AI 어드바이스 ---------- */
+.section-head {
+  margin: 26px 0 12px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.section-head:first-child { margin-top: 0; }
+
+.advice-actions {
+  margin: 12px 0 0;
+  padding-left: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 13px;
+  color: var(--text);
+}
+
+.advice-actions li::marker {
+  color: var(--cyan);
+}
+
 /* ---------- 모바일 (폰): 사이드바 → 하단 탭바 ---------- */
 @media (max-width: 560px) {
   .page-title { font-size: 17px; }
