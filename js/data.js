@@ -8,43 +8,43 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31600,
       "sampled": 20,
-      "avg_views": 6139,
-      "median_views": 2145,
+      "avg_views": 6174,
+      "median_views": 2156,
       "uploads_30d": 20,
-      "views_30d": 122784,
+      "views_30d": 123483,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 34040,
+          "views": 34115,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 31551,
+          "views": 31813,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15655,
+          "views": 15661,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6548,
+          "views": 6571,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
         },
         {
           "title": "버려진 기름통이 에어컨으로? 얼음 하나로 찬바람 쏟아지는 DIY",
-          "views": 4044,
+          "views": 4045,
           "date": "2026-06-03",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=s7cURGJkgAA"
@@ -53,56 +53,56 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "짐 묶을 때 줄이 자꾸 풀린다면, 트럭커스 히치 하나면 끝",
-          "views": 1534,
+          "views": 1549,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VJreJqvAdtI"
         },
         {
           "title": "갈라진 배관, 테이프 말고 이걸로 (열수축튜브 밀봉)",
-          "views": 1568,
+          "views": 1603,
           "date": "2026-06-11",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=WvxSTsd6Zdc"
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 2229,
+          "views": 2245,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
         },
         {
           "title": "배관 이음새 물 새는 진짜 이유 (생테이프 감는 법)",
-          "views": 2062,
+          "views": 2068,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=8YeMLAgaBEQ"
         },
         {
           "title": "짐 묶을 때 이렇게 안 하면 가다가 다 풀립니다 (트럭커 매듭)",
-          "views": 3203,
+          "views": 3444,
           "date": "2026-06-09",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=BKs7ZikMBOA"
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 31551,
+          "views": 31813,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
         },
         {
           "title": "울타리 와이어 이렇게 묶으면 금방 풀립니다, 안 풀리는 법",
-          "views": 1410,
+          "views": 1417,
           "date": "2026-06-08",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=myFVupwUnAs"
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6548,
+          "views": 6571,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 34040,
+          "views": 34115,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         }
       ],
-      "analyzed_at": "2026-06-12 06:51"
+      "analyzed_at": "2026-06-12 07:53"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,15 +130,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 13,
-      "avg_views": 544,
-      "median_views": 257,
+      "avg_views": 590,
+      "median_views": 465,
       "uploads_30d": 13,
       "views_30d": 7082,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1657,
+          "views": 1658,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -175,7 +175,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1,
+          "views": 0,
           "date": "2026-06-11",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=VxQ1vfTGrRs"
@@ -196,7 +196,7 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1657,
+          "views": 1658,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=KE0q9iDR5o0"
         }
       ],
-      "analyzed_at": "2026-06-12 06:52"
+      "analyzed_at": "2026-06-12 07:53"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,22 +252,22 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 19,
-      "avg_views": 5323,
+      "avg_views": 5335,
       "median_views": 1934,
       "uploads_30d": 19,
-      "views_30d": 101141,
+      "views_30d": 101365,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29626,
+          "views": 29646,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 22586,
+          "views": 22724,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -297,21 +297,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 1479,
+          "views": 1505,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 2090,
+          "views": 2130,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
         },
         {
           "title": "홍학은 왜 분홍색일까",
-          "views": 2034,
+          "views": 2031,
           "date": "2026-06-10",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=iXBmQnnmyUc"
@@ -332,7 +332,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 22586,
+          "views": 22724,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
         }
       ],
-      "analyzed_at": "2026-06-12 06:52"
+      "analyzed_at": "2026-06-12 07:54"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=MaxDG0orUWA"
         }
       ],
-      "analyzed_at": "2026-06-12 06:52"
+      "analyzed_at": "2026-06-12 07:54"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 696,
+      "avg_views": 695,
       "median_views": 294,
       "uploads_30d": 20,
-      "views_30d": 13928,
+      "views_30d": 13917,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -532,7 +532,7 @@ window.DATA = {
         },
         {
           "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1918,
+          "views": 1908,
           "date": "2026-06-11",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
@@ -548,14 +548,14 @@ window.DATA = {
         },
         {
           "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1918,
+          "views": 1908,
           "date": "2026-06-11",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
         },
         {
           "title": "HP 오멘 17",
-          "views": 226,
+          "views": 224,
           "date": "2026-06-10",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=aOGBHkzI6OM"
@@ -597,7 +597,7 @@ window.DATA = {
         },
         {
           "title": "13인치 쓰다 이거 보면 못 돌아갑니다, 비보북 16",
-          "views": 218,
+          "views": 219,
           "date": "2026-06-07",
           "duration": 15,
           "url": "https://www.youtube.com/watch?v=EBxp70Qmki8"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=hK9UkAUlMog"
         }
       ],
-      "analyzed_at": "2026-06-12 06:53"
+      "analyzed_at": "2026-06-12 07:54"
     }
   ],
-  "generated_at": "2026-06-12 06:51"
+  "generated_at": "2026-06-12 07:53"
 };
