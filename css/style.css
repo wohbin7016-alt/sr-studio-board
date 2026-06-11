@@ -671,6 +671,25 @@ a:hover {
   }
 }
 
+/* ---------- 갱신 버튼 ---------- */
+.refresh-btn {
+  padding: 12px 22px;
+  border: none;
+  border-radius: var(--radius-sm);
+  background: linear-gradient(135deg, var(--cyan), var(--purple));
+  color: #0a0e1a;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  margin-bottom: 12px;
+  transition: opacity 0.15s ease, transform 0.12s ease;
+}
+
+.refresh-btn:hover { opacity: 0.9; }
+.refresh-btn:active { transform: scale(0.98); }
+.refresh-btn:disabled { opacity: 0.45; cursor: default; }
+
 /* ---------- 영상 성적표 날짜 그룹 헤더 ---------- */
 .date-head {
   margin: 22px 0 10px;

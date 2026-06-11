@@ -122,7 +122,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
         }
       ],
-      "analyzed_at": "2026-06-11 17:18"
+      "analyzed_at": "2026-06-11 17:18",
+      "error": "[Errno 2] No such file or directory: 'yt-dlp'"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -244,7 +245,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=22tWvb0ZuIg"
         }
       ],
-      "analyzed_at": "2026-06-11 17:17"
+      "analyzed_at": "2026-06-11 17:17",
+      "error": "[Errno 2] No such file or directory: 'yt-dlp'"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -366,7 +368,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=N3Oqssxokjw"
         }
       ],
-      "analyzed_at": "2026-06-11 17:18"
+      "analyzed_at": "2026-06-11 17:18",
+      "error": "[Errno 2] No such file or directory: 'yt-dlp'"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -488,7 +491,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zBLNsmlaySY"
         }
       ],
-      "analyzed_at": "2026-06-11 17:18"
+      "analyzed_at": "2026-06-11 17:18",
+      "error": "[Errno 2] No such file or directory: 'yt-dlp'"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -610,7 +614,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=aDHYuWU74zo"
         }
       ],
-      "analyzed_at": "2026-06-11 17:19"
+      "analyzed_at": "2026-06-11 17:19",
+      "error": "[Errno 2] No such file or directory: 'yt-dlp'"
     }
   ],
   "generated_at": "2026-06-11 17:18"

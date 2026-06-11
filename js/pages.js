@@ -369,13 +369,96 @@
     var tbl = UI.table(['채널', '구독자|num', '표본 수|num', '분석 시각', 'URL'], rows);
     root.appendChild(UI.card('분석 채널', tbl));
 
+    // ---- 🔄 지금 갱신 (사장님 맥의 로컬 서버 호출 — 맥이 켜져 있어야 동작) ----
+    var API_LOCAL = 'http://127.0.0.1:8787/api';
     var refreshBody = el('div', 'refresh-body');
-    var pre = el('pre', 'muted code-block',
-      'python3 ~/srstudio/scripts/channel_analyzer.py refresh\n' +
-      'python3 ~/srstudio/scripts/gen_data.py');
-    refreshBody.appendChild(pre);
-    refreshBody.appendChild(el('p', 'muted', '갱신 후 이 페이지 새로고침.'));
-    root.appendChild(UI.card('데이터 갱신 방법', refreshBody));
+    var statusLine = el('p', 'muted', '버튼을 누르면 조회수·구독자 수집 → AI 어드바이스 → 발행까지 자동 (약 3~5분).');
+    var btn = el('button', 'refresh-btn', '🔄 지금 갱신');
+    var pollTimer = null;
+
+    function setStatus(t) { statusLine.textContent = t; }
+
+    function getToken() {
+      return localStorage.getItem('sr_owner_token') || '';
+    }
+
+    function poll() {
+      fetch(API_LOCAL + '/channels/refresh-status', {
+        headers: { 'X-Dashboard-Token': getToken() }
+      }).then(function (r) { return r.json(); }).then(function (d) {
+        if (d.status === 'running') {
+          setStatus('⏳ ' + (d.step || '갱신 중…') + ' (' + (d.at || '') + ')');
+        } else if (d.status === 'done') {
+          clearInterval(pollTimer); pollTimer = null;
+          btn.disabled = false;
+          setStatus('✅ ' + (d.step || '완료') + ' — 1~2분 후 새로고침하면 새 수치가 보입니다.');
+        } else if (d.status === 'error') {
+          clearInterval(pollTimer); pollTimer = null;
+          btn.disabled = false;
+          setStatus('❌ 실패: ' + (d.step || ''));
+        }
+      }).catch(function () { /* 폴링 일시 실패 무시 */ });
+    }
+
+    function login(code) {
+      return fetch(API_LOCAL + '/auth/login', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ code: code })
+      }).then(function (r) {
+        if (!r.ok) throw new Error('코드 불일치');
+        return r.json();
+      }).then(function (d) {
+        localStorage.setItem('sr_owner_token', d.token);
+        return d.token;
+      });
+    }
+
+    function startRefresh() {
+      btn.disabled = true;
+      setStatus('⏳ 갱신 시작…');
+      fetch(API_LOCAL + '/channels/refresh-all', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'X-Dashboard-Token': getToken() },
+        body: '{}'
+      }).then(function (r) {
+        if (r.status === 403) {
+          var code = prompt('오너 코드를 입력하세요 (최초 1회)');
+          if (!code) { btn.disabled = false; setStatus('취소됨'); return; }
+          return login(code).then(startRefreshAgain);
+        }
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        setStatus('⏳ 갱신 중… (약 3~5분, 이 화면 떠나도 계속 돕니다)');
+        pollTimer = setInterval(poll, 4000);
+      }).catch(function () {
+        btn.disabled = false;
+        setStatus('⚠️ 맥 서버에 연결 못 함 — 이 버튼은 사장님 맥에서 열었을 때만 동작합니다. ' +
+          '폰에서는 텔레그램에 "채널분석 갱신해줘"라고 보내면 즉시 갱신됩니다.');
+      });
+    }
+
+    function startRefreshAgain() {
+      btn.disabled = true;
+      fetch(API_LOCAL + '/channels/refresh-all', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'X-Dashboard-Token': getToken() },
+        body: '{}'
+      }).then(function (r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        setStatus('⏳ 갱신 중… (약 3~5분)');
+        pollTimer = setInterval(poll, 4000);
+      }).catch(function () {
+        btn.disabled = false;
+        setStatus('❌ 갱신 시작 실패');
+      });
+    }
+
+    btn.addEventListener('click', startRefresh);
+    refreshBody.appendChild(btn);
+    refreshBody.appendChild(statusLine);
+    refreshBody.appendChild(el('p', 'muted',
+      '자동 갱신: 운영현황 30분마다 · 채널 수치 매일 06:33 · AI 어드바이스는 수치 변경 시.'));
+    root.appendChild(UI.card('데이터 갱신', refreshBody));
 
     var gen = (window.DATA && window.DATA.generated_at) || '알 수 없음';
     root.appendChild(el('p', 'muted footer-line', '데이터 생성 시각: ' + gen));
