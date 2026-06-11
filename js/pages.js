@@ -360,6 +360,19 @@
     root.appendChild(el('p', 'muted footer-line', '데이터 생성 시각: ' + gen));
   }
 
+  // ---- 🏭 운영현황 (gen_partner_dashboard.py가 생성하는 ops.html을 iframe으로) ----
+  function ops(root) {
+    root.innerHTML = '';
+    var frame = el('iframe', 'ops-frame');
+    frame.src = 'ops.html';
+    frame.setAttribute('title', '에스알스튜디오 운영현황');
+    frame.onerror = function () {
+      root.innerHTML = '';
+      root.appendChild(UI.card('운영현황', el('p', 'muted', 'ops.html을 불러오지 못했습니다.')));
+    };
+    root.appendChild(frame);
+  }
+
   // ---- 💡 AI 어드바이스 (window.ADVICE — gen_advice.py가 Claude로 생성) ----
   function gradeType(g) {
     return g === 'A' ? 'good' : g === 'B' ? 'neutral' : g === 'C' ? 'warn' : 'bad';
@@ -412,6 +425,7 @@
   }
 
   window.PAGES = {
+    ops: ops,
     dashboard: dashboard,
     channels: channels_page,
     videos: videos,

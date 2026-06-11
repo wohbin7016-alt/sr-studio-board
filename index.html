@@ -1,298 +1,83 @@
-<!doctype html><html lang="ko"><head>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>🎬 에스알스튜디오 운영현황</title>
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
-<style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{font-family:-apple-system,'Pretendard','Apple SD Gothic Neo',sans-serif;background:#0d1117;color:#e6edf3;padding:20px;max-width:1080px;margin:0 auto}
-h1{font-size:22px} .ts{color:#7d8590;font-size:12px;margin:4px 0 20px}
-h2{font-size:15px;margin:26px 0 12px;color:#58a6ff}
-.kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:8px}
-.kpi{background:linear-gradient(135deg,#161b22,#1c2230);border:1px solid #21262d;border-radius:14px;padding:18px;text-align:center}
-.kpi .n{font-size:40px;font-weight:800;line-height:1} .kpi .l{font-size:12px;color:#8b949e;margin-top:6px}
-.kpi.g .n{color:#3fb950} .kpi.b .n{color:#58a6ff} .kpi.p .n{color:#bc8cff}
-.prow{display:flex;align-items:center;gap:12px;margin:9px 0}
-.pl{width:170px;font-size:13px} .psub{color:#7d8590;font-size:11px}
-.pbar{flex:1;height:22px;background:#161b22;border:1px solid #21262d;border-radius:11px;position:relative;overflow:hidden}
-.pfill{height:100%;border-radius:11px;transition:width .6s}
-.pnum{position:absolute;right:10px;top:2px;font-size:12px;font-weight:700}
-.card{background:#161b22;border:1px solid #21262d;border-radius:12px;padding:16px}
-.chips{display:flex;flex-wrap:wrap;gap:8px}
-.chip{background:#1a2b1f;border:1px solid #2a4a35;color:#7ee2a8;border-radius:20px;padding:5px 12px;font-size:12px}
-.depts{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
-.dcard{background:#161b22;border:1px solid #21262d;border-radius:10px;padding:12px 14px}
-.dhead{font-size:13px;margin-bottom:5px} .demoji{margin-right:5px}
-.drole{color:#7d8590;font-size:11px}
-.dmetric{font-size:12px;font-weight:700;color:#c9d1d9;margin-bottom:4px}
-.dsum{font-size:11px;color:#8b949e;line-height:1.45}
-@media(max-width:640px){.depts{grid-template-columns:1fr}}
-.dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px;vertical-align:middle}
-.decwrap{background:#161b22;border:1px solid #21262d;border-radius:12px;padding:16px}
-.decgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
-@media(max-width:640px){.decgrid{grid-template-columns:1fr}}
-.decgroup{}
-.decgh{font-size:13px;margin:0 0 8px;padding-bottom:5px;border-bottom:1px solid #21262d}
-.deccard{background:#0d1117;border:1px solid #21262d;border-radius:8px;padding:9px 12px;margin-bottom:7px}
-.dectop{display:flex;justify-content:space-between;align-items:baseline;gap:8px;font-size:13px}
-.dectop b{line-height:1.35}
-.decdate{color:#7d8590;font-size:11px;white-space:nowrap}
-.decdet{font-size:11px;color:#8b949e;line-height:1.45;margin-top:3px}
-.dechdr{color:#f0c040}
-table{width:100%;border-collapse:collapse;font-size:13px}
-td{padding:7px 10px;border-bottom:1px solid #21262d}
-.muted{color:#7d8590} .ok{color:#3fb950}
-.chartbox{background:#161b22;border:1px solid #21262d;border-radius:12px;padding:16px;height:300px}
-.foot{margin-top:30px;color:#484f58;font-size:11px;text-align:center}
-.live{display:inline-block;width:8px;height:8px;background:#3fb950;border-radius:50%;margin-right:5px;animation:pulse 2s infinite}
-@keyframes pulse{50%{opacity:.3}}
-/* 주간 발송 현황 */
-.sendwrap{background:#161b22;border:1px solid #21262d;border-radius:12px;padding:16px;overflow-x:auto}
-.wktbl{width:100%;border-collapse:collapse;font-size:12px;min-width:560px}
-.wktbl th,.wktbl td{border:1px solid #21262d;padding:7px 4px;text-align:center}
-.wktbl th.dh{background:#1c2230;font-size:12px;width:62px;white-space:nowrap}
-.wktbl th.dh .dd{color:#7d8590;font-size:10px;font-weight:400}
-.wktbl th.ch{background:#1c2230;font-size:11px;line-height:1.3;font-weight:700}
-.wktbl tr.today th.dh{background:#1f6feb33;color:#58a6ff}
-.wktbl tr.today td{background:#161d2b}
-.wktbl td.sent{color:#3fb950;font-weight:700;white-space:nowrap}
-.wktbl td.miss{color:#484f58}
-.wktbl td.fut,.wktbl th.fut{color:#373e47}
-.wktbl td.tot{font-weight:800;color:#e6edf3;background:#1c2230}
-.wktbl .xn{color:#f0c040;font-size:10px}
-.tpgrid{display:grid;grid-template-columns:repeat(6,1fr);gap:8px}
-@media(max-width:640px){.tpgrid{grid-template-columns:repeat(3,1fr)}}
-.tpcell{background:#161b22;border:1px solid #21262d;border-radius:10px;padding:10px 8px;text-align:center}
-.tpcell.done{border-color:#2BE89A66;background:#13241b}
-.tpch{font-size:11px;font-weight:700;margin-bottom:4px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.tpn{font-size:22px;font-weight:800;line-height:1} .tpn span{font-size:12px;color:#7d8590}
-.tpbar{height:6px;background:#0d1117;border-radius:3px;margin-top:6px;overflow:hidden}
-.tpfill{height:100%;border-radius:3px;transition:width .6s}
-.wktbl td a,.card a{color:#58a6ff;text-decoration:none;font-size:12px}
-</style></head><body>
-<h1>🎬 에스알스튜디오 운영현황</h1>
-<div class="ts"><span class="live"></span>실시간 자동 갱신 · 2026-06-11 19:51 · 동업자 공유(읽기전용) · <a href="analytics/" style="color:#58a6ff;text-decoration:none;font-weight:700">📊 채널 분석 대시보드 →</a></div>
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0a0e1a">
+  <title>SR스튜디오 Analytics</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="logo">SR<span>스튜디오</span> <small>Analytics</small></div>
+      <nav class="menu">
+        <button class="menu-item" data-page="ops">🏭 <span>운영현황</span></button>
+        <button class="menu-item" data-page="dashboard">📊 <span>대시보드</span></button>
+        <button class="menu-item" data-page="channels">📺 <span>채널 분석</span></button>
+        <button class="menu-item" data-page="videos">🎬 <span>영상 성적표</span></button>
+        <button class="menu-item" data-page="growth">📈 <span>성장 추이</span></button>
+        <button class="menu-item" data-page="advice">💡 <span>AI 어드바이스</span></button>
+        <button class="menu-item" data-page="settings">⚙️ <span>설정</span></button>
+      </nav>
+    </aside>
+    <div class="main">
+      <header class="topbar">
+        <h1 class="page-title">대시보드</h1>
+        <div class="meta">데이터 기준: <span id="generated-at"></span></div>
+      </header>
+      <main class="page" id="page"></main>
+    </div>
+  </div>
 
-<div class="kpis">
-  <div class="kpi g"><div class="n">9</div><div class="l">오늘 제작·배포</div></div>
-  <div class="kpi b"><div class="n">55<span style="font-size:18px;color:#7d8590">/77</span></div><div class="l">이번주 (2026-W24)</div></div>
-  <div class="kpi p"><div class="n">170</div><div class="l">누적 총 제작</div></div>
-</div>
+  <script src="js/data.js"></script>
+  <script src="js/advice.js" onerror="this.remove()"></script>
+  <script src="js/components.js"></script>
+  <script src="js/pages.js"></script>
+  <script>
+    var TITLES = {
+      ops: '운영현황',
+      dashboard: '대시보드',
+      channels: '채널 분석',
+      videos: '영상 성적표',
+      growth: '성장 추이',
+      advice: 'AI 어드바이스',
+      settings: '설정'
+    };
 
-<h2 class="dechdr">📌 결정·정책 로그 — 사장님과 정한 것</h2>
-<div class="decwrap"><div class="decgrid"><div class="decgroup">
-          <div class="decgh"><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">회사</b> <span class="muted">1</span></div>
-          <div class="deccard" style="border-left:3px solid #58a6ff">
-              <div class="dectop"><b style="color:#58a6ff">회사명 = 에스알스튜디오(SR스튜디오)</b><span class="decdate">2026-06-08</span></div>
-              <div class="decdet">콘텐츠 공장 운영 주체 공식 명칭 확정.</div>
-            </div>
-        </div>
-<div class="decgroup">
-          <div class="decgh"><span class="dot" style="background:#bc8cff"></span><b style="color:#bc8cff">조직</b> <span class="muted">2</span></div>
-          <div class="deccard" style="border-left:3px solid #bc8cff">
-              <div class="dectop"><b style="color:#bc8cff">직원 7명 체제 확정</b><span class="decdate">2026-06-08</span></div>
-              <div class="decdet">진두혁(총괄PD)·구다해(리서치)·문장원(작가)·편만호(제작)·깐영수(QC)·배달호(배포)·수치현(분석).</div>
-            </div><div class="deccard" style="border-left:3px solid #bc8cff">
-              <div class="dectop"><b style="color:#bc8cff">직원 능동 직언 의무 — 수동 수행 금지</b><span class="decdate">2026-06-08</span></div>
-              <div class="decdet">지시 대기만 하지 말고 직원이 먼저 제안·직언하고 능동적으로 실행할 것.</div>
-            </div>
-        </div>
-<div class="decgroup">
-          <div class="decgh"><span class="dot" style="background:#3fd6c8"></span><b style="color:#3fd6c8">운영방침</b> <span class="muted">1</span></div>
-          <div class="deccard" style="border-left:3px solid #3fd6c8">
-              <div class="dectop"><b style="color:#3fd6c8">사장님은 3가지만 — 주간방침 + 최종OK + 돈/저작권</b><span class="decdate">2026-06-08</span></div>
-              <div class="decdet">나머지 실무는 직원(에이전트)이 능동 수행. 사장님은 의사결정 3지점만 개입.</div>
-            </div>
-        </div>
-<div class="decgroup">
-          <div class="decgh"><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">목표</b> <span class="muted">1</span></div>
-          <div class="deccard" style="border-left:3px solid #2BE89A">
-              <div class="dectop"><b style="color:#2BE89A">주간목표 = 73편/주</b><span class="decdate">2026-06-08</span></div>
-              <div class="decdet">5채널 각 14편 + 신이슈 7편 = 73편/주.</div>
-            </div>
-        </div>
-<div class="decgroup">
-          <div class="decgh"><span class="dot" style="background:#bc8cff"></span><b style="color:#bc8cff">신이슈TV</b> <span class="muted">3</span></div>
-          <div class="deccard" style="border-left:3px solid #bc8cff">
-              <div class="dectop"><b style="color:#bc8cff">신이슈 = 효잉식 포맷</b><span class="decdate">2026-06-08</span></div>
-              <div class="decdet">실사 100% + 확대 크롭 + 정사각 PiP(230) + 실사 썸네일.</div>
-            </div><div class="deccard" style="border-left:3px solid #bc8cff">
-              <div class="dectop"><b style="color:#bc8cff">보수·안보 색깔 확실 (피하지 마라)</b><span class="decdate">2026-06-08</span></div>
-              <div class="decdet">정치색을 회피하지 말고 보수·안보 관점을 분명히 가져갈 것.</div>
-            </div><div class="deccard" style="border-left:3px solid #bc8cff">
-              <div class="dectop"><b style="color:#bc8cff">신이슈 = 매일 8시 / 메일 아님 / 아이클라우드→업로드</b><span class="decdate">2026-06-08</span></div>
-              <div class="decdet">매일 8시 발행. 배포는 메일이 아니라 아이클라우드 검수 후 업로드 경로.</div>
-            </div>
-        </div>
-<div class="decgroup">
-          <div class="decgh"><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">편집</b> <span class="muted">2</span></div>
-          <div class="deccard" style="border-left:3px solid #f0c040">
-              <div class="dectop"><b style="color:#f0c040">편집 5종 표준 = 재사용 방어</b><span class="decdate">2026-06-08</span></div>
-              <div class="decdet">키네틱 자막 + 키워드 채널색 + 컬러그레이딩 + 진행바 + 컷줌 5종. 편집 자체가 재사용/허위 방어 수단.</div>
-            </div><div class="deccard" style="border-left:3px solid #f0c040">
-              <div class="dectop"><b style="color:#f0c040">자막 = 최대 2줄 / 왜그럴까 외곽선(박스 제거)</b><span class="decdate">2026-06-08</span></div>
-              <div class="decdet">자막 한 화면 최대 2줄. 왜그럴까 채널은 외곽선만(박스 없음).</div>
-            </div>
-        </div>
-<div class="decgroup">
-          <div class="decgh"><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">QC</b> <span class="muted">1</span></div>
-          <div class="deccard" style="border-left:3px solid #2BE89A">
-              <div class="dectop"><b style="color:#2BE89A">QC = 8체크 + 재사용/허위 4대 방어</b><span class="decdate">2026-06-08</span></div>
-              <div class="decdet">8개 체크 항목 + 재사용/허위 4대 방어(transformative ASSERT 강제).</div>
-            </div>
-        </div>
-<div class="decgroup">
-          <div class="decgh"><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">채널</b> <span class="muted">1</span></div>
-          <div class="deccard" style="border-left:3px solid #58a6ff">
-              <div class="dectop"><b style="color:#58a6ff">채널 색깔·소재 분담 확정</b><span class="decdate">2026-06-08</span></div>
-              <div class="decdet">해외쇼츠=정비·차종SEO / 해외쇼츠1=매듭·생활 / 왜그럴까=동물 우선+잡학 / 쿠파스2=노트북 제휴.</div>
-            </div>
-        </div>
-<div class="decgroup">
-          <div class="decgh"><span class="dot" style="background:#ff8c42"></span><b style="color:#ff8c42">자동화</b> <span class="muted">1</span></div>
-          <div class="deccard" style="border-left:3px solid #ff8c42">
-              <div class="dectop"><b style="color:#ff8c42">자동화 스케줄 확정</b><span class="decdate">2026-06-08</span></div>
-              <div class="decdet">부서별 보고서 21시 / 대시보드 30분 주기 / 유휴루틴(소스·분석·정책).</div>
-            </div>
-        </div>
-<div class="decgroup">
-          <div class="decgh"><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">다음할일</b> <span class="muted">2</span></div>
-          <div class="deccard" style="border-left:3px solid #FF5A4D">
-              <div class="dectop"><b style="color:#FF5A4D">훅 A/B 시스템 = 최우선</b><span class="decdate">2026-06-08</span></div>
-              <div class="decdet">다음 작업 1순위로 훅 A/B 테스트 시스템 구축.</div>
-            </div><div class="deccard" style="border-left:3px solid #FF5A4D">
-              <div class="dectop"><b style="color:#FF5A4D">동업자 API 인증은 내일 상의</b><span class="decdate">2026-06-08</span></div>
-              <div class="decdet">동업자 API 인증 방식은 다음날 별도 논의.</div>
-            </div>
-        </div></div></div>
+    function navigate(key) {
+      if (!window.PAGES || !window.PAGES[key]) key = 'dashboard';
+      var items = document.querySelectorAll('.menu-item');
+      for (var i = 0; i < items.length; i++) {
+        items[i].classList.toggle('active', items[i].getAttribute('data-page') === key);
+      }
+      document.querySelector('.page-title').textContent = TITLES[key] || key;
+      var root = document.getElementById('page');
+      try {
+        window.PAGES[key](root);
+      } catch (err) {
+        root.innerHTML = '';
+        var card = document.createElement('div');
+        card.className = 'card';
+        card.textContent = '페이지를 불러오는 중 오류가 발생했습니다: ' + (err && err.message ? err.message : err);
+        root.appendChild(card);
+      }
+      location.hash = key;
+    }
 
-<h2>📦 오늘 나간 영상</h2>
-<div class="card"><div class="chips"><span class="chip" style="border-color:#2BE89A66"><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">쿠파스</b> 닌텐도 스위치2</span><span class="chip" style="border-color:#2BE89A66"><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">쿠파스</b> 에이서 스위프트 고 16 (Swift Go </span><span class="chip" style="border-color:#FF5A4D66"><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b> HP 엔비 x360 14 (fa0126AU,</span><span class="chip" style="border-color:#FF5A4D66"><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b> 에이서 아스파이어 라이트 16 (Aspire</span><span class="chip" style="border-color:#58a6ff66"><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b> 깨진 나무 모서리 쐐기(더치맨) 보수</span><span class="chip" style="border-color:#58a6ff66"><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b> BMW E90 바노스 볼트 풀림 떨림</span><span class="chip" style="border-color:#58a6ff66"><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b> 트럭커스 히치 짐고정 매듭</span><span class="chip" style="border-color:#f0c04066"><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">왜그럴까</b> 해파리는 뇌도 심장도 없는데 어떻게 살까</span><span class="chip" style="border-color:#f0c04066"><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">왜그럴까</b> 오리는 추운 날 왜 한 발로 서 있을까</span></div></div>
+    var menuItems = document.querySelectorAll('.menu-item');
+    for (var i = 0; i < menuItems.length; i++) {
+      menuItems[i].addEventListener('click', function () {
+        navigate(this.getAttribute('data-page'));
+      });
+    }
 
-<h2>📤 주간 발송 현황 — 요일별·채널별·발송시각</h2>
-<div class="ts" style="margin:-6px 0 12px">이번주 2026-06-08 ~ 2026-06-14 · 하루 채널당 2편 기준 · ✅발송(시각) / –미발송 · 오늘 10건 · 이번주 60건 발송</div>
-<div class="sendwrap"><table class="wktbl"><tr><th class="dh">요일</th><th class="ch" style="color:#2BE89A">🛒<br>쿠파스</th><th class="ch" style="color:#FF5A4D">🛒<br>쿠파스1</th><th class="ch" style="color:#58a6ff">🔧<br>해외쇼츠</th><th class="ch" style="color:#3fd6c8">🔧<br>해외쇼츠1</th><th class="ch" style="color:#f0c040">💡<br>왜그럴까</th><th class="ch" style="color:#bc8cff">📰<br>신이슈TV</th><th class="ch">합계</th></tr><tr class=""><th class="dh">월<br><span class="dd">06/08</span></th><td class="sent" title="삼성 갤럭시북5 프로 360">✅ 01:43 <span class="xn">×5</span></td><td class="sent" title="HP 옴니북X플립14">✅ 09:40 <span class="xn">×4</span></td><td class="sent" title="렉서스RX 대시보드 가죽복원">✅ 09:40 <span class="xn">×3</span></td><td class="sent" title="벽 파이프 통과 그라인더 가공">✅ 10:30 <span class="xn">×3</span></td><td class="sent" title="치타 사냥 성공률이 낮은 이유">✅ 10:30 <span class="xn">×3</span></td><td class="miss">–</td><td class="tot">18</td></tr><tr class=""><th class="dh">화<br><span class="dd">06/09</span></th><td class="sent" title="레노버 리전 프로 5i (16IRX10, 코어 Ultra 7, RTX 5070, 16&quot; WQXGA 165Hz)">✅ 11:52 <span class="xn">×3</span></td><td class="sent" title="에이서 프레데터 헬리오스 네오 16S AI (Predator Helios Neo 16S AI, Core Ultra 9 275HX, RTX 5060, 16&quot; WQXGA OLED 240Hz)">✅ 15:34 <span class="xn">×2</span></td><td class="sent" title="배기 매니폴드 부러진 볼트 추출소켓(임팩트)">✅ <span class="xn">×4</span></td><td class="sent" title="낚싯바늘 스넬 매듭">✅ <span class="xn">×4</span></td><td class="sent" title="불가사리는 왜 잘려도 안 죽나">✅ <span class="xn">×3</span></td><td class="miss">–</td><td class="tot">16</td></tr><tr class=""><th class="dh">수<br><span class="dd">06/10</span></th><td class="sent" title="HP 빅터스 15 (HP Victus 15-fb2025AX, Ryzen 7 8845HS, RTX 4060, 15.6&quot; FHD 144Hz, 풀배열 넘버패드)">✅ 11:53 <span class="xn">×2</span></td><td class="sent" title="삼성 갤럭시북4 엣지 16 (Galaxy Book4 Edge 16, Snapdragon X Elite)">✅ 22:35 <span class="xn">×3</span></td><td class="sent" title="스로틀바디 카본청소 공회전 떨림">✅ 19:25 <span class="xn">×4</span></td><td class="sent" title="갈라진 배관 열수축튜브 물샘잡기">✅ 22:37 <span class="xn">×4</span></td><td class="sent" title="갯가재는 왜 총알보다 빠른 펀치를 날릴까">✅ 21:13 <span class="xn">×3</span></td><td class="miss">–</td><td class="tot">16</td></tr><tr class="today"><th class="dh">목<br><span class="dd">06/11</span></th><td class="sent" title="닌텐도 스위치2">✅ <span class="xn">×2</span></td><td class="sent" title="HP 엔비 x360 14 (fa0126AU, 라이젠5 8640HS/라데온)">✅ <span class="xn">×2</span></td><td class="sent" title="폭스바겐 점화플러그 구멍 엔진오일 누유(밸브커버 시일)">✅ 00:20 <span class="xn">×4</span></td><td class="miss">–</td><td class="sent" title="해파리는 뇌도 심장도 없는데 어떻게 살까">✅ <span class="xn">×2</span></td><td class="miss">–</td><td class="tot">10</td></tr><tr class="fut"><th class="dh">금<br><span class="dd">06/12</span></th><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="tot">0</td></tr><tr class="fut"><th class="dh">토<br><span class="dd">06/13</span></th><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="tot">0</td></tr><tr class="fut"><th class="dh">일<br><span class="dd">06/14</span></th><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="tot">0</td></tr></table></div>
+    var genEl = document.getElementById('generated-at');
+    if (window.DATA && window.DATA.generated_at) genEl.textContent = window.DATA.generated_at;
 
-<h3 style="font-size:13px;margin:18px 0 8px;color:#8b949e">📅 오늘 진척 (채널당 목표 2편)</h3>
-<div class="tpgrid"><div class="tpcell done"><div class="tpch" style="color:#2BE89A">🛒 쿠파스</div><div class="tpn">2<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:100%;background:#2BE89A"></div></div></div><div class="tpcell done"><div class="tpch" style="color:#FF5A4D">🛒 쿠파스1</div><div class="tpn">2<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:100%;background:#FF5A4D"></div></div></div><div class="tpcell done"><div class="tpch" style="color:#58a6ff">🔧 해외쇼츠</div><div class="tpn">4<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:100%;background:#58a6ff"></div></div></div><div class="tpcell "><div class="tpch" style="color:#3fd6c8">🔧 해외쇼츠1</div><div class="tpn">0<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:0%;background:#3fd6c8"></div></div></div><div class="tpcell done"><div class="tpch" style="color:#f0c040">💡 왜그럴까</div><div class="tpn">2<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:100%;background:#f0c040"></div></div></div><div class="tpcell "><div class="tpch" style="color:#bc8cff">📰 신이슈TV</div><div class="tpn">0<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:0%;background:#bc8cff"></div></div></div></div>
-
-<h3 style="font-size:13px;margin:18px 0 8px;color:#8b949e">🕐 최근 발송 (최신 10건)</h3>
-<div class="card"><table><tr><td class="muted">2026-06-11 00:20</td><td><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b></td><td>폭스바겐 점화플러그 구멍 엔진오일 누유(밸브커버 시일)</td><td><a href="https://gofile.me/7WKZb/0RAcpjqqo" target="_blank">🔗 링크</a></td></tr>
-<tr><td class="muted">2026-06-11</td><td><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">쿠파스</b></td><td>닌텐도 스위치2</td><td><a href="https://gofile.me/7WKZb/YWxUkoCAR" target="_blank">🔗 링크</a></td></tr>
-<tr><td class="muted">2026-06-11</td><td><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">쿠파스</b></td><td>에이서 스위프트 고 16 (Swift Go 16, Core Ultra/3</td><td><a href="https://gofile.me/7WKZb/xtFX7XBxR" target="_blank">🔗 링크</a></td></tr>
-<tr><td class="muted">2026-06-11</td><td><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b></td><td>HP 엔비 x360 14 (fa0126AU, 라이젠5 8640HS/라데온</td><td><a href="https://gofile.me/7WKZb/6VyCKKerY" target="_blank">🔗 링크</a></td></tr>
-<tr><td class="muted">2026-06-11</td><td><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b></td><td>에이서 아스파이어 라이트 16 (Aspire Lite 16, Core i</td><td><a href="https://gofile.me/7WKZb/DxUzf3rWM" target="_blank">🔗 링크</a></td></tr>
-<tr><td class="muted">2026-06-11</td><td><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b></td><td>깨진 나무 모서리 쐐기(더치맨) 보수</td><td><a href="https://gofile.me/7WKZb/NyLoSY9dz" target="_blank">🔗 링크</a></td></tr>
-<tr><td class="muted">2026-06-11</td><td><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b></td><td>BMW E90 바노스 볼트 풀림 떨림</td><td><a href="https://gofile.me/7WKZb/Ds3HRIfye" target="_blank">🔗 링크</a></td></tr>
-<tr><td class="muted">2026-06-11</td><td><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b></td><td>트럭커스 히치 짐고정 매듭</td><td><a href="https://gofile.me/7WKZb/Kcof950ky" target="_blank">🔗 링크</a></td></tr>
-<tr><td class="muted">2026-06-11</td><td><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">왜그럴까</b></td><td>해파리는 뇌도 심장도 없는데 어떻게 살까</td><td><a href="https://gofile.me/7WKZb/viWe73gvN" target="_blank">🔗 링크</a></td></tr>
-<tr><td class="muted">2026-06-11</td><td><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">왜그럴까</b></td><td>오리는 추운 날 왜 한 발로 서 있을까</td><td><a href="https://gofile.me/7WKZb/SueKTYToC" target="_blank">🔗 링크</a></td></tr></table></div>
-
-<h2>👥 부서별 오늘 실적</h2>
-<div class="depts"><div class="dcard" style="border-left:3px solid #58a6ff">
-          <div class="dhead"><span class="demoji">🎬</span><b style="color:#58a6ff">피디</b> <span class="drole">총괄PD · 배치/운영</span></div>
-          <div class="dmetric">오늘 배치 가동 · 제작 0 · 배포 0</div>
-          <div class="dsum">오늘 배치 가동 · 제작 0 · 배포 0</div>
-        </div>
-<div class="dcard" style="border-left:3px solid #3fd6c8">
-          <div class="dhead"><span class="demoji">🔍</span><b style="color:#3fd6c8">서치</b> <span class="drole">리서치 · 주제/소스 발굴</span></div>
-          <div class="dmetric">후보풀 갱신 · 6개 채널 라인</div>
-          <div class="dsum">후보풀 갱신 · 6개 채널 라인</div>
-        </div>
-<div class="dcard" style="border-left:3px solid #bc8cff">
-          <div class="dhead"><span class="demoji">✍️</span><b style="color:#bc8cff">라이타</b> <span class="drole">작가 · 대본 작성</span></div>
-          <div class="dmetric">대본 작성 진행</div>
-          <div class="dsum">대본 작성 진행</div>
-        </div>
-<div class="dcard" style="border-left:3px solid #f0c040">
-          <div class="dhead"><span class="demoji">🎞️</span><b style="color:#f0c040">컷장인</b> <span class="drole">제작 · 렌더링</span></div>
-          <div class="dmetric">렌더 완료 0편</div>
-          <div class="dsum">렌더 완료 0편</div>
-        </div>
-<div class="dcard" style="border-left:3px solid #2BE89A">
-          <div class="dhead"><span class="demoji">✅</span><b style="color:#2BE89A">깐깐이</b> <span class="drole">검수 · QC 게이트</span></div>
-          <div class="dmetric">QC 게이트 가동</div>
-          <div class="dsum">QC 게이트 가동</div>
-        </div>
-<div class="dcard" style="border-left:3px solid #FF5A4D">
-          <div class="dhead"><span class="demoji">📤</span><b style="color:#FF5A4D">발송이</b> <span class="drole">배포 · 메일발송</span></div>
-          <div class="dmetric">메일 발송 0편</div>
-          <div class="dsum">메일 발송 0편</div>
-        </div>
-<div class="dcard" style="border-left:3px solid #ff8c42">
-          <div class="dhead"><span class="demoji">📊</span><b style="color:#ff8c42">숫자맨</b> <span class="drole">분석 · 성과추적</span></div>
-          <div class="dmetric">누적 170편 추적 · 성과 D+3~D+7</div>
-          <div class="dsum">누적 170편 추적 · 성과 D+3~D+7</div>
-        </div></div>
-
-<h2>🎯 주간 목표 진행률 · 2026-06-08 ~ 2026-06-14</h2>
-<div class="card"><div class="prow">
-          <div class="pl"><span class="dot" style="background:#2BE89A"></span><b>쿠파스</b> <span class="psub">🛒 놓치면손해템</span></div>
-          <div class="pbar"><div class="pfill" style="width:71%;background:#2BE89A"></div>
-            <span class="pnum">10 / 14</span></div>
-        </div>
-<div class="prow">
-          <div class="pl"><span class="dot" style="background:#FF5A4D"></span><b>쿠파스1</b> <span class="psub">🛒 가전스튜디오</span></div>
-          <div class="pbar"><div class="pfill" style="width:64%;background:#FF5A4D"></div>
-            <span class="pnum">9 / 14</span></div>
-        </div>
-<div class="prow">
-          <div class="pl"><span class="dot" style="background:#58a6ff"></span><b>해외쇼츠</b> <span class="psub">🔧 메카닉스튜디오</span></div>
-          <div class="pbar"><div class="pfill" style="width:100%;background:#58a6ff"></div>
-            <span class="pnum">14 / 14</span></div>
-        </div>
-<div class="prow">
-          <div class="pl"><span class="dot" style="background:#3fd6c8"></span><b>해외쇼츠1</b> <span class="psub">🔧 숏츠시작</span></div>
-          <div class="pbar"><div class="pfill" style="width:78%;background:#3fd6c8"></div>
-            <span class="pnum">11 / 14</span></div>
-        </div>
-<div class="prow">
-          <div class="pl"><span class="dot" style="background:#f0c040"></span><b>왜그럴까</b> <span class="psub">💡 왜그럴까</span></div>
-          <div class="pbar"><div class="pfill" style="width:78%;background:#f0c040"></div>
-            <span class="pnum">11 / 14</span></div>
-        </div>
-<div class="prow">
-          <div class="pl"><span class="dot" style="background:#bc8cff"></span><b>신이슈TV</b> <span class="psub">📰 신이슈TV</span></div>
-          <div class="pbar"><div class="pfill" style="width:0%;background:#30363d"></div>
-            <span class="pnum">0 / 7</span></div>
-        </div></div>
-
-<h2>📊 채널별 누적 제작</h2>
-<div class="chartbox"><canvas id="ch1"></canvas></div>
-
-<h2>🕐 최근 제작 이력</h2>
-<div class="card"><table><tr><td class="muted">2026-06-11</td><td><b>쿠파스</b></td><td>닌텐도 스위치2</td></tr>
-<tr><td class="muted">2026-06-11</td><td><b>쿠파스</b></td><td>에이서 스위프트 고 16 (Swift Go 16, Core Ultra/3</td></tr>
-<tr><td class="muted">2026-06-11</td><td><b>쿠파스1</b></td><td>HP 엔비 x360 14 (fa0126AU, 라이젠5 8640HS/라데온</td></tr>
-<tr><td class="muted">2026-06-11</td><td><b>쿠파스1</b></td><td>에이서 아스파이어 라이트 16 (Aspire Lite 16, Core i</td></tr>
-<tr><td class="muted">2026-06-11</td><td><b>해외쇼츠</b></td><td>깨진 나무 모서리 쐐기(더치맨) 보수</td></tr>
-<tr><td class="muted">2026-06-11</td><td><b>해외쇼츠</b></td><td>BMW E90 바노스 볼트 풀림 떨림</td></tr>
-<tr><td class="muted">2026-06-11</td><td><b>해외쇼츠</b></td><td>트럭커스 히치 짐고정 매듭</td></tr>
-<tr><td class="muted">2026-06-11</td><td><b>왜그럴까</b></td><td>해파리는 뇌도 심장도 없는데 어떻게 살까</td></tr>
-<tr><td class="muted">2026-06-11</td><td><b>왜그럴까</b></td><td>오리는 추운 날 왜 한 발로 서 있을까</td></tr>
-<tr><td class="muted">2026-06-10</td><td><b>쿠파스</b></td><td>HP 빅터스 15 (HP Victus 15-fb2025AX, Ryzen </td></tr>
-<tr><td class="muted">2026-06-10</td><td><b>쿠파스</b></td><td>맥북에어 13 M4</td></tr>
-<tr><td class="muted">2026-06-10</td><td><b>쿠파스1</b></td><td>LG 그램 프로 17 AI (LG Gram Pro 17, Core Ult</td></tr></table></div>
-
-<h2>⚠️ 막힌 항목</h2>
-<div class="card"><table><tr><td><b>쿠파스</b></td><td>스위프트고16</td><td class="muted">QC 불합격: 자막 한글숫자(아라비아여야): &#x27;이만&#x27; in 「이만한 화면</td></tr>
-<tr><td><b>왜그럴까</b></td><td>해파리 뇌 심장</td><td class="muted">QC 불합격: 자막 한글숫자(아라비아여야): &#x27;오억&#x27; in 「이 단순한 </td></tr>
-<tr><td><b>쿠파스1</b></td><td>에이서 니트로 V16 (가전스튜디오)</td><td class="muted">로컬 4클립 전부 영문 스펙 번인(GPU:NVIDIA RTX5070/VRAM)+채널 빨강배</td></tr>
-<tr><td><b>왜그럴까</b></td><td>표범물범은 왜 무서운가 (Leopard seals te</td><td class="muted">소스 TikTok이 AI합성 밈(만화 펭귄 오버레이+AI눈 변형)+중앙 영문자막 번인 → </td></tr>
-<tr><td><b>왜그럴까</b></td><td>갯가재는 왜 총알보다 빠른 펀치를 날릴까</td><td class="muted">QC 불합격: 자막 한글숫자(아라비아여야): &#x27;육이&#x27; in 「근육이 아니</td></tr></table></div>
-
-<div class="foot">에스알스튜디오 자동화 · 민감정보(키·비번) 미포함 · 제작/배포 시 자동 갱신 · 30분 주기 발행</div>
-<script>
-new Chart(document.getElementById('ch1'),{
-  type:'bar',
-  data:{labels:["쿠파스", "쿠파스1", "해외쇼츠", "해외쇼츠1", "왜그럴까", "신이슈TV"],datasets:[
-    {label:'누적',data:[30, 25, 56, 42, 17, 0],backgroundColor:["#2BE89A", "#FF5A4D", "#58a6ff", "#3fd6c8", "#f0c040", "#bc8cff"],borderRadius:4},
-    {label:'이번주',data:[10, 9, 14, 11, 11, 0],backgroundColor:'#ffffff',borderRadius:4}
-  ]},
-  options:{responsive:true,maintainAspectRatio:false,
-    plugins:{legend:{labels:{color:'#8b949e'}}},
-    scales:{x:{ticks:{color:'#8b949e'},grid:{color:'#21262d'}},
-            y:{ticks:{color:'#8b949e'},grid:{color:'#21262d'},beginAtZero:true}}
-  }
-});
-</script>
-</body></html>
+    var start = location.hash.slice(1);
+    navigate(window.PAGES && window.PAGES[start] ? start : 'ops');
+  </script>
+</body>
+</html>

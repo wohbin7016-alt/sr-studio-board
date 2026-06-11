@@ -2,80 +2,10 @@
 <html lang="ko">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#0a0e1a">
-  <title>SR스튜디오 Analytics</title>
-  <link rel="stylesheet" href="css/style.css">
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+  <meta http-equiv="refresh" content="0; url=../#dashboard">
+  <title>SR스튜디오 Analytics — 이동됨</title>
 </head>
-<body>
-  <div class="app">
-    <aside class="sidebar">
-      <div class="logo">SR<span>스튜디오</span> <small>Analytics</small></div>
-      <nav class="menu">
-        <button class="menu-item" data-page="dashboard">📊 <span>대시보드</span></button>
-        <button class="menu-item" data-page="channels">📺 <span>채널 분석</span></button>
-        <button class="menu-item" data-page="videos">🎬 <span>영상 성적표</span></button>
-        <button class="menu-item" data-page="growth">📈 <span>성장 추이</span></button>
-        <button class="menu-item" data-page="advice">💡 <span>AI 어드바이스</span></button>
-        <button class="menu-item" data-page="settings">⚙️ <span>설정</span></button>
-      </nav>
-    </aside>
-    <div class="main">
-      <header class="topbar">
-        <h1 class="page-title">대시보드</h1>
-        <div class="meta">데이터 기준: <span id="generated-at"></span></div>
-      </header>
-      <main class="page" id="page"></main>
-    </div>
-  </div>
-
-  <script src="js/data.js"></script>
-  <script src="js/advice.js" onerror="this.remove()"></script>
-  <script src="js/components.js"></script>
-  <script src="js/pages.js"></script>
-  <script>
-    var TITLES = {
-      dashboard: '대시보드',
-      channels: '채널 분석',
-      videos: '영상 성적표',
-      growth: '성장 추이',
-      advice: 'AI 어드바이스',
-      settings: '설정'
-    };
-
-    function navigate(key) {
-      if (!window.PAGES || !window.PAGES[key]) key = 'dashboard';
-      var items = document.querySelectorAll('.menu-item');
-      for (var i = 0; i < items.length; i++) {
-        items[i].classList.toggle('active', items[i].getAttribute('data-page') === key);
-      }
-      document.querySelector('.page-title').textContent = TITLES[key] || key;
-      var root = document.getElementById('page');
-      try {
-        window.PAGES[key](root);
-      } catch (err) {
-        root.innerHTML = '';
-        var card = document.createElement('div');
-        card.className = 'card';
-        card.textContent = '페이지를 불러오는 중 오류가 발생했습니다: ' + (err && err.message ? err.message : err);
-        root.appendChild(card);
-      }
-      location.hash = key;
-    }
-
-    var menuItems = document.querySelectorAll('.menu-item');
-    for (var i = 0; i < menuItems.length; i++) {
-      menuItems[i].addEventListener('click', function () {
-        navigate(this.getAttribute('data-page'));
-      });
-    }
-
-    var genEl = document.getElementById('generated-at');
-    if (window.DATA && window.DATA.generated_at) genEl.textContent = window.DATA.generated_at;
-
-    var start = location.hash.slice(1);
-    navigate(window.PAGES && window.PAGES[start] ? start : 'dashboard');
-  </script>
+<body style="background:#0a0e1a;color:#94a3b8;font-family:system-ui;display:grid;place-items:center;height:100vh">
+  <p>메인 대시보드로 통합되었습니다. <a href="../#dashboard" style="color:#22d3ee">이동하기</a></p>
 </body>
 </html>

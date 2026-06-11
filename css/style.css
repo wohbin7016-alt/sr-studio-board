@@ -671,6 +671,22 @@ a:hover {
   }
 }
 
+/* ---------- 운영현황 iframe ---------- */
+.ops-frame {
+  width: 100%;
+  height: calc(100vh - 140px);
+  height: calc(100dvh - 140px);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: #0d1117;
+}
+
+@media (max-width: 560px) {
+  .ops-frame {
+    height: calc(100dvh - 200px);
+  }
+}
+
 /* ---------- AI 어드바이스 ---------- */
 .section-head {
   margin: 26px 0 12px;
