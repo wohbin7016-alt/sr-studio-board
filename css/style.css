@@ -671,6 +671,19 @@ a:hover {
   }
 }
 
+/* ---------- 영상 성적표 날짜 그룹 헤더 ---------- */
+.date-head {
+  margin: 22px 0 10px;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text);
+  padding-left: 10px;
+  border-left: 3px solid;
+  border-image: linear-gradient(180deg, var(--cyan), var(--purple)) 1;
+}
+
+.date-head:first-child { margin-top: 4px; }
+
 /* ---------- 운영현황 iframe ---------- */
 .ops-frame {
   width: 100%;
