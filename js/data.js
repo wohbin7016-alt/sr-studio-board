@@ -8,22 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31600,
       "sampled": 20,
-      "avg_views": 6012,
-      "median_views": 2043,
+      "avg_views": 6048,
+      "median_views": 2055,
       "uploads_30d": 20,
-      "views_30d": 120253,
+      "views_30d": 120979,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 33729,
+          "views": 33966,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 30423,
+          "views": 30736,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "짐 묶을 때 줄이 자꾸 풀린다면, 트럭커스 히치 하나면 끝",
-          "views": 1404,
+          "views": 1429,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VJreJqvAdtI"
@@ -74,21 +74,21 @@ window.DATA = {
         },
         {
           "title": "배관 이음새 물 새는 진짜 이유 (생테이프 감는 법)",
-          "views": 2018,
+          "views": 2042,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=8YeMLAgaBEQ"
         },
         {
           "title": "짐 묶을 때 이렇게 안 하면 가다가 다 풀립니다 (트럭커 매듭)",
-          "views": 2676,
+          "views": 2803,
           "date": "2026-06-09",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=BKs7ZikMBOA"
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 30423,
+          "views": 30736,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 33729,
+          "views": 33966,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         }
       ],
-      "analyzed_at": "2026-06-11 23:39"
+      "analyzed_at": "2026-06-12 00:41"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,15 +130,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 13,
-      "avg_views": 512,
-      "median_views": 460,
+      "avg_views": 552,
+      "median_views": 466,
       "uploads_30d": 13,
-      "views_30d": 6155,
+      "views_30d": 6624,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1632,
+          "views": 1637,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -149,6 +149,13 @@ window.DATA = {
           "date": "2026-06-07",
           "duration": 14,
           "url": "https://www.youtube.com/watch?v=KE0q9iDR5o0"
+        },
+        {
+          "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
+          "views": 1127,
+          "date": "2026-06-11",
+          "duration": 19,
+          "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         },
         {
           "title": "배기 볼트 머리째 부러졌을 때... 드릴부터 잡으면 차 버립니다",
@@ -163,13 +170,6 @@ window.DATA = {
           "date": "2026-06-06",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=rCLzg_bumDo"
-        },
-        {
-          "title": "렉서스 대시보드 쩍쩍 갈라졌을 때, 통째로 갈면 호구입니다",
-          "views": 675,
-          "date": "2026-06-08",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=jUjDTqHT8Yg"
         }
       ],
       "recent_videos": [
@@ -182,7 +182,7 @@ window.DATA = {
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 663,
+          "views": 1127,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -196,7 +196,7 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1632,
+          "views": 1637,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=KE0q9iDR5o0"
         }
       ],
-      "analyzed_at": "2026-06-11 23:39"
+      "analyzed_at": "2026-06-12 00:42"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,29 +252,29 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1080,
       "sampled": 19,
-      "avg_views": 5152,
+      "avg_views": 5173,
       "median_views": 1849,
       "uploads_30d": 19,
-      "views_30d": 97890,
+      "views_30d": 98298,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29531,
+          "views": 29587,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 20432,
+          "views": 20732,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         },
         {
           "title": "엄마가 아니라 아빠가 낳습니다",
-          "views": 18635,
+          "views": 18636,
           "date": "2026-06-07",
           "duration": 13,
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
@@ -297,14 +297,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 1314,
+          "views": 1349,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 1391,
+          "views": 1399,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
@@ -332,7 +332,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 20432,
+          "views": 20732,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -360,13 +360,13 @@ window.DATA = {
         },
         {
           "title": "엄마가 아니라 아빠가 낳습니다",
-          "views": 18635,
+          "views": 18636,
           "date": "2026-06-07",
           "duration": 13,
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
         }
       ],
-      "analyzed_at": "2026-06-11 23:40"
+      "analyzed_at": "2026-06-12 00:42"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1198,
+      "avg_views": 1200,
       "median_views": 1360,
       "uploads_30d": 20,
-      "views_30d": 23971,
+      "views_30d": 24012,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -419,14 +419,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "가벼운데 화면까지 좋은 노트북은 드물죠, 에이서 스위프트 고 16",
-          "views": 188,
+          "views": 222,
           "date": "2026-06-11",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=NZv2vgWmd0M"
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1640,
+          "views": 1644,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -447,7 +447,7 @@ window.DATA = {
         },
         {
           "title": "가방에 넣은 줄도 모를 1kg, 14인치 2.8K OLED 들고 다니는 노트북 (레노버 요가 슬림 7i 울트라)",
-          "views": 1738,
+          "views": 1741,
           "date": "2026-06-09",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=HBrDMeUg5jo"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=MaxDG0orUWA"
         }
       ],
-      "analyzed_at": "2026-06-11 23:40"
+      "analyzed_at": "2026-06-12 00:42"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 695,
+      "avg_views": 692,
       "median_views": 292,
       "uploads_30d": 20,
-      "views_30d": 13908,
+      "views_30d": 13858,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -532,7 +532,7 @@ window.DATA = {
         },
         {
           "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1915,
+          "views": 1907,
           "date": "2026-06-11",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
@@ -541,14 +541,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "큰 화면 노트북이 부담스러웠다면, 에이서 아스파이어 라이트 16",
-          "views": 613,
+          "views": 569,
           "date": "2026-06-11",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=GtEEFE4Gbuc"
         },
         {
           "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1915,
+          "views": 1907,
           "date": "2026-06-11",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
@@ -562,7 +562,7 @@ window.DATA = {
         },
         {
           "title": "같은 RTX 5060인데 왜 이놈만 빠를까요 (에이수스 TUF 게이밍 F16)",
-          "views": 18,
+          "views": 20,
           "date": "2026-06-10",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=SB4BLlQP6xg"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=hK9UkAUlMog"
         }
       ],
-      "analyzed_at": "2026-06-11 23:41"
+      "analyzed_at": "2026-06-12 00:43"
     }
   ],
-  "generated_at": "2026-06-11 23:39"
+  "generated_at": "2026-06-12 00:41"
 };
