@@ -8,43 +8,43 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31600,
       "sampled": 20,
-      "avg_views": 5892,
-      "median_views": 1918,
+      "avg_views": 5935,
+      "median_views": 1983,
       "uploads_30d": 20,
-      "views_30d": 117851,
+      "views_30d": 118719,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 32622,
+          "views": 33535,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 29608,
+          "views": 30121,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15621,
+          "views": 15640,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6183,
+          "views": 6345,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
         },
         {
           "title": "버려진 기름통이 에어컨으로? 얼음 하나로 찬바람 쏟아지는 DIY",
-          "views": 4040,
+          "views": 4042,
           "date": "2026-06-03",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=s7cURGJkgAA"
@@ -52,50 +52,57 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "짐 묶을 때 줄이 자꾸 풀린다면, 트럭커스 히치 하나면 끝",
+          "views": 1012,
+          "date": "2026-06-11",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=VJreJqvAdtI"
+        },
+        {
           "title": "갈라진 배관, 테이프 말고 이걸로 (열수축튜브 밀봉)",
-          "views": 1429,
+          "views": 1520,
           "date": "2026-06-11",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=WvxSTsd6Zdc"
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 1891,
+          "views": 1991,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
         },
         {
           "title": "배관 이음새 물 새는 진짜 이유 (생테이프 감는 법)",
-          "views": 1849,
+          "views": 1975,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=8YeMLAgaBEQ"
         },
         {
           "title": "짐 묶을 때 이렇게 안 하면 가다가 다 풀립니다 (트럭커 매듭)",
-          "views": 1921,
+          "views": 2242,
           "date": "2026-06-09",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=BKs7ZikMBOA"
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 29608,
+          "views": 30121,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
         },
         {
           "title": "울타리 와이어 이렇게 묶으면 금방 풀립니다, 안 풀리는 법",
-          "views": 1381,
+          "views": 1388,
           "date": "2026-06-08",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=myFVupwUnAs"
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6183,
+          "views": 6345,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -109,37 +116,29 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 32622,
+          "views": 33535,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
-        },
-        {
-          "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15621,
-          "date": "2026-06-06",
-          "duration": 29,
-          "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
         }
       ],
-      "analyzed_at": "2026-06-11 17:18",
-      "error": "[Errno 2] No such file or directory: 'yt-dlp'"
+      "analyzed_at": "2026-06-11 21:22"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
       "name": "메카닉스튜디오",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
-      "sampled": 12,
-      "avg_views": 493,
-      "median_views": 352,
-      "uploads_30d": 12,
-      "views_30d": 5920,
+      "sampled": 13,
+      "avg_views": 508,
+      "median_views": 437,
+      "uploads_30d": 13,
+      "views_30d": 6107,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1630,
+          "views": 1632,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -153,7 +152,7 @@ window.DATA = {
         },
         {
           "title": "배기 볼트 머리째 부러졌을 때... 드릴부터 잡으면 차 버립니다",
-          "views": 1021,
+          "views": 1035,
           "date": "2026-06-09",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=FK-ioqCcmyc"
@@ -175,22 +174,29 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
+          "views": 0,
+          "date": "2026-06-11",
+          "duration": 23,
+          "url": "https://www.youtube.com/watch?v=VxQ1vfTGrRs"
+        },
+        {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 447,
+          "views": 617,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         },
         {
           "title": "스로틀보디 카본청소 공회전 떨림",
-          "views": 1,
+          "views": 2,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=Qt4v6vKQ7iE"
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1630,
+          "views": 1632,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -204,7 +210,7 @@ window.DATA = {
         },
         {
           "title": "배기 볼트 머리째 부러졌을 때... 드릴부터 잡으면 차 버립니다",
-          "views": 1021,
+          "views": 1035,
           "date": "2026-06-09",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=FK-ioqCcmyc"
@@ -236,54 +242,46 @@ window.DATA = {
           "date": "2026-06-07",
           "duration": 14,
           "url": "https://www.youtube.com/watch?v=KE0q9iDR5o0"
-        },
-        {
-          "title": "BMW M2 빨간 쇼바·드릴 로터, 뭘 하려는 걸까?",
-          "views": 8,
-          "date": "2026-06-06",
-          "duration": 14,
-          "url": "https://www.youtube.com/watch?v=22tWvb0ZuIg"
         }
       ],
-      "analyzed_at": "2026-06-11 17:17",
-      "error": "[Errno 2] No such file or directory: 'yt-dlp'"
+      "analyzed_at": "2026-06-11 21:23"
     },
     {
       "url": "https://youtube.com/@prismalogia",
       "name": "왜그럴까",
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1080,
-      "sampled": 18,
-      "avg_views": 5257,
-      "median_views": 1886,
-      "uploads_30d": 18,
-      "views_30d": 94639,
-      "shorts_ratio": 0.94,
+      "sampled": 19,
+      "avg_views": 5093,
+      "median_views": 1848,
+      "uploads_30d": 19,
+      "views_30d": 96785,
+      "shorts_ratio": 0.95,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29432,
+          "views": 29531,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 18802,
+          "views": 19730,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         },
         {
           "title": "엄마가 아니라 아빠가 낳습니다",
-          "views": 18634,
+          "views": 18635,
           "date": "2026-06-07",
           "duration": 13,
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
         },
         {
           "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
-          "views": 5997,
+          "views": 6114,
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
@@ -298,50 +296,57 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "오리는 추운 날 왜 한 발로 서 있을까?",
+          "views": 948,
+          "date": "2026-06-11",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
+        },
+        {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 1373,
+          "views": 1391,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
         },
         {
           "title": "홍학은 왜 분홍색일까",
-          "views": 2033,
+          "views": 2034,
           "date": "2026-06-10",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=iXBmQnnmyUc"
         },
         {
           "title": "나무늘보는 왜 이렇게 느릴까? 게을러서가 아니었습니다",
-          "views": 1719,
+          "views": 1734,
           "date": "2026-06-10",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=xH10zPmx90U"
         },
         {
           "title": "물곰은 왜 우주 진공에서도 안 죽을까",
-          "views": 1414,
+          "views": 1418,
           "date": "2026-06-09",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=mjilLlq_T-c"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 18802,
+          "views": 19730,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         },
         {
           "title": "개복치는 왜 반쪽 물고기처럼 생겼을까",
-          "views": 1840,
+          "views": 1848,
           "date": "2026-06-08",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=5lC25sq7Em4"
         },
         {
           "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
-          "views": 5997,
+          "views": 6114,
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
@@ -355,21 +360,13 @@ window.DATA = {
         },
         {
           "title": "엄마가 아니라 아빠가 낳습니다",
-          "views": 18634,
+          "views": 18635,
           "date": "2026-06-07",
           "duration": 13,
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
-        },
-        {
-          "title": "카멜레온이 색을 바꾸는 진짜 이유",
-          "views": 1994,
-          "date": "2026-06-06",
-          "duration": 20,
-          "url": "https://www.youtube.com/watch?v=N3Oqssxokjw"
         }
       ],
-      "analyzed_at": "2026-06-11 17:18",
-      "error": "[Errno 2] No such file or directory: 'yt-dlp'"
+      "analyzed_at": "2026-06-11 21:23"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -377,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1187,
+      "avg_views": 1198,
       "median_views": 1360,
       "uploads_30d": 20,
-      "views_30d": 23741,
+      "views_30d": 23963,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -421,15 +418,22 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "가벼운데 화면까지 좋은 노트북은 드물죠, 에이서 스위프트 고 16",
+          "views": 188,
+          "date": "2026-06-11",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=NZv2vgWmd0M"
+        },
+        {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1465,
+          "views": 1637,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
         },
         {
           "title": "맥북에어 13 M4",
-          "views": 256,
+          "views": 258,
           "date": "2026-06-10",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=BElFmwn3X54"
@@ -443,14 +447,14 @@ window.DATA = {
         },
         {
           "title": "가방에 넣은 줄도 모를 1kg, 14인치 2.8K OLED 들고 다니는 노트북 (레노버 요가 슬림 7i 울트라)",
-          "views": 1682,
+          "views": 1734,
           "date": "2026-06-09",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=HBrDMeUg5jo"
         },
         {
           "title": "200W로 끌어쓰는 쿨링, 오래 돌려도 안 식는 게이밍 노트북 (레노버 리전 프로 5i)",
-          "views": 1397,
+          "views": 1400,
           "date": "2026-06-09",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=TTE6z9jbCp4"
@@ -471,7 +475,7 @@ window.DATA = {
         },
         {
           "title": "200만 원짜리 노트북 살 뻔했죠? 90만원대 비보북 16",
-          "views": 513,
+          "views": 529,
           "date": "2026-06-07",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=YkmumwUHeWk"
@@ -482,17 +486,9 @@ window.DATA = {
           "date": "2026-06-07",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=MaxDG0orUWA"
-        },
-        {
-          "title": "100만 원대에 진짜 Copilot+ AI, LG 그램북 AI 15",
-          "views": 414,
-          "date": "2026-06-06",
-          "duration": 21,
-          "url": "https://www.youtube.com/watch?v=zBLNsmlaySY"
         }
       ],
-      "analyzed_at": "2026-06-11 17:18",
-      "error": "[Errno 2] No such file or directory: 'yt-dlp'"
+      "analyzed_at": "2026-06-11 21:24"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -500,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 637,
-      "median_views": 251,
+      "avg_views": 688,
+      "median_views": 291,
       "uploads_30d": 20,
-      "views_30d": 12744,
+      "views_30d": 13768,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -529,14 +525,14 @@ window.DATA = {
         },
         {
           "title": "사무용 노트북 고민 끝, HP 옴니북 5 14",
-          "views": 1960,
+          "views": 1962,
           "date": "2026-06-04",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=qPbm0WtYs9I"
         },
         {
           "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1366,
+          "views": 1908,
           "date": "2026-06-11",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
@@ -544,8 +540,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "큰 화면 노트북이 부담스러웠다면, 에이서 아스파이어 라이트 16",
+          "views": 482,
+          "date": "2026-06-11",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=GtEEFE4Gbuc"
+        },
+        {
           "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1366,
+          "views": 1908,
           "date": "2026-06-11",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
@@ -566,7 +569,7 @@ window.DATA = {
         },
         {
           "title": "게이밍 노트북에 OLED 넣었다는 게 사기 같았는데 (에이서 프레데터 헬리오스 네오 16S AI)",
-          "views": 252,
+          "views": 253,
           "date": "2026-06-09",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=DfdRU_oEIG4"
@@ -605,18 +608,10 @@ window.DATA = {
           "date": "2026-06-07",
           "duration": 15,
           "url": "https://www.youtube.com/watch?v=hK9UkAUlMog"
-        },
-        {
-          "title": "15.6인치 대화면 국산 데일리, LG 그램북 AI",
-          "views": 214,
-          "date": "2026-06-06",
-          "duration": 21,
-          "url": "https://www.youtube.com/watch?v=aDHYuWU74zo"
         }
       ],
-      "analyzed_at": "2026-06-11 17:19",
-      "error": "[Errno 2] No such file or directory: 'yt-dlp'"
+      "analyzed_at": "2026-06-11 21:24"
     }
   ],
-  "generated_at": "2026-06-11 17:18"
+  "generated_at": "2026-06-11 21:22"
 };
