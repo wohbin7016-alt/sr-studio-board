@@ -813,12 +813,23 @@ a:hover {
     padding: 10px 12px;
   }
 
+  /* 표: 한 화면에 제목(말줄임)+조회수+날짜 바로 보이게 — 가로 스크롤 없이 */
   .table-wrap {
     -webkit-overflow-scrolling: touch;
   }
-  .table-wrap table { font-size: 12px; min-width: 560px; }
-  .table-wrap tbody td, .table-wrap thead th { padding: 8px 9px; }
-  .table-wrap tbody td:has(a) { min-width: 170px; max-width: 260px; }
+  .table-wrap table { font-size: 12px; min-width: 0; width: 100%; table-layout: auto; }
+  .table-wrap tbody td, .table-wrap thead th { padding: 8px 6px; }
+  .table-wrap tbody td:has(a) {
+    min-width: 0;
+    max-width: 38vw;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  /* 마지막 열(유형/길이/URL)은 폰에서 숨김 */
+  .table-wrap thead th:last-child,
+  .table-wrap tbody td:last-child { display: none; }
+  .badge { font-size: 10px; padding: 2px 7px; }
 
   /* 성능: 오브 축소 + 블러 감소 */
   body::before, body::after {
