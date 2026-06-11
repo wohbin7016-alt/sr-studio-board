@@ -8,22 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31600,
       "sampled": 20,
-      "avg_views": 6099,
-      "median_views": 2128,
+      "avg_views": 6131,
+      "median_views": 2145,
       "uploads_30d": 20,
-      "views_30d": 121983,
+      "views_30d": 122631,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 34035,
+          "views": 34040,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 30968,
+          "views": 31432,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6478,
+          "views": 6548,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -53,56 +53,56 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "짐 묶을 때 줄이 자꾸 풀린다면, 트럭커스 히치 하나면 끝",
-          "views": 1509,
+          "views": 1519,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VJreJqvAdtI"
         },
         {
           "title": "갈라진 배관, 테이프 말고 이걸로 (열수축튜브 밀봉)",
-          "views": 1569,
+          "views": 1568,
           "date": "2026-06-11",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=WvxSTsd6Zdc"
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 2196,
+          "views": 2229,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
         },
         {
           "title": "배관 이음새 물 새는 진짜 이유 (생테이프 감는 법)",
-          "views": 2060,
+          "views": 2062,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=8YeMLAgaBEQ"
         },
         {
           "title": "짐 묶을 때 이렇게 안 하면 가다가 다 풀립니다 (트럭커 매듭)",
-          "views": 3131,
+          "views": 3198,
           "date": "2026-06-09",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=BKs7ZikMBOA"
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 30968,
+          "views": 31432,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
         },
         {
           "title": "울타리 와이어 이렇게 묶으면 금방 풀립니다, 안 풀리는 법",
-          "views": 1411,
+          "views": 1410,
           "date": "2026-06-08",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=myFVupwUnAs"
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6478,
+          "views": 6548,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 34035,
+          "views": 34040,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         }
       ],
-      "analyzed_at": "2026-06-12 04:48"
+      "analyzed_at": "2026-06-12 05:50"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,10 +130,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 13,
-      "avg_views": 589,
-      "median_views": 466,
+      "avg_views": 590,
+      "median_views": 465,
       "uploads_30d": 13,
-      "views_30d": 7070,
+      "views_30d": 7081,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -145,7 +145,7 @@ window.DATA = {
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 1542,
+          "views": 1554,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -182,7 +182,7 @@ window.DATA = {
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 1542,
+          "views": 1554,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -224,7 +224,7 @@ window.DATA = {
         },
         {
           "title": "렉서스 대시보드 쩍쩍 갈라졌을 때, 통째로 갈면 호구입니다",
-          "views": 675,
+          "views": 674,
           "date": "2026-06-08",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=jUjDTqHT8Yg"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=KE0q9iDR5o0"
         }
       ],
-      "analyzed_at": "2026-06-12 04:48"
+      "analyzed_at": "2026-06-12 05:50"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 19,
-      "avg_views": 5299,
+      "avg_views": 5317,
       "median_views": 1934,
       "uploads_30d": 19,
-      "views_30d": 100694,
+      "views_30d": 101033,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
@@ -267,7 +267,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 22266,
+          "views": 22489,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -304,7 +304,7 @@ window.DATA = {
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 2023,
+          "views": 2130,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
@@ -318,21 +318,21 @@ window.DATA = {
         },
         {
           "title": "나무늘보는 왜 이렇게 느릴까? 게을러서가 아니었습니다",
-          "views": 1744,
+          "views": 1752,
           "date": "2026-06-10",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=xH10zPmx90U"
         },
         {
           "title": "물곰은 왜 우주 진공에서도 안 죽을까",
-          "views": 1418,
+          "views": 1419,
           "date": "2026-06-09",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=mjilLlq_T-c"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 22266,
+          "views": 22489,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
         }
       ],
-      "analyzed_at": "2026-06-12 04:49"
+      "analyzed_at": "2026-06-12 05:50"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1200,
+      "avg_views": 1201,
       "median_views": 1360,
       "uploads_30d": 20,
-      "views_30d": 24010,
+      "views_30d": 24024,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -419,14 +419,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "가벼운데 화면까지 좋은 노트북은 드물죠, 에이서 스위프트 고 16",
-          "views": 222,
+          "views": 232,
           "date": "2026-06-11",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=NZv2vgWmd0M"
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1640,
+          "views": 1645,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -454,7 +454,7 @@ window.DATA = {
         },
         {
           "title": "200W로 끌어쓰는 쿨링, 오래 돌려도 안 식는 게이밍 노트북 (레노버 리전 프로 5i)",
-          "views": 1401,
+          "views": 1400,
           "date": "2026-06-09",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=TTE6z9jbCp4"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=MaxDG0orUWA"
         }
       ],
-      "analyzed_at": "2026-06-12 04:49"
+      "analyzed_at": "2026-06-12 05:51"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 696,
-      "median_views": 292,
+      "avg_views": 695,
+      "median_views": 294,
       "uploads_30d": 20,
-      "views_30d": 13922,
+      "views_30d": 13918,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -532,7 +532,7 @@ window.DATA = {
         },
         {
           "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1918,
+          "views": 1908,
           "date": "2026-06-11",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
@@ -548,7 +548,7 @@ window.DATA = {
         },
         {
           "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1918,
+          "views": 1908,
           "date": "2026-06-11",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
@@ -569,28 +569,28 @@ window.DATA = {
         },
         {
           "title": "게이밍 노트북에 OLED 넣었다는 게 사기 같았는데 (에이서 프레데터 헬리오스 네오 16S AI)",
-          "views": 253,
+          "views": 254,
           "date": "2026-06-09",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=DfdRU_oEIG4"
         },
         {
           "title": "100만 원 초반 OLED 노트북, 이걸 모르고 지나치면 손해예요 (레노버 아이디어패드 슬림 5 14)",
-          "views": 331,
+          "views": 334,
           "date": "2026-06-09",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=Ks_8EIRfPU0"
         },
         {
           "title": "140만 원대 RTX 5060 게이밍, MSI 사이보그 15 가성비 반칙입니다",
-          "views": 384,
+          "views": 385,
           "date": "2026-06-08",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=ewhPwTe3i2I"
         },
         {
           "title": "한 바퀴 접히는 노트북, HP 옴니북X 플립 14 한 대로 다 끝냅니다",
-          "views": 413,
+          "views": 414,
           "date": "2026-06-08",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=zDJ50Ck_HKY"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=hK9UkAUlMog"
         }
       ],
-      "analyzed_at": "2026-06-12 04:50"
+      "analyzed_at": "2026-06-12 05:51"
     }
   ],
-  "generated_at": "2026-06-12 04:48"
+  "generated_at": "2026-06-12 05:50"
 };
