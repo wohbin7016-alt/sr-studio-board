@@ -8,22 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31600,
       "sampled": 20,
-      "avg_views": 6048,
+      "avg_views": 6075,
       "median_views": 2055,
       "uploads_30d": 20,
-      "views_30d": 120979,
+      "views_30d": 121503,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 33966,
+          "views": 33976,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 30736,
+          "views": 30949,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6401,
+          "views": 6475,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "짐 묶을 때 줄이 자꾸 풀린다면, 트럭커스 히치 하나면 끝",
-          "views": 1429,
+          "views": 1421,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VJreJqvAdtI"
         },
         {
           "title": "갈라진 배관, 테이프 말고 이걸로 (열수축튜브 밀봉)",
-          "views": 1523,
+          "views": 1543,
           "date": "2026-06-11",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=WvxSTsd6Zdc"
@@ -81,14 +81,14 @@ window.DATA = {
         },
         {
           "title": "짐 묶을 때 이렇게 안 하면 가다가 다 풀립니다 (트럭커 매듭)",
-          "views": 2803,
+          "views": 3018,
           "date": "2026-06-09",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=BKs7ZikMBOA"
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 30736,
+          "views": 30949,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6401,
+          "views": 6475,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 33966,
+          "views": 33976,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         }
       ],
-      "analyzed_at": "2026-06-12 00:41"
+      "analyzed_at": "2026-06-12 01:43"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,10 +130,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 13,
-      "avg_views": 552,
+      "avg_views": 564,
       "median_views": 466,
       "uploads_30d": 13,
-      "views_30d": 6624,
+      "views_30d": 6779,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -144,6 +144,13 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
         },
         {
+          "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
+          "views": 1276,
+          "date": "2026-06-11",
+          "duration": 19,
+          "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
+        },
+        {
           "title": "타이어 펑크, 빨간 보수봉으로 녹여 메우면 감쪽같이 사라진다",
           "views": 1136,
           "date": "2026-06-07",
@@ -151,15 +158,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=KE0q9iDR5o0"
         },
         {
-          "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 1127,
-          "date": "2026-06-11",
-          "duration": 19,
-          "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
-        },
-        {
           "title": "배기 볼트 머리째 부러졌을 때... 드릴부터 잡으면 차 버립니다",
-          "views": 1035,
+          "views": 1041,
           "date": "2026-06-09",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=FK-ioqCcmyc"
@@ -182,7 +182,7 @@ window.DATA = {
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 1127,
+          "views": 1276,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -210,7 +210,7 @@ window.DATA = {
         },
         {
           "title": "배기 볼트 머리째 부러졌을 때... 드릴부터 잡으면 차 버립니다",
-          "views": 1035,
+          "views": 1041,
           "date": "2026-06-09",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=FK-ioqCcmyc"
@@ -244,30 +244,30 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=KE0q9iDR5o0"
         }
       ],
-      "analyzed_at": "2026-06-12 00:42"
+      "analyzed_at": "2026-06-12 01:43"
     },
     {
       "url": "https://youtube.com/@prismalogia",
       "name": "왜그럴까",
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
-      "subscribers": 1080,
+      "subscribers": 1090,
       "sampled": 19,
-      "avg_views": 5173,
+      "avg_views": 5197,
       "median_views": 1849,
       "uploads_30d": 19,
-      "views_30d": 98298,
+      "views_30d": 98748,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29587,
+          "views": 29581,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 20732,
+          "views": 21145,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -297,14 +297,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 1349,
+          "views": 1353,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 1399,
+          "views": 1429,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
@@ -318,7 +318,7 @@ window.DATA = {
         },
         {
           "title": "나무늘보는 왜 이렇게 느릴까? 게을러서가 아니었습니다",
-          "views": 1734,
+          "views": 1744,
           "date": "2026-06-10",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=xH10zPmx90U"
@@ -332,7 +332,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 20732,
+          "views": 21145,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
         }
       ],
-      "analyzed_at": "2026-06-12 00:42"
+      "analyzed_at": "2026-06-12 01:44"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -377,7 +377,7 @@ window.DATA = {
       "avg_views": 1200,
       "median_views": 1360,
       "uploads_30d": 20,
-      "views_30d": 24012,
+      "views_30d": 24010,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -426,7 +426,7 @@ window.DATA = {
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1644,
+          "views": 1640,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -440,7 +440,7 @@ window.DATA = {
         },
         {
           "title": "입문 게이밍은 결국 이 한 대로 끝납니다 (HP 빅터스 15 RTX4060)",
-          "views": 699,
+          "views": 700,
           "date": "2026-06-10",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=5Uvxgkbojus"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=MaxDG0orUWA"
         }
       ],
-      "analyzed_at": "2026-06-12 00:42"
+      "analyzed_at": "2026-06-12 01:44"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 692,
+      "avg_views": 693,
       "median_views": 292,
       "uploads_30d": 20,
-      "views_30d": 13858,
+      "views_30d": 13866,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -532,7 +532,7 @@ window.DATA = {
         },
         {
           "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1907,
+          "views": 1915,
           "date": "2026-06-11",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
@@ -548,7 +548,7 @@ window.DATA = {
         },
         {
           "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1907,
+          "views": 1915,
           "date": "2026-06-11",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=hK9UkAUlMog"
         }
       ],
-      "analyzed_at": "2026-06-12 00:43"
+      "analyzed_at": "2026-06-12 01:45"
     }
   ],
-  "generated_at": "2026-06-12 00:41"
+  "generated_at": "2026-06-12 01:43"
 };
