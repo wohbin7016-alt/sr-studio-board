@@ -466,8 +466,21 @@ body::after {
 
 .table-wrap table {
   width: 100%;
+  min-width: 640px; /* 모바일: 칸 짜부 대신 가로 스크롤 */
   border-collapse: collapse;
   font-size: 13px;
+}
+
+.table-wrap tbody td,
+.table-wrap thead th {
+  word-break: keep-all;
+  white-space: nowrap;
+}
+
+.table-wrap tbody td:has(a) { /* 제목/링크 칸만 줄바꿈 허용 */
+  white-space: normal;
+  min-width: 220px;
+  max-width: 380px;
 }
 
 .table-wrap thead th {
