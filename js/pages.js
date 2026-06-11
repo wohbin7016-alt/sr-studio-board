@@ -233,10 +233,12 @@
     });
 
     var selSort = el('select', 'flt-sort');
-    var oDate = el('option', null, '날짜별'); oDate.value = 'date';
-    var oViews = el('option', null, '조회수순'); oViews.value = 'views';
-    selSort.appendChild(oDate);
-    selSort.appendChild(oViews);
+    [['date', '일별'], ['week', '주별'], ['month', '월별'], ['views', '조회수순']]
+      .forEach(function (p) {
+        var o = el('option', null, p[1]);
+        o.value = p[0];
+        selSort.appendChild(o);
+      });
 
     filterRow.appendChild(selChan);
     filterRow.appendChild(selSort);
@@ -271,24 +273,47 @@
         return;
       }
 
-      // 날짜별 그룹 (최신 날짜 먼저, 그룹 안은 조회수순)
+      // 일별/주별/월별 그룹 (최신 먼저, 그룹 안은 조회수순)
+      function pad2(n) { return n < 10 ? '0' + n : '' + n; }
+
+      function groupKey(v) {
+        var d = v.date;
+        if (!d) return ['~', '날짜 미상'];
+        if (sortBy === 'month') {
+          return [d.slice(0, 7), '🗓 ' + d.slice(0, 4) + '년 ' + d.slice(5, 7) + '월'];
+        }
+        if (sortBy === 'week') {
+          var dt = new Date(d + 'T00:00:00');
+          var mon = new Date(dt);
+          mon.setDate(dt.getDate() - ((dt.getDay() + 6) % 7)); // 그 주 월요일
+          var sun = new Date(mon);
+          sun.setDate(mon.getDate() + 6);
+          var key = mon.getFullYear() + '-' + pad2(mon.getMonth() + 1) + '-' + pad2(mon.getDate());
+          var label = '📆 ' + key + ' ~ ' + pad2(sun.getMonth() + 1) + '-' + pad2(sun.getDate()) + ' 주';
+          return [key, label];
+        }
+        return [d, '📅 ' + d];
+      }
+
       var groups = {};
+      var labels = {};
       rows.forEach(function (v) {
-        var d = v.date || '날짜 미상';
-        (groups[d] = groups[d] || []).push(v);
+        var kl = groupKey(v);
+        (groups[kl[0]] = groups[kl[0]] || []).push(v);
+        labels[kl[0]] = kl[1];
       });
-      var dates = Object.keys(groups).sort().reverse();
-      dates.forEach(function (d) {
-        var g = groups[d];
+      var keys = Object.keys(groups).sort().reverse();
+      keys.forEach(function (k) {
+        var g = groups[k];
         g.sort(function (a, b) { return b.views - a.views; });
         var sum = g.reduce(function (s, v) { return s + num(v.views); }, 0);
         tableHolder.appendChild(el('h3', 'date-head',
-          '📅 ' + d + ' · ' + g.length + '개 · ' + UI.fmt(sum) + '뷰'));
+          labels[k] + ' · ' + g.length + '개 · ' + UI.fmt(sum) + '뷰'));
         tableHolder.appendChild(
           UI.table(['채널', '제목', '조회수|num', '날짜', '길이'], g.map(toRow))
         );
       });
-      if (!dates.length) {
+      if (!keys.length) {
         tableHolder.appendChild(el('p', 'muted', '영상 없음'));
       }
     }
