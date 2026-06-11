@@ -85,6 +85,11 @@
 
     var start = location.hash.slice(1);
     navigate(window.PAGES && window.PAGES[start] ? start : 'ops');
+
+    // 안드로이드 Chrome '앱 설치' 요건 (https에서만)
+    if ('serviceWorker' in navigator && location.protocol === 'https:') {
+      navigator.serviceWorker.register('sw.js').catch(function () {});
+    }
   </script>
 </body>
 </html>
