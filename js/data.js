@@ -8,29 +8,29 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6362,
-      "median_views": 1964,
+      "avg_views": 6517,
+      "median_views": 2367,
       "uploads_30d": 20,
-      "views_30d": 127246,
+      "views_30d": 130343,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 36693,
+          "views": 37119,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 34832,
+          "views": 34840,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15740,
+          "views": 15739,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -52,15 +52,8 @@ window.DATA = {
       ],
       "recent_videos": [
         {
-          "title": "파이프에 로프 걸면 자꾸 미끄러진다? 90%가 모르는 매듭입니다",
-          "views": 929,
-          "date": "2026-06-12",
-          "duration": 29,
-          "url": "https://www.youtube.com/watch?v=9mvU8TjsD4c"
-        },
-        {
           "title": "두 줄을 이렇게 이으면 절대 안 풀립니다 (아는 사람만 쓰는 매듭)",
-          "views": 1463,
+          "views": 1477,
           "date": "2026-06-12",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=2KHEZHjPpbA"
@@ -95,14 +88,14 @@ window.DATA = {
         },
         {
           "title": "짐 묶을 때 이렇게 안 하면 가다가 다 풀립니다 (트럭커 매듭)",
-          "views": 3635,
+          "views": 3649,
           "date": "2026-06-09",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=BKs7ZikMBOA"
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 36693,
+          "views": 37119,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -120,9 +113,16 @@ window.DATA = {
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
+        },
+        {
+          "title": "몰딩 굴곡에 장판 딱 맞게 붙이는 법, 연필 하나면 끝",
+          "views": 1829,
+          "date": "2026-06-07",
+          "duration": 15,
+          "url": "https://www.youtube.com/watch?v=sG6uwpWRzcU"
         }
       ],
-      "analyzed_at": "2026-06-12 23:24"
+      "analyzed_at": "2026-06-13 00:26"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,10 +130,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 15,
-      "avg_views": 637,
-      "median_views": 465,
+      "avg_views": 595,
+      "median_views": 257,
       "uploads_30d": 15,
-      "views_30d": 8931,
+      "views_30d": 8934,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -152,7 +152,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1194,
+          "views": 1195,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -175,14 +175,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "BMW E46 오일이 자꾸 샌다면, 진짜 원인은 따로 있습니다",
-          "views": 0,
+          "views": 1,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eREKNXppMfw"
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1194,
+          "views": 1195,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -203,7 +203,7 @@ window.DATA = {
         },
         {
           "title": "스로틀보디 카본청소 공회전 떨림",
-          "views": 6,
+          "views": 7,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=Qt4v6vKQ7iE"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jUjDTqHT8Yg"
         }
       ],
-      "analyzed_at": "2026-06-12 23:24"
+      "analyzed_at": "2026-06-13 00:27"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,22 +252,22 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 20,
-      "avg_views": 5434,
-      "median_views": 1931,
+      "avg_views": 5480,
+      "median_views": 1937,
       "uploads_30d": 20,
-      "views_30d": 108690,
+      "views_30d": 109604,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29775,
+          "views": 29780,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 25688,
+          "views": 26033,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -297,7 +297,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 1560,
+          "views": 2090,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
@@ -318,7 +318,7 @@ window.DATA = {
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 2363,
+          "views": 2396,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
@@ -346,7 +346,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 25688,
+          "views": 26033,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
         }
       ],
-      "analyzed_at": "2026-06-12 23:25"
+      "analyzed_at": "2026-06-13 00:27"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1216,
-      "median_views": 1199,
+      "avg_views": 1232,
+      "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 24326,
+      "views_30d": 24646,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -419,7 +419,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
-          "views": 898,
+          "views": 1213,
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
@@ -440,7 +440,7 @@ window.DATA = {
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1664,
+          "views": 1667,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -468,7 +468,7 @@ window.DATA = {
         },
         {
           "title": "200W로 끌어쓰는 쿨링, 오래 돌려도 안 식는 게이밍 노트북 (레노버 리전 프로 5i)",
-          "views": 1404,
+          "views": 1406,
           "date": "2026-06-09",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=TTE6z9jbCp4"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=lbKXPjJZw34"
         }
       ],
-      "analyzed_at": "2026-06-12 23:25"
+      "analyzed_at": "2026-06-13 00:28"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 825,
+      "avg_views": 837,
       "median_views": 403,
       "uploads_30d": 20,
-      "views_30d": 16514,
+      "views_30d": 16752,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -541,7 +541,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 1230,
+          "views": 1467,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zDJ50Ck_HKY"
         }
       ],
-      "analyzed_at": "2026-06-12 23:26"
+      "analyzed_at": "2026-06-13 00:28"
     }
   ],
-  "generated_at": "2026-06-12 23:24"
+  "generated_at": "2026-06-13 00:26"
 };
