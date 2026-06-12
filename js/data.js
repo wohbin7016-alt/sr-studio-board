@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31600,
       "sampled": 20,
-      "avg_views": 6200,
-      "median_views": 2162,
+      "avg_views": 6222,
+      "median_views": 2171,
       "uploads_30d": 20,
-      "views_30d": 124002,
+      "views_30d": 124452,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,7 +23,7 @@ window.DATA = {
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 32286,
+          "views": 32661,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -44,7 +44,7 @@ window.DATA = {
         },
         {
           "title": "버려진 기름통이 에어컨으로? 얼음 하나로 찬바람 쏟아지는 DIY",
-          "views": 4045,
+          "views": 4047,
           "date": "2026-06-03",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=s7cURGJkgAA"
@@ -53,28 +53,28 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "짐 묶을 때 줄이 자꾸 풀린다면, 트럭커스 히치 하나면 끝",
-          "views": 1534,
+          "views": 1575,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VJreJqvAdtI"
         },
         {
           "title": "갈라진 배관, 테이프 말고 이걸로 (열수축튜브 밀봉)",
-          "views": 1599,
+          "views": 1613,
           "date": "2026-06-11",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=WvxSTsd6Zdc"
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 2262,
+          "views": 2273,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
         },
         {
           "title": "배관 이음새 물 새는 진짜 이유 (생테이프 감는 법)",
-          "views": 2062,
+          "views": 2069,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=8YeMLAgaBEQ"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 32286,
+          "views": 32661,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         }
       ],
-      "analyzed_at": "2026-06-12 08:55"
+      "analyzed_at": "2026-06-12 09:56"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=KE0q9iDR5o0"
         }
       ],
-      "analyzed_at": "2026-06-12 08:55"
+      "analyzed_at": "2026-06-12 09:57"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 19,
-      "avg_views": 5336,
+      "avg_views": 5346,
       "median_views": 1935,
       "uploads_30d": 19,
-      "views_30d": 101391,
+      "views_30d": 101591,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
@@ -281,7 +281,7 @@ window.DATA = {
         },
         {
           "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
-          "views": 6247,
+          "views": 6249,
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
@@ -297,14 +297,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 1529,
+          "views": 1556,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 2130,
+          "views": 2299,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
@@ -346,7 +346,7 @@ window.DATA = {
         },
         {
           "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
-          "views": 6247,
+          "views": 6249,
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
         }
       ],
-      "analyzed_at": "2026-06-12 08:55"
+      "analyzed_at": "2026-06-12 09:57"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -377,7 +377,7 @@ window.DATA = {
       "avg_views": 1201,
       "median_views": 1360,
       "uploads_30d": 20,
-      "views_30d": 24032,
+      "views_30d": 24033,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -410,7 +410,7 @@ window.DATA = {
         },
         {
           "title": "16인치 노트북이 100만원도 안 한다고? 레노버 씽크북 16",
-          "views": 1920,
+          "views": 1921,
           "date": "2026-06-04",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=P8x9zNNTdyc"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=MaxDG0orUWA"
         }
       ],
-      "analyzed_at": "2026-06-12 08:56"
+      "analyzed_at": "2026-06-12 09:57"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -499,7 +499,7 @@ window.DATA = {
       "avg_views": 695,
       "median_views": 294,
       "uploads_30d": 20,
-      "views_30d": 13917,
+      "views_30d": 13919,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -511,7 +511,7 @@ window.DATA = {
         },
         {
           "title": "맥북 에어보다 가볍다는데 OLED까지? 에이수스 젠북 A14",
-          "views": 2107,
+          "views": 2109,
           "date": "2026-06-05",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1raeCQRyK1w"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=hK9UkAUlMog"
         }
       ],
-      "analyzed_at": "2026-06-12 08:56"
+      "analyzed_at": "2026-06-12 09:58"
     }
   ],
-  "generated_at": "2026-06-12 08:55"
+  "generated_at": "2026-06-12 09:56"
 };
