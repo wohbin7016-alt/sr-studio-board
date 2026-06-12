@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31600,
       "sampled": 20,
-      "avg_views": 6297,
-      "median_views": 2216,
+      "avg_views": 6332,
+      "median_views": 2238,
       "uploads_30d": 20,
-      "views_30d": 125943,
+      "views_30d": 126649,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,7 +23,7 @@ window.DATA = {
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 33883,
+          "views": 34196,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "두 줄을 이렇게 이으면 절대 안 풀립니다 (아는 사람만 쓰는 매듭)",
-          "views": 1081,
+          "views": 1396,
           "date": "2026-06-12",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=2KHEZHjPpbA"
         },
         {
           "title": "짐 묶을 때 줄이 자꾸 풀린다면, 트럭커스 히치 하나면 끝",
-          "views": 1599,
+          "views": 1634,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VJreJqvAdtI"
@@ -74,14 +74,14 @@ window.DATA = {
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 2356,
+          "views": 2392,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
         },
         {
           "title": "배관 이음새 물 새는 진짜 이유 (생테이프 감는 법)",
-          "views": 2077,
+          "views": 2084,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=8YeMLAgaBEQ"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 33883,
+          "views": 34196,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sG6uwpWRzcU"
         }
       ],
-      "analyzed_at": "2026-06-12 15:07"
+      "analyzed_at": "2026-06-12 16:09"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,15 +130,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 14,
-      "avg_views": 546,
-      "median_views": 242,
+      "avg_views": 562,
+      "median_views": 306,
       "uploads_30d": 14,
-      "views_30d": 7651,
+      "views_30d": 7870,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 1863,
+          "views": 1951,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -175,21 +175,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 227,
+          "views": 355,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1,
+          "views": 4,
           "date": "2026-06-11",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=VxQ1vfTGrRs"
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 1863,
+          "views": 1951,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=itMPY_0k6AM"
         }
       ],
-      "analyzed_at": "2026-06-12 15:07"
+      "analyzed_at": "2026-06-12 16:09"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,29 +252,29 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 20,
-      "avg_views": 5201,
+      "avg_views": 5244,
       "median_views": 1892,
       "uploads_30d": 20,
-      "views_30d": 104037,
+      "views_30d": 104881,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29701,
+          "views": 29696,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 23637,
+          "views": 24143,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         },
         {
           "title": "엄마가 아니라 아빠가 낳습니다",
-          "views": 18643,
+          "views": 18644,
           "date": "2026-06-07",
           "duration": 13,
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
@@ -297,14 +297,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "해파리는 뇌도 심장도 없는데 어떻게 살까?",
-          "views": 1138,
+          "views": 1452,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
         },
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 1663,
+          "views": 1691,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
@@ -339,7 +339,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 23637,
+          "views": 24143,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=wkx55Mgruxg"
         }
       ],
-      "analyzed_at": "2026-06-12 15:08"
+      "analyzed_at": "2026-06-12 16:10"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1168,
+      "avg_views": 1177,
       "median_views": 1199,
       "uploads_30d": 20,
-      "views_30d": 23366,
+      "views_30d": 23547,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -419,14 +419,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "화면 밝기 1600니트면 반칙이죠, 아이패드 프로 11 M5",
-          "views": 647,
+          "views": 828,
           "date": "2026-06-12",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=uK333cNIYAQ"
         },
         {
           "title": "가벼운데 화면까지 좋은 노트북은 드물죠, 에이서 스위프트 고 16",
-          "views": 238,
+          "views": 239,
           "date": "2026-06-11",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=NZv2vgWmd0M"
@@ -440,7 +440,7 @@ window.DATA = {
         },
         {
           "title": "맥북에어 13 M4",
-          "views": 259,
+          "views": 260,
           "date": "2026-06-10",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=BElFmwn3X54"
@@ -461,7 +461,7 @@ window.DATA = {
         },
         {
           "title": "200W로 끌어쓰는 쿨링, 오래 돌려도 안 식는 게이밍 노트북 (레노버 리전 프로 5i)",
-          "views": 1401,
+          "views": 1399,
           "date": "2026-06-09",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=TTE6z9jbCp4"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=YkmumwUHeWk"
         }
       ],
-      "analyzed_at": "2026-06-12 15:08"
+      "analyzed_at": "2026-06-12 16:10"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 741,
+      "avg_views": 753,
       "median_views": 359,
       "uploads_30d": 20,
-      "views_30d": 14820,
+      "views_30d": 15074,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -541,14 +541,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "100만 원대에 펜까지 되는 2-in-1, 노트북도 태블릿도 되는 한 대",
-          "views": 903,
+          "views": 1155,
           "date": "2026-06-12",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=nPweXD4cGU0"
         },
         {
           "title": "큰 화면 노트북이 부담스러웠다면, 에이서 아스파이어 라이트 16",
-          "views": 621,
+          "views": 623,
           "date": "2026-06-11",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=GtEEFE4Gbuc"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=EBxp70Qmki8"
         }
       ],
-      "analyzed_at": "2026-06-12 15:08"
+      "analyzed_at": "2026-06-12 16:11"
     }
   ],
-  "generated_at": "2026-06-12 15:07"
+  "generated_at": "2026-06-12 16:09"
 };
