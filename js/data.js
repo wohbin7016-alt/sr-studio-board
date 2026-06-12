@@ -8,36 +8,36 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6341,
+      "avg_views": 6362,
       "median_views": 1964,
       "uploads_30d": 20,
-      "views_30d": 126834,
+      "views_30d": 127246,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 36327,
+          "views": 36693,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 34823,
+          "views": 34832,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15736,
+          "views": 15740,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6844,
+          "views": 6858,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -67,14 +67,14 @@ window.DATA = {
         },
         {
           "title": "짐 묶을 때 줄이 자꾸 풀린다면, 트럭커스 히치 하나면 끝",
-          "views": 1718,
+          "views": 1733,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VJreJqvAdtI"
         },
         {
           "title": "갈라진 배관, 테이프 말고 이걸로 (열수축튜브 밀봉)",
-          "views": 1647,
+          "views": 1651,
           "date": "2026-06-11",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=WvxSTsd6Zdc"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 36327,
+          "views": 36693,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6844,
+          "views": 6858,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
         }
       ],
-      "analyzed_at": "2026-06-12 22:22"
+      "analyzed_at": "2026-06-12 23:24"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,10 +130,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 15,
-      "avg_views": 615,
+      "avg_views": 637,
       "median_views": 465,
       "uploads_30d": 15,
-      "views_30d": 8611,
+      "views_30d": 8931,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -145,10 +145,17 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1711,
+          "views": 1712,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
+        },
+        {
+          "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
+          "views": 1194,
+          "date": "2026-06-12",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
         },
         {
           "title": "타이어 펑크, 빨간 보수봉으로 녹여 메우면 감쪽같이 사라진다",
@@ -163,13 +170,6 @@ window.DATA = {
           "date": "2026-06-09",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=FK-ioqCcmyc"
-        },
-        {
-          "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 876,
-          "date": "2026-06-12",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
         }
       ],
       "recent_videos": [
@@ -182,14 +182,14 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 876,
+          "views": 1194,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 4,
+          "views": 5,
           "date": "2026-06-11",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=VxQ1vfTGrRs"
@@ -210,7 +210,7 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1711,
+          "views": 1712,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jUjDTqHT8Yg"
         }
       ],
-      "analyzed_at": "2026-06-12 22:22"
+      "analyzed_at": "2026-06-12 23:24"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,36 +252,36 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 20,
-      "avg_views": 5418,
-      "median_views": 1908,
+      "avg_views": 5434,
+      "median_views": 1931,
       "uploads_30d": 20,
-      "views_30d": 108364,
+      "views_30d": 108690,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29760,
+          "views": 29775,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 25471,
+          "views": 25688,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         },
         {
           "title": "엄마가 아니라 아빠가 낳습니다",
-          "views": 18647,
+          "views": 18651,
           "date": "2026-06-07",
           "duration": 13,
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
         },
         {
           "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
-          "views": 6415,
+          "views": 6416,
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
@@ -297,7 +297,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 1541,
+          "views": 1560,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
@@ -311,14 +311,14 @@ window.DATA = {
         },
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 1880,
+          "views": 1927,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 2352,
+          "views": 2363,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
@@ -332,7 +332,7 @@ window.DATA = {
         },
         {
           "title": "나무늘보는 왜 이렇게 느릴까? 게을러서가 아니었습니다",
-          "views": 1772,
+          "views": 1781,
           "date": "2026-06-10",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=xH10zPmx90U"
@@ -346,27 +346,27 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 25471,
+          "views": 25688,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         },
         {
           "title": "개복치는 왜 반쪽 물고기처럼 생겼을까",
-          "views": 1849,
+          "views": 1851,
           "date": "2026-06-08",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=5lC25sq7Em4"
         },
         {
           "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
-          "views": 6415,
+          "views": 6416,
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
         }
       ],
-      "analyzed_at": "2026-06-12 22:23"
+      "analyzed_at": "2026-06-12 23:25"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1199,
+      "avg_views": 1216,
       "median_views": 1199,
       "uploads_30d": 20,
-      "views_30d": 23993,
+      "views_30d": 24326,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -419,21 +419,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
-          "views": 576,
+          "views": 898,
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
         },
         {
           "title": "화면 밝기 1600니트면 반칙이죠, 아이패드 프로 11 M5",
-          "views": 928,
+          "views": 931,
           "date": "2026-06-12",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=uK333cNIYAQ"
         },
         {
           "title": "가벼운데 화면까지 좋은 노트북은 드물죠, 에이서 스위프트 고 16",
-          "views": 239,
+          "views": 243,
           "date": "2026-06-11",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=NZv2vgWmd0M"
@@ -468,7 +468,7 @@ window.DATA = {
         },
         {
           "title": "200W로 끌어쓰는 쿨링, 오래 돌려도 안 식는 게이밍 노트북 (레노버 리전 프로 5i)",
-          "views": 1401,
+          "views": 1404,
           "date": "2026-06-09",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=TTE6z9jbCp4"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=lbKXPjJZw34"
         }
       ],
-      "analyzed_at": "2026-06-12 22:23"
+      "analyzed_at": "2026-06-12 23:25"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,15 +496,15 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 804,
+      "avg_views": 825,
       "median_views": 403,
       "uploads_30d": 20,
-      "views_30d": 16082,
+      "views_30d": 16514,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "15.6인치인데 1.7kg, 하루종일 가는 HP 옴니북3",
-          "views": 2302,
+          "views": 2303,
           "date": "2026-06-06",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=-CPt3w0i-YY"
@@ -541,14 +541,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 801,
+          "views": 1230,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
         },
         {
           "title": "100만 원대에 펜까지 되는 2-in-1, 노트북도 태블릿도 되는 한 대",
-          "views": 1352,
+          "views": 1354,
           "date": "2026-06-12",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=nPweXD4cGU0"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zDJ50Ck_HKY"
         }
       ],
-      "analyzed_at": "2026-06-12 22:24"
+      "analyzed_at": "2026-06-12 23:26"
     }
   ],
-  "generated_at": "2026-06-12 22:22"
+  "generated_at": "2026-06-12 23:24"
 };
