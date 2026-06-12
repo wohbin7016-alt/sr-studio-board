@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6626,
+      "avg_views": 6650,
       "median_views": 2485,
       "uploads_30d": 20,
-      "views_30d": 132539,
+      "views_30d": 133015,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 38892,
+          "views": 39287,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "두 줄을 이렇게 이으면 절대 안 풀립니다 (아는 사람만 쓰는 매듭)",
-          "views": 1545,
+          "views": 1622,
           "date": "2026-06-12",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=2KHEZHjPpbA"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "갈라진 배관, 테이프 말고 이걸로 (열수축튜브 밀봉)",
-          "views": 1664,
+          "views": 1668,
           "date": "2026-06-11",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=WvxSTsd6Zdc"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 38892,
+          "views": 39287,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sG6uwpWRzcU"
         }
       ],
-      "analyzed_at": "2026-06-13 06:37"
+      "analyzed_at": "2026-06-13 07:39"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -133,7 +133,7 @@ window.DATA = {
       "avg_views": 611,
       "median_views": 260,
       "uploads_30d": 15,
-      "views_30d": 9169,
+      "views_30d": 9166,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -152,7 +152,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1205,
+          "views": 1202,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -182,7 +182,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1205,
+          "views": 1202,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jUjDTqHT8Yg"
         }
       ],
-      "analyzed_at": "2026-06-13 06:38"
+      "analyzed_at": "2026-06-13 07:39"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 20,
-      "avg_views": 5576,
-      "median_views": 1967,
+      "avg_views": 5580,
+      "median_views": 1968,
       "uploads_30d": 20,
-      "views_30d": 111522,
+      "views_30d": 111609,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
@@ -267,14 +267,14 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 27097,
+          "views": 27173,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         },
         {
           "title": "엄마가 아니라 아빠가 낳습니다",
-          "views": 18653,
+          "views": 18656,
           "date": "2026-06-07",
           "duration": 13,
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
@@ -297,7 +297,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 2363,
+          "views": 2370,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
@@ -346,7 +346,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 27097,
+          "views": 27173,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
         }
       ],
-      "analyzed_at": "2026-06-13 06:38"
+      "analyzed_at": "2026-06-13 07:40"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -375,9 +375,9 @@ window.DATA = {
       "subscribers": 73000,
       "sampled": 20,
       "avg_views": 1262,
-      "median_views": 1395,
+      "median_views": 1396,
       "uploads_30d": 20,
-      "views_30d": 25247,
+      "views_30d": 25252,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -403,7 +403,7 @@ window.DATA = {
         },
         {
           "title": "노트북 여러 개 띄워도 안 버벅, 레노버 씽크패드 X13 32GB",
-          "views": 2153,
+          "views": 2154,
           "date": "2026-06-03",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=MKzwMStev_c"
@@ -426,7 +426,7 @@ window.DATA = {
         },
         {
           "title": "화면 밝기 1600니트면 반칙이죠, 아이패드 프로 11 M5",
-          "views": 929,
+          "views": 930,
           "date": "2026-06-12",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=uK333cNIYAQ"
@@ -475,7 +475,7 @@ window.DATA = {
         },
         {
           "title": "색 보는 사람들이 조용히 담는 노트북, 기가바이트 에어로 X16",
-          "views": 1013,
+          "views": 1015,
           "date": "2026-06-08",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=tTZvNISvqco"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=lbKXPjJZw34"
         }
       ],
-      "analyzed_at": "2026-06-13 06:38"
+      "analyzed_at": "2026-06-13 07:40"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -499,7 +499,7 @@ window.DATA = {
       "avg_views": 863,
       "median_views": 403,
       "uploads_30d": 20,
-      "views_30d": 17264,
+      "views_30d": 17266,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -532,7 +532,7 @@ window.DATA = {
         },
         {
           "title": "사무용 노트북 고민 끝, HP 옴니북 5 14",
-          "views": 1962,
+          "views": 1963,
           "date": "2026-06-04",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=qPbm0WtYs9I"
@@ -548,7 +548,7 @@ window.DATA = {
         },
         {
           "title": "100만 원대에 펜까지 되는 2-in-1, 노트북도 태블릿도 되는 한 대",
-          "views": 1348,
+          "views": 1349,
           "date": "2026-06-12",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=nPweXD4cGU0"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zDJ50Ck_HKY"
         }
       ],
-      "analyzed_at": "2026-06-13 06:39"
+      "analyzed_at": "2026-06-13 07:40"
     }
   ],
-  "generated_at": "2026-06-13 06:37"
+  "generated_at": "2026-06-13 07:39"
 };
