@@ -8,36 +8,36 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6383,
-      "median_views": 2239,
+      "avg_views": 6417,
+      "median_views": 2271,
       "uploads_30d": 20,
-      "views_30d": 127661,
+      "views_30d": 128340,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 35049,
+          "views": 35449,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 34786,
+          "views": 34821,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15703,
+          "views": 15728,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6798,
+          "views": 6842,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -53,63 +53,63 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "두 줄을 이렇게 이으면 절대 안 풀립니다 (아는 사람만 쓰는 매듭)",
-          "views": 1417,
+          "views": 1449,
           "date": "2026-06-12",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=2KHEZHjPpbA"
         },
         {
           "title": "짐 묶을 때 줄이 자꾸 풀린다면, 트럭커스 히치 하나면 끝",
-          "views": 1634,
+          "views": 1698,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VJreJqvAdtI"
         },
         {
           "title": "갈라진 배관, 테이프 말고 이걸로 (열수축튜브 밀봉)",
-          "views": 1642,
+          "views": 1643,
           "date": "2026-06-11",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=WvxSTsd6Zdc"
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 2392,
+          "views": 2453,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
         },
         {
           "title": "배관 이음새 물 새는 진짜 이유 (생테이프 감는 법)",
-          "views": 2087,
+          "views": 2090,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=8YeMLAgaBEQ"
         },
         {
           "title": "짐 묶을 때 이렇게 안 하면 가다가 다 풀립니다 (트럭커 매듭)",
-          "views": 3619,
+          "views": 3628,
           "date": "2026-06-09",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=BKs7ZikMBOA"
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 35049,
+          "views": 35449,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
         },
         {
           "title": "울타리 와이어 이렇게 묶으면 금방 풀립니다, 안 풀리는 법",
-          "views": 1445,
+          "views": 1449,
           "date": "2026-06-08",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=myFVupwUnAs"
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6798,
+          "views": 6842,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sG6uwpWRzcU"
         }
       ],
-      "analyzed_at": "2026-06-12 18:13"
+      "analyzed_at": "2026-06-12 19:16"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,22 +130,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 14,
-      "avg_views": 571,
-      "median_views": 344,
+      "avg_views": 574,
+      "median_views": 315,
       "uploads_30d": 14,
-      "views_30d": 7995,
+      "views_30d": 8049,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 1968,
+          "views": 2075,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1706,
+          "views": 1711,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -175,7 +175,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 432,
+          "views": 373,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -189,21 +189,21 @@ window.DATA = {
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 1968,
+          "views": 2075,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         },
         {
           "title": "스로틀보디 카본청소 공회전 떨림",
-          "views": 5,
+          "views": 6,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=Qt4v6vKQ7iE"
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1706,
+          "views": 1711,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=itMPY_0k6AM"
         }
       ],
-      "analyzed_at": "2026-06-12 18:14"
+      "analyzed_at": "2026-06-12 19:16"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 20,
-      "avg_views": 5281,
+      "avg_views": 5293,
       "median_views": 1892,
       "uploads_30d": 20,
-      "views_30d": 105629,
+      "views_30d": 105870,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
@@ -267,14 +267,14 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 24648,
+          "views": 24883,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         },
         {
           "title": "엄마가 아니라 아빠가 낳습니다",
-          "views": 18644,
+          "views": 18647,
           "date": "2026-06-07",
           "duration": 13,
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
@@ -311,7 +311,7 @@ window.DATA = {
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 2350,
+          "views": 2352,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
@@ -339,7 +339,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 24648,
+          "views": 24883,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=wkx55Mgruxg"
         }
       ],
-      "analyzed_at": "2026-06-12 18:14"
+      "analyzed_at": "2026-06-12 19:16"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -377,7 +377,7 @@ window.DATA = {
       "avg_views": 1182,
       "median_views": 1199,
       "uploads_30d": 20,
-      "views_30d": 23644,
+      "views_30d": 23648,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -433,7 +433,7 @@ window.DATA = {
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1663,
+          "views": 1664,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -461,7 +461,7 @@ window.DATA = {
         },
         {
           "title": "200W로 끌어쓰는 쿨링, 오래 돌려도 안 식는 게이밍 노트북 (레노버 리전 프로 5i)",
-          "views": 1400,
+          "views": 1401,
           "date": "2026-06-09",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=TTE6z9jbCp4"
@@ -482,13 +482,13 @@ window.DATA = {
         },
         {
           "title": "200만 원짜리 노트북 살 뻔했죠? 90만원대 비보북 16",
-          "views": 529,
+          "views": 531,
           "date": "2026-06-07",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=YkmumwUHeWk"
         }
       ],
-      "analyzed_at": "2026-06-12 18:15"
+      "analyzed_at": "2026-06-12 19:17"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -497,9 +497,9 @@ window.DATA = {
       "subscribers": 2360,
       "sampled": 20,
       "avg_views": 763,
-      "median_views": 359,
+      "median_views": 360,
       "uploads_30d": 20,
-      "views_30d": 15268,
+      "views_30d": 15274,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -590,14 +590,14 @@ window.DATA = {
         },
         {
           "title": "140만 원대 RTX 5060 게이밍, MSI 사이보그 15 가성비 반칙입니다",
-          "views": 385,
+          "views": 388,
           "date": "2026-06-08",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=ewhPwTe3i2I"
         },
         {
           "title": "한 바퀴 접히는 노트북, HP 옴니북X 플립 14 한 대로 다 끝냅니다",
-          "views": 417,
+          "views": 418,
           "date": "2026-06-08",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=zDJ50Ck_HKY"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=EBxp70Qmki8"
         }
       ],
-      "analyzed_at": "2026-06-12 18:15"
+      "analyzed_at": "2026-06-12 19:17"
     }
   ],
-  "generated_at": "2026-06-12 18:13"
+  "generated_at": "2026-06-12 19:16"
 };
