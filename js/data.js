@@ -8,29 +8,29 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6541,
+      "avg_views": 6566,
       "median_views": 2435,
       "uploads_30d": 20,
-      "views_30d": 130830,
+      "views_30d": 131325,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 37461,
+          "views": 37853,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 34840,
+          "views": 34832,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15739,
+          "views": 15777,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "두 줄을 이렇게 이으면 절대 안 풀립니다 (아는 사람만 쓰는 매듭)",
-          "views": 1477,
+          "views": 1506,
           "date": "2026-06-12",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=2KHEZHjPpbA"
         },
         {
           "title": "짐 묶을 때 줄이 자꾸 풀린다면, 트럭커스 히치 하나면 끝",
-          "views": 1733,
+          "views": 1777,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VJreJqvAdtI"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 37461,
+          "views": 37853,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sG6uwpWRzcU"
         }
       ],
-      "analyzed_at": "2026-06-13 01:28"
+      "analyzed_at": "2026-06-13 02:30"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jUjDTqHT8Yg"
         }
       ],
-      "analyzed_at": "2026-06-13 01:29"
+      "analyzed_at": "2026-06-13 02:31"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 20,
-      "avg_views": 5506,
-      "median_views": 1937,
+      "avg_views": 5536,
+      "median_views": 1967,
       "uploads_30d": 20,
-      "views_30d": 110123,
+      "views_30d": 110720,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
@@ -267,14 +267,14 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 26375,
+          "views": 26603,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         },
         {
           "title": "엄마가 아니라 아빠가 낳습니다",
-          "views": 18653,
+          "views": 18651,
           "date": "2026-06-07",
           "duration": 13,
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
@@ -297,28 +297,28 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 2288,
+          "views": 2332,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         },
         {
           "title": "해파리는 뇌도 심장도 없는데 어떻게 살까?",
-          "views": 1802,
+          "views": 1845,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
         },
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 1927,
+          "views": 2138,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 2378,
+          "views": 2428,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
@@ -339,14 +339,14 @@ window.DATA = {
         },
         {
           "title": "물곰은 왜 우주 진공에서도 안 죽을까",
-          "views": 1436,
+          "views": 1459,
           "date": "2026-06-09",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=mjilLlq_T-c"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 26375,
+          "views": 26603,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
         }
       ],
-      "analyzed_at": "2026-06-13 01:29"
+      "analyzed_at": "2026-06-13 02:31"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1241,
+      "avg_views": 1259,
       "median_views": 1394,
       "uploads_30d": 20,
-      "views_30d": 24838,
+      "views_30d": 25191,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -419,7 +419,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
-          "views": 1405,
+          "views": 1760,
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
@@ -440,7 +440,7 @@ window.DATA = {
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1669,
+          "views": 1667,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=lbKXPjJZw34"
         }
       ],
-      "analyzed_at": "2026-06-13 01:30"
+      "analyzed_at": "2026-06-13 02:31"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 858,
+      "avg_views": 862,
       "median_views": 403,
       "uploads_30d": 20,
-      "views_30d": 17171,
+      "views_30d": 17259,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -524,24 +524,24 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Sqiwn2F0g_0"
         },
         {
+          "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
+          "views": 1976,
+          "date": "2026-06-12",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
+        },
+        {
           "title": "사무용 노트북 고민 끝, HP 옴니북 5 14",
           "views": 1962,
           "date": "2026-06-04",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=qPbm0WtYs9I"
-        },
-        {
-          "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1908,
-          "date": "2026-06-11",
-          "duration": 36,
-          "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
         }
       ],
       "recent_videos": [
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 1886,
+          "views": 1976,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -555,7 +555,7 @@ window.DATA = {
         },
         {
           "title": "큰 화면 노트북이 부담스러웠다면, 에이서 아스파이어 라이트 16",
-          "views": 624,
+          "views": 622,
           "date": "2026-06-11",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=GtEEFE4Gbuc"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zDJ50Ck_HKY"
         }
       ],
-      "analyzed_at": "2026-06-13 01:30"
+      "analyzed_at": "2026-06-13 02:32"
     }
   ],
-  "generated_at": "2026-06-13 01:28"
+  "generated_at": "2026-06-13 02:30"
 };
