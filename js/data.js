@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31600,
       "sampled": 20,
-      "avg_views": 6283,
+      "avg_views": 6297,
       "median_views": 2216,
       "uploads_30d": 20,
-      "views_30d": 125669,
+      "views_30d": 125943,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,7 +23,7 @@ window.DATA = {
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 33811,
+          "views": 33883,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6732,
+          "views": 6798,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "두 줄을 이렇게 이으면 절대 안 풀립니다 (아는 사람만 쓰는 매듭)",
-          "views": 975,
+          "views": 1081,
           "date": "2026-06-12",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=2KHEZHjPpbA"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "갈라진 배관, 테이프 말고 이걸로 (열수축튜브 밀봉)",
-          "views": 1614,
+          "views": 1639,
           "date": "2026-06-11",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=WvxSTsd6Zdc"
@@ -88,14 +88,14 @@ window.DATA = {
         },
         {
           "title": "짐 묶을 때 이렇게 안 하면 가다가 다 풀립니다 (트럭커 매듭)",
-          "views": 3590,
+          "views": 3595,
           "date": "2026-06-09",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=BKs7ZikMBOA"
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 33811,
+          "views": 33883,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6732,
+          "views": 6798,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sG6uwpWRzcU"
         }
       ],
-      "analyzed_at": "2026-06-12 14:04"
+      "analyzed_at": "2026-06-12 15:07"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,10 +130,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 14,
-      "avg_views": 540,
-      "median_views": 202,
+      "avg_views": 546,
+      "median_views": 242,
       "uploads_30d": 14,
-      "views_30d": 7571,
+      "views_30d": 7651,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -175,7 +175,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 147,
+          "views": 227,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=itMPY_0k6AM"
         }
       ],
-      "analyzed_at": "2026-06-12 14:05"
+      "analyzed_at": "2026-06-12 15:07"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,15 +252,15 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 20,
-      "avg_views": 5187,
+      "avg_views": 5201,
       "median_views": 1892,
       "uploads_30d": 20,
-      "views_30d": 103743,
+      "views_30d": 104037,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29696,
+          "views": 29701,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
@@ -274,14 +274,14 @@ window.DATA = {
         },
         {
           "title": "엄마가 아니라 아빠가 낳습니다",
-          "views": 18642,
+          "views": 18643,
           "date": "2026-06-07",
           "duration": 13,
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
         },
         {
           "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
-          "views": 6341,
+          "views": 6414,
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
@@ -297,21 +297,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "해파리는 뇌도 심장도 없는데 어떻게 살까?",
-          "views": 960,
+          "views": 1138,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
         },
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 1640,
+          "views": 1663,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 2340,
+          "views": 2350,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
@@ -325,7 +325,7 @@ window.DATA = {
         },
         {
           "title": "나무늘보는 왜 이렇게 느릴까? 게을러서가 아니었습니다",
-          "views": 1756,
+          "views": 1757,
           "date": "2026-06-10",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=xH10zPmx90U"
@@ -353,7 +353,7 @@ window.DATA = {
         },
         {
           "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
-          "views": 6341,
+          "views": 6414,
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=wkx55Mgruxg"
         }
       ],
-      "analyzed_at": "2026-06-12 14:05"
+      "analyzed_at": "2026-06-12 15:08"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1166,
+      "avg_views": 1168,
       "median_views": 1199,
       "uploads_30d": 20,
-      "views_30d": 23336,
+      "views_30d": 23366,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -419,7 +419,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "화면 밝기 1600니트면 반칙이죠, 아이패드 프로 11 M5",
-          "views": 618,
+          "views": 647,
           "date": "2026-06-12",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=uK333cNIYAQ"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=YkmumwUHeWk"
         }
       ],
-      "analyzed_at": "2026-06-12 14:06"
+      "analyzed_at": "2026-06-12 15:08"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 732,
+      "avg_views": 741,
       "median_views": 359,
       "uploads_30d": 20,
-      "views_30d": 14647,
+      "views_30d": 14820,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -511,7 +511,7 @@ window.DATA = {
         },
         {
           "title": "맥북 에어보다 가볍다는데 OLED까지? 에이수스 젠북 A14",
-          "views": 2109,
+          "views": 2115,
           "date": "2026-06-05",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1raeCQRyK1w"
@@ -541,7 +541,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "100만 원대에 펜까지 되는 2-in-1, 노트북도 태블릿도 되는 한 대",
-          "views": 735,
+          "views": 903,
           "date": "2026-06-12",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=nPweXD4cGU0"
@@ -583,7 +583,7 @@ window.DATA = {
         },
         {
           "title": "100만 원 초반 OLED 노트북, 이걸 모르고 지나치면 손해예요 (레노버 아이디어패드 슬림 5 14)",
-          "views": 334,
+          "views": 333,
           "date": "2026-06-09",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=Ks_8EIRfPU0"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=EBxp70Qmki8"
         }
       ],
-      "analyzed_at": "2026-06-12 14:07"
+      "analyzed_at": "2026-06-12 15:08"
     }
   ],
-  "generated_at": "2026-06-12 14:04"
+  "generated_at": "2026-06-12 15:07"
 };
