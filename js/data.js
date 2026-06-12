@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6437,
-      "median_views": 2305,
+      "avg_views": 6294,
+      "median_views": 1960,
       "uploads_30d": 20,
-      "views_30d": 128752,
+      "views_30d": 125897,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 35764,
+          "views": 36088,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15730,
+          "views": 15735,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -51,6 +51,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "파이프에 로프 걸면 자꾸 미끄러진다? 90%가 모르는 매듭입니다",
+          "views": 287,
+          "date": "2026-06-12",
+          "duration": 29,
+          "url": "https://www.youtube.com/watch?v=9mvU8TjsD4c"
+        },
         {
           "title": "두 줄을 이렇게 이으면 절대 안 풀립니다 (아는 사람만 쓰는 매듭)",
           "views": 1463,
@@ -74,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 2519,
+          "views": 2613,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
@@ -95,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 35764,
+          "views": 36088,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -113,27 +120,20 @@ window.DATA = {
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
-        },
-        {
-          "title": "몰딩 굴곡에 장판 딱 맞게 붙이는 법, 연필 하나면 끝",
-          "views": 1829,
-          "date": "2026-06-07",
-          "duration": 15,
-          "url": "https://www.youtube.com/watch?v=sG6uwpWRzcU"
         }
       ],
-      "analyzed_at": "2026-06-12 20:18"
+      "analyzed_at": "2026-06-12 21:20"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
       "name": "메카닉스튜디오",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
-      "sampled": 14,
-      "avg_views": 602,
+      "sampled": 15,
+      "avg_views": 612,
       "median_views": 465,
-      "uploads_30d": 14,
-      "views_30d": 8430,
+      "uploads_30d": 15,
+      "views_30d": 8574,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -166,7 +166,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 754,
+          "views": 898,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -174,8 +174,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "BMW E46 오일이 자꾸 샌다면, 진짜 원인은 따로 있습니다",
+          "views": 0,
+          "date": "2026-06-12",
+          "duration": 23,
+          "url": "https://www.youtube.com/watch?v=eREKNXppMfw"
+        },
+        {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 754,
+          "views": 898,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -235,16 +242,9 @@ window.DATA = {
           "date": "2026-06-08",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=jUjDTqHT8Yg"
-        },
-        {
-          "title": "차 밑 이 고무 주름 찢어지면, 등속조인트가 통째로 망가집니다",
-          "views": 3,
-          "date": "2026-06-07",
-          "duration": 15,
-          "url": "https://www.youtube.com/watch?v=itMPY_0k6AM"
         }
       ],
-      "analyzed_at": "2026-06-12 20:18"
+      "analyzed_at": "2026-06-12 21:20"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,22 +252,22 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 20,
-      "avg_views": 5311,
-      "median_views": 1892,
+      "avg_views": 5343,
+      "median_views": 1895,
       "uploads_30d": 20,
-      "views_30d": 106226,
+      "views_30d": 106863,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29716,
+          "views": 29760,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 25110,
+          "views": 25299,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -296,6 +296,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
+          "views": 313,
+          "date": "2026-06-12",
+          "duration": 23,
+          "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
+        },
+        {
           "title": "해파리는 뇌도 심장도 없는데 어떻게 살까?",
           "views": 1758,
           "date": "2026-06-12",
@@ -304,7 +311,7 @@ window.DATA = {
         },
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 1733,
+          "views": 1856,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
@@ -339,7 +346,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 25110,
+          "views": 25299,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -357,16 +364,9 @@ window.DATA = {
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
-        },
-        {
-          "title": "고양이는 왜 박스만 보면 들어갈까",
-          "views": 3745,
-          "date": "2026-06-07",
-          "duration": 14,
-          "url": "https://www.youtube.com/watch?v=wkx55Mgruxg"
         }
       ],
-      "analyzed_at": "2026-06-12 20:18"
+      "analyzed_at": "2026-06-12 21:21"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1182,
+      "avg_views": 1189,
       "median_views": 1199,
       "uploads_30d": 20,
-      "views_30d": 23649,
+      "views_30d": 23785,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -418,8 +418,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
+          "views": 371,
+          "date": "2026-06-12",
+          "duration": 37,
+          "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
+        },
+        {
           "title": "화면 밝기 1600니트면 반칙이죠, 아이패드 프로 11 M5",
-          "views": 922,
+          "views": 927,
           "date": "2026-06-12",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=uK333cNIYAQ"
@@ -447,7 +454,7 @@ window.DATA = {
         },
         {
           "title": "입문 게이밍은 결국 이 한 대로 끝납니다 (HP 빅터스 15 RTX4060)",
-          "views": 701,
+          "views": 702,
           "date": "2026-06-10",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=5Uvxgkbojus"
@@ -479,16 +486,9 @@ window.DATA = {
           "date": "2026-06-08",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=lbKXPjJZw34"
-        },
-        {
-          "title": "200만 원짜리 노트북 살 뻔했죠? 90만원대 비보북 16",
-          "views": 531,
-          "date": "2026-06-07",
-          "duration": 16,
-          "url": "https://www.youtube.com/watch?v=YkmumwUHeWk"
         }
       ],
-      "analyzed_at": "2026-06-12 20:19"
+      "analyzed_at": "2026-06-12 21:21"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 764,
-      "median_views": 360,
+      "avg_views": 781,
+      "median_views": 372,
       "uploads_30d": 20,
-      "views_30d": 15281,
+      "views_30d": 15637,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -539,6 +539,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
+          "views": 356,
+          "date": "2026-06-12",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
+        },
         {
           "title": "100만 원대에 펜까지 되는 2-in-1, 노트북도 태블릿도 되는 한 대",
           "views": 1352,
@@ -590,7 +597,7 @@ window.DATA = {
         },
         {
           "title": "140만 원대 RTX 5060 게이밍, MSI 사이보그 15 가성비 반칙입니다",
-          "views": 387,
+          "views": 388,
           "date": "2026-06-08",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=ewhPwTe3i2I"
@@ -601,17 +608,10 @@ window.DATA = {
           "date": "2026-06-08",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=zDJ50Ck_HKY"
-        },
-        {
-          "title": "13인치 쓰다 이거 보면 못 돌아갑니다, 비보북 16",
-          "views": 219,
-          "date": "2026-06-07",
-          "duration": 15,
-          "url": "https://www.youtube.com/watch?v=EBxp70Qmki8"
         }
       ],
-      "analyzed_at": "2026-06-12 20:19"
+      "analyzed_at": "2026-06-12 21:21"
     }
   ],
-  "generated_at": "2026-06-12 20:18"
+  "generated_at": "2026-06-12 21:20"
 };
