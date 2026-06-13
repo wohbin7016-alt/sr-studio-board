@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6650,
-      "median_views": 2485,
+      "avg_views": 6682,
+      "median_views": 2494,
       "uploads_30d": 20,
-      "views_30d": 133015,
+      "views_30d": 133651,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 39287,
+          "views": 39729,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6863,
+          "views": 6866,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "두 줄을 이렇게 이으면 절대 안 풀립니다 (아는 사람만 쓰는 매듭)",
-          "views": 1622,
+          "views": 1688,
           "date": "2026-06-12",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=2KHEZHjPpbA"
@@ -74,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 2849,
+          "views": 2968,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
@@ -88,14 +88,14 @@ window.DATA = {
         },
         {
           "title": "짐 묶을 때 이렇게 안 하면 가다가 다 풀립니다 (트럭커 매듭)",
-          "views": 3642,
+          "views": 3648,
           "date": "2026-06-09",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=BKs7ZikMBOA"
         },
         {
           "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 39287,
+          "views": 39729,
           "date": "2026-06-09",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6863,
+          "views": 6866,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sG6uwpWRzcU"
         }
       ],
-      "analyzed_at": "2026-06-13 07:39"
+      "analyzed_at": "2026-06-13 08:41"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,29 +130,29 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 15,
-      "avg_views": 611,
+      "avg_views": 613,
       "median_views": 260,
       "uploads_30d": 15,
-      "views_30d": 9166,
+      "views_30d": 9205,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 2333,
+          "views": 2364,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1735,
+          "views": 1747,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1202,
+          "views": 1198,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -182,7 +182,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1202,
+          "views": 1198,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -196,7 +196,7 @@ window.DATA = {
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 2333,
+          "views": 2364,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -210,7 +210,7 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1735,
+          "views": 1747,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jUjDTqHT8Yg"
         }
       ],
-      "analyzed_at": "2026-06-13 07:39"
+      "analyzed_at": "2026-06-13 08:41"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -255,7 +255,7 @@ window.DATA = {
       "avg_views": 5580,
       "median_views": 1968,
       "uploads_30d": 20,
-      "views_30d": 111609,
+      "views_30d": 111615,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
@@ -267,14 +267,14 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 27173,
+          "views": 27097,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         },
         {
           "title": "엄마가 아니라 아빠가 낳습니다",
-          "views": 18656,
+          "views": 18653,
           "date": "2026-06-07",
           "duration": 13,
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
@@ -297,7 +297,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 2370,
+          "views": 2454,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
@@ -332,7 +332,7 @@ window.DATA = {
         },
         {
           "title": "나무늘보는 왜 이렇게 느릴까? 게을러서가 아니었습니다",
-          "views": 1809,
+          "views": 1810,
           "date": "2026-06-10",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=xH10zPmx90U"
@@ -346,7 +346,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 27173,
+          "views": 27097,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
         }
       ],
-      "analyzed_at": "2026-06-13 07:40"
+      "analyzed_at": "2026-06-13 08:41"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1262,
-      "median_views": 1396,
+      "avg_views": 1264,
+      "median_views": 1398,
       "uploads_30d": 20,
-      "views_30d": 25252,
+      "views_30d": 25280,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -410,7 +410,7 @@ window.DATA = {
         },
         {
           "title": "16인치 노트북이 100만원도 안 한다고? 레노버 씽크북 16",
-          "views": 1921,
+          "views": 1924,
           "date": "2026-06-04",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=P8x9zNNTdyc"
@@ -419,56 +419,56 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
-          "views": 1811,
+          "views": 1823,
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
         },
         {
           "title": "화면 밝기 1600니트면 반칙이죠, 아이패드 프로 11 M5",
-          "views": 930,
+          "views": 932,
           "date": "2026-06-12",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=uK333cNIYAQ"
         },
         {
           "title": "가벼운데 화면까지 좋은 노트북은 드물죠, 에이서 스위프트 고 16",
-          "views": 242,
+          "views": 245,
           "date": "2026-06-11",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=NZv2vgWmd0M"
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1672,
+          "views": 1673,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
         },
         {
           "title": "맥북에어 13 M4",
-          "views": 260,
+          "views": 261,
           "date": "2026-06-10",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=BElFmwn3X54"
         },
         {
           "title": "입문 게이밍은 결국 이 한 대로 끝납니다 (HP 빅터스 15 RTX4060)",
-          "views": 702,
+          "views": 703,
           "date": "2026-06-10",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=5Uvxgkbojus"
         },
         {
           "title": "가방에 넣은 줄도 모를 1kg, 14인치 2.8K OLED 들고 다니는 노트북 (레노버 요가 슬림 7i 울트라)",
-          "views": 1741,
+          "views": 1742,
           "date": "2026-06-09",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=HBrDMeUg5jo"
         },
         {
           "title": "200W로 끌어쓰는 쿨링, 오래 돌려도 안 식는 게이밍 노트북 (레노버 리전 프로 5i)",
-          "views": 1406,
+          "views": 1407,
           "date": "2026-06-09",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=TTE6z9jbCp4"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=lbKXPjJZw34"
         }
       ],
-      "analyzed_at": "2026-06-13 07:40"
+      "analyzed_at": "2026-06-13 08:42"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 863,
+      "avg_views": 864,
       "median_views": 403,
       "uploads_30d": 20,
-      "views_30d": 17266,
+      "views_30d": 17282,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -525,7 +525,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 1985,
+          "views": 2001,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -541,7 +541,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 1985,
+          "views": 2001,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zDJ50Ck_HKY"
         }
       ],
-      "analyzed_at": "2026-06-13 07:40"
+      "analyzed_at": "2026-06-13 08:42"
     }
   ],
-  "generated_at": "2026-06-13 07:39"
+  "generated_at": "2026-06-13 08:41"
 };
