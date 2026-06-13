@@ -126,7 +126,7 @@ window.DATA = {
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
-      "name": "메카닉스튜디오",
+      "name": "비하인드썰",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 16,
