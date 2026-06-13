@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 5977,
+      "avg_views": 5980,
       "median_views": 2638,
       "uploads_30d": 20,
-      "views_30d": 119542,
+      "views_30d": 119616,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15940,
+          "views": 15971,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 1548,
+          "views": 1556,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 3112,
+          "views": 3147,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15940,
+          "views": 15971,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=lAM3KPBJXD8"
         }
       ],
-      "analyzed_at": "2026-06-13 17:59"
+      "analyzed_at": "2026-06-13 19:01"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,22 +130,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 16,
-      "avg_views": 651,
-      "median_views": 354,
+      "avg_views": 669,
+      "median_views": 419,
       "uploads_30d": 16,
-      "views_30d": 10431,
+      "views_30d": 10714,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 2684,
+          "views": 2787,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 2078,
+          "views": 2129,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -175,7 +175,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 449,
+          "views": 578,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -203,7 +203,7 @@ window.DATA = {
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 2684,
+          "views": 2787,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -217,7 +217,7 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 2078,
+          "views": 2129,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=fpnpLXrSJ7A"
         }
       ],
-      "analyzed_at": "2026-06-13 17:59"
+      "analyzed_at": "2026-06-13 19:01"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,15 +252,15 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 20,
-      "avg_views": 5751,
+      "avg_views": 5765,
       "median_views": 2016,
       "uploads_30d": 20,
-      "views_30d": 115038,
+      "views_30d": 115301,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29836,
+          "views": 29845,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
@@ -297,7 +297,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 1273,
+          "views": 1487,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -318,7 +318,7 @@ window.DATA = {
         },
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 2424,
+          "views": 2466,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=5lC25sq7Em4"
         }
       ],
-      "analyzed_at": "2026-06-13 18:00"
+      "analyzed_at": "2026-06-13 19:02"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1245,
-      "median_views": 1415,
+      "avg_views": 1199,
+      "median_views": 1407,
       "uploads_30d": 20,
-      "views_30d": 24912,
+      "views_30d": 22795,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -395,13 +395,6 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=lbKXPjJZw34"
         },
         {
-          "title": "노트북 여러 개 띄워도 안 버벅, 레노버 씽크패드 X13 32GB",
-          "views": 2156,
-          "date": "2026-06-03",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=MKzwMStev_c"
-        },
-        {
           "title": "16인치 노트북이 100만원도 안 한다고? 레노버 씽크북 16",
           "views": 1925,
           "date": "2026-06-04",
@@ -414,12 +407,26 @@ window.DATA = {
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
+        },
+        {
+          "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
+          "views": 1833,
+          "date": "2026-06-13",
+          "duration": 39,
+          "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
         }
       ],
       "recent_videos": [
         {
+          "title": "옵션 건드리면 손해, 맥북에어 15 M4 기본형이 답인 이유",
+          "views": 0,
+          "date": "2026-06-13",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=Avpyw0U75Dg"
+        },
+        {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1806,
+          "views": 1833,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
@@ -433,7 +440,7 @@ window.DATA = {
         },
         {
           "title": "화면 밝기 1600니트면 반칙이죠, 아이패드 프로 11 M5",
-          "views": 936,
+          "views": 938,
           "date": "2026-06-12",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=uK333cNIYAQ"
@@ -447,7 +454,7 @@ window.DATA = {
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1680,
+          "views": 1686,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -479,16 +486,9 @@ window.DATA = {
           "date": "2026-06-09",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=TTE6z9jbCp4"
-        },
-        {
-          "title": "색 보는 사람들이 조용히 담는 노트북, 기가바이트 에어로 X16",
-          "views": 1023,
-          "date": "2026-06-08",
-          "duration": 33,
-          "url": "https://www.youtube.com/watch?v=tTZvNISvqco"
         }
       ],
-      "analyzed_at": "2026-06-13 18:00"
+      "analyzed_at": "2026-06-13 19:02"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 930,
+      "avg_views": 932,
       "median_views": 503,
       "uploads_30d": 20,
-      "views_30d": 18619,
+      "views_30d": 18651,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -525,7 +525,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2015,
+          "views": 2017,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -541,14 +541,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "1.29kg에 숫자패드까지? 엑셀러들이 15인치 그램부터 집는 이유",
-          "views": 1324,
+          "views": 1349,
           "date": "2026-06-13",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=vlJ0GbOGVg4"
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2015,
+          "views": 2017,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -562,7 +562,7 @@ window.DATA = {
         },
         {
           "title": "큰 화면 노트북이 부담스러웠다면, 에이서 아스파이어 라이트 16",
-          "views": 624,
+          "views": 625,
           "date": "2026-06-11",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=GtEEFE4Gbuc"
@@ -576,7 +576,7 @@ window.DATA = {
         },
         {
           "title": "HP 오멘 17",
-          "views": 224,
+          "views": 225,
           "date": "2026-06-10",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=aOGBHkzI6OM"
@@ -604,14 +604,14 @@ window.DATA = {
         },
         {
           "title": "140만 원대 RTX 5060 게이밍, MSI 사이보그 15 가성비 반칙입니다",
-          "views": 388,
+          "views": 391,
           "date": "2026-06-08",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=ewhPwTe3i2I"
         }
       ],
-      "analyzed_at": "2026-06-13 18:01"
+      "analyzed_at": "2026-06-13 19:03"
     }
   ],
-  "generated_at": "2026-06-13 17:59"
+  "generated_at": "2026-06-13 19:01"
 };
