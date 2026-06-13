@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6209,
+      "avg_views": 6251,
       "median_views": 3015,
       "uploads_30d": 20,
-      "views_30d": 124192,
+      "views_30d": 125028,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 36795,
+          "views": 37627,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6959,
+          "views": 6963,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6959,
+          "views": 6963,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 36795,
+          "views": 37627,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=BsqQCr95fTg"
         }
       ],
-      "analyzed_at": "2026-06-14 05:30"
+      "analyzed_at": "2026-06-14 06:33"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,10 +130,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 17,
-      "avg_views": 766,
+      "avg_views": 767,
       "median_views": 260,
       "uploads_30d": 17,
-      "views_30d": 13026,
+      "views_30d": 13055,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -152,14 +152,14 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1550,
+          "views": 1497,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 1340,
+          "views": 1422,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -182,7 +182,7 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 1340,
+          "views": 1422,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -196,7 +196,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1550,
+          "views": 1497,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FK-ioqCcmyc"
         }
       ],
-      "analyzed_at": "2026-06-14 05:31"
+      "analyzed_at": "2026-06-14 06:34"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1100,
       "sampled": 20,
-      "avg_views": 6132,
-      "median_views": 2392,
+      "avg_views": 6151,
+      "median_views": 2422,
       "uploads_30d": 20,
-      "views_30d": 122643,
+      "views_30d": 123030,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -267,7 +267,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29111,
+          "views": 29120,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -288,7 +288,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 5972,
+          "views": 6130,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -304,21 +304,21 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 5972,
+          "views": 6130,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 3079,
+          "views": 3180,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         },
         {
           "title": "해파리는 뇌도 심장도 없는데 어떻게 살까?",
-          "views": 2481,
+          "views": 2540,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
@@ -332,7 +332,7 @@ window.DATA = {
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 2560,
+          "views": 2620,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
@@ -360,13 +360,13 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29111,
+          "views": 29120,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         }
       ],
-      "analyzed_at": "2026-06-14 05:31"
+      "analyzed_at": "2026-06-14 06:34"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -377,7 +377,7 @@ window.DATA = {
       "avg_views": 1225,
       "median_views": 1414,
       "uploads_30d": 20,
-      "views_30d": 24519,
+      "views_30d": 24518,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=TTE6z9jbCp4"
         }
       ],
-      "analyzed_at": "2026-06-14 05:32"
+      "analyzed_at": "2026-06-14 06:35"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -499,7 +499,7 @@ window.DATA = {
       "avg_views": 947,
       "median_views": 503,
       "uploads_30d": 20,
-      "views_30d": 18940,
+      "views_30d": 18945,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -541,14 +541,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "79만 원 아이패드 에어, 프로 안 부러운 이유 (M3)",
-          "views": 301,
+          "views": 299,
           "date": "2026-06-13",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=Qpylku1SquE"
         },
         {
           "title": "1.29kg에 숫자패드까지? 엑셀러들이 15인치 그램부터 집는 이유",
-          "views": 1347,
+          "views": 1355,
           "date": "2026-06-13",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=vlJ0GbOGVg4"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Ks_8EIRfPU0"
         }
       ],
-      "analyzed_at": "2026-06-14 05:32"
+      "analyzed_at": "2026-06-14 06:35"
     }
   ],
-  "generated_at": "2026-06-14 05:30"
+  "generated_at": "2026-06-14 06:33"
 };
