@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 5967,
+      "avg_views": 5977,
       "median_views": 2638,
       "uploads_30d": 20,
-      "views_30d": 119345,
+      "views_30d": 119542,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 35539,
+          "views": 35623,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15869,
+          "views": 15940,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 1506,
+          "views": 1548,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
@@ -88,14 +88,14 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 35539,
+          "views": 35623,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15869,
+          "views": 15940,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=lAM3KPBJXD8"
         }
       ],
-      "analyzed_at": "2026-06-13 16:57"
+      "analyzed_at": "2026-06-13 17:59"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,10 +130,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 16,
-      "avg_views": 638,
-      "median_views": 321,
+      "avg_views": 651,
+      "median_views": 354,
       "uploads_30d": 16,
-      "views_30d": 10221,
+      "views_30d": 10431,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -145,7 +145,7 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1937,
+          "views": 2078,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -175,14 +175,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 383,
+          "views": 449,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         },
         {
           "title": "BMW E46 오일이 자꾸 샌다면, 진짜 원인은 따로 있습니다",
-          "views": 3,
+          "views": 4,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eREKNXppMfw"
@@ -196,7 +196,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 5,
+          "views": 7,
           "date": "2026-06-11",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=VxQ1vfTGrRs"
@@ -217,7 +217,7 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1937,
+          "views": 2078,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=fpnpLXrSJ7A"
         }
       ],
-      "analyzed_at": "2026-06-13 16:57"
+      "analyzed_at": "2026-06-13 17:59"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 20,
-      "avg_views": 5745,
+      "avg_views": 5751,
       "median_views": 2016,
       "uploads_30d": 20,
-      "views_30d": 114906,
+      "views_30d": 115038,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
@@ -297,7 +297,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 1143,
+          "views": 1273,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=5lC25sq7Em4"
         }
       ],
-      "analyzed_at": "2026-06-13 16:57"
+      "analyzed_at": "2026-06-13 18:00"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1225,
-      "median_views": 1407,
+      "avg_views": 1245,
+      "median_views": 1415,
       "uploads_30d": 20,
-      "views_30d": 24507,
+      "views_30d": 24912,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -419,7 +419,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1408,
+          "views": 1806,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
@@ -482,13 +482,13 @@ window.DATA = {
         },
         {
           "title": "색 보는 사람들이 조용히 담는 노트북, 기가바이트 에어로 X16",
-          "views": 1016,
+          "views": 1023,
           "date": "2026-06-08",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=tTZvNISvqco"
         }
       ],
-      "analyzed_at": "2026-06-13 16:58"
+      "analyzed_at": "2026-06-13 18:00"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 928,
+      "avg_views": 930,
       "median_views": 503,
       "uploads_30d": 20,
-      "views_30d": 18569,
+      "views_30d": 18619,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -541,7 +541,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "1.29kg에 숫자패드까지? 엑셀러들이 15인치 그램부터 집는 이유",
-          "views": 1275,
+          "views": 1324,
           "date": "2026-06-13",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=vlJ0GbOGVg4"
@@ -555,7 +555,7 @@ window.DATA = {
         },
         {
           "title": "100만 원대에 펜까지 되는 2-in-1, 노트북도 태블릿도 되는 한 대",
-          "views": 1349,
+          "views": 1351,
           "date": "2026-06-12",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=nPweXD4cGU0"
@@ -576,7 +576,7 @@ window.DATA = {
         },
         {
           "title": "HP 오멘 17",
-          "views": 225,
+          "views": 224,
           "date": "2026-06-10",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=aOGBHkzI6OM"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ewhPwTe3i2I"
         }
       ],
-      "analyzed_at": "2026-06-13 16:58"
+      "analyzed_at": "2026-06-13 18:01"
     }
   ],
-  "generated_at": "2026-06-13 16:57"
+  "generated_at": "2026-06-13 17:59"
 };
