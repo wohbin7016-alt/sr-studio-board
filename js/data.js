@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 5986,
-      "median_views": 2735,
+      "avg_views": 5917,
+      "median_views": 2638,
       "uploads_30d": 20,
-      "views_30d": 119734,
+      "views_30d": 118352,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 34943,
+          "views": 35200,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -30,14 +30,14 @@ window.DATA = {
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15818,
+          "views": 15822,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6877,
+          "views": 6878,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -51,6 +51,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
+          "views": 958,
+          "date": "2026-06-13",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
+        },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
           "views": 3059,
@@ -67,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6877,
+          "views": 6878,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -81,14 +88,14 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 34943,
+          "views": 35200,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15818,
+          "views": 15822,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -113,27 +120,20 @@ window.DATA = {
           "date": "2026-06-05",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=lAM3KPBJXD8"
-        },
-        {
-          "title": "박살 나서 멈춘 아이폰, 새 오렌지 폰으로 되살리기",
-          "views": 1434,
-          "date": "2026-06-04",
-          "duration": 25,
-          "url": "https://www.youtube.com/watch?v=tx4u4V4-A4U"
         }
       ],
-      "analyzed_at": "2026-06-13 12:49"
+      "analyzed_at": "2026-06-13 13:51"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
       "name": "메카닉스튜디오",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
-      "sampled": 15,
-      "avg_views": 632,
-      "median_views": 260,
-      "uploads_30d": 15,
-      "views_30d": 9490,
+      "sampled": 16,
+      "avg_views": 598,
+      "median_views": 175,
+      "uploads_30d": 16,
+      "views_30d": 9581,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -173,6 +173,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
+          "views": 91,
+          "date": "2026-06-13",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
+        },
         {
           "title": "BMW E46 오일이 자꾸 샌다면, 진짜 원인은 따로 있습니다",
           "views": 1,
@@ -235,16 +242,9 @@ window.DATA = {
           "date": "2026-06-08",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=fpnpLXrSJ7A"
-        },
-        {
-          "title": "렉서스 대시보드 쩍쩍 갈라졌을 때, 통째로 갈면 호구입니다",
-          "views": 674,
-          "date": "2026-06-08",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=jUjDTqHT8Yg"
         }
       ],
-      "analyzed_at": "2026-06-13 12:49"
+      "analyzed_at": "2026-06-13 13:51"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,22 +252,22 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 20,
-      "avg_views": 5674,
+      "avg_views": 5676,
       "median_views": 2015,
       "uploads_30d": 20,
-      "views_30d": 113491,
+      "views_30d": 113539,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29815,
+          "views": 29822,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 28176,
+          "views": 28404,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -296,6 +296,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
+          "views": 702,
+          "date": "2026-06-13",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
+        },
+        {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
           "views": 2759,
           "date": "2026-06-12",
@@ -304,7 +311,7 @@ window.DATA = {
         },
         {
           "title": "해파리는 뇌도 심장도 없는데 어떻게 살까?",
-          "views": 2241,
+          "views": 2280,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
@@ -346,7 +353,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 28176,
+          "views": 28404,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -357,16 +364,9 @@ window.DATA = {
           "date": "2026-06-08",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=5lC25sq7Em4"
-        },
-        {
-          "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
-          "views": 6415,
-          "date": "2026-06-08",
-          "duration": 19,
-          "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
         }
       ],
-      "analyzed_at": "2026-06-13 12:49"
+      "analyzed_at": "2026-06-13 13:51"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,25 +374,18 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1265,
-      "median_views": 1404,
+      "avg_views": 1177,
+      "median_views": 1212,
       "uploads_30d": 20,
-      "views_30d": 25312,
+      "views_30d": 23546,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "250만 원에 데스크탑급, 썬더로봇 RZ16 게이밍노트북",
-          "views": 2278,
+          "views": 2280,
           "date": "2026-06-07",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=MaxDG0orUWA"
-        },
-        {
-          "title": "16인치인데 1.1kg 실화? ASUS 젠북 A16 들어보고 깜짝 놀란 이유",
-          "views": 2255,
-          "date": "2026-06-03",
-          "duration": 30,
-          "url": "https://www.youtube.com/watch?v=o3GXKRGYY3Q"
         },
         {
           "title": "이 가격에 QHD 165Hz? HP 오멘 16 화면 보고 바로 담았습니다",
@@ -403,7 +396,7 @@ window.DATA = {
         },
         {
           "title": "노트북 여러 개 띄워도 안 버벅, 레노버 씽크패드 X13 32GB",
-          "views": 2154,
+          "views": 2156,
           "date": "2026-06-03",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=MKzwMStev_c"
@@ -414,12 +407,26 @@ window.DATA = {
           "date": "2026-06-04",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=P8x9zNNTdyc"
+        },
+        {
+          "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
+          "views": 1838,
+          "date": "2026-06-12",
+          "duration": 37,
+          "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
         }
       ],
       "recent_videos": [
         {
+          "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
+          "views": 456,
+          "date": "2026-06-13",
+          "duration": 39,
+          "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
+        },
+        {
           "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
-          "views": 1836,
+          "views": 1838,
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
@@ -440,7 +447,7 @@ window.DATA = {
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1675,
+          "views": 1680,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -475,20 +482,13 @@ window.DATA = {
         },
         {
           "title": "색 보는 사람들이 조용히 담는 노트북, 기가바이트 에어로 X16",
-          "views": 1015,
+          "views": 1017,
           "date": "2026-06-08",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=tTZvNISvqco"
-        },
-        {
-          "title": "이 가격에 QHD 165Hz? HP 오멘 16 화면 보고 바로 담았습니다",
-          "views": 2198,
-          "date": "2026-06-08",
-          "duration": 31,
-          "url": "https://www.youtube.com/watch?v=lbKXPjJZw34"
         }
       ],
-      "analyzed_at": "2026-06-13 12:50"
+      "analyzed_at": "2026-06-13 13:52"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 864,
-      "median_views": 403,
+      "avg_views": 888,
+      "median_views": 448,
       "uploads_30d": 20,
-      "views_30d": 17293,
+      "views_30d": 17765,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -539,6 +539,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "1.29kg에 숫자패드까지? 엑셀러들이 15인치 그램부터 집는 이유",
+          "views": 478,
+          "date": "2026-06-13",
+          "duration": 32,
+          "url": "https://www.youtube.com/watch?v=vlJ0GbOGVg4"
+        },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
           "views": 2010,
@@ -601,17 +608,10 @@ window.DATA = {
           "date": "2026-06-08",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=ewhPwTe3i2I"
-        },
-        {
-          "title": "한 바퀴 접히는 노트북, HP 옴니북X 플립 14 한 대로 다 끝냅니다",
-          "views": 418,
-          "date": "2026-06-08",
-          "duration": 31,
-          "url": "https://www.youtube.com/watch?v=zDJ50Ck_HKY"
         }
       ],
-      "analyzed_at": "2026-06-13 12:50"
+      "analyzed_at": "2026-06-13 13:52"
     }
   ],
-  "generated_at": "2026-06-13 12:49"
+  "generated_at": "2026-06-13 13:51"
 };
