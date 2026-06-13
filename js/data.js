@@ -8,108 +8,66 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6820,
-      "median_views": 2498,
+      "avg_views": 5986,
+      "median_views": 2735,
       "uploads_30d": 20,
-      "views_30d": 136417,
+      "views_30d": 119734,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
-          "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 42073,
-          "date": "2026-06-09",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
-        },
-        {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 34861,
+          "views": 34943,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
+          "title": "호스에 나사 박았는데 자꾸 빠지는 이유#호스고정 #생활꿀팁 #배관팁 #DIY #정비꿀팁 #호스수리 #작업노하우",
+          "views": 23019,
+          "date": "2026-06-01",
+          "duration": 21,
+          "url": "https://www.youtube.com/watch?v=LrUwKPNiYVs"
+        },
+        {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 15797,
+          "views": 15818,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6866,
+          "views": 6877,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
         },
         {
-          "title": "버려진 기름통이 에어컨으로? 얼음 하나로 찬바람 쏟아지는 DIY",
-          "views": 4047,
-          "date": "2026-06-03",
-          "duration": 25,
-          "url": "https://www.youtube.com/watch?v=s7cURGJkgAA"
+          "title": "전선 연결, 이렇게 안 하면 또 끊어집니다#전기 #전선연결 #생활꿀팁 #전기공사 #shorts",
+          "views": 4315,
+          "date": "2026-05-31",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=QMm_az3DGjY"
         }
       ],
       "recent_videos": [
         {
-          "title": "두 줄을 이렇게 이으면 절대 안 풀립니다 (아는 사람만 쓰는 매듭)",
-          "views": 2002,
-          "date": "2026-06-12",
-          "duration": 25,
-          "url": "https://www.youtube.com/watch?v=2KHEZHjPpbA"
-        },
-        {
-          "title": "짐 묶을 때 줄이 자꾸 풀린다면, 트럭커스 히치 하나면 끝",
-          "views": 1804,
-          "date": "2026-06-11",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=VJreJqvAdtI"
-        },
-        {
-          "title": "갈라진 배관, 테이프 말고 이걸로 (열수축튜브 밀봉)",
-          "views": 1668,
-          "date": "2026-06-11",
-          "duration": 17,
-          "url": "https://www.youtube.com/watch?v=WvxSTsd6Zdc"
-        },
-        {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 2975,
+          "views": 3059,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
         },
         {
           "title": "배관 이음새 물 새는 진짜 이유 (생테이프 감는 법)",
-          "views": 2130,
+          "views": 2131,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=8YeMLAgaBEQ"
         },
         {
-          "title": "짐 묶을 때 이렇게 안 하면 가다가 다 풀립니다 (트럭커 매듭)",
-          "views": 3696,
-          "date": "2026-06-09",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=BKs7ZikMBOA"
-        },
-        {
-          "title": "낚싯바늘 바늘귀에 묶으면 큰 놈 다 놓칩니다 (스넬 매듭)",
-          "views": 42073,
-          "date": "2026-06-09",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=fo7QZDLb-ac"
-        },
-        {
-          "title": "울타리 와이어 이렇게 묶으면 금방 풀립니다, 안 풀리는 법",
-          "views": 1453,
-          "date": "2026-06-08",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=myFVupwUnAs"
-        },
-        {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6866,
+          "views": 6877,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -120,9 +78,51 @@ window.DATA = {
           "date": "2026-06-07",
           "duration": 15,
           "url": "https://www.youtube.com/watch?v=sG6uwpWRzcU"
+        },
+        {
+          "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
+          "views": 34943,
+          "date": "2026-06-07",
+          "duration": 19,
+          "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
+        },
+        {
+          "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
+          "views": 15818,
+          "date": "2026-06-06",
+          "duration": 29,
+          "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
+        },
+        {
+          "title": "벽 모서리 실리콘, 프로처럼 매끈하게 하는 법",
+          "views": 1441,
+          "date": "2026-06-06",
+          "duration": 21,
+          "url": "https://www.youtube.com/watch?v=S_xlOKEhRsM"
+        },
+        {
+          "title": "애플워치 깨진 테두리, 통째로 바꾸지 마세요",
+          "views": 1155,
+          "date": "2026-06-05",
+          "duration": 17,
+          "url": "https://www.youtube.com/watch?v=BsqQCr95fTg"
+        },
+        {
+          "title": "갤럭시 폴드 접히는 화면에 줄이? 본체 안 바꾸고 살립니다",
+          "views": 3161,
+          "date": "2026-06-05",
+          "duration": 28,
+          "url": "https://www.youtube.com/watch?v=lAM3KPBJXD8"
+        },
+        {
+          "title": "박살 나서 멈춘 아이폰, 새 오렌지 폰으로 되살리기",
+          "views": 1434,
+          "date": "2026-06-04",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=tx4u4V4-A4U"
         }
       ],
-      "analyzed_at": "2026-06-13 11:46"
+      "analyzed_at": "2026-06-13 12:49"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,10 +130,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 15,
-      "avg_views": 630,
+      "avg_views": 632,
       "median_views": 260,
       "uploads_30d": 15,
-      "views_30d": 9453,
+      "views_30d": 9490,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -145,7 +145,7 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1823,
+          "views": 1860,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -210,7 +210,7 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 1823,
+          "views": 1860,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jUjDTqHT8Yg"
         }
       ],
-      "analyzed_at": "2026-06-13 11:46"
+      "analyzed_at": "2026-06-13 12:49"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 20,
-      "avg_views": 5649,
+      "avg_views": 5674,
       "median_views": 2015,
       "uploads_30d": 20,
-      "views_30d": 112993,
+      "views_30d": 113491,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
@@ -267,7 +267,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 27881,
+          "views": 28176,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -297,21 +297,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 2738,
+          "views": 2759,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         },
         {
           "title": "해파리는 뇌도 심장도 없는데 어떻게 살까?",
-          "views": 2082,
+          "views": 2241,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
         },
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 2338,
+          "views": 2361,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
@@ -346,7 +346,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 27881,
+          "views": 28176,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
         }
       ],
-      "analyzed_at": "2026-06-13 11:47"
+      "analyzed_at": "2026-06-13 12:49"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1264,
+      "avg_views": 1265,
       "median_views": 1404,
       "uploads_30d": 20,
-      "views_30d": 25297,
+      "views_30d": 25312,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -419,14 +419,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
-          "views": 1824,
+          "views": 1836,
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
         },
         {
           "title": "화면 밝기 1600니트면 반칙이죠, 아이패드 프로 11 M5",
-          "views": 933,
+          "views": 936,
           "date": "2026-06-12",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=uK333cNIYAQ"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=lbKXPjJZw34"
         }
       ],
-      "analyzed_at": "2026-06-13 11:48"
+      "analyzed_at": "2026-06-13 12:50"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -499,12 +499,12 @@ window.DATA = {
       "avg_views": 864,
       "median_views": 403,
       "uploads_30d": 20,
-      "views_30d": 17284,
+      "views_30d": 17293,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "15.6인치인데 1.7kg, 하루종일 가는 HP 옴니북3",
-          "views": 2305,
+          "views": 2306,
           "date": "2026-06-06",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=-CPt3w0i-YY"
@@ -525,7 +525,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2002,
+          "views": 2010,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -541,7 +541,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2002,
+          "views": 2010,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zDJ50Ck_HKY"
         }
       ],
-      "analyzed_at": "2026-06-13 11:48"
+      "analyzed_at": "2026-06-13 12:50"
     }
   ],
-  "generated_at": "2026-06-13 11:46"
+  "generated_at": "2026-06-13 12:49"
 };
