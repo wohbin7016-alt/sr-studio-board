@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6163,
+      "avg_views": 6202,
       "median_views": 3015,
       "uploads_30d": 20,
-      "views_30d": 123266,
+      "views_30d": 124043,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 36217,
+          "views": 36795,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 16089,
+          "views": 16098,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "누렇게 찌든 운동화, 거품 한 번에 새 신발로",
-          "views": 1847,
+          "views": 2037,
           "date": "2026-06-13",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=0h4iHOBZc4k"
@@ -95,14 +95,14 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 36217,
+          "views": 36795,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 16089,
+          "views": 16098,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=BsqQCr95fTg"
         }
       ],
-      "analyzed_at": "2026-06-14 02:21"
+      "analyzed_at": "2026-06-14 03:24"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,36 +130,36 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 17,
-      "avg_views": 720,
+      "avg_views": 745,
       "median_views": 260,
       "uploads_30d": 17,
-      "views_30d": 12253,
+      "views_30d": 12677,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 3204,
+          "views": 3255,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 2464,
+          "views": 2687,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1463,
+          "views": 1497,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 1212,
+          "views": 1328,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -182,7 +182,7 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 1212,
+          "views": 1328,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -196,7 +196,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1463,
+          "views": 1497,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -210,7 +210,7 @@ window.DATA = {
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 3204,
+          "views": 3255,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -224,7 +224,7 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 2464,
+          "views": 2687,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FK-ioqCcmyc"
         }
       ],
-      "analyzed_at": "2026-06-14 02:21"
+      "analyzed_at": "2026-06-14 03:24"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,22 +252,22 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1100,
       "sampled": 20,
-      "avg_views": 6040,
-      "median_views": 2387,
+      "avg_views": 6081,
+      "median_views": 2386,
       "uploads_30d": 20,
-      "views_30d": 120804,
+      "views_30d": 121625,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29880,
+          "views": 29888,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29107,
+          "views": 29113,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -288,7 +288,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 4430,
+          "views": 4998,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -297,42 +297,42 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 2294,
+          "views": 2301,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 4430,
+          "views": 4998,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 2935,
+          "views": 3050,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         },
         {
           "title": "해파리는 뇌도 심장도 없는데 어떻게 살까?",
-          "views": 2481,
+          "views": 2472,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
         },
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 2507,
+          "views": 2536,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 2488,
+          "views": 2579,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
@@ -346,7 +346,7 @@ window.DATA = {
         },
         {
           "title": "나무늘보는 왜 이렇게 느릴까? 게을러서가 아니었습니다",
-          "views": 1829,
+          "views": 1833,
           "date": "2026-06-10",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=xH10zPmx90U"
@@ -360,13 +360,13 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29107,
+          "views": 29113,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         }
       ],
-      "analyzed_at": "2026-06-14 02:22"
+      "analyzed_at": "2026-06-14 03:25"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -377,7 +377,7 @@ window.DATA = {
       "avg_views": 1225,
       "median_views": 1413,
       "uploads_30d": 20,
-      "views_30d": 24512,
+      "views_30d": 24511,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -403,14 +403,14 @@ window.DATA = {
         },
         {
           "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
-          "views": 1844,
+          "views": 1849,
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
         },
         {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1836,
+          "views": 1833,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
@@ -426,21 +426,21 @@ window.DATA = {
         },
         {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1836,
+          "views": 1833,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
         },
         {
           "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
-          "views": 1844,
+          "views": 1849,
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
         },
         {
           "title": "화면 밝기 1600니트면 반칙이죠, 아이패드 프로 11 M5",
-          "views": 942,
+          "views": 940,
           "date": "2026-06-12",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=uK333cNIYAQ"
@@ -482,13 +482,13 @@ window.DATA = {
         },
         {
           "title": "200W로 끌어쓰는 쿨링, 오래 돌려도 안 식는 게이밍 노트북 (레노버 리전 프로 5i)",
-          "views": 1409,
+          "views": 1408,
           "date": "2026-06-09",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=TTE6z9jbCp4"
         }
       ],
-      "analyzed_at": "2026-06-14 02:23"
+      "analyzed_at": "2026-06-14 03:26"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -499,7 +499,7 @@ window.DATA = {
       "avg_views": 947,
       "median_views": 503,
       "uploads_30d": 20,
-      "views_30d": 18950,
+      "views_30d": 18945,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -525,7 +525,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2023,
+          "views": 2012,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -541,7 +541,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "79만 원 아이패드 에어, 프로 안 부러운 이유 (M3)",
-          "views": 294,
+          "views": 299,
           "date": "2026-06-13",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=Qpylku1SquE"
@@ -555,7 +555,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2023,
+          "views": 2012,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -576,7 +576,7 @@ window.DATA = {
         },
         {
           "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1908,
+          "views": 1909,
           "date": "2026-06-11",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Ks_8EIRfPU0"
         }
       ],
-      "analyzed_at": "2026-06-14 02:23"
+      "analyzed_at": "2026-06-14 03:26"
     }
   ],
-  "generated_at": "2026-06-14 02:21"
+  "generated_at": "2026-06-14 03:24"
 };
