@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 5944,
+      "avg_views": 5967,
       "median_views": 2638,
       "uploads_30d": 20,
-      "views_30d": 118893,
+      "views_30d": 119345,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 35374,
+          "views": 35539,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 1219,
+          "views": 1506,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 35374,
+          "views": 35539,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=lAM3KPBJXD8"
         }
       ],
-      "analyzed_at": "2026-06-13 15:55"
+      "analyzed_at": "2026-06-13 16:57"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,10 +130,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 16,
-      "avg_views": 630,
-      "median_views": 283,
+      "avg_views": 638,
+      "median_views": 321,
       "uploads_30d": 16,
-      "views_30d": 10088,
+      "views_30d": 10221,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -152,7 +152,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1264,
+          "views": 1319,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -175,21 +175,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 307,
+          "views": 383,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         },
         {
           "title": "BMW E46 오일이 자꾸 샌다면, 진짜 원인은 따로 있습니다",
-          "views": 1,
+          "views": 3,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eREKNXppMfw"
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1264,
+          "views": 1319,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=fpnpLXrSJ7A"
         }
       ],
-      "analyzed_at": "2026-06-13 15:55"
+      "analyzed_at": "2026-06-13 16:57"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,22 +252,22 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1090,
       "sampled": 20,
-      "avg_views": 5730,
-      "median_views": 2015,
+      "avg_views": 5745,
+      "median_views": 2016,
       "uploads_30d": 20,
-      "views_30d": 114617,
+      "views_30d": 114906,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29834,
+          "views": 29836,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 28994,
+          "views": 29048,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -288,7 +288,7 @@ window.DATA = {
         },
         {
           "title": "고양이는 왜 박스만 보면 들어갈까",
-          "views": 3745,
+          "views": 3746,
           "date": "2026-06-07",
           "duration": 14,
           "url": "https://www.youtube.com/watch?v=wkx55Mgruxg"
@@ -297,28 +297,28 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 936,
+          "views": 1143,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 2850,
+          "views": 2861,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         },
         {
           "title": "해파리는 뇌도 심장도 없는데 어떻게 살까?",
-          "views": 2343,
+          "views": 2360,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
         },
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 2432,
+          "views": 2424,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
@@ -332,14 +332,14 @@ window.DATA = {
         },
         {
           "title": "홍학은 왜 분홍색일까",
-          "views": 2032,
+          "views": 2033,
           "date": "2026-06-10",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=iXBmQnnmyUc"
         },
         {
           "title": "나무늘보는 왜 이렇게 느릴까? 게을러서가 아니었습니다",
-          "views": 1816,
+          "views": 1820,
           "date": "2026-06-10",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=xH10zPmx90U"
@@ -353,7 +353,7 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 28994,
+          "views": 29048,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=5lC25sq7Em4"
         }
       ],
-      "analyzed_at": "2026-06-13 15:55"
+      "analyzed_at": "2026-06-13 16:57"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1216,
-      "median_views": 1319,
+      "avg_views": 1225,
+      "median_views": 1407,
       "uploads_30d": 20,
-      "views_30d": 24329,
+      "views_30d": 24507,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -410,7 +410,7 @@ window.DATA = {
         },
         {
           "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
-          "views": 1836,
+          "views": 1843,
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
@@ -419,14 +419,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1232,
+          "views": 1408,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
         },
         {
           "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
-          "views": 1836,
+          "views": 1843,
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
@@ -482,13 +482,13 @@ window.DATA = {
         },
         {
           "title": "색 보는 사람들이 조용히 담는 노트북, 기가바이트 에어로 X16",
-          "views": 1021,
+          "views": 1016,
           "date": "2026-06-08",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=tTZvNISvqco"
         }
       ],
-      "analyzed_at": "2026-06-13 15:56"
+      "analyzed_at": "2026-06-13 16:58"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 911,
+      "avg_views": 928,
       "median_views": 503,
       "uploads_30d": 20,
-      "views_30d": 18235,
+      "views_30d": 18569,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -525,7 +525,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2012,
+          "views": 2015,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -541,21 +541,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "1.29kg에 숫자패드까지? 엑셀러들이 15인치 그램부터 집는 이유",
-          "views": 944,
+          "views": 1275,
           "date": "2026-06-13",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=vlJ0GbOGVg4"
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2012,
+          "views": 2015,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
         },
         {
           "title": "100만 원대에 펜까지 되는 2-in-1, 노트북도 태블릿도 되는 한 대",
-          "views": 1350,
+          "views": 1349,
           "date": "2026-06-12",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=nPweXD4cGU0"
@@ -576,7 +576,7 @@ window.DATA = {
         },
         {
           "title": "HP 오멘 17",
-          "views": 224,
+          "views": 225,
           "date": "2026-06-10",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=aOGBHkzI6OM"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ewhPwTe3i2I"
         }
       ],
-      "analyzed_at": "2026-06-13 15:56"
+      "analyzed_at": "2026-06-13 16:58"
     }
   ],
-  "generated_at": "2026-06-13 15:55"
+  "generated_at": "2026-06-13 16:57"
 };
