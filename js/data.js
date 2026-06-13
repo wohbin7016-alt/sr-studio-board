@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 5989,
+      "avg_views": 6009,
       "median_views": 2638,
       "uploads_30d": 20,
-      "views_30d": 119793,
+      "views_30d": 120180,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 35623,
+          "views": 35885,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 1707,
+          "views": 1803,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 3147,
+          "views": 3176,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 35623,
+          "views": 35885,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=lAM3KPBJXD8"
         }
       ],
-      "analyzed_at": "2026-06-13 20:03"
+      "analyzed_at": "2026-06-13 21:05"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,10 +130,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 17,
-      "avg_views": 686,
-      "median_views": 467,
+      "avg_views": 656,
+      "median_views": 260,
       "uploads_30d": 17,
-      "views_30d": 10984,
+      "views_30d": 11164,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -145,7 +145,7 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 2185,
+          "views": 2282,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -175,14 +175,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "무명 엔비디아에 날아온 편지 한 통… 보낸 사람은 이건희였다",
-          "views": 0,
+          "views": 1,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=GSMkuZ9VvdQ"
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 752,
+          "views": 834,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -224,7 +224,7 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 2185,
+          "views": 2282,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -244,18 +244,18 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FK-ioqCcmyc"
         }
       ],
-      "analyzed_at": "2026-06-13 20:03"
+      "analyzed_at": "2026-06-13 21:05"
     },
     {
       "url": "https://youtube.com/@prismalogia",
       "name": "왜그럴까",
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
-      "subscribers": 1090,
+      "subscribers": 1100,
       "sampled": 20,
-      "avg_views": 5768,
+      "avg_views": 5853,
       "median_views": 2016,
       "uploads_30d": 20,
-      "views_30d": 115365,
+      "views_30d": 117068,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -288,7 +288,7 @@ window.DATA = {
         },
         {
           "title": "고양이는 왜 박스만 보면 들어갈까",
-          "views": 3746,
+          "views": 3747,
           "date": "2026-06-07",
           "duration": 14,
           "url": "https://www.youtube.com/watch?v=wkx55Mgruxg"
@@ -297,28 +297,28 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 4,
+          "views": 1541,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 1605,
+          "views": 1684,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 2861,
+          "views": 2891,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         },
         {
           "title": "해파리는 뇌도 심장도 없는데 어떻게 살까?",
-          "views": 2360,
+          "views": 2405,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
@@ -332,7 +332,7 @@ window.DATA = {
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 2473,
+          "views": 2476,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
@@ -346,7 +346,7 @@ window.DATA = {
         },
         {
           "title": "나무늘보는 왜 이렇게 느릴까? 게을러서가 아니었습니다",
-          "views": 1820,
+          "views": 1827,
           "date": "2026-06-10",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=xH10zPmx90U"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         }
       ],
-      "analyzed_at": "2026-06-13 20:04"
+      "analyzed_at": "2026-06-13 21:06"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1165,
-      "median_views": 1215,
+      "avg_views": 1185,
+      "median_views": 1217,
       "uploads_30d": 20,
-      "views_30d": 23308,
+      "views_30d": 23700,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -410,7 +410,7 @@ window.DATA = {
         },
         {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1823,
+          "views": 1842,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
@@ -419,14 +419,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "옵션 건드리면 손해, 맥북에어 15 M4 기본형이 답인 이유",
-          "views": 519,
+          "views": 889,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=Avpyw0U75Dg"
         },
         {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1823,
+          "views": 1842,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=TTE6z9jbCp4"
         }
       ],
-      "analyzed_at": "2026-06-13 20:04"
+      "analyzed_at": "2026-06-13 21:06"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 931,
+      "avg_views": 944,
       "median_views": 503,
       "uploads_30d": 20,
-      "views_30d": 18626,
+      "views_30d": 18890,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -541,14 +541,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "79만 원 아이패드 에어, 프로 안 부러운 이유 (M3)",
-          "views": 10,
+          "views": 246,
           "date": "2026-06-13",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=Qpylku1SquE"
         },
         {
           "title": "1.29kg에 숫자패드까지? 엑셀러들이 15인치 그램부터 집는 이유",
-          "views": 1324,
+          "views": 1352,
           "date": "2026-06-13",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=vlJ0GbOGVg4"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Ks_8EIRfPU0"
         }
       ],
-      "analyzed_at": "2026-06-13 20:05"
+      "analyzed_at": "2026-06-13 21:07"
     }
   ],
-  "generated_at": "2026-06-13 20:03"
+  "generated_at": "2026-06-13 21:05"
 };
