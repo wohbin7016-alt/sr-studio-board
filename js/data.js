@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6563,
+      "avg_views": 6651,
       "median_views": 3015,
       "uploads_30d": 20,
-      "views_30d": 131266,
+      "views_30d": 133033,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 43399,
+          "views": 45161,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6967,
+          "views": 6971,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "누렇게 찌든 운동화, 거품 한 번에 새 신발로",
-          "views": 2175,
+          "views": 2176,
           "date": "2026-06-13",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=0h4iHOBZc4k"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6967,
+          "views": 6971,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 43399,
+          "views": 45161,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=BsqQCr95fTg"
         }
       ],
-      "analyzed_at": "2026-06-14 12:53"
+      "analyzed_at": "2026-06-14 13:56"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,15 +130,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 18,
-      "avg_views": 771,
-      "median_views": 176,
+      "avg_views": 783,
+      "median_views": 229,
       "uploads_30d": 18,
-      "views_30d": 13895,
+      "views_30d": 14105,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 3562,
+          "views": 3671,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -152,7 +152,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1665,
+          "views": 1660,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -175,7 +175,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 93,
+          "views": 199,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -203,7 +203,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1665,
+          "views": 1660,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -217,7 +217,7 @@ window.DATA = {
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 3562,
+          "views": 3671,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=gapmCSSb0So"
         }
       ],
-      "analyzed_at": "2026-06-14 12:53"
+      "analyzed_at": "2026-06-14 13:57"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1100,
       "sampled": 20,
-      "avg_views": 6253,
+      "avg_views": 6272,
       "median_views": 2473,
       "uploads_30d": 20,
-      "views_30d": 125063,
+      "views_30d": 125444,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -281,7 +281,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 7497,
+          "views": 7958,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -304,14 +304,14 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 7497,
+          "views": 7958,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 3405,
+          "views": 3430,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
@@ -325,7 +325,7 @@ window.DATA = {
         },
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 2836,
+          "views": 2730,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         }
       ],
-      "analyzed_at": "2026-06-14 12:54"
+      "analyzed_at": "2026-06-14 13:57"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1230,
-      "median_views": 1415,
+      "avg_views": 1254,
+      "median_views": 1416,
       "uploads_30d": 20,
-      "views_30d": 24602,
+      "views_30d": 25084,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -419,14 +419,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "150만 원 안 되는데 화면이 등 뒤까지 넘어가는 노트북 (옴니북 X 플립 14)",
-          "views": 469,
+          "views": 943,
           "date": "2026-06-14",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=qHjbd-m1U2w"
         },
         {
           "title": "옵션 건드리면 손해, 맥북에어 15 M4 기본형이 답인 이유",
-          "views": 1669,
+          "views": 1673,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=Avpyw0U75Dg"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=HBrDMeUg5jo"
         }
       ],
-      "analyzed_at": "2026-06-14 12:55"
+      "analyzed_at": "2026-06-14 13:58"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 947,
-      "median_views": 503,
+      "avg_views": 877,
+      "median_views": 493,
       "uploads_30d": 20,
-      "views_30d": 18941,
+      "views_30d": 17548,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -525,20 +525,27 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2013,
+          "views": 2015,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
         },
         {
-          "title": "사무용 노트북 고민 끝, HP 옴니북 5 14",
-          "views": 1963,
-          "date": "2026-06-04",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=qPbm0WtYs9I"
+          "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
+          "views": 1908,
+          "date": "2026-06-11",
+          "duration": 36,
+          "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
         }
       ],
       "recent_videos": [
+        {
+          "title": "굳이 프로? M5 보고 조용히 담았습니다 (맥북 프로 14",
+          "views": 566,
+          "date": "2026-06-14",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=T8EKN8A8N1M"
+        },
         {
           "title": "79만 원 아이패드 에어, 프로 안 부러운 이유 (M3)",
           "views": 302,
@@ -555,7 +562,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2013,
+          "views": 2015,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -601,17 +608,10 @@ window.DATA = {
           "date": "2026-06-09",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=DfdRU_oEIG4"
-        },
-        {
-          "title": "100만 원 초반 OLED 노트북, 이걸 모르고 지나치면 손해예요 (레노버 아이디어패드 슬림 5 14)",
-          "views": 333,
-          "date": "2026-06-09",
-          "duration": 37,
-          "url": "https://www.youtube.com/watch?v=Ks_8EIRfPU0"
         }
       ],
-      "analyzed_at": "2026-06-14 12:55"
+      "analyzed_at": "2026-06-14 13:59"
     }
   ],
-  "generated_at": "2026-06-14 12:53"
+  "generated_at": "2026-06-14 13:56"
 };
