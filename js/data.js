@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6414,
+      "avg_views": 6478,
       "median_views": 3015,
       "uploads_30d": 20,
-      "views_30d": 128288,
+      "views_30d": 129563,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 40600,
+          "views": 41817,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 16157,
+          "views": 16189,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "누렇게 찌든 운동화, 거품 한 번에 새 신발로",
-          "views": 2170,
+          "views": 2175,
           "date": "2026-06-13",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=0h4iHOBZc4k"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 3229,
+          "views": 3248,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
@@ -88,21 +88,21 @@ window.DATA = {
         },
         {
           "title": "몰딩 굴곡에 장판 딱 맞게 붙이는 법, 연필 하나면 끝",
-          "views": 1829,
+          "views": 1831,
           "date": "2026-06-07",
           "duration": 15,
           "url": "https://www.youtube.com/watch?v=sG6uwpWRzcU"
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 40600,
+          "views": 41817,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 16157,
+          "views": 16189,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=BsqQCr95fTg"
         }
       ],
-      "analyzed_at": "2026-06-14 10:46"
+      "analyzed_at": "2026-06-14 11:49"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,15 +130,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 17,
-      "avg_views": 788,
+      "avg_views": 801,
       "median_views": 260,
       "uploads_30d": 17,
-      "views_30d": 13397,
+      "views_30d": 13619,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 3436,
+          "views": 3562,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -151,18 +151,18 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
         },
         {
+          "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
+          "views": 1589,
+          "date": "2026-06-13",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
+        },
+        {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
           "views": 1579,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
-        },
-        {
-          "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 1493,
-          "date": "2026-06-13",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         },
         {
           "title": "타이어 펑크, 빨간 보수봉으로 녹여 메우면 감쪽같이 사라진다",
@@ -182,7 +182,7 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 1493,
+          "views": 1589,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -210,7 +210,7 @@ window.DATA = {
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 3436,
+          "views": 3562,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FK-ioqCcmyc"
         }
       ],
-      "analyzed_at": "2026-06-14 10:46"
+      "analyzed_at": "2026-06-14 11:50"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,22 +252,22 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1100,
       "sampled": 20,
-      "avg_views": 6206,
-      "median_views": 2447,
+      "avg_views": 6224,
+      "median_views": 2461,
       "uploads_30d": 20,
-      "views_30d": 124131,
+      "views_30d": 124480,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29898,
+          "views": 29921,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29064,
+          "views": 29068,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -281,14 +281,14 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 6874,
+          "views": 7197,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
-          "views": 6417,
+          "views": 6415,
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
@@ -297,42 +297,42 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 2306,
+          "views": 2307,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 6874,
+          "views": 7197,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 3325,
+          "views": 3356,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         },
         {
           "title": "해파리는 뇌도 심장도 없는데 어떻게 살까?",
-          "views": 2589,
+          "views": 2619,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
         },
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 2711,
+          "views": 2616,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 2672,
+          "views": 2692,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
@@ -346,7 +346,7 @@ window.DATA = {
         },
         {
           "title": "나무늘보는 왜 이렇게 느릴까? 게을러서가 아니었습니다",
-          "views": 1836,
+          "views": 1847,
           "date": "2026-06-10",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=xH10zPmx90U"
@@ -360,13 +360,13 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29064,
+          "views": 29068,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         }
       ],
-      "analyzed_at": "2026-06-14 10:47"
+      "analyzed_at": "2026-06-14 11:50"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1226,
+      "avg_views": 1227,
       "median_views": 1415,
       "uploads_30d": 20,
-      "views_30d": 24535,
+      "views_30d": 24543,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -410,7 +410,7 @@ window.DATA = {
         },
         {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1842,
+          "views": 1845,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
@@ -426,7 +426,7 @@ window.DATA = {
         },
         {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1842,
+          "views": 1845,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
@@ -454,7 +454,7 @@ window.DATA = {
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1722,
+          "views": 1727,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=TTE6z9jbCp4"
         }
       ],
-      "analyzed_at": "2026-06-14 10:48"
+      "analyzed_at": "2026-06-14 11:51"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -499,7 +499,7 @@ window.DATA = {
       "avg_views": 947,
       "median_views": 503,
       "uploads_30d": 20,
-      "views_30d": 18940,
+      "views_30d": 18942,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -525,7 +525,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2013,
+          "views": 2015,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -555,7 +555,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2013,
+          "views": 2015,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Ks_8EIRfPU0"
         }
       ],
-      "analyzed_at": "2026-06-14 10:49"
+      "analyzed_at": "2026-06-14 11:52"
     }
   ],
-  "generated_at": "2026-06-14 10:46"
+  "generated_at": "2026-06-14 11:49"
 };
