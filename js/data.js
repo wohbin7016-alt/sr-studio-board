@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6478,
+      "avg_views": 6563,
       "median_views": 3015,
       "uploads_30d": 20,
-      "views_30d": 129563,
+      "views_30d": 131266,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 41817,
+          "views": 43399,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -43,11 +43,11 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
         },
         {
-          "title": "전선 연결, 이렇게 안 하면 또 끊어집니다#전기 #전선연결 #생활꿀팁 #전기공사 #shorts",
-          "views": 4315,
-          "date": "2026-05-31",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=QMm_az3DGjY"
+          "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
+          "views": 4383,
+          "date": "2026-06-13",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
         }
       ],
       "recent_videos": [
@@ -60,7 +60,7 @@ window.DATA = {
         },
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 4262,
+          "views": 4383,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 41817,
+          "views": 43399,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -122,18 +122,18 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=BsqQCr95fTg"
         }
       ],
-      "analyzed_at": "2026-06-14 11:49"
+      "analyzed_at": "2026-06-14 12:53"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
       "name": "비하인드썰",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
-      "sampled": 17,
-      "avg_views": 801,
-      "median_views": 260,
-      "uploads_30d": 17,
-      "views_30d": 13619,
+      "sampled": 18,
+      "avg_views": 771,
+      "median_views": 176,
+      "uploads_30d": 18,
+      "views_30d": 13895,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -145,24 +145,24 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 2977,
+          "views": 3053,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
         },
         {
-          "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 1589,
-          "date": "2026-06-13",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
-        },
-        {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1579,
+          "views": 1665,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
+        },
+        {
+          "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
+          "views": 1610,
+          "date": "2026-06-13",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         },
         {
           "title": "타이어 펑크, 빨간 보수봉으로 녹여 메우면 감쪽같이 사라진다",
@@ -174,6 +174,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
+          "views": 93,
+          "date": "2026-06-14",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
+        },
+        {
           "title": "무명 엔비디아에 날아온 편지 한 통… 보낸 사람은 이건희였다",
           "views": 3,
           "date": "2026-06-13",
@@ -182,7 +189,7 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 1589,
+          "views": 1610,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -196,7 +203,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1579,
+          "views": 1665,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -224,7 +231,7 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 2977,
+          "views": 3053,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -235,16 +242,9 @@ window.DATA = {
           "date": "2026-06-09",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=gapmCSSb0So"
-        },
-        {
-          "title": "배기 볼트 머리째 부러졌을 때... 드릴부터 잡으면 차 버립니다",
-          "views": 1059,
-          "date": "2026-06-09",
-          "duration": 18,
-          "url": "https://www.youtube.com/watch?v=FK-ioqCcmyc"
         }
       ],
-      "analyzed_at": "2026-06-14 11:50"
+      "analyzed_at": "2026-06-14 12:53"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,36 +252,36 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1100,
       "sampled": 20,
-      "avg_views": 6224,
-      "median_views": 2461,
+      "avg_views": 6253,
+      "median_views": 2473,
       "uploads_30d": 20,
-      "views_30d": 124480,
+      "views_30d": 125063,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29921,
+          "views": 29919,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29068,
+          "views": 29082,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         },
         {
           "title": "엄마가 아니라 아빠가 낳습니다",
-          "views": 18669,
+          "views": 18671,
           "date": "2026-06-07",
           "duration": 13,
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 7197,
+          "views": 7497,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -304,35 +304,35 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 7197,
+          "views": 7497,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 3356,
+          "views": 3405,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         },
         {
           "title": "해파리는 뇌도 심장도 없는데 어떻게 살까?",
-          "views": 2619,
+          "views": 2639,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
         },
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 2616,
+          "views": 2836,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
         },
         {
           "title": "갯가재는 왜 총알보다 빠른 펀치를 날릴까",
-          "views": 2692,
+          "views": 2675,
           "date": "2026-06-11",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
@@ -346,7 +346,7 @@ window.DATA = {
         },
         {
           "title": "나무늘보는 왜 이렇게 느릴까? 게을러서가 아니었습니다",
-          "views": 1847,
+          "views": 1844,
           "date": "2026-06-10",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=xH10zPmx90U"
@@ -360,13 +360,13 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29068,
+          "views": 29082,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         }
       ],
-      "analyzed_at": "2026-06-14 11:50"
+      "analyzed_at": "2026-06-14 12:54"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1227,
+      "avg_views": 1230,
       "median_views": 1415,
       "uploads_30d": 20,
-      "views_30d": 24543,
+      "views_30d": 24602,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -418,6 +418,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "150만 원 안 되는데 화면이 등 뒤까지 넘어가는 노트북 (옴니북 X 플립 14)",
+          "views": 469,
+          "date": "2026-06-14",
+          "duration": 39,
+          "url": "https://www.youtube.com/watch?v=qHjbd-m1U2w"
+        },
+        {
           "title": "옵션 건드리면 손해, 맥북에어 15 M4 기본형이 답인 이유",
           "views": 1669,
           "date": "2026-06-13",
@@ -440,7 +447,7 @@ window.DATA = {
         },
         {
           "title": "화면 밝기 1600니트면 반칙이죠, 아이패드 프로 11 M5",
-          "views": 943,
+          "views": 944,
           "date": "2026-06-12",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=uK333cNIYAQ"
@@ -479,16 +486,9 @@ window.DATA = {
           "date": "2026-06-09",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=HBrDMeUg5jo"
-        },
-        {
-          "title": "200W로 끌어쓰는 쿨링, 오래 돌려도 안 식는 게이밍 노트북 (레노버 리전 프로 5i)",
-          "views": 1412,
-          "date": "2026-06-09",
-          "duration": 34,
-          "url": "https://www.youtube.com/watch?v=TTE6z9jbCp4"
         }
       ],
-      "analyzed_at": "2026-06-14 11:51"
+      "analyzed_at": "2026-06-14 12:55"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -499,7 +499,7 @@ window.DATA = {
       "avg_views": 947,
       "median_views": 503,
       "uploads_30d": 20,
-      "views_30d": 18942,
+      "views_30d": 18941,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -525,7 +525,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2015,
+          "views": 2013,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -541,7 +541,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "79만 원 아이패드 에어, 프로 안 부러운 이유 (M3)",
-          "views": 301,
+          "views": 302,
           "date": "2026-06-13",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=Qpylku1SquE"
@@ -555,7 +555,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2015,
+          "views": 2013,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Ks_8EIRfPU0"
         }
       ],
-      "analyzed_at": "2026-06-14 11:52"
+      "analyzed_at": "2026-06-14 12:55"
     }
   ],
-  "generated_at": "2026-06-14 11:49"
+  "generated_at": "2026-06-14 12:53"
 };
