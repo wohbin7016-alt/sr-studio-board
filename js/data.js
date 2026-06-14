@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6879,
-      "median_views": 3016,
+      "avg_views": 6693,
+      "median_views": 2639,
       "uploads_30d": 20,
-      "views_30d": 137592,
+      "views_30d": 133879,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 49496,
+          "views": 49829,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -51,6 +51,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
+          "views": 270,
+          "date": "2026-06-14",
+          "duration": 27,
+          "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
+        },
         {
           "title": "누렇게 찌든 운동화, 거품 한 번에 새 신발로",
           "views": 2179,
@@ -88,14 +95,14 @@ window.DATA = {
         },
         {
           "title": "몰딩 굴곡에 장판 딱 맞게 붙이는 법, 연필 하나면 끝",
-          "views": 1831,
+          "views": 1832,
           "date": "2026-06-07",
           "duration": 15,
           "url": "https://www.youtube.com/watch?v=sG6uwpWRzcU"
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 49496,
+          "views": 49829,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -113,27 +120,20 @@ window.DATA = {
           "date": "2026-06-06",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=S_xlOKEhRsM"
-        },
-        {
-          "title": "애플워치 깨진 테두리, 통째로 바꾸지 마세요",
-          "views": 1155,
-          "date": "2026-06-05",
-          "duration": 17,
-          "url": "https://www.youtube.com/watch?v=BsqQCr95fTg"
         }
       ],
-      "analyzed_at": "2026-06-14 18:15"
+      "analyzed_at": "2026-06-14 19:20"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
       "name": "비하인드썰",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
-      "sampled": 18,
-      "avg_views": 839,
-      "median_views": 465,
-      "uploads_30d": 18,
-      "views_30d": 15113,
+      "sampled": 19,
+      "avg_views": 850,
+      "median_views": 467,
+      "uploads_30d": 19,
+      "views_30d": 15310,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -152,14 +152,14 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 1872,
+          "views": 1927,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1759,
+          "views": 1749,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -174,8 +174,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "병역 면제받은 배우가 스스로 군대 간 진짜 이유",
+          "views": 0,
+          "date": "2026-06-14",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=F6cCXwyPHP8"
+        },
+        {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 671,
+          "views": 823,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -189,7 +196,7 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 1872,
+          "views": 1927,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -203,7 +210,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1759,
+          "views": 1749,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -235,16 +242,9 @@ window.DATA = {
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
-        },
-        {
-          "title": "벤츠 앞유리 돌빵, 유리 안 갈고 30초면 사라집니다",
-          "views": 4,
-          "date": "2026-06-09",
-          "duration": 21,
-          "url": "https://www.youtube.com/watch?v=gapmCSSb0So"
         }
       ],
-      "analyzed_at": "2026-06-14 18:16"
+      "analyzed_at": "2026-06-14 19:21"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1100,
       "sampled": 20,
-      "avg_views": 6370,
-      "median_views": 2546,
+      "avg_views": 6301,
+      "median_views": 2547,
       "uploads_30d": 20,
-      "views_30d": 127408,
+      "views_30d": 126035,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -281,7 +281,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 9228,
+          "views": 9528,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -296,6 +296,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "배럴아이는 왜 머리가 투명할까",
+          "views": 192,
+          "date": "2026-06-14",
+          "duration": 19,
+          "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
+        },
+        {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
           "views": 2314,
           "date": "2026-06-13",
@@ -304,28 +311,28 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 9228,
+          "views": 9528,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 3566,
+          "views": 3664,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         },
         {
           "title": "해파리는 뇌도 심장도 없는데 어떻게 살까?",
-          "views": 2779,
+          "views": 2781,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
         },
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 2899,
+          "views": 2870,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
@@ -357,16 +364,9 @@ window.DATA = {
           "date": "2026-06-09",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=mjilLlq_T-c"
-        },
-        {
-          "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29122,
-          "date": "2026-06-09",
-          "duration": 17,
-          "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         }
       ],
-      "analyzed_at": "2026-06-14 18:17"
+      "analyzed_at": "2026-06-14 19:22"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1295,
-      "median_views": 1442,
+      "avg_views": 1207,
+      "median_views": 1417,
       "uploads_30d": 20,
-      "views_30d": 25914,
+      "views_30d": 24151,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -395,13 +395,6 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=lbKXPjJZw34"
         },
         {
-          "title": "16인치 노트북이 100만원도 안 한다고? 레노버 씽크북 16",
-          "views": 1925,
-          "date": "2026-06-04",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=P8x9zNNTdyc"
-        },
-        {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
           "views": 1849,
           "date": "2026-06-13",
@@ -414,9 +407,23 @@ window.DATA = {
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
+        },
+        {
+          "title": "150만 원 안 되는데 화면이 등 뒤까지 넘어가는 노트북 (옴니북 X 플립 14)",
+          "views": 1747,
+          "date": "2026-06-14",
+          "duration": 39,
+          "url": "https://www.youtube.com/watch?v=qHjbd-m1U2w"
         }
       ],
       "recent_videos": [
+        {
+          "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
+          "views": 156,
+          "date": "2026-06-14",
+          "duration": 33,
+          "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
+        },
         {
           "title": "150만 원 안 되는데 화면이 등 뒤까지 넘어가는 노트북 (옴니북 X 플립 14)",
           "views": 1747,
@@ -447,7 +454,7 @@ window.DATA = {
         },
         {
           "title": "화면 밝기 1600니트면 반칙이죠, 아이패드 프로 11 M5",
-          "views": 945,
+          "views": 948,
           "date": "2026-06-12",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=uK333cNIYAQ"
@@ -461,7 +468,7 @@ window.DATA = {
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1730,
+          "views": 1731,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -479,16 +486,9 @@ window.DATA = {
           "date": "2026-06-10",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=5Uvxgkbojus"
-        },
-        {
-          "title": "가방에 넣은 줄도 모를 1kg, 14인치 2.8K OLED 들고 다니는 노트북 (레노버 요가 슬림 7i 울트라)",
-          "views": 1742,
-          "date": "2026-06-09",
-          "duration": 35,
-          "url": "https://www.youtube.com/watch?v=HBrDMeUg5jo"
         }
       ],
-      "analyzed_at": "2026-06-14 18:18"
+      "analyzed_at": "2026-06-14 19:23"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 887,
-      "median_views": 505,
+      "avg_views": 920,
+      "median_views": 588,
       "uploads_30d": 20,
-      "views_30d": 17740,
+      "views_30d": 17496,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -540,15 +540,22 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "큰 화면 맥북, 무겁다는 편견 깨는 한 대 (맥북에어 15 M5)",
+          "views": 0,
+          "date": "2026-06-14",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=4kJYj7BZ1Mk"
+        },
+        {
           "title": "굳이 프로? M5 보고 조용히 담았습니다 (맥북 프로 14",
-          "views": 753,
+          "views": 757,
           "date": "2026-06-14",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=T8EKN8A8N1M"
         },
         {
           "title": "79만 원 아이패드 에어, 프로 안 부러운 이유 (M3)",
-          "views": 302,
+          "views": 303,
           "date": "2026-06-13",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=Qpylku1SquE"
@@ -569,7 +576,7 @@ window.DATA = {
         },
         {
           "title": "100만 원대에 펜까지 되는 2-in-1, 노트북도 태블릿도 되는 한 대",
-          "views": 1354,
+          "views": 1355,
           "date": "2026-06-12",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=nPweXD4cGU0"
@@ -597,21 +604,14 @@ window.DATA = {
         },
         {
           "title": "같은 RTX 5060인데 왜 이놈만 빠를까요 (에이수스 TUF 게이밍 F16)",
-          "views": 21,
+          "views": 22,
           "date": "2026-06-10",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=SB4BLlQP6xg"
-        },
-        {
-          "title": "게이밍 노트북에 OLED 넣었다는 게 사기 같았는데 (에이서 프레데터 헬리오스 네오 16S AI)",
-          "views": 256,
-          "date": "2026-06-09",
-          "duration": 34,
-          "url": "https://www.youtube.com/watch?v=DfdRU_oEIG4"
         }
       ],
-      "analyzed_at": "2026-06-14 18:19"
+      "analyzed_at": "2026-06-14 19:24"
     }
   ],
-  "generated_at": "2026-06-14 18:15"
+  "generated_at": "2026-06-14 19:20"
 };
