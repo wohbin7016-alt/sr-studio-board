@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6291,
+      "avg_views": 6316,
       "median_views": 3015,
       "uploads_30d": 20,
-      "views_30d": 125821,
+      "views_30d": 126324,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 38287,
+          "views": 38738,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 16138,
+          "views": 16157,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -60,14 +60,14 @@ window.DATA = {
         },
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 4146,
+          "views": 4166,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 3216,
+          "views": 3229,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
@@ -95,14 +95,14 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 38287,
+          "views": 38738,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 16138,
+          "views": 16157,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=BsqQCr95fTg"
         }
       ],
-      "analyzed_at": "2026-06-14 07:36"
+      "analyzed_at": "2026-06-14 08:39"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,15 +130,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 17,
-      "avg_views": 771,
+      "avg_views": 776,
       "median_views": 260,
       "uploads_30d": 17,
-      "views_30d": 13119,
+      "views_30d": 13205,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 3350,
+          "views": 3436,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -210,7 +210,7 @@ window.DATA = {
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 3350,
+          "views": 3436,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FK-ioqCcmyc"
         }
       ],
-      "analyzed_at": "2026-06-14 07:37"
+      "analyzed_at": "2026-06-14 08:40"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1100,
       "sampled": 20,
-      "avg_views": 6159,
+      "avg_views": 6170,
       "median_views": 2422,
       "uploads_30d": 20,
-      "views_30d": 123188,
+      "views_30d": 123416,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -280,18 +280,18 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
         },
         {
+          "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
+          "views": 6460,
+          "date": "2026-06-13",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
+        },
+        {
           "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
           "views": 6417,
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
-        },
-        {
-          "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 6233,
-          "date": "2026-06-13",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         }
       ],
       "recent_videos": [
@@ -304,7 +304,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 6233,
+          "views": 6460,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -346,7 +346,7 @@ window.DATA = {
         },
         {
           "title": "나무늘보는 왜 이렇게 느릴까? 게을러서가 아니었습니다",
-          "views": 1835,
+          "views": 1836,
           "date": "2026-06-10",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=xH10zPmx90U"
@@ -366,18 +366,18 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         }
       ],
-      "analyzed_at": "2026-06-14 07:37"
+      "analyzed_at": "2026-06-14 08:40"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
       "name": "놓치면손해템",
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
-      "subscribers": 73000,
+      "subscribers": 72900,
       "sampled": 20,
       "avg_views": 1226,
-      "median_views": 1414,
+      "median_views": 1415,
       "uploads_30d": 20,
-      "views_30d": 24523,
+      "views_30d": 24532,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -410,7 +410,7 @@ window.DATA = {
         },
         {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1838,
+          "views": 1842,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
@@ -419,14 +419,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "옵션 건드리면 손해, 맥북에어 15 M4 기본형이 답인 이유",
-          "views": 1665,
+          "views": 1669,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=Avpyw0U75Dg"
         },
         {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1838,
+          "views": 1842,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
@@ -454,7 +454,7 @@ window.DATA = {
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1723,
+          "views": 1722,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -482,13 +482,13 @@ window.DATA = {
         },
         {
           "title": "200W로 끌어쓰는 쿨링, 오래 돌려도 안 식는 게이밍 노트북 (레노버 리전 프로 5i)",
-          "views": 1410,
+          "views": 1412,
           "date": "2026-06-09",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=TTE6z9jbCp4"
         }
       ],
-      "analyzed_at": "2026-06-14 07:38"
+      "analyzed_at": "2026-06-14 08:41"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 946,
+      "avg_views": 947,
       "median_views": 503,
       "uploads_30d": 20,
-      "views_30d": 18939,
+      "views_30d": 18940,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -548,7 +548,7 @@ window.DATA = {
         },
         {
           "title": "1.29kg에 숫자패드까지? 엑셀러들이 15인치 그램부터 집는 이유",
-          "views": 1346,
+          "views": 1347,
           "date": "2026-06-13",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=vlJ0GbOGVg4"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Ks_8EIRfPU0"
         }
       ],
-      "analyzed_at": "2026-06-14 07:39"
+      "analyzed_at": "2026-06-14 08:42"
     }
   ],
-  "generated_at": "2026-06-14 07:36"
+  "generated_at": "2026-06-14 08:39"
 };
