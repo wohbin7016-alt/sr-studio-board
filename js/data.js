@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6086,
+      "avg_views": 6113,
       "median_views": 2524,
       "uploads_30d": 20,
-      "views_30d": 121729,
+      "views_30d": 122279,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 56081,
+          "views": 56063,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -53,21 +53,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "도요타 코롤라 시동 덜덜 소리, 진짜 원인은 타이밍체인 텐셔너",
-          "views": 897,
+          "views": 1027,
           "date": "2026-06-15",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=6ehCEuh9Ie8"
         },
         {
           "title": "볼보 S80 코너 출렁임, 진짜 원인은 스웨이바 부싱",
-          "views": 1525,
+          "views": 1599,
           "date": "2026-06-15",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=8HTBOGU2LfA"
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 3108,
+          "views": 3472,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 56081,
+          "views": 56063,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         }
       ],
-      "analyzed_at": "2026-06-15 22:56"
+      "analyzed_at": "2026-06-16 00:00"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,15 +130,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 1225,
-      "median_views": 674,
+      "avg_views": 1230,
+      "median_views": 346,
       "uploads_30d": 20,
-      "views_30d": 23279,
+      "views_30d": 24616,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 6007,
+          "views": 7320,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -166,7 +166,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1951,
+          "views": 1968,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -175,7 +175,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "젠슨 황 삼쏘 회동, 이 조합 실화? (2026 한국 총수 삼겹살 회동)",
-          "views": 0,
+          "views": 3,
           "date": "2026-06-15",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=hEYUrDPTOCo"
@@ -189,14 +189,14 @@ window.DATA = {
         },
         {
           "title": "병역 면제받은 배우가 스스로 군대 간 진짜 이유",
-          "views": 16,
+          "views": 18,
           "date": "2026-06-14",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=F6cCXwyPHP8"
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 6007,
+          "views": 7320,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -217,14 +217,14 @@ window.DATA = {
         },
         {
           "title": "BMW E46 오일이 자꾸 샌다면, 진짜 원인은 따로 있습니다",
-          "views": 9,
+          "views": 11,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eREKNXppMfw"
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1951,
+          "views": 1968,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         }
       ],
-      "analyzed_at": "2026-06-15 22:57"
+      "analyzed_at": "2026-06-16 00:01"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1100,
       "sampled": 20,
-      "avg_views": 6781,
-      "median_views": 3116,
+      "avg_views": 6814,
+      "median_views": 3126,
       "uploads_30d": 20,
-      "views_30d": 135626,
+      "views_30d": 136294,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -281,7 +281,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 11842,
+          "views": 11855,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -297,21 +297,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 1723,
+          "views": 2082,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "곰치는 왜 입을 쩍 벌릴까",
-          "views": 1930,
+          "views": 2134,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VotD4zlV5lM"
         },
         {
           "title": "배럴아이는 왜 머리가 투명할까",
-          "views": 2805,
+          "views": 2865,
           "date": "2026-06-14",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
@@ -325,28 +325,28 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 11842,
+          "views": 11855,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 3924,
+          "views": 3934,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         },
         {
           "title": "해파리는 뇌도 심장도 없는데 어떻게 살까?",
-          "views": 3250,
+          "views": 3261,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
         },
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 2982,
+          "views": 2992,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=iXBmQnnmyUc"
         }
       ],
-      "analyzed_at": "2026-06-15 22:58"
+      "analyzed_at": "2026-06-16 00:02"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1308,
+      "avg_views": 1315,
       "median_views": 1552,
       "uploads_30d": 20,
-      "views_30d": 26161,
+      "views_30d": 26302,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -389,7 +389,7 @@ window.DATA = {
         },
         {
           "title": "이 가격에 QHD 165Hz? HP 오멘 16 화면 보고 바로 담았습니다",
-          "views": 2200,
+          "views": 2201,
           "date": "2026-06-08",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=lbKXPjJZw34"
@@ -410,7 +410,7 @@ window.DATA = {
         },
         {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1850,
+          "views": 1851,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
@@ -419,7 +419,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "250만 원 게이밍 노트북 보러 갔다가 이걸 담은 이유 (레노버 리전5i)",
-          "views": 340,
+          "views": 462,
           "date": "2026-06-15",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=kaO1l3fTU70"
@@ -454,7 +454,7 @@ window.DATA = {
         },
         {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1850,
+          "views": 1851,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
@@ -482,13 +482,13 @@ window.DATA = {
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1757,
+          "views": 1772,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
         }
       ],
-      "analyzed_at": "2026-06-15 22:58"
+      "analyzed_at": "2026-06-16 00:02"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 864,
-      "median_views": 516,
+      "avg_views": 863,
+      "median_views": 510,
       "uploads_30d": 20,
-      "views_30d": 17287,
+      "views_30d": 17279,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -518,7 +518,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2025,
+          "views": 2029,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -541,7 +541,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "16인치인데 왜 이렇게 가볍지? 가방에 넣으면 무게가 안 느껴지는 노트북 (에이수스 젠북 S16)",
-          "views": 445,
+          "views": 433,
           "date": "2026-06-15",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=gGxepTiSfp4"
@@ -576,7 +576,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2025,
+          "views": 2029,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=aOGBHkzI6OM"
         }
       ],
-      "analyzed_at": "2026-06-15 22:59"
+      "analyzed_at": "2026-06-16 00:03"
     }
   ],
-  "generated_at": "2026-06-15 22:56"
+  "generated_at": "2026-06-16 00:00"
 };
