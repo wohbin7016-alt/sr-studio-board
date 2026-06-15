@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 7061,
+      "avg_views": 7089,
       "median_views": 2639,
       "uploads_30d": 20,
-      "views_30d": 141230,
+      "views_30d": 141793,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 54277,
+          "views": 54700,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -44,7 +44,7 @@ window.DATA = {
         },
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 5473,
+          "views": 5553,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 1822,
+          "views": 1882,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 5473,
+          "views": 5553,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 54277,
+          "views": 54700,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=S_xlOKEhRsM"
         }
       ],
-      "analyzed_at": "2026-06-15 09:08"
+      "analyzed_at": "2026-06-15 10:11"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,15 +130,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 19,
-      "avg_views": 925,
+      "avg_views": 942,
       "median_views": 260,
       "uploads_30d": 19,
-      "views_30d": 17576,
+      "views_30d": 17898,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 4449,
+          "views": 4559,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -166,7 +166,7 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 1490,
+          "views": 1702,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -182,7 +182,7 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 1490,
+          "views": 1702,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -224,7 +224,7 @@ window.DATA = {
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 4449,
+          "views": 4559,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
         }
       ],
-      "analyzed_at": "2026-06-15 09:09"
+      "analyzed_at": "2026-06-15 10:12"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1100,
       "sampled": 20,
-      "avg_views": 6628,
-      "median_views": 3025,
+      "avg_views": 6640,
+      "median_views": 3029,
       "uploads_30d": 20,
-      "views_30d": 132562,
+      "views_30d": 132803,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -281,7 +281,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 11276,
+          "views": 11400,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -304,21 +304,21 @@ window.DATA = {
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 3499,
+          "views": 3594,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 11276,
+          "views": 11400,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 3879,
+          "views": 3891,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
@@ -332,7 +332,7 @@ window.DATA = {
         },
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 2948,
+          "views": 2956,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
@@ -353,7 +353,7 @@ window.DATA = {
         },
         {
           "title": "나무늘보는 왜 이렇게 느릴까? 게을러서가 아니었습니다",
-          "views": 1877,
+          "views": 1878,
           "date": "2026-06-10",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=xH10zPmx90U"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=mjilLlq_T-c"
         }
       ],
-      "analyzed_at": "2026-06-15 09:09"
+      "analyzed_at": "2026-06-15 10:13"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1296,
+      "avg_views": 1297,
       "median_views": 1445,
       "uploads_30d": 20,
-      "views_30d": 25938,
+      "views_30d": 25944,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -396,7 +396,7 @@ window.DATA = {
         },
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1904,
+          "views": 1907,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
@@ -419,7 +419,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1904,
+          "views": 1907,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
@@ -482,13 +482,13 @@ window.DATA = {
         },
         {
           "title": "입문 게이밍은 결국 이 한 대로 끝납니다 (HP 빅터스 15 RTX4060)",
-          "views": 705,
+          "views": 708,
           "date": "2026-06-10",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=5Uvxgkbojus"
         }
       ],
-      "analyzed_at": "2026-06-15 09:10"
+      "analyzed_at": "2026-06-15 10:13"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -499,7 +499,7 @@ window.DATA = {
       "avg_views": 887,
       "median_views": 505,
       "uploads_30d": 20,
-      "views_30d": 17746,
+      "views_30d": 17748,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -525,7 +525,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2021,
+          "views": 2022,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -562,7 +562,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2021,
+          "views": 2022,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DfdRU_oEIG4"
         }
       ],
-      "analyzed_at": "2026-06-15 09:11"
+      "analyzed_at": "2026-06-15 10:14"
     }
   ],
-  "generated_at": "2026-06-15 09:08"
+  "generated_at": "2026-06-15 10:11"
 };
