@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 5989,
-      "median_views": 2260,
+      "avg_views": 6015,
+      "median_views": 2344,
       "uploads_30d": 20,
-      "views_30d": 119780,
+      "views_30d": 120312,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "도요타 코롤라 시동 덜덜 소리, 진짜 원인은 타이밍체인 텐셔너",
-          "views": 178,
+          "views": 542,
           "date": "2026-06-15",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=6ehCEuh9Ie8"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 2346,
+          "views": 2514,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -122,18 +122,18 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         }
       ],
-      "analyzed_at": "2026-06-15 18:40"
+      "analyzed_at": "2026-06-15 19:44"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
       "name": "비하인드썰",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
-      "subscribers": 1130,
+      "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 1038,
-      "median_views": 577,
+      "avg_views": 1057,
+      "median_views": 578,
       "uploads_30d": 20,
-      "views_30d": 19730,
+      "views_30d": 20100,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -144,6 +144,13 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         },
         {
+          "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
+          "views": 3167,
+          "date": "2026-06-14",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
+        },
+        {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
           "views": 3103,
           "date": "2026-06-10",
@@ -152,21 +159,14 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 2916,
+          "views": 2918,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         },
         {
-          "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 2784,
-          "date": "2026-06-14",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
-        },
-        {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1946,
+          "views": 1931,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -182,21 +182,21 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 577,
+          "views": 578,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
         },
         {
           "title": "병역 면제받은 배우가 스스로 군대 간 진짜 이유",
-          "views": 13,
+          "views": 12,
           "date": "2026-06-14",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=F6cCXwyPHP8"
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 2784,
+          "views": 3167,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -210,7 +210,7 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 2916,
+          "views": 2918,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -224,7 +224,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1946,
+          "views": 1931,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         }
       ],
-      "analyzed_at": "2026-06-15 18:41"
+      "analyzed_at": "2026-06-15 19:45"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,22 +252,22 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1100,
       "sampled": 20,
-      "avg_views": 6669,
-      "median_views": 3088,
+      "avg_views": 6706,
+      "median_views": 3094,
       "uploads_30d": 20,
-      "views_30d": 133383,
+      "views_30d": 134131,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29974,
+          "views": 29980,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29334,
+          "views": 29348,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -281,7 +281,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 11779,
+          "views": 11841,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -297,14 +297,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 171,
+          "views": 915,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "곰치는 왜 입을 쩍 벌릴까",
-          "views": 1805,
+          "views": 1715,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VotD4zlV5lM"
@@ -325,7 +325,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 11779,
+          "views": 11841,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -346,7 +346,7 @@ window.DATA = {
         },
         {
           "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 2970,
+          "views": 2982,
           "date": "2026-06-11",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=iXBmQnnmyUc"
         }
       ],
-      "analyzed_at": "2026-06-15 18:42"
+      "analyzed_at": "2026-06-15 19:46"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1288,
-      "median_views": 1548,
+      "avg_views": 1304,
+      "median_views": 1549,
       "uploads_30d": 20,
-      "views_30d": 25770,
+      "views_30d": 26085,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -419,14 +419,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "250만 원 게이밍 노트북 보러 갔다가 이걸 담은 이유 (레노버 리전5i)",
-          "views": 12,
+          "views": 340,
           "date": "2026-06-15",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=kaO1l3fTU70"
         },
         {
           "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
-          "views": 1699,
+          "views": 1684,
           "date": "2026-06-15",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
@@ -447,7 +447,7 @@ window.DATA = {
         },
         {
           "title": "옵션 건드리면 손해, 맥북에어 15 M4 기본형이 답인 이유",
-          "views": 1672,
+          "views": 1673,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=Avpyw0U75Dg"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
         }
       ],
-      "analyzed_at": "2026-06-15 18:43"
+      "analyzed_at": "2026-06-15 19:46"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 885,
-      "median_views": 588,
+      "avg_views": 857,
+      "median_views": 505,
       "uploads_30d": 20,
-      "views_30d": 16815,
+      "views_30d": 17156,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -541,7 +541,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "16인치인데 왜 이렇게 가볍지? 가방에 넣으면 무게가 안 느껴지는 노트북 (에이수스 젠북 S16)",
-          "views": 0,
+          "views": 340,
           "date": "2026-06-15",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=gGxepTiSfp4"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=aOGBHkzI6OM"
         }
       ],
-      "analyzed_at": "2026-06-15 18:43"
+      "analyzed_at": "2026-06-15 19:47"
     }
   ],
-  "generated_at": "2026-06-15 18:40"
+  "generated_at": "2026-06-15 19:44"
 };
