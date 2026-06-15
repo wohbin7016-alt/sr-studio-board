@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6166,
+      "avg_views": 6175,
       "median_views": 2524,
       "uploads_30d": 20,
-      "views_30d": 123334,
+      "views_30d": 123501,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 56351,
+          "views": 56432,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -37,14 +37,14 @@ window.DATA = {
         },
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 5726,
+          "views": 5761,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 4068,
+          "views": 4119,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 4068,
+          "views": 4119,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 5726,
+          "views": 5761,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 56351,
+          "views": 56432,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         }
       ],
-      "analyzed_at": "2026-06-16 03:11"
+      "analyzed_at": "2026-06-16 04:14"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,15 +130,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 1559,
+      "avg_views": 1676,
       "median_views": 347,
       "uploads_30d": 20,
-      "views_30d": 31187,
+      "views_30d": 33539,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 13746,
+          "views": 16102,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -166,7 +166,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1968,
+          "views": 1996,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -182,7 +182,7 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 925,
+          "views": 893,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
@@ -196,7 +196,7 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 13746,
+          "views": 16102,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -224,7 +224,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1968,
+          "views": 1996,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         }
       ],
-      "analyzed_at": "2026-06-16 03:11"
+      "analyzed_at": "2026-06-16 04:14"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1100,
       "sampled": 20,
-      "avg_views": 6880,
-      "median_views": 3165,
+      "avg_views": 6888,
+      "median_views": 3176,
       "uploads_30d": 20,
-      "views_30d": 137617,
+      "views_30d": 137776,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -281,7 +281,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 11855,
+          "views": 11849,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -297,7 +297,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 2685,
+          "views": 2831,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -318,14 +318,14 @@ window.DATA = {
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 4475,
+          "views": 4472,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 11855,
+          "views": 11849,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -339,7 +339,7 @@ window.DATA = {
         },
         {
           "title": "해파리는 뇌도 심장도 없는데 어떻게 살까?",
-          "views": 3271,
+          "views": 3293,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=iXBmQnnmyUc"
         }
       ],
-      "analyzed_at": "2026-06-16 03:12"
+      "analyzed_at": "2026-06-16 04:15"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,25 +374,25 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1341,
+      "avg_views": 1343,
       "median_views": 1554,
       "uploads_30d": 20,
-      "views_30d": 26827,
+      "views_30d": 26866,
       "shorts_ratio": 1.0,
       "top_videos": [
+        {
+          "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
+          "views": 2309,
+          "date": "2026-06-11",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
+        },
         {
           "title": "250만 원에 데스크탑급, 썬더로봇 RZ16 게이밍노트북",
           "views": 2282,
           "date": "2026-06-07",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=MaxDG0orUWA"
-        },
-        {
-          "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 2277,
-          "date": "2026-06-11",
-          "duration": 26,
-          "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
         },
         {
           "title": "이 가격에 QHD 165Hz? HP 오멘 16 화면 보고 바로 담았습니다",
@@ -403,7 +403,7 @@ window.DATA = {
         },
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1920,
+          "views": 1914,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
@@ -419,7 +419,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "250만 원 게이밍 노트북 보러 갔다가 이걸 담은 이유 (레노버 리전5i)",
-          "views": 475,
+          "views": 482,
           "date": "2026-06-15",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=kaO1l3fTU70"
@@ -433,7 +433,7 @@ window.DATA = {
         },
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1920,
+          "views": 1914,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
@@ -482,13 +482,13 @@ window.DATA = {
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 2277,
+          "views": 2309,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
         }
       ],
-      "analyzed_at": "2026-06-16 03:13"
+      "analyzed_at": "2026-06-16 04:16"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -497,9 +497,9 @@ window.DATA = {
       "subscribers": 2360,
       "sampled": 20,
       "avg_views": 864,
-      "median_views": 518,
+      "median_views": 519,
       "uploads_30d": 20,
-      "views_30d": 17293,
+      "views_30d": 17299,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -518,7 +518,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2029,
+          "views": 2032,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -541,7 +541,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "16인치인데 왜 이렇게 가볍지? 가방에 넣으면 무게가 안 느껴지는 노트북 (에이수스 젠북 S16)",
-          "views": 449,
+          "views": 450,
           "date": "2026-06-15",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=gGxepTiSfp4"
@@ -576,7 +576,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2029,
+          "views": 2032,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=aOGBHkzI6OM"
         }
       ],
-      "analyzed_at": "2026-06-16 03:13"
+      "analyzed_at": "2026-06-16 04:16"
     }
   ],
-  "generated_at": "2026-06-16 03:11"
+  "generated_at": "2026-06-16 04:14"
 };
