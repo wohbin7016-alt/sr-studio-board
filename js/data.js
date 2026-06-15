@@ -8,36 +8,29 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 7101,
-      "median_views": 2639,
+      "avg_views": 5974,
+      "median_views": 2292,
       "uploads_30d": 20,
-      "views_30d": 142023,
+      "views_30d": 119493,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 54923,
+          "views": 55108,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
-          "title": "호스에 나사 박았는데 자꾸 빠지는 이유#호스고정 #생활꿀팁 #배관팁 #DIY #정비꿀팁 #호스수리 #작업노하우",
-          "views": 23021,
-          "date": "2026-06-01",
-          "duration": 21,
-          "url": "https://www.youtube.com/watch?v=LrUwKPNiYVs"
-        },
-        {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 16454,
+          "views": 16538,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6985,
+          "views": 6986,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -48,9 +41,23 @@ window.DATA = {
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
+        },
+        {
+          "title": "버려진 기름통이 에어컨으로? 얼음 하나로 찬바람 쏟아지는 DIY",
+          "views": 4047,
+          "date": "2026-06-03",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=s7cURGJkgAA"
         }
       ],
       "recent_videos": [
+        {
+          "title": "볼보 S80 코너 출렁임, 진짜 원인은 스웨이바 부싱",
+          "views": 220,
+          "date": "2026-06-15",
+          "duration": 21,
+          "url": "https://www.youtube.com/watch?v=8HTBOGU2LfA"
+        },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
           "views": 1887,
@@ -60,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "누렇게 찌든 운동화, 거품 한 번에 새 신발로",
-          "views": 2174,
+          "views": 2175,
           "date": "2026-06-13",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=0h4iHOBZc4k"
@@ -88,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6985,
+          "views": 6986,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -102,38 +109,31 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 54923,
+          "views": 55108,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 16454,
+          "views": 16538,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
-        },
-        {
-          "title": "벽 모서리 실리콘, 프로처럼 매끈하게 하는 법",
-          "views": 1447,
-          "date": "2026-06-06",
-          "duration": 21,
-          "url": "https://www.youtube.com/watch?v=S_xlOKEhRsM"
         }
       ],
-      "analyzed_at": "2026-06-15 11:15"
+      "analyzed_at": "2026-06-15 12:18"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
       "name": "비하인드썰",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
-      "sampled": 19,
-      "avg_views": 942,
-      "median_views": 260,
-      "uploads_30d": 19,
-      "views_30d": 17898,
+      "sampled": 20,
+      "avg_views": 911,
+      "median_views": 167,
+      "uploads_30d": 20,
+      "views_30d": 18239,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -158,21 +158,28 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         },
         {
-          "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1874,
-          "date": "2026-06-12",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
-        },
-        {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 1702,
+          "views": 1944,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
+        },
+        {
+          "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
+          "views": 1899,
+          "date": "2026-06-12",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
         }
       ],
       "recent_videos": [
+        {
+          "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
+          "views": 74,
+          "date": "2026-06-15",
+          "duration": 23,
+          "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
+        },
         {
           "title": "병역 면제받은 배우가 스스로 군대 간 진짜 이유",
           "views": 12,
@@ -182,7 +189,7 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 1702,
+          "views": 1944,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -210,7 +217,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1874,
+          "views": 1899,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -235,16 +242,9 @@ window.DATA = {
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=Qt4v6vKQ7iE"
-        },
-        {
-          "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 3102,
-          "date": "2026-06-10",
-          "duration": 21,
-          "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
         }
       ],
-      "analyzed_at": "2026-06-15 11:15"
+      "analyzed_at": "2026-06-15 12:19"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,15 +252,15 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1100,
       "sampled": 20,
-      "avg_views": 6645,
+      "avg_views": 6590,
       "median_views": 3051,
       "uploads_30d": 20,
-      "views_30d": 132914,
+      "views_30d": 131812,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "기아 카니발 A필러에 나무 막대를 붙이는 이유",
-          "views": 29968,
+          "views": 29969,
           "date": "2026-06-05",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=JuDlLmo9e20"
@@ -296,8 +296,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "곰치는 왜 입을 쩍 벌릴까",
+          "views": 220,
+          "date": "2026-06-15",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=VotD4zlV5lM"
+        },
+        {
           "title": "배럴아이는 왜 머리가 투명할까",
-          "views": 2353,
+          "views": 2432,
           "date": "2026-06-14",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
@@ -357,16 +364,9 @@ window.DATA = {
           "date": "2026-06-10",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=xH10zPmx90U"
-        },
-        {
-          "title": "물곰은 왜 우주 진공에서도 안 죽을까",
-          "views": 1494,
-          "date": "2026-06-09",
-          "duration": 36,
-          "url": "https://www.youtube.com/watch?v=mjilLlq_T-c"
         }
       ],
-      "analyzed_at": "2026-06-15 11:16"
+      "analyzed_at": "2026-06-15 12:19"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1297,
-      "median_views": 1445,
+      "avg_views": 1231,
+      "median_views": 1422,
       "uploads_30d": 20,
-      "views_30d": 25944,
+      "views_30d": 24629,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -418,6 +418,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
+          "views": 148,
+          "date": "2026-06-15",
+          "duration": 35,
+          "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
+        },
+        {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
           "views": 1907,
           "date": "2026-06-14",
@@ -454,7 +461,7 @@ window.DATA = {
         },
         {
           "title": "화면 밝기 1600니트면 반칙이죠, 아이패드 프로 11 M5",
-          "views": 952,
+          "views": 955,
           "date": "2026-06-12",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=uK333cNIYAQ"
@@ -479,16 +486,9 @@ window.DATA = {
           "date": "2026-06-10",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=BElFmwn3X54"
-        },
-        {
-          "title": "입문 게이밍은 결국 이 한 대로 끝납니다 (HP 빅터스 15 RTX4060)",
-          "views": 708,
-          "date": "2026-06-10",
-          "duration": 30,
-          "url": "https://www.youtube.com/watch?v=5Uvxgkbojus"
         }
       ],
-      "analyzed_at": "2026-06-15 11:17"
+      "analyzed_at": "2026-06-15 12:20"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 887,
+      "avg_views": 883,
       "median_views": 505,
       "uploads_30d": 20,
-      "views_30d": 17748,
+      "views_30d": 17661,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -540,8 +540,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "게이밍 노트북은 1시간이면 방전이라더니, 이건 종일 가더라고요 (에이서 니트로 V16)",
+          "views": 163,
+          "date": "2026-06-15",
+          "duration": 36,
+          "url": "https://www.youtube.com/watch?v=IBwY5vaDyKk"
+        },
+        {
           "title": "굳이 프로? M5 보고 조용히 담았습니다 (맥북 프로 14",
-          "views": 749,
+          "views": 751,
           "date": "2026-06-14",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=T8EKN8A8N1M"
@@ -601,17 +608,10 @@ window.DATA = {
           "date": "2026-06-10",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=SB4BLlQP6xg"
-        },
-        {
-          "title": "게이밍 노트북에 OLED 넣었다는 게 사기 같았는데 (에이서 프레데터 헬리오스 네오 16S AI)",
-          "views": 256,
-          "date": "2026-06-09",
-          "duration": 34,
-          "url": "https://www.youtube.com/watch?v=DfdRU_oEIG4"
         }
       ],
-      "analyzed_at": "2026-06-15 11:17"
+      "analyzed_at": "2026-06-15 12:21"
     }
   ],
-  "generated_at": "2026-06-15 11:15"
+  "generated_at": "2026-06-15 12:18"
 };
