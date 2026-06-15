@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 7023,
+      "avg_views": 7061,
       "median_views": 2639,
       "uploads_30d": 20,
-      "views_30d": 140474,
+      "views_30d": 141230,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 53617,
+          "views": 54277,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 16424,
+          "views": 16454,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 1759,
+          "views": 1822,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -74,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 3436,
+          "views": 3437,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
@@ -95,21 +95,21 @@ window.DATA = {
         },
         {
           "title": "몰딩 굴곡에 장판 딱 맞게 붙이는 법, 연필 하나면 끝",
-          "views": 1832,
+          "views": 1834,
           "date": "2026-06-07",
           "duration": 15,
           "url": "https://www.youtube.com/watch?v=sG6uwpWRzcU"
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 53617,
+          "views": 54277,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 16424,
+          "views": 16454,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=S_xlOKEhRsM"
         }
       ],
-      "analyzed_at": "2026-06-15 08:05"
+      "analyzed_at": "2026-06-15 09:08"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,15 +130,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1130,
       "sampled": 19,
-      "avg_views": 922,
+      "avg_views": 925,
       "median_views": 260,
       "uploads_30d": 19,
-      "views_30d": 17522,
+      "views_30d": 17576,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 4439,
+          "views": 4449,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -152,21 +152,21 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 2625,
+          "views": 2731,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1866,
+          "views": 1874,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 1560,
+          "views": 1490,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -182,7 +182,7 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 1560,
+          "views": 1490,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -196,7 +196,7 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 2625,
+          "views": 2731,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -210,7 +210,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 1866,
+          "views": 1874,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -224,7 +224,7 @@ window.DATA = {
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 4439,
+          "views": 4449,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
         }
       ],
-      "analyzed_at": "2026-06-15 08:06"
+      "analyzed_at": "2026-06-15 09:09"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1100,
       "sampled": 20,
-      "avg_views": 6614,
+      "avg_views": 6628,
       "median_views": 3025,
       "uploads_30d": 20,
-      "views_30d": 132299,
+      "views_30d": 132562,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -267,28 +267,28 @@ window.DATA = {
         },
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29303,
+          "views": 29298,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         },
         {
           "title": "엄마가 아니라 아빠가 낳습니다",
-          "views": 18672,
+          "views": 18673,
           "date": "2026-06-07",
           "duration": 13,
           "url": "https://www.youtube.com/watch?v=jDQvOL9VEa8"
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 11186,
+          "views": 11276,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
-          "views": 6418,
+          "views": 6423,
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
@@ -297,21 +297,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "배럴아이는 왜 머리가 투명할까",
-          "views": 2257,
+          "views": 2353,
           "date": "2026-06-14",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 3433,
+          "views": 3499,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 11186,
+          "views": 11276,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -346,27 +346,27 @@ window.DATA = {
         },
         {
           "title": "홍학은 왜 분홍색일까",
-          "views": 2036,
+          "views": 2037,
           "date": "2026-06-10",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=iXBmQnnmyUc"
         },
         {
           "title": "나무늘보는 왜 이렇게 느릴까? 게을러서가 아니었습니다",
-          "views": 1876,
+          "views": 1877,
           "date": "2026-06-10",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=xH10zPmx90U"
         },
         {
           "title": "물곰은 왜 우주 진공에서도 안 죽을까",
-          "views": 1492,
+          "views": 1494,
           "date": "2026-06-09",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=mjilLlq_T-c"
         }
       ],
-      "analyzed_at": "2026-06-15 08:06"
+      "analyzed_at": "2026-06-15 09:09"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -377,7 +377,7 @@ window.DATA = {
       "avg_views": 1296,
       "median_views": 1445,
       "uploads_30d": 20,
-      "views_30d": 25937,
+      "views_30d": 25938,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -426,7 +426,7 @@ window.DATA = {
         },
         {
           "title": "150만 원 안 되는데 화면이 등 뒤까지 넘어가는 노트북 (옴니북 X 플립 14)",
-          "views": 1761,
+          "views": 1762,
           "date": "2026-06-14",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=qHjbd-m1U2w"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=5Uvxgkbojus"
         }
       ],
-      "analyzed_at": "2026-06-15 08:07"
+      "analyzed_at": "2026-06-15 09:10"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DfdRU_oEIG4"
         }
       ],
-      "analyzed_at": "2026-06-15 08:07"
+      "analyzed_at": "2026-06-15 09:11"
     }
   ],
-  "generated_at": "2026-06-15 08:05"
+  "generated_at": "2026-06-15 09:08"
 };
