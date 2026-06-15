@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6027,
-      "median_views": 2361,
+      "avg_views": 6063,
+      "median_views": 2479,
       "uploads_30d": 20,
-      "views_30d": 120555,
+      "views_30d": 121263,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 55820,
+          "views": 56063,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 5651,
+          "views": 5698,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "도요타 코롤라 시동 덜덜 소리, 진짜 원인은 타이밍체인 텐셔너",
-          "views": 613,
+          "views": 794,
           "date": "2026-06-15",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=6ehCEuh9Ie8"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 2548,
+          "views": 2783,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 5651,
+          "views": 5698,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "배관 이음새 물 새는 진짜 이유 (생테이프 감는 법)",
-          "views": 2143,
+          "views": 2144,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=8YeMLAgaBEQ"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 55820,
+          "views": 56063,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         }
       ],
-      "analyzed_at": "2026-06-15 20:48"
+      "analyzed_at": "2026-06-15 21:52"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,25 +130,25 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 1099,
-      "median_views": 578,
+      "avg_views": 1177,
+      "median_views": 674,
       "uploads_30d": 20,
-      "views_30d": 20890,
+      "views_30d": 22377,
       "shorts_ratio": 1.0,
       "top_videos": [
+        {
+          "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
+          "views": 5165,
+          "date": "2026-06-14",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
+        },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
           "views": 4733,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
-        },
-        {
-          "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 3937,
-          "date": "2026-06-14",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
@@ -182,28 +182,28 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 578,
+          "views": 832,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
         },
         {
           "title": "병역 면제받은 배우가 스스로 군대 간 진짜 이유",
-          "views": 12,
+          "views": 16,
           "date": "2026-06-14",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=F6cCXwyPHP8"
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 3937,
+          "views": 5165,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "무명 엔비디아에 날아온 편지 한 통… 보낸 사람은 이건희였다",
-          "views": 2,
+          "views": 3,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=GSMkuZ9VvdQ"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         }
       ],
-      "analyzed_at": "2026-06-15 20:49"
+      "analyzed_at": "2026-06-15 21:53"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1100,
       "sampled": 20,
-      "avg_views": 6742,
-      "median_views": 3094,
+      "avg_views": 6765,
+      "median_views": 3112,
       "uploads_30d": 20,
-      "views_30d": 134846,
+      "views_30d": 135317,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -297,7 +297,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 1093,
+          "views": 1525,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -339,7 +339,7 @@ window.DATA = {
         },
         {
           "title": "해파리는 뇌도 심장도 없는데 어떻게 살까?",
-          "views": 3207,
+          "views": 3242,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
@@ -360,13 +360,13 @@ window.DATA = {
         },
         {
           "title": "홍학은 왜 분홍색일까",
-          "views": 2037,
+          "views": 2039,
           "date": "2026-06-10",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=iXBmQnnmyUc"
         }
       ],
-      "analyzed_at": "2026-06-15 20:49"
+      "analyzed_at": "2026-06-15 21:53"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1305,
+      "avg_views": 1307,
       "median_views": 1549,
       "uploads_30d": 20,
-      "views_30d": 26109,
+      "views_30d": 26144,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -426,7 +426,7 @@ window.DATA = {
         },
         {
           "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
-          "views": 1699,
+          "views": 1722,
           "date": "2026-06-15",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
@@ -440,14 +440,14 @@ window.DATA = {
         },
         {
           "title": "150만 원 안 되는데 화면이 등 뒤까지 넘어가는 노트북 (옴니북 X 플립 14)",
-          "views": 1765,
+          "views": 1767,
           "date": "2026-06-14",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=qHjbd-m1U2w"
         },
         {
           "title": "옵션 건드리면 손해, 맥북에어 15 M4 기본형이 답인 이유",
-          "views": 1673,
+          "views": 1674,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=Avpyw0U75Dg"
@@ -482,13 +482,13 @@ window.DATA = {
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 1745,
+          "views": 1752,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
         }
       ],
-      "analyzed_at": "2026-06-15 20:50"
+      "analyzed_at": "2026-06-15 21:54"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=aOGBHkzI6OM"
         }
       ],
-      "analyzed_at": "2026-06-15 20:51"
+      "analyzed_at": "2026-06-15 21:55"
     }
   ],
-  "generated_at": "2026-06-15 20:48"
+  "generated_at": "2026-06-15 21:52"
 };
