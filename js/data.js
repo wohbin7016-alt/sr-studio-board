@@ -8,22 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6245,
+      "avg_views": 6274,
       "median_views": 2524,
       "uploads_30d": 20,
-      "views_30d": 124913,
+      "views_30d": 125495,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 57012,
+          "views": 57149,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 16678,
+          "views": 16712,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
@@ -44,7 +44,7 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 5217,
+          "views": 5541,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -60,7 +60,7 @@ window.DATA = {
         },
         {
           "title": "도요타 코롤라 시동 덜덜 소리, 진짜 원인은 타이밍체인 텐셔너",
-          "views": 1839,
+          "views": 1922,
           "date": "2026-06-15",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=6ehCEuh9Ie8"
@@ -74,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 5217,
+          "views": 5541,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "몰딩 굴곡에 장판 딱 맞게 붙이는 법, 연필 하나면 끝",
-          "views": 1838,
+          "views": 1841,
           "date": "2026-06-07",
           "duration": 15,
           "url": "https://www.youtube.com/watch?v=sG6uwpWRzcU"
         }
       ],
-      "analyzed_at": "2026-06-16 15:50"
+      "analyzed_at": "2026-06-16 16:54"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,15 +130,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2222,
-      "median_views": 188,
+      "avg_views": 2236,
+      "median_views": 227,
       "uploads_30d": 20,
-      "views_30d": 44453,
+      "views_30d": 44738,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 27113,
+          "views": 27316,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -175,7 +175,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
-          "views": 349,
+          "views": 428,
           "date": "2026-06-16",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
@@ -189,7 +189,7 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1086,
+          "views": 1089,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
@@ -203,7 +203,7 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 27113,
+          "views": 27316,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=VxQ1vfTGrRs"
         }
       ],
-      "analyzed_at": "2026-06-16 15:51"
+      "analyzed_at": "2026-06-16 16:54"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,15 +252,15 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1110,
       "sampled": 20,
-      "avg_views": 5638,
+      "avg_views": 5671,
       "median_views": 3370,
       "uploads_30d": 20,
-      "views_30d": 112766,
+      "views_30d": 113422,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29468,
+          "views": 29486,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -274,7 +274,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 12383,
+          "views": 12499,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -288,7 +288,7 @@ window.DATA = {
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 4647,
+          "views": 4695,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
@@ -297,14 +297,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 1604,
+          "views": 1814,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 4210,
+          "views": 4474,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -325,14 +325,14 @@ window.DATA = {
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 4647,
+          "views": 4695,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 12383,
+          "views": 12499,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
         }
       ],
-      "analyzed_at": "2026-06-16 15:51"
+      "analyzed_at": "2026-06-16 16:55"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1360,
+      "avg_views": 1373,
       "median_views": 1556,
       "uploads_30d": 20,
-      "views_30d": 27203,
+      "views_30d": 27468,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -419,7 +419,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "100만 원짜리 노트북 다 비슷하겠지 했다가 생각 바뀐 이유 (삼성 갤럭시북4)",
-          "views": 807,
+          "views": 1071,
           "date": "2026-06-16",
           "duration": 46,
           "url": "https://www.youtube.com/watch?v=sl-qm7NW9JE"
@@ -454,7 +454,7 @@ window.DATA = {
         },
         {
           "title": "옵션 건드리면 손해, 맥북에어 15 M4 기본형이 답인 이유",
-          "views": 1677,
+          "views": 1678,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=Avpyw0U75Dg"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=NZv2vgWmd0M"
         }
       ],
-      "analyzed_at": "2026-06-16 15:52"
+      "analyzed_at": "2026-06-16 16:56"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -497,9 +497,9 @@ window.DATA = {
       "subscribers": 2360,
       "sampled": 20,
       "avg_views": 783,
-      "median_views": 447,
+      "median_views": 451,
       "uploads_30d": 20,
-      "views_30d": 15668,
+      "views_30d": 15677,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -541,14 +541,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "100만 원 아래 노트북, 레노버 아이디어패드 슬림3 가성비 끝판왕",
-          "views": 440,
+          "views": 446,
           "date": "2026-06-16",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=OJe_wWi2QOo"
         },
         {
           "title": "16인치인데 왜 이렇게 가볍지? 가방에 넣으면 무게가 안 느껴지는 노트북 (에이수스 젠북 S16)",
-          "views": 455,
+          "views": 456,
           "date": "2026-06-15",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=gGxepTiSfp4"
@@ -562,7 +562,7 @@ window.DATA = {
         },
         {
           "title": "굳이 프로? M5 보고 조용히 담았습니다 (맥북 프로 14",
-          "views": 758,
+          "views": 759,
           "date": "2026-06-14",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=T8EKN8A8N1M"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
         }
       ],
-      "analyzed_at": "2026-06-16 15:53"
+      "analyzed_at": "2026-06-16 16:57"
     }
   ],
-  "generated_at": "2026-06-16 15:50"
+  "generated_at": "2026-06-16 16:54"
 };
