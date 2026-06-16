@@ -8,29 +8,29 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6306,
+      "avg_views": 6320,
       "median_views": 2165,
       "uploads_30d": 20,
-      "views_30d": 126133,
+      "views_30d": 126419,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 57606,
+          "views": 57578,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 16738,
+          "views": 16746,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 7598,
+          "views": 7728,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -44,7 +44,7 @@ window.DATA = {
         },
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 5876,
+          "views": 5935,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
@@ -53,35 +53,35 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "깨진 플라스틱 인두로 영구 보수",
-          "views": 1223,
+          "views": 1253,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=uZBBClwjK3w"
         },
         {
           "title": "아우디 A6 배터리 경고등, 배터리 갈면 또 당합니다 (진짜 범인은 발전기 정류기)",
-          "views": 805,
+          "views": 808,
           "date": "2026-06-16",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=D76zTvIBy7A"
         },
         {
           "title": "도요타 코롤라 시동 덜덜 소리, 진짜 원인은 타이밍체인 텐셔너",
-          "views": 2092,
+          "views": 2135,
           "date": "2026-06-15",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=6ehCEuh9Ie8"
         },
         {
           "title": "볼보 S80 코너 출렁임, 진짜 원인은 스웨이바 부싱",
-          "views": 1829,
+          "views": 1868,
           "date": "2026-06-15",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=8HTBOGU2LfA"
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 7598,
+          "views": 7728,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 5876,
+          "views": 5935,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
         }
       ],
-      "analyzed_at": "2026-06-17 00:21"
+      "analyzed_at": "2026-06-17 01:25"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,15 +130,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2307,
+      "avg_views": 2320,
       "median_views": 351,
       "uploads_30d": 20,
-      "views_30d": 46155,
+      "views_30d": 46411,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 28271,
+          "views": 28485,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -175,14 +175,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "미스터비스트, 또 유튜브 역사 썼다…개인 최초 5억 구독 근황",
-          "views": 3,
+          "views": 7,
           "date": "2026-06-16",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=Cxww0fUnNG8"
         },
         {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
-          "views": 740,
+          "views": 758,
           "date": "2026-06-16",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
@@ -196,7 +196,7 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1217,
+          "views": 1237,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
@@ -210,7 +210,7 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 28271,
+          "views": 28485,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
         }
       ],
-      "analyzed_at": "2026-06-17 00:22"
+      "analyzed_at": "2026-06-17 01:26"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,15 +252,15 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1110,
       "sampled": 20,
-      "avg_views": 5797,
-      "median_views": 3518,
+      "avg_views": 5822,
+      "median_views": 3550,
       "uploads_30d": 20,
-      "views_30d": 115940,
+      "views_30d": 116451,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29500,
+          "views": 29504,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -297,14 +297,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "복어는 위협받으면 왜 몸을 부풀릴까",
-          "views": 593,
+          "views": 709,
           "date": "2026-06-16",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=AaE5dlk1Ph0"
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 2692,
+          "views": 2879,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -318,21 +318,21 @@ window.DATA = {
         },
         {
           "title": "곰치는 왜 입을 쩍 벌릴까",
-          "views": 3632,
+          "views": 3695,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VotD4zlV5lM"
         },
         {
           "title": "배럴아이는 왜 머리가 투명할까",
-          "views": 3804,
+          "views": 3863,
           "date": "2026-06-14",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 5203,
+          "views": 5285,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
         }
       ],
-      "analyzed_at": "2026-06-17 00:23"
+      "analyzed_at": "2026-06-17 01:26"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,15 +374,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1388,
+      "avg_views": 1392,
       "median_views": 1557,
       "uploads_30d": 20,
-      "views_30d": 27768,
+      "views_30d": 27854,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 2808,
+          "views": 2893,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -440,7 +440,7 @@ window.DATA = {
         },
         {
           "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
-          "views": 1723,
+          "views": 1724,
           "date": "2026-06-15",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=uK333cNIYAQ"
         }
       ],
-      "analyzed_at": "2026-06-17 00:24"
+      "analyzed_at": "2026-06-17 01:27"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 724,
+      "avg_views": 740,
       "median_views": 453,
       "uploads_30d": 20,
-      "views_30d": 14499,
+      "views_30d": 14813,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -524,24 +524,24 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=IBwY5vaDyKk"
         },
         {
+          "title": "마이크로소프트 서피스 랩탑 13",
+          "views": 1434,
+          "date": "2026-06-16",
+          "duration": 33,
+          "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
+        },
+        {
           "title": "100만 원대에 펜까지 되는 2-in-1, 노트북도 태블릿도 되는 한 대",
           "views": 1356,
           "date": "2026-06-12",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=nPweXD4cGU0"
-        },
-        {
-          "title": "1.29kg에 숫자패드까지? 엑셀러들이 15인치 그램부터 집는 이유",
-          "views": 1352,
-          "date": "2026-06-13",
-          "duration": 32,
-          "url": "https://www.youtube.com/watch?v=vlJ0GbOGVg4"
         }
       ],
       "recent_videos": [
         {
           "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1120,
+          "views": 1434,
           "date": "2026-06-16",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=GtEEFE4Gbuc"
         }
       ],
-      "analyzed_at": "2026-06-17 00:24"
+      "analyzed_at": "2026-06-17 01:28"
     }
   ],
-  "generated_at": "2026-06-17 00:21"
+  "generated_at": "2026-06-17 01:25"
 };
