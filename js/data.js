@@ -8,32 +8,39 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6298,
-      "median_views": 2524,
+      "avg_views": 6318,
+      "median_views": 2526,
       "uploads_30d": 20,
-      "views_30d": 125970,
+      "views_30d": 126369,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 57284,
+          "views": 57388,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 16712,
+          "views": 16718,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6987,
+          "views": 6989,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
+        },
+        {
+          "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
+          "views": 5991,
+          "date": "2026-06-14",
+          "duration": 27,
+          "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
         },
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
@@ -41,19 +48,12 @@ window.DATA = {
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
-        },
-        {
-          "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 5722,
-          "date": "2026-06-14",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
         }
       ],
       "recent_videos": [
         {
           "title": "아우디 A6 배터리 경고등, 배터리 갈면 또 당합니다 (진짜 범인은 발전기 정류기)",
-          "views": 778,
+          "views": 789,
           "date": "2026-06-16",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=D76zTvIBy7A"
@@ -74,14 +74,14 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 5722,
+          "views": 5991,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
         },
         {
           "title": "누렇게 찌든 운동화, 거품 한 번에 새 신발로",
-          "views": 2178,
+          "views": 2180,
           "date": "2026-06-13",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=0h4iHOBZc4k"
@@ -102,14 +102,14 @@ window.DATA = {
         },
         {
           "title": "배관 이음새 물 새는 진짜 이유 (생테이프 감는 법)",
-          "views": 2144,
+          "views": 2146,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=8YeMLAgaBEQ"
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6987,
+          "views": 6989,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sG6uwpWRzcU"
         }
       ],
-      "analyzed_at": "2026-06-16 17:57"
+      "analyzed_at": "2026-06-16 19:01"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,15 +130,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2251,
-      "median_views": 262,
+      "avg_views": 2262,
+      "median_views": 301,
       "uploads_30d": 20,
-      "views_30d": 45025,
+      "views_30d": 45256,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 27469,
+          "views": 27619,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -166,7 +166,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 2029,
+          "views": 2032,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -175,7 +175,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
-          "views": 496,
+          "views": 574,
           "date": "2026-06-16",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
@@ -203,7 +203,7 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 27469,
+          "views": 27619,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -231,7 +231,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 2029,
+          "views": 2032,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=VxQ1vfTGrRs"
         }
       ],
-      "analyzed_at": "2026-06-16 17:58"
+      "analyzed_at": "2026-06-16 19:02"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1110,
       "sampled": 20,
-      "avg_views": 5718,
+      "avg_views": 5762,
       "median_views": 3370,
       "uploads_30d": 20,
-      "views_30d": 114379,
+      "views_30d": 115256,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -274,7 +274,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 12656,
+          "views": 12775,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -288,7 +288,7 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 4793,
+          "views": 5013,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -297,21 +297,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 1995,
+          "views": 2134,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 4793,
+          "views": 5013,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "곰치는 왜 입을 쩍 벌릴까",
-          "views": 3021,
+          "views": 3335,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VotD4zlV5lM"
@@ -325,21 +325,21 @@ window.DATA = {
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 4769,
+          "views": 4825,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 12656,
+          "views": 12775,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 4275,
+          "views": 4304,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
         }
       ],
-      "analyzed_at": "2026-06-16 17:59"
+      "analyzed_at": "2026-06-16 19:03"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,15 +374,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1376,
+      "avg_views": 1374,
       "median_views": 1556,
       "uploads_30d": 20,
-      "views_30d": 27520,
+      "views_30d": 27496,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 2360,
+          "views": 2373,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -419,7 +419,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "100만 원짜리 노트북 다 비슷하겠지 했다가 생각 바뀐 이유 (삼성 갤럭시북4)",
-          "views": 1109,
+          "views": 1071,
           "date": "2026-06-16",
           "duration": 46,
           "url": "https://www.youtube.com/watch?v=sl-qm7NW9JE"
@@ -433,7 +433,7 @@ window.DATA = {
         },
         {
           "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
-          "views": 1721,
+          "views": 1722,
           "date": "2026-06-15",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=NZv2vgWmd0M"
         }
       ],
-      "analyzed_at": "2026-06-16 18:00"
+      "analyzed_at": "2026-06-16 19:04"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
         }
       ],
-      "analyzed_at": "2026-06-16 18:00"
+      "analyzed_at": "2026-06-16 19:04"
     }
   ],
-  "generated_at": "2026-06-16 17:57"
+  "generated_at": "2026-06-16 19:01"
 };
