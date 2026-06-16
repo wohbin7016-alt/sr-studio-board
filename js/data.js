@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6342,
-      "median_views": 2526,
+      "avg_views": 6199,
+      "median_views": 2163,
       "uploads_30d": 20,
-      "views_30d": 126858,
+      "views_30d": 123993,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 6342,
+          "views": 6837,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -51,6 +51,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "깨진 플라스틱 인두로 영구 보수",
+          "views": 168,
+          "date": "2026-06-16",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=uZBBClwjK3w"
+        },
         {
           "title": "아우디 A6 배터리 경고등, 배터리 갈면 또 당합니다 (진짜 범인은 발전기 정류기)",
           "views": 789,
@@ -67,14 +74,14 @@ window.DATA = {
         },
         {
           "title": "볼보 S80 코너 출렁임, 진짜 원인은 스웨이바 부싱",
-          "views": 1790,
+          "views": 1829,
           "date": "2026-06-15",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=8HTBOGU2LfA"
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 6342,
+          "views": 6837,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -95,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 3449,
+          "views": 3450,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
-        },
-        {
-          "title": "몰딩 굴곡에 장판 딱 맞게 붙이는 법, 연필 하나면 끝",
-          "views": 1841,
-          "date": "2026-06-07",
-          "duration": 15,
-          "url": "https://www.youtube.com/watch?v=sG6uwpWRzcU"
         }
       ],
-      "analyzed_at": "2026-06-16 20:05"
+      "analyzed_at": "2026-06-16 21:09"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,15 +130,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2278,
+      "avg_views": 2286,
       "median_views": 351,
       "uploads_30d": 20,
-      "views_30d": 45570,
+      "views_30d": 45738,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 27793,
+          "views": 27932,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -159,7 +159,7 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3070,
+          "views": 3081,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -174,8 +174,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "미스터비스트, 또 유튜브 역사 썼다…개인 최초 5억 구독 근황",
+          "views": 3,
+          "date": "2026-06-16",
+          "duration": 36,
+          "url": "https://www.youtube.com/watch?v=Cxww0fUnNG8"
+        },
+        {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
-          "views": 686,
+          "views": 710,
           "date": "2026-06-16",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
@@ -203,7 +210,7 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 27793,
+          "views": 27932,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -217,7 +224,7 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3070,
+          "views": 3081,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -235,16 +242,9 @@ window.DATA = {
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
-        },
-        {
-          "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 18,
-          "date": "2026-06-11",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=VxQ1vfTGrRs"
         }
       ],
-      "analyzed_at": "2026-06-16 20:06"
+      "analyzed_at": "2026-06-16 21:10"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,15 +252,15 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1110,
       "sampled": 20,
-      "avg_views": 5783,
-      "median_views": 3370,
+      "avg_views": 5802,
+      "median_views": 3440,
       "uploads_30d": 20,
-      "views_30d": 115666,
+      "views_30d": 116054,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29486,
+          "views": 29500,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -288,7 +288,7 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 5131,
+          "views": 5190,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -297,21 +297,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 2267,
+          "views": 2304,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 5131,
+          "views": 5190,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "곰치는 왜 입을 쩍 벌릴까",
-          "views": 3335,
+          "views": 3476,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VotD4zlV5lM"
@@ -325,7 +325,7 @@ window.DATA = {
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 4897,
+          "views": 4967,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
@@ -339,7 +339,7 @@ window.DATA = {
         },
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 4275,
+          "views": 4342,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1mH2M5MBQWI"
         }
       ],
-      "analyzed_at": "2026-06-16 20:07"
+      "analyzed_at": "2026-06-16 21:11"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1378,
-      "median_views": 1557,
+      "avg_views": 1429,
+      "median_views": 1679,
       "uploads_30d": 20,
-      "views_30d": 27560,
+      "views_30d": 27153,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -410,7 +410,7 @@ window.DATA = {
         },
         {
           "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
-          "views": 1865,
+          "views": 1866,
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
@@ -418,22 +418,29 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "HP 빅터스 16 게이밍 노트북",
+          "views": 0,
+          "date": "2026-06-16",
+          "duration": 34,
+          "url": "https://www.youtube.com/watch?v=jkiY7LFI3xU"
+        },
+        {
           "title": "100만 원짜리 노트북 다 비슷하겠지 했다가 생각 바뀐 이유 (삼성 갤럭시북4)",
-          "views": 1109,
+          "views": 1118,
           "date": "2026-06-16",
           "duration": 46,
           "url": "https://www.youtube.com/watch?v=sl-qm7NW9JE"
         },
         {
           "title": "250만 원 게이밍 노트북 보러 갔다가 이걸 담은 이유 (레노버 리전5i)",
-          "views": 1364,
+          "views": 1367,
           "date": "2026-06-15",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=kaO1l3fTU70"
         },
         {
           "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
-          "views": 1722,
+          "views": 1723,
           "date": "2026-06-15",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
@@ -447,7 +454,7 @@ window.DATA = {
         },
         {
           "title": "150만 원 안 되는데 화면이 등 뒤까지 넘어가는 노트북 (옴니북 X 플립 14)",
-          "views": 1780,
+          "views": 1781,
           "date": "2026-06-14",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=qHjbd-m1U2w"
@@ -468,7 +475,7 @@ window.DATA = {
         },
         {
           "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
-          "views": 1865,
+          "views": 1866,
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
@@ -479,16 +486,9 @@ window.DATA = {
           "date": "2026-06-12",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=uK333cNIYAQ"
-        },
-        {
-          "title": "가벼운데 화면까지 좋은 노트북은 드물죠, 에이서 스위프트 고 16",
-          "views": 250,
-          "date": "2026-06-11",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=NZv2vgWmd0M"
         }
       ],
-      "analyzed_at": "2026-06-16 20:08"
+      "analyzed_at": "2026-06-16 21:12"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,22 +496,15 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 783,
-      "median_views": 451,
+      "avg_views": 704,
+      "median_views": 449,
       "uploads_30d": 20,
-      "views_30d": 15678,
+      "views_30d": 13377,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
-          "title": "15.6인치인데 1.7kg, 하루종일 가는 HP 옴니북3",
-          "views": 2307,
-          "date": "2026-06-06",
-          "duration": 25,
-          "url": "https://www.youtube.com/watch?v=-CPt3w0i-YY"
-        },
-        {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2033,
+          "views": 2034,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -536,12 +529,26 @@ window.DATA = {
           "date": "2026-06-12",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=nPweXD4cGU0"
+        },
+        {
+          "title": "1.29kg에 숫자패드까지? 엑셀러들이 15인치 그램부터 집는 이유",
+          "views": 1352,
+          "date": "2026-06-13",
+          "duration": 32,
+          "url": "https://www.youtube.com/watch?v=vlJ0GbOGVg4"
         }
       ],
       "recent_videos": [
         {
+          "title": "마이크로소프트 서피스 랩탑 13",
+          "views": 0,
+          "date": "2026-06-16",
+          "duration": 33,
+          "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
+        },
+        {
           "title": "100만 원 아래 노트북, 레노버 아이디어패드 슬림3 가성비 끝판왕",
-          "views": 446,
+          "views": 449,
           "date": "2026-06-16",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=OJe_wWi2QOo"
@@ -562,7 +569,7 @@ window.DATA = {
         },
         {
           "title": "굳이 프로? M5 보고 조용히 담았습니다 (맥북 프로 14",
-          "views": 759,
+          "views": 761,
           "date": "2026-06-14",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=T8EKN8A8N1M"
@@ -583,7 +590,7 @@ window.DATA = {
         },
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2033,
+          "views": 2034,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -601,17 +608,10 @@ window.DATA = {
           "date": "2026-06-11",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=GtEEFE4Gbuc"
-        },
-        {
-          "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1911,
-          "date": "2026-06-11",
-          "duration": 36,
-          "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
         }
       ],
-      "analyzed_at": "2026-06-16 20:08"
+      "analyzed_at": "2026-06-16 21:13"
     }
   ],
-  "generated_at": "2026-06-16 20:05"
+  "generated_at": "2026-06-16 21:09"
 };
