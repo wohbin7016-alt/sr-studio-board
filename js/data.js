@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6212,
+      "avg_views": 6229,
       "median_views": 2524,
       "uploads_30d": 20,
-      "views_30d": 124251,
+      "views_30d": 124593,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 56476,
+          "views": 56578,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -44,7 +44,7 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 4429,
+          "views": 4544,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "도요타 코롤라 시동 덜덜 소리, 진짜 원인은 타이밍체인 텐셔너",
-          "views": 1469,
+          "views": 1594,
           "date": "2026-06-15",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=6ehCEuh9Ie8"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 4429,
+          "views": 4544,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 56476,
+          "views": 56578,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         }
       ],
-      "analyzed_at": "2026-06-16 09:29"
+      "analyzed_at": "2026-06-16 10:32"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,15 +130,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2052,
-      "median_views": 349,
+      "avg_views": 2105,
+      "median_views": 351,
       "uploads_30d": 20,
-      "views_30d": 41047,
+      "views_30d": 42114,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 23468,
+          "views": 24514,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -159,14 +159,14 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3037,
+          "views": 3045,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 2009,
+          "views": 2017,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -182,49 +182,49 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 999,
+          "views": 997,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
         },
         {
           "title": "병역 면제받은 배우가 스스로 군대 간 진짜 이유",
-          "views": 25,
+          "views": 27,
           "date": "2026-06-14",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=F6cCXwyPHP8"
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 23468,
+          "views": 24514,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "무명 엔비디아에 날아온 편지 한 통… 보낸 사람은 이건희였다",
-          "views": 4,
+          "views": 5,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=GSMkuZ9VvdQ"
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3037,
+          "views": 3045,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         },
         {
           "title": "BMW E46 오일이 자꾸 샌다면, 진짜 원인은 따로 있습니다",
-          "views": 12,
+          "views": 13,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eREKNXppMfw"
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 2009,
+          "views": 2017,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         }
       ],
-      "analyzed_at": "2026-06-16 09:30"
+      "analyzed_at": "2026-06-16 10:33"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1100,
       "sampled": 20,
-      "avg_views": 6957,
-      "median_views": 3323,
+      "avg_views": 6979,
+      "median_views": 3365,
       "uploads_30d": 20,
-      "views_30d": 139143,
+      "views_30d": 139592,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -281,7 +281,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 12075,
+          "views": 12118,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -297,7 +297,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 3151,
+          "views": 3562,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -311,7 +311,7 @@ window.DATA = {
         },
         {
           "title": "배럴아이는 왜 머리가 투명할까",
-          "views": 3331,
+          "views": 3326,
           "date": "2026-06-14",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
@@ -325,7 +325,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 12075,
+          "views": 12118,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=iXBmQnnmyUc"
         }
       ],
-      "analyzed_at": "2026-06-16 09:30"
+      "analyzed_at": "2026-06-16 10:34"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,15 +374,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1388,
+      "avg_views": 1385,
       "median_views": 1555,
       "uploads_30d": 20,
-      "views_30d": 27771,
+      "views_30d": 27702,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 2330,
+          "views": 2334,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -410,7 +410,7 @@ window.DATA = {
         },
         {
           "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
-          "views": 1865,
+          "views": 1861,
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
@@ -419,7 +419,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "250만 원 게이밍 노트북 보러 갔다가 이걸 담은 이유 (레노버 리전5i)",
-          "views": 1352,
+          "views": 1285,
           "date": "2026-06-15",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=kaO1l3fTU70"
@@ -454,14 +454,14 @@ window.DATA = {
         },
         {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1854,
+          "views": 1852,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
         },
         {
           "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
-          "views": 1865,
+          "views": 1861,
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
@@ -482,13 +482,13 @@ window.DATA = {
         },
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 2330,
+          "views": 2334,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
         }
       ],
-      "analyzed_at": "2026-06-16 09:31"
+      "analyzed_at": "2026-06-16 10:34"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -497,9 +497,9 @@ window.DATA = {
       "subscribers": 2360,
       "sampled": 20,
       "avg_views": 865,
-      "median_views": 519,
+      "median_views": 521,
       "uploads_30d": 20,
-      "views_30d": 17309,
+      "views_30d": 17314,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -541,7 +541,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "16인치인데 왜 이렇게 가볍지? 가방에 넣으면 무게가 안 느껴지는 노트북 (에이수스 젠북 S16)",
-          "views": 450,
+          "views": 455,
           "date": "2026-06-15",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=gGxepTiSfp4"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=aOGBHkzI6OM"
         }
       ],
-      "analyzed_at": "2026-06-16 09:32"
+      "analyzed_at": "2026-06-16 10:35"
     }
   ],
-  "generated_at": "2026-06-16 09:29"
+  "generated_at": "2026-06-16 10:32"
 };
