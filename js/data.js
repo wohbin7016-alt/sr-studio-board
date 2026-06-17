@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6393,
-      "median_views": 2183,
+      "avg_views": 6201,
+      "median_views": 2165,
       "uploads_30d": 20,
-      "views_30d": 127860,
+      "views_30d": 124027,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 58043,
+          "views": 58047,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 8493,
+          "views": 8543,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -51,6 +51,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "뭉개진 나사 고무줄로 빼기",
+          "views": 176,
+          "date": "2026-06-17",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=RVlAPWufJZ4"
+        },
         {
           "title": "깨진 플라스틱 인두로 영구 보수",
           "views": 1274,
@@ -81,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 8493,
+          "views": 8543,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=8YeMLAgaBEQ"
-        },
-        {
-          "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6991,
-          "date": "2026-06-08",
-          "duration": 20,
-          "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
         }
       ],
-      "analyzed_at": "2026-06-17 11:09"
+      "analyzed_at": "2026-06-17 12:12"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,22 +130,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2418,
-      "median_views": 351,
+      "avg_views": 2370,
+      "median_views": 45,
       "uploads_30d": 20,
-      "views_30d": 48379,
+      "views_30d": 47411,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 30312,
+          "views": 30361,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 4736,
+          "views": 4739,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -166,13 +166,20 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 2032,
+          "views": 2033,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
         }
       ],
       "recent_videos": [
+        {
+          "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
+          "views": 62,
+          "date": "2026-06-17",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
+        },
         {
           "title": "미스터비스트, 또 유튜브 역사 썼다…개인 최초 5억 구독 근황",
           "views": 10,
@@ -182,7 +189,7 @@ window.DATA = {
         },
         {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
-          "views": 823,
+          "views": 857,
           "date": "2026-06-16",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
@@ -196,7 +203,7 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1281,
+          "views": 1303,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
@@ -210,7 +217,7 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 30312,
+          "views": 30361,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -235,16 +242,9 @@ window.DATA = {
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eREKNXppMfw"
-        },
-        {
-          "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 2032,
-          "date": "2026-06-12",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
         }
       ],
-      "analyzed_at": "2026-06-17 11:09"
+      "analyzed_at": "2026-06-17 12:13"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,15 +252,15 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1110,
       "sampled": 20,
-      "avg_views": 6077,
-      "median_views": 3842,
+      "avg_views": 5988,
+      "median_views": 3867,
       "uploads_30d": 20,
-      "views_30d": 121541,
+      "views_30d": 119768,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29516,
+          "views": 29522,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -274,7 +274,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14043,
+          "views": 14087,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -296,6 +296,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "카피바라는 왜 모든 동물과 잘 지낼까 #왜그럴까 #과학상식",
+          "views": 130,
+          "date": "2026-06-17",
+          "duration": 35,
+          "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
+        },
+        {
           "title": "복어는 위협받으면 왜 몸을 부풀릴까",
           "views": 1001,
           "date": "2026-06-16",
@@ -304,7 +311,7 @@ window.DATA = {
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 3924,
+          "views": 3974,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -339,14 +346,14 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14043,
+          "views": 14087,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 4369,
+          "views": 4370,
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
@@ -357,16 +364,9 @@ window.DATA = {
           "date": "2026-06-12",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
-        },
-        {
-          "title": "오리는 추운 날 왜 한 발로 서 있을까?",
-          "views": 2992,
-          "date": "2026-06-11",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=RJnL4sfhP2Y"
         }
       ],
-      "analyzed_at": "2026-06-17 11:10"
+      "analyzed_at": "2026-06-17 12:14"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,25 +374,18 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1405,
-      "median_views": 1557,
+      "avg_views": 1292,
+      "median_views": 1401,
       "uploads_30d": 20,
-      "views_30d": 28103,
+      "views_30d": 25855,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 3072,
+          "views": 3070,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
-        },
-        {
-          "title": "250만 원에 데스크탑급, 썬더로봇 RZ16 게이밍노트북",
-          "views": 2282,
-          "date": "2026-06-07",
-          "duration": 17,
-          "url": "https://www.youtube.com/watch?v=MaxDG0orUWA"
         },
         {
           "title": "이 가격에 QHD 165Hz? HP 오멘 16 화면 보고 바로 담았습니다",
@@ -403,7 +396,7 @@ window.DATA = {
         },
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1923,
+          "views": 1924,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
@@ -414,12 +407,26 @@ window.DATA = {
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
+        },
+        {
+          "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
+          "views": 1850,
+          "date": "2026-06-13",
+          "duration": 39,
+          "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
         }
       ],
       "recent_videos": [
         {
+          "title": "같은 코어 울트라5인데 왜 하나만 후기가 쏟아질까 (삼성 갤럭시북5 프로 vs LG 그램 프로 17)",
+          "views": 37,
+          "date": "2026-06-17",
+          "duration": 39,
+          "url": "https://www.youtube.com/watch?v=DgQvpdMV17k"
+        },
+        {
           "title": "HP 빅터스 16 게이밍 노트북",
-          "views": 241,
+          "views": 242,
           "date": "2026-06-16",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=jkiY7LFI3xU"
@@ -447,7 +454,7 @@ window.DATA = {
         },
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1923,
+          "views": 1924,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
@@ -479,16 +486,9 @@ window.DATA = {
           "date": "2026-06-12",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
-        },
-        {
-          "title": "화면 밝기 1600니트면 반칙이죠, 아이패드 프로 11 M5",
-          "views": 960,
-          "date": "2026-06-12",
-          "duration": 29,
-          "url": "https://www.youtube.com/watch?v=uK333cNIYAQ"
         }
       ],
-      "analyzed_at": "2026-06-17 11:11"
+      "analyzed_at": "2026-06-17 12:15"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 750,
+      "avg_views": 743,
       "median_views": 452,
       "uploads_30d": 20,
-      "views_30d": 15012,
+      "views_30d": 14865,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -525,7 +525,7 @@ window.DATA = {
         },
         {
           "title": "게이밍 노트북은 1시간이면 방전이라더니, 이건 종일 가더라고요 (에이서 니트로 V16)",
-          "views": 1441,
+          "views": 1440,
           "date": "2026-06-15",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=IBwY5vaDyKk"
@@ -539,6 +539,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "에이수스 비보북 S16",
+          "views": 68,
+          "date": "2026-06-17",
+          "duration": 34,
+          "url": "https://www.youtube.com/watch?v=39VSFU76oL4"
+        },
         {
           "title": "마이크로소프트 서피스 랩탑 13",
           "views": 1630,
@@ -562,7 +569,7 @@ window.DATA = {
         },
         {
           "title": "게이밍 노트북은 1시간이면 방전이라더니, 이건 종일 가더라고요 (에이서 니트로 V16)",
-          "views": 1441,
+          "views": 1440,
           "date": "2026-06-15",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=IBwY5vaDyKk"
@@ -601,17 +608,10 @@ window.DATA = {
           "date": "2026-06-12",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=nPweXD4cGU0"
-        },
-        {
-          "title": "큰 화면 노트북이 부담스러웠다면, 에이서 아스파이어 라이트 16",
-          "views": 633,
-          "date": "2026-06-11",
-          "duration": 30,
-          "url": "https://www.youtube.com/watch?v=GtEEFE4Gbuc"
         }
       ],
-      "analyzed_at": "2026-06-17 11:11"
+      "analyzed_at": "2026-06-17 12:15"
     }
   ],
-  "generated_at": "2026-06-17 11:09"
+  "generated_at": "2026-06-17 12:12"
 };
