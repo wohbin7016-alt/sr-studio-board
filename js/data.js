@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6235,
-      "median_views": 2107,
+      "avg_views": 6240,
+      "median_views": 2125,
       "uploads_30d": 20,
-      "views_30d": 124706,
+      "views_30d": 124802,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 9012,
+          "views": 9061,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱 인두로 영구 보수",
-          "views": 1297,
+          "views": 1308,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=uZBBClwjK3w"
@@ -88,14 +88,14 @@ window.DATA = {
         },
         {
           "title": "볼보 S80 코너 출렁임, 진짜 원인은 스웨이바 부싱",
-          "views": 2066,
+          "views": 2102,
           "date": "2026-06-15",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=8HTBOGU2LfA"
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 9012,
+          "views": 9061,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
         }
       ],
-      "analyzed_at": "2026-06-18 01:00",
+      "analyzed_at": "2026-06-18 02:04",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2488,
-      "median_views": 351,
+      "avg_views": 2490,
+      "median_views": 352,
       "uploads_30d": 20,
-      "views_30d": 49775,
+      "views_30d": 49808,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 31038,
+          "views": 31067,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -190,7 +190,7 @@ window.DATA = {
         },
         {
           "title": "미스터비스트, 또 유튜브 역사 썼다…개인 최초 5억 구독 근황",
-          "views": 19,
+          "views": 22,
           "date": "2026-06-16",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=Cxww0fUnNG8"
@@ -225,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 31038,
+          "views": 31067,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         }
       ],
-      "analyzed_at": "2026-06-18 01:01",
+      "analyzed_at": "2026-06-18 02:04",
       "subs_delta": 0
     },
     {
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1110,
       "sampled": 20,
-      "avg_views": 5445,
+      "avg_views": 5478,
       "median_views": 3585,
       "uploads_30d": 20,
-      "views_30d": 108904,
+      "views_30d": 109573,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29601,
+          "views": 29615,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -276,14 +276,14 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 9366,
+          "views": 9460,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 6535,
+          "views": 6537,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
@@ -299,14 +299,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "올빼미는 왜 먹이를 씹지 않고 통째로 삼킬까",
-          "views": 585,
+          "views": 592,
           "date": "2026-06-17",
           "duration": 58,
           "url": "https://www.youtube.com/watch?v=SOYyN08Plcs"
         },
         {
           "title": "카피바라는 왜 모든 동물과 잘 지낼까 #왜그럴까 #과학상식",
-          "views": 1109,
+          "views": 1116,
           "date": "2026-06-17",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
@@ -320,35 +320,35 @@ window.DATA = {
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 5727,
+          "views": 6129,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 9366,
+          "views": 9460,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "곰치는 왜 입을 쩍 벌릴까",
-          "views": 4330,
+          "views": 4373,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VotD4zlV5lM"
         },
         {
           "title": "배럴아이는 왜 머리가 투명할까",
-          "views": 4663,
+          "views": 4763,
           "date": "2026-06-14",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 6535,
+          "views": 6537,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         }
       ],
-      "analyzed_at": "2026-06-18 01:02",
+      "analyzed_at": "2026-06-18 02:05",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1419,
-      "median_views": 1473,
+      "avg_views": 1433,
+      "median_views": 1546,
       "uploads_30d": 20,
-      "views_30d": 28396,
+      "views_30d": 28672,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 3287,
+          "views": 3334,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -399,7 +399,7 @@ window.DATA = {
         },
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1927,
+          "views": 1929,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
@@ -422,14 +422,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이 두께에 RTX 5060을 풀파워로 박았다고?",
-          "views": 1358,
+          "views": 1577,
           "date": "2026-06-17",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=A67JOkeTXY0"
         },
         {
           "title": "같은 코어 울트라5인데 왜 하나만 후기가 쏟아질까 (삼성 갤럭시북5 프로 vs LG 그램 프로 17",
-          "views": 1512,
+          "views": 1516,
           "date": "2026-06-17",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=DgQvpdMV17k"
@@ -443,14 +443,14 @@ window.DATA = {
         },
         {
           "title": "100만 원짜리 노트북 다 비슷하겠지 했다가 생각 바뀐 이유 (삼성 갤럭시북4)",
-          "views": 1123,
+          "views": 1125,
           "date": "2026-06-16",
           "duration": 46,
           "url": "https://www.youtube.com/watch?v=sl-qm7NW9JE"
         },
         {
           "title": "250만 원 게이밍 노트북 보러 갔다가 이걸 담은 이유 (레노버 리전5i)",
-          "views": 1371,
+          "views": 1373,
           "date": "2026-06-15",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=kaO1l3fTU70"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1927,
+          "views": 1929,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
         }
       ],
-      "analyzed_at": "2026-06-18 01:02",
+      "analyzed_at": "2026-06-18 02:06",
       "subs_delta": 0
     },
     {
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 800,
       "median_views": 548,
       "uploads_30d": 20,
-      "views_30d": 16009,
+      "views_30d": 16012,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -522,7 +522,7 @@ window.DATA = {
         },
         {
           "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1636,
+          "views": 1639,
           "date": "2026-06-16",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
@@ -559,7 +559,7 @@ window.DATA = {
         },
         {
           "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1636,
+          "views": 1639,
           "date": "2026-06-16",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
         }
       ],
-      "analyzed_at": "2026-06-18 01:03",
+      "analyzed_at": "2026-06-18 02:06",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-18 01:00"
+  "generated_at": "2026-06-18 02:04"
 };
