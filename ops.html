@@ -68,24 +68,14 @@ td{padding:7px 10px;border-bottom:1px solid #21262d}
 .tpbar{height:6px;background:#0d1117;border-radius:3px;margin-top:6px;overflow:hidden}
 .tpfill{height:100%;border-radius:3px;transition:width .6s}
 .wktbl td a,.card a{color:#58a6ff;text-decoration:none;font-size:12px}
-/* pull-to-refresh + 새로고침 버튼 */
-html,body{overscroll-behavior-y:contain}
-#ptr{position:fixed;top:0;left:0;right:0;display:flex;align-items:center;justify-content:center;gap:8px;height:56px;transform:translateY(-56px);color:#58a6ff;font-size:13px;font-weight:600;z-index:50;pointer-events:none}
-#ptr .sp{width:18px;height:18px;border:2px solid #30363d;border-top-color:#58a6ff;border-radius:50%}
-#ptr.spin .sp{animation:ptrspin .7s linear infinite}
-@keyframes ptrspin{to{transform:rotate(360deg)}}
-#refbtn{position:fixed;top:14px;right:14px;z-index:60;background:#161b22;border:1px solid #30363d;color:#58a6ff;border-radius:50%;width:40px;height:40px;font-size:18px;cursor:pointer;line-height:1;transition:transform .3s}
-#refbtn:hover{border-color:#58a6ff} #refbtn:active{transform:rotate(180deg)}
 </style></head><body>
-<div id="ptr"><span class="sp"></span><span id="ptrtxt">↓ 당겨서 새로고침</span></div>
-<button id="refbtn" title="새로고침" onclick="doRefresh()">🔄</button>
 <h1>🎬 에스알스튜디오 운영현황</h1>
-<div class="ts"><span class="live"></span>실시간 자동 갱신 · 2026-06-17 17:15 · 동업자 공유(읽기전용)</div>
+<div class="ts"><span class="live"></span>실시간 자동 갱신 · 2026-06-17 17:39 · 동업자 공유(읽기전용)</div>
 
 <div class="kpis">
-  <div class="kpi g"><div class="n">13</div><div class="l">오늘 제작·배포</div></div>
-  <div class="kpi b"><div class="n">39<span style="font-size:18px;color:#7d8590">/77</span></div><div class="l">이번주 (2026-W24)</div></div>
-  <div class="kpi p"><div class="n">255</div><div class="l">누적 총 제작</div></div>
+  <div class="kpi g"><div class="n">11</div><div class="l">오늘 제작·배포</div></div>
+  <div class="kpi b"><div class="n">37<span style="font-size:18px;color:#7d8590">/77</span></div><div class="l">이번주 (2026-W24)</div></div>
+  <div class="kpi p"><div class="n">246</div><div class="l">누적 총 제작</div></div>
 </div>
 
 <h2 class="dechdr">📌 결정·정책 로그 — 사장님과 정한 것</h2>
@@ -176,29 +166,29 @@ html,body{overscroll-behavior-y:contain}
         </div></div></div>
 
 <h2>📦 오늘 제작·발송 (2026-06-17) — ✅발송 / 🟡검수중 / 🔴미발송</h2>
-<div class="card"><div class="chips"><span class="chip" style="border-color:#f0c04066;background:#161b22"><span class="dot" style="background:#f0c040"></span><b style="color:#2BE89A">쿠파스</b> 델 G15 5530 (Dell G15 5 <span style="color:#f0c040;font-weight:700">🟡검수중</span></span><span class="chip" style="border-color:#f0c04066;background:#161b22"><span class="dot" style="background:#f0c040"></span><b style="color:#2BE89A">쿠파스</b> 델 G15 5530 (Dell G15 5 <span style="color:#f0c040;font-weight:700">🟡검수중</span></span><span class="chip" style="border-color:#FF5A4D66;background:#161b22"><span class="dot" style="background:#FF5A4D"></span><b style="color:#2BE89A">쿠파스</b> HP 2025 오멘 16 슬림 (Ultr <span style="color:#FF5A4D;font-weight:700">🔴미발송</span></span><span class="chip" style="border-color:#3fb95066;background:#161b22"><span class="dot" style="background:#3fb950"></span><b style="color:#FF5A4D">쿠파스1</b> Apple 맥북 프로 14 M4 (Mac <span style="color:#3fb950;font-weight:700">✅06-17 14:20</span></span><span class="chip" style="border-color:#FF5A4D66;background:#161b22"><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b> Apple 맥북에어 13 M2 (MacB <span style="color:#FF5A4D;font-weight:700">🔴미발송</span></span><span class="chip" style="border-color:#FF5A4D66;background:#161b22"><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b> Apple 맥북에어 13 M2 (MacB <span style="color:#FF5A4D;font-weight:700">🔴미발송</span></span><span class="chip" style="border-color:#3fb95066;background:#161b22"><span class="dot" style="background:#3fb950"></span><b style="color:#58a6ff">해외쇼츠</b> 키아누 리브스 — 지하철 타는 진짜 이유 <span style="color:#3fb950;font-weight:700">✅06-17 12:55</span></span><span class="chip" style="border-color:#FF5A4D66;background:#161b22"><span class="dot" style="background:#FF5A4D"></span><b style="color:#58a6ff">해외쇼츠</b> 스티븐 호킹 시한부 2년→76살까지 우주 <span style="color:#FF5A4D;font-weight:700">🔴미발송</span></span><span class="chip" style="border-color:#FF5A4D66;background:#161b22"><span class="dot" style="background:#FF5A4D"></span><b style="color:#58a6ff">해외쇼츠</b> 헬렌 켈러 시청각장애 딛고 첫 대졸 (인 <span style="color:#FF5A4D;font-weight:700">🔴미발송</span></span><span class="chip" style="border-color:#FF5A4D66;background:#161b22"><span class="dot" style="background:#FF5A4D"></span><b style="color:#3fd6c8">해외쇼츠1</b> 마른 가죽 소파 가죽밤 광택복원 (가죽컨 <span style="color:#FF5A4D;font-weight:700">🔴미발송</span></span><span class="chip" style="border-color:#FF5A4D66;background:#161b22"><span class="dot" style="background:#FF5A4D"></span><b style="color:#3fd6c8">해외쇼츠1</b> 콘센트 스위치 벽에 매립 안보이게 마감 <span style="color:#FF5A4D;font-weight:700">🔴미발송</span></span><span class="chip" style="border-color:#3fb95066;background:#161b22"><span class="dot" style="background:#3fb950"></span><b style="color:#f0c040">왜그럴까</b> 올빼미 식사법(씹지않고 삼킴/펠릿) <span style="color:#3fb950;font-weight:700">✅06-17 09:53</span></span><span class="chip" style="border-color:#f0c04066;background:#161b22"><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">왜그럴까</b> 바다거북은 왜 늘 눈물을 흘릴까 <span style="color:#f0c040;font-weight:700">🟡검수중</span></span></div></div>
+<div class="card"><div class="chips"><span class="chip" style="border-color:#f0c04066;background:#161b22"><span class="dot" style="background:#f0c040"></span><b style="color:#2BE89A">쿠파스</b> 델 G15 5530 (Dell G15 5 <span style="color:#f0c040;font-weight:700">🟡검수중</span></span><span class="chip" style="border-color:#FF5A4D66;background:#161b22"><span class="dot" style="background:#FF5A4D"></span><b style="color:#2BE89A">쿠파스</b> HP 2025 오멘 16 슬림 (Ultr <span style="color:#FF5A4D;font-weight:700">🔴미발송</span></span><span class="chip" style="border-color:#FF5A4D66;background:#161b22"><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b> Apple 맥북 프로 14 M4 (Mac <span style="color:#FF5A4D;font-weight:700">🔴미발송</span></span><span class="chip" style="border-color:#FF5A4D66;background:#161b22"><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b> Apple 맥북에어 13 M2 (MacB <span style="color:#FF5A4D;font-weight:700">🔴미발송</span></span><span class="chip" style="border-color:#FF5A4D66;background:#161b22"><span class="dot" style="background:#FF5A4D"></span><b style="color:#58a6ff">해외쇼츠</b> 스티븐 호킹 시한부 2년→76살까지 우주 <span style="color:#FF5A4D;font-weight:700">🔴미발송</span></span><span class="chip" style="border-color:#FF5A4D66;background:#161b22"><span class="dot" style="background:#FF5A4D"></span><b style="color:#58a6ff">해외쇼츠</b> 키아누 리브스 — 지하철 타는 진짜 이유 <span style="color:#FF5A4D;font-weight:700">🔴미발송</span></span><span class="chip" style="border-color:#FF5A4D66;background:#161b22"><span class="dot" style="background:#FF5A4D"></span><b style="color:#58a6ff">해외쇼츠</b> 헬렌 켈러 시청각장애 딛고 첫 대졸 (인 <span style="color:#FF5A4D;font-weight:700">🔴미발송</span></span><span class="chip" style="border-color:#FF5A4D66;background:#161b22"><span class="dot" style="background:#FF5A4D"></span><b style="color:#3fd6c8">해외쇼츠1</b> 마른 가죽 소파 가죽밤 광택복원 (가죽컨 <span style="color:#FF5A4D;font-weight:700">🔴미발송</span></span><span class="chip" style="border-color:#FF5A4D66;background:#161b22"><span class="dot" style="background:#FF5A4D"></span><b style="color:#3fd6c8">해외쇼츠1</b> 콘센트 스위치 벽에 매립 안보이게 마감 <span style="color:#FF5A4D;font-weight:700">🔴미발송</span></span><span class="chip" style="border-color:#f0c04066;background:#161b22"><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">왜그럴까</b> 바다거북은 왜 늘 눈물을 흘릴까 <span style="color:#f0c040;font-weight:700">🟡검수중</span></span><span class="chip" style="border-color:#FF5A4D66;background:#161b22"><span class="dot" style="background:#FF5A4D"></span><b style="color:#f0c040">왜그럴까</b> 올빼미 식사법(씹지않고 삼킴/펠릿) <span style="color:#FF5A4D;font-weight:700">🔴미발송</span></span></div></div>
 
 <h2>🚦 오늘 미발송·검수중 (배포 점검 · 2026-06-17)</h2>
-<div class="card"><div style="color:#FF5A4D;font-weight:700;margin-bottom:6px">🔴 미발송 7건 — 제작됐지만 메일 안 나감 (발송 필요)</div><table><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">쿠파스</b></td><td>HP 2025 오멘 16 슬림 (Ultra7 · RTX 5060)</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b></td><td>Apple 맥북에어 13 M2 (MacBook Air 13 M2, 2022, 미드나</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b></td><td>Apple 맥북에어 13 M2 (MacBook Air 13 M2, 2022, 미드나</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b></td><td>스티븐 호킹 시한부 2년→76살까지 우주를 바꾼 물리학자 (인생반전 감동실화)</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b></td><td>헬렌 켈러 시청각장애 딛고 첫 대졸 (인생반전 감동실화)</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#3fd6c8"></span><b style="color:#3fd6c8">해외쇼츠1</b></td><td>마른 가죽 소파 가죽밤 광택복원 (가죽컨디셔너 솔로 펴바름→광택, carolinaf</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#3fd6c8"></span><b style="color:#3fd6c8">해외쇼츠1</b></td><td>콘센트 스위치 벽에 매립 안보이게 마감</td></tr></table><div style="color:#f0c040;font-weight:700;margin:14px 0 6px">🟡 검수중 3건 — 검수본만 발송, 사장님 OK 후 배포 대기</div><table><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">쿠파스</b></td><td>델 G15 5530 (Dell G15 5530, i7-13650HX 14코어, RT</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">쿠파스</b></td><td>델 G15 5530 (Dell G15 5530, i7-13650HX 14코어, RT</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">왜그럴까</b></td><td>바다거북은 왜 늘 눈물을 흘릴까</td></tr></table></div>
+<div class="card"><div style="color:#FF5A4D;font-weight:700;margin-bottom:6px">🔴 미발송 9건 — 제작됐지만 메일 안 나감 (발송 필요)</div><table><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">쿠파스</b></td><td>HP 2025 오멘 16 슬림 (Ultra7 · RTX 5060)</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b></td><td>Apple 맥북 프로 14 M4 (MacBook Pro 14 M4, 2024, 스페</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b></td><td>Apple 맥북에어 13 M2 (MacBook Air 13 M2, 2022, 미드나</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b></td><td>스티븐 호킹 시한부 2년→76살까지 우주를 바꾼 물리학자 (인생반전 감동실화)</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b></td><td>키아누 리브스 — 지하철 타는 진짜 이유</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b></td><td>헬렌 켈러 시청각장애 딛고 첫 대졸 (인생반전 감동실화)</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#3fd6c8"></span><b style="color:#3fd6c8">해외쇼츠1</b></td><td>마른 가죽 소파 가죽밤 광택복원 (가죽컨디셔너 솔로 펴바름→광택, carolinaf</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#3fd6c8"></span><b style="color:#3fd6c8">해외쇼츠1</b></td><td>콘센트 스위치 벽에 매립 안보이게 마감</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">왜그럴까</b></td><td>올빼미 식사법(씹지않고 삼킴/펠릿)</td></tr></table><div style="color:#f0c040;font-weight:700;margin:14px 0 6px">🟡 검수중 2건 — 검수본만 발송, 사장님 OK 후 배포 대기</div><table><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">쿠파스</b></td><td>델 G15 5530 (Dell G15 5530, i7-13650HX 14코어, RT</td></tr><tr><td class="muted">2026-06-17</td><td><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">왜그럴까</b></td><td>바다거북은 왜 늘 눈물을 흘릴까</td></tr></table></div>
 
 <h2>📤 주간 발송 현황 — 요일별·채널별·발송시각 (value425 실제 발송 기준)</h2>
-<div class="ts" style="margin:-6px 0 12px">이번주 2026-06-15 ~ 2026-06-21 · ✅발송(시각)=메일 실발송 / –발송없음 · 오늘 5건 · 이번주 21건 발송</div>
-<div class="sendwrap"><table class="wktbl"><tr><th class="dh">요일</th><th class="ch" style="color:#2BE89A">🛒<br>쿠파스</th><th class="ch" style="color:#FF5A4D">🛒<br>쿠파스1</th><th class="ch" style="color:#58a6ff">🔧<br>해외쇼츠</th><th class="ch" style="color:#3fd6c8">🔧<br>해외쇼츠1</th><th class="ch" style="color:#f0c040">💡<br>왜그럴까</th><th class="ch" style="color:#bc8cff">📰<br>신이슈TV</th><th class="ch">합계</th></tr><tr class=""><th class="dh">월<br><span class="dd">06/15</span></th><td class="miss">–</td><td class="miss">–</td><td class="miss">–</td><td class="miss">–</td><td class="miss">–</td><td class="miss">–</td><td class="tot">0</td></tr><tr class=""><th class="dh">화<br><span class="dd">06/16</span></th><td class="sent" title="HP 빅터스 16 게이밍 노트북">✅ 10:57 <span class="xn">×2</span></td><td class="sent" title="에이수스 비보북 S16">✅ 10:57 <span class="xn">×3</span></td><td class="sent" title="미스터비스트, 또 유튜브 역사 썼다…개인 최초 5억 구독 근황">✅ 10:31 <span class="xn">×6</span></td><td class="sent" title="뭉개진 나사 고무줄로 빼기">✅ 10:56 <span class="xn">×2</span></td><td class="sent" title="호랑이는 왜 암컷에게 함부로 못 덤빌까">✅ 10:57 <span class="xn">×3</span></td><td class="miss">–</td><td class="tot">16</td></tr><tr class="today"><th class="dh">수<br><span class="dd">06/17</span></th><td class="miss">–</td><td class="sent" title="맥북 프로가 에어보다 비싼 진짜 이유 (맥북 프로 14 M4)">✅ 14:20 <span class="xn">×2</span></td><td class="sent" title="키아누 리브스가 지하철 타는 진짜 이유">✅ 12:55 <span class="xn">×2</span></td><td class="miss">–</td><td class="sent" title="올빼미 식사법">✅ 09:53</td><td class="miss">–</td><td class="tot">5</td></tr><tr class="fut"><th class="dh">목<br><span class="dd">06/18</span></th><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="tot">0</td></tr><tr class="fut"><th class="dh">금<br><span class="dd">06/19</span></th><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="tot">0</td></tr><tr class="fut"><th class="dh">토<br><span class="dd">06/20</span></th><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="tot">0</td></tr><tr class="fut"><th class="dh">일<br><span class="dd">06/21</span></th><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="tot">0</td></tr></table></div>
+<div class="ts" style="margin:-6px 0 12px">이번주 2026-06-15 ~ 2026-06-21 · ✅발송(시각)=메일 실발송 / –발송없음 · 오늘 0건 · 이번주 0건 발송</div>
+<div class="sendwrap"><table class="wktbl"><tr><th class="dh">요일</th><th class="ch" style="color:#2BE89A">🛒<br>쿠파스</th><th class="ch" style="color:#FF5A4D">🛒<br>쿠파스1</th><th class="ch" style="color:#58a6ff">🔧<br>해외쇼츠</th><th class="ch" style="color:#3fd6c8">🔧<br>해외쇼츠1</th><th class="ch" style="color:#f0c040">💡<br>왜그럴까</th><th class="ch" style="color:#bc8cff">📰<br>신이슈TV</th><th class="ch">합계</th></tr><tr class=""><th class="dh">월<br><span class="dd">06/15</span></th><td class="miss">–</td><td class="miss">–</td><td class="miss">–</td><td class="miss">–</td><td class="miss">–</td><td class="miss">–</td><td class="tot">0</td></tr><tr class=""><th class="dh">화<br><span class="dd">06/16</span></th><td class="miss">–</td><td class="miss">–</td><td class="miss">–</td><td class="miss">–</td><td class="miss">–</td><td class="miss">–</td><td class="tot">0</td></tr><tr class="today"><th class="dh">수<br><span class="dd">06/17</span></th><td class="miss">–</td><td class="miss">–</td><td class="miss">–</td><td class="miss">–</td><td class="miss">–</td><td class="miss">–</td><td class="tot">0</td></tr><tr class="fut"><th class="dh">목<br><span class="dd">06/18</span></th><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="tot">0</td></tr><tr class="fut"><th class="dh">금<br><span class="dd">06/19</span></th><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="tot">0</td></tr><tr class="fut"><th class="dh">토<br><span class="dd">06/20</span></th><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="tot">0</td></tr><tr class="fut"><th class="dh">일<br><span class="dd">06/21</span></th><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="fut">·</td><td class="tot">0</td></tr></table></div>
 
 <h3 style="font-size:13px;margin:18px 0 8px;color:#8b949e">📅 오늘 진척 (채널당 목표 2편)</h3>
-<div class="tpgrid"><div class="tpcell "><div class="tpch" style="color:#2BE89A">🛒 쿠파스</div><div class="tpn">0<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:0%;background:#2BE89A"></div></div></div><div class="tpcell done"><div class="tpch" style="color:#FF5A4D">🛒 쿠파스1</div><div class="tpn">2<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:100%;background:#FF5A4D"></div></div></div><div class="tpcell done"><div class="tpch" style="color:#58a6ff">🔧 해외쇼츠</div><div class="tpn">2<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:100%;background:#58a6ff"></div></div></div><div class="tpcell "><div class="tpch" style="color:#3fd6c8">🔧 해외쇼츠1</div><div class="tpn">0<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:0%;background:#3fd6c8"></div></div></div><div class="tpcell "><div class="tpch" style="color:#f0c040">💡 왜그럴까</div><div class="tpn">1<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:50%;background:#f0c040"></div></div></div><div class="tpcell "><div class="tpch" style="color:#bc8cff">📰 신이슈TV</div><div class="tpn">0<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:0%;background:#bc8cff"></div></div></div></div>
+<div class="tpgrid"><div class="tpcell "><div class="tpch" style="color:#2BE89A">🛒 쿠파스</div><div class="tpn">0<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:0%;background:#2BE89A"></div></div></div><div class="tpcell "><div class="tpch" style="color:#FF5A4D">🛒 쿠파스1</div><div class="tpn">0<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:0%;background:#FF5A4D"></div></div></div><div class="tpcell "><div class="tpch" style="color:#58a6ff">🔧 해외쇼츠</div><div class="tpn">0<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:0%;background:#58a6ff"></div></div></div><div class="tpcell "><div class="tpch" style="color:#3fd6c8">🔧 해외쇼츠1</div><div class="tpn">0<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:0%;background:#3fd6c8"></div></div></div><div class="tpcell "><div class="tpch" style="color:#f0c040">💡 왜그럴까</div><div class="tpn">0<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:0%;background:#f0c040"></div></div></div><div class="tpcell "><div class="tpch" style="color:#bc8cff">📰 신이슈TV</div><div class="tpn">0<span>/2</span></div><div class="tpbar"><div class="tpfill" style="width:0%;background:#bc8cff"></div></div></div></div>
 
 <h3 style="font-size:13px;margin:18px 0 8px;color:#8b949e">🕐 최근 발송 (최신 10건)</h3>
-<div class="card"><table><tr><td class="muted">2026-06-17 14:20</td><td><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b></td><td>맥북 프로가 에어보다 비싼 진짜 이유 (맥북 프로 14 M4)</td><td><span class="muted">–</span></td></tr>
-<tr><td class="muted">2026-06-17 14:20</td><td><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b></td><td>14인치인데 안 답답한 OLED 노트북 (레노버 요가 슬림 7)</td><td><span class="muted">–</span></td></tr>
-<tr><td class="muted">2026-06-17 13:45</td><td><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b></td><td>무릎이 두 번 끊어진 골키퍼 김승규</td><td><span class="muted">–</span></td></tr>
-<tr><td class="muted">2026-06-17 12:55</td><td><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b></td><td>키아누 리브스가 지하철 타는 진짜 이유</td><td><span class="muted">–</span></td></tr>
-<tr><td class="muted">2026-06-17 09:53</td><td><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">왜그럴까</b></td><td>올빼미 식사법</td><td><span class="muted">–</span></td></tr>
-<tr><td class="muted">2026-06-16 17:15</td><td><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b></td><td>맥북에어 M4 vs 삼성 갤럭시북5 프로</td><td><span class="muted">–</span></td></tr>
-<tr><td class="muted">2026-06-16 17:15</td><td><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">쿠파스</b></td><td>삼성 갤럭시북5 프로 vs LG 그램 프로 17</td><td><span class="muted">–</span></td></tr>
-<tr><td class="muted">2026-06-16 17:15</td><td><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b></td><td>월세도 없던 남자가 1500조가 되기까지</td><td><span class="muted">–</span></td></tr>
-<tr><td class="muted">2026-06-16 10:57</td><td><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">왜그럴까</b></td><td>호랑이는 왜 암컷에게 함부로 못 덤빌까</td><td><span class="muted">–</span></td></tr>
-<tr><td class="muted">2026-06-16 10:57</td><td><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">왜그럴까</b></td><td>카피바라는 왜 모든 동물과 잘 지낼까</td><td><span class="muted">–</span></td></tr></table></div>
+<div class="card"><table><tr><td class="muted">2026-06-08 14:00</td><td><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">쿠파스</b></td><td>기가바이트 에어로X16</td><td><span class="muted">–</span></td></tr>
+<tr><td class="muted">2026-06-08 14:00</td><td><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b></td><td>MSI 사이보그15</td><td><span class="muted">–</span></td></tr>
+<tr><td class="muted">2026-06-08 14:00</td><td><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b></td><td>글루풀 덴트 펴기</td><td><span class="muted">–</span></td></tr>
+<tr><td class="muted">2026-06-08 14:00</td><td><span class="dot" style="background:#3fd6c8"></span><b style="color:#3fd6c8">해외쇼츠1</b></td><td>울타리 와이어 매듭</td><td><span class="muted">–</span></td></tr>
+<tr><td class="muted">2026-06-08 10:30</td><td><span class="dot" style="background:#3fd6c8"></span><b style="color:#3fd6c8">해외쇼츠1</b></td><td>벽 파이프 통과 그라인더 가공</td><td><span class="muted">–</span></td></tr>
+<tr><td class="muted">2026-06-08 10:30</td><td><span class="dot" style="background:#f0c040"></span><b style="color:#f0c040">왜그럴까</b></td><td>치타 사냥 성공률이 낮은 이유</td><td><span class="muted">–</span></td></tr>
+<tr><td class="muted">2026-06-08 09:40</td><td><span class="dot" style="background:#58a6ff"></span><b style="color:#58a6ff">해외쇼츠</b></td><td>렉서스RX 대시보드 가죽복원</td><td><span class="muted">–</span></td></tr>
+<tr><td class="muted">2026-06-08 09:40</td><td><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">쿠파스</b></td><td>HP 오멘16</td><td><span class="muted">–</span></td></tr>
+<tr><td class="muted">2026-06-08 09:40</td><td><span class="dot" style="background:#FF5A4D"></span><b style="color:#FF5A4D">쿠파스1</b></td><td>HP 옴니북X플립14</td><td><span class="muted">–</span></td></tr>
+<tr><td class="muted">2026-06-08 01:43</td><td><span class="dot" style="background:#2BE89A"></span><b style="color:#2BE89A">쿠파스</b></td><td>삼성 갤럭시북5 프로 360</td><td><span class="muted">–</span></td></tr></table></div>
 
 <h2>👥 부서별 오늘 실적</h2>
 <div class="depts"><div class="dcard" style="border-left:3px solid #58a6ff">
@@ -233,20 +223,20 @@ html,body{overscroll-behavior-y:contain}
         </div>
 <div class="dcard" style="border-left:3px solid #ff8c42">
           <div class="dhead"><span class="demoji">📊</span><b style="color:#ff8c42">숫자맨</b> <span class="drole">분석 · 성과추적</span></div>
-          <div class="dmetric">누적 255편 추적 · 성과 D+3~D+7</div>
-          <div class="dsum">누적 255편 추적 · 성과 D+3~D+7</div>
+          <div class="dmetric">누적 246편 추적 · 성과 D+3~D+7</div>
+          <div class="dsum">누적 246편 추적 · 성과 D+3~D+7</div>
         </div></div>
 
 <h2>🎯 주간 목표 진행률 · 2026-06-15 ~ 2026-06-21</h2>
 <div class="card"><div class="prow">
           <div class="pl"><span class="dot" style="background:#2BE89A"></span><b>쿠파스</b> <span class="psub">🛒 놓치면손해템</span></div>
-          <div class="pbar"><div class="pfill" style="width:35%;background:#2BE89A"></div>
-            <span class="pnum">5 / 14</span></div>
+          <div class="pbar"><div class="pfill" style="width:28%;background:#2BE89A"></div>
+            <span class="pnum">4 / 14</span></div>
         </div>
 <div class="prow">
           <div class="pl"><span class="dot" style="background:#FF5A4D"></span><b>쿠파스1</b> <span class="psub">🛒 가전스튜디오</span></div>
-          <div class="pbar"><div class="pfill" style="width:50%;background:#FF5A4D"></div>
-            <span class="pnum">7 / 14</span></div>
+          <div class="pbar"><div class="pfill" style="width:42%;background:#FF5A4D"></div>
+            <span class="pnum">6 / 14</span></div>
         </div>
 <div class="prow">
           <div class="pl"><span class="dot" style="background:#58a6ff"></span><b>해외쇼츠</b> <span class="psub">🔧 비하인드썰</span></div>
@@ -275,22 +265,22 @@ html,body{overscroll-behavior-y:contain}
 <h2>🕐 최근 제작 이력</h2>
 <div class="card"><table><tr><td class="muted">2026-06-17</td><td><b>쿠파스</b></td><td>HP 2025 오멘 16 슬림 (Ultra7 · RTX 5060)</td></tr>
 <tr><td class="muted">2026-06-17</td><td><b>쿠파스</b></td><td>델 G15 5530 (Dell G15 5530, i7-13650HX 14</td></tr>
-<tr><td class="muted">2026-06-17</td><td><b>쿠파스</b></td><td>델 G15 5530 (Dell G15 5530, i7-13650HX 14</td></tr>
 <tr><td class="muted">2026-06-17</td><td><b>쿠파스1</b></td><td>Apple 맥북 프로 14 M4 (MacBook Pro 14 M4, 20</td></tr>
-<tr><td class="muted">2026-06-17</td><td><b>쿠파스1</b></td><td>Apple 맥북에어 13 M2 (MacBook Air 13 M2, 202</td></tr>
 <tr><td class="muted">2026-06-17</td><td><b>쿠파스1</b></td><td>Apple 맥북에어 13 M2 (MacBook Air 13 M2, 202</td></tr>
 <tr><td class="muted">2026-06-17</td><td><b>해외쇼츠</b></td><td>스티븐 호킹 시한부 2년→76살까지 우주를 바꾼 물리학자 (인생반전 감동</td></tr>
 <tr><td class="muted">2026-06-17</td><td><b>해외쇼츠</b></td><td>키아누 리브스 — 지하철 타는 진짜 이유</td></tr>
 <tr><td class="muted">2026-06-17</td><td><b>해외쇼츠</b></td><td>헬렌 켈러 시청각장애 딛고 첫 대졸 (인생반전 감동실화)</td></tr>
 <tr><td class="muted">2026-06-17</td><td><b>해외쇼츠1</b></td><td>마른 가죽 소파 가죽밤 광택복원 (가죽컨디셔너 솔로 펴바름→광택, car</td></tr>
 <tr><td class="muted">2026-06-17</td><td><b>해외쇼츠1</b></td><td>콘센트 스위치 벽에 매립 안보이게 마감</td></tr>
-<tr><td class="muted">2026-06-17</td><td><b>왜그럴까</b></td><td>올빼미 식사법(씹지않고 삼킴/펠릿)</td></tr></table></div>
+<tr><td class="muted">2026-06-17</td><td><b>왜그럴까</b></td><td>올빼미 식사법(씹지않고 삼킴/펠릿)</td></tr>
+<tr><td class="muted">2026-06-17</td><td><b>왜그럴까</b></td><td>바다거북은 왜 늘 눈물을 흘릴까</td></tr>
+<tr><td class="muted">2026-06-16</td><td><b>쿠파스</b></td><td>삼성 갤럭시북5 프로 vs LG 그램 프로 17 (비교)</td></tr></table></div>
 
 <h2>⚠️ 막힌 항목</h2>
-<div class="card"><table><tr><td><b>?</b></td><td>?</td><td class="muted">QC 불합격: 비트레이트 7.8M &lt; 11M</td></tr>
+<div class="card"><table><tr><td><b>왜그럴까</b></td><td>바다거북은 왜 늘 눈물을 흘릴까</td><td class="muted">최종 렌더 부재 (made_log에 file 경로 없음, /tmp·iCloud·srstud</td></tr>
+<tr><td><b>?</b></td><td>?</td><td class="muted">QC 불합격: 비트레이트 7.8M &lt; 11M</td></tr>
 <tr><td><b>?</b></td><td>?</td><td class="muted">QC 불합격: pix_fmt yuvj420p≠yuv420p (yuv444p/High4:4:</td></tr>
 <tr><td><b>왜그럴까</b></td><td>말은 왜 서서 잘까</td><td class="muted">QC 불합격: pix_fmt yuv444p≠yuv420p (yuv444p/High4:4:4</td></tr>
-<tr><td><b>?</b></td><td>?</td><td class="muted">QC 불합격: pix_fmt yuvj420p≠yuv420p (yuv444p/High4:4:</td></tr>
 <tr><td><b>?</b></td><td>?</td><td class="muted">QC 불합격: pix_fmt yuvj420p≠yuv420p (yuv444p/High4:4:</td></tr></table></div>
 
 <div class="foot">에스알스튜디오 자동화 · 민감정보(키·비번) 미포함 · 제작/배포 시 자동 갱신 · 30분 주기 발행</div>
@@ -298,8 +288,8 @@ html,body{overscroll-behavior-y:contain}
 new Chart(document.getElementById('ch1'),{
   type:'bar',
   data:{labels:["쿠파스", "쿠파스1", "해외쇼츠", "해외쇼츠1", "왜그럴까", "신이슈TV"],datasets:[
-    {label:'누적',data:[44, 40, 73, 64, 34, 0],backgroundColor:["#2BE89A", "#FF5A4D", "#58a6ff", "#3fd6c8", "#f0c040", "#bc8cff"],borderRadius:4},
-    {label:'이번주',data:[5, 7, 9, 9, 9, 0],backgroundColor:'#ffffff',borderRadius:4}
+    {label:'누적',data:[43, 32, 73, 64, 34, 0],backgroundColor:["#2BE89A", "#FF5A4D", "#58a6ff", "#3fd6c8", "#f0c040", "#bc8cff"],borderRadius:4},
+    {label:'이번주',data:[4, 6, 9, 9, 9, 0],backgroundColor:'#ffffff',borderRadius:4}
   ]},
   options:{responsive:true,maintainAspectRatio:false,
     plugins:{legend:{labels:{color:'#8b949e'}}},
@@ -307,36 +297,5 @@ new Chart(document.getElementById('ch1'),{
             y:{ticks:{color:'#8b949e'},grid:{color:'#21262d'},beginAtZero:true}}
   }
 });
-</script>
-<script>
-/* 당겨서 새로고침 (모바일) + 🔄 버튼 (데스크톱) */
-(function(){
-  var ptr=document.getElementById('ptr'),txt=document.getElementById('ptrtxt');
-  var startY=0,pulling=false,dist=0,TH=70,MAX=90;
-  window.doRefresh=function(){
-    ptr.classList.add('spin');
-    ptr.style.transition='transform .25s ease';
-    ptr.style.transform='translateY(0)';
-    txt.textContent='새로고침 중…';
-    setTimeout(function(){location.reload(true);},300);
-  };
-  document.addEventListener('touchstart',function(e){
-    if(window.scrollY<=0&&e.touches.length===1){
-      startY=e.touches[0].clientY;pulling=true;dist=0;ptr.style.transition='none';
-    }
-  },{passive:true});
-  document.addEventListener('touchmove',function(e){
-    if(!pulling)return;
-    dist=e.touches[0].clientY-startY;
-    if(dist<=0){pulling=false;ptr.style.transition='transform .2s';ptr.style.transform='translateY(-56px)';return;}
-    var d=Math.min(dist*0.5,MAX);
-    ptr.style.transform='translateY('+(d-56)+'px)';
-    txt.textContent=d>=TH?'놓으면 갱신':'↓ 당겨서 새로고침';
-  },{passive:true});
-  document.addEventListener('touchend',function(){
-    if(!pulling)return;pulling=false;ptr.style.transition='transform .25s ease';
-    if(dist*0.5>=TH){doRefresh();}else{ptr.style.transform='translateY(-56px)';}
-  },{passive:true});
-})();
 </script>
 </body></html>

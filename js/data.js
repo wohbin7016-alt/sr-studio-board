@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6300,
+      "avg_views": 6308,
       "median_views": 2165,
       "uploads_30d": 20,
-      "views_30d": 126012,
+      "views_30d": 126164,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "뭉개진 나사 고무줄로 빼기",
-          "views": 1796,
+          "views": 1932,
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RVlAPWufJZ4"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "아우디 A6 배터리 경고등, 배터리 갈면 또 당합니다 (진짜 범인은 발전기 정류기)",
-          "views": 843,
+          "views": 859,
           "date": "2026-06-16",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=D76zTvIBy7A"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=8YeMLAgaBEQ"
         }
       ],
-      "analyzed_at": "2026-06-17 16:28"
+      "analyzed_at": "2026-06-17 17:32"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,10 +130,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2402,
-      "median_views": 230,
+      "avg_views": 2411,
+      "median_views": 274,
       "uploads_30d": 20,
-      "views_30d": 48058,
+      "views_30d": 48226,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -145,7 +145,7 @@ window.DATA = {
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 4742,
+          "views": 4745,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -166,7 +166,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 2035,
+          "views": 2039,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -175,7 +175,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 433,
+          "views": 520,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -189,7 +189,7 @@ window.DATA = {
         },
         {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
-          "views": 899,
+          "views": 935,
           "date": "2026-06-16",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
@@ -203,7 +203,7 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1333,
+          "views": 1371,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=eREKNXppMfw"
         }
       ],
-      "analyzed_at": "2026-06-17 16:28"
+      "analyzed_at": "2026-06-17 17:32"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1110,
       "sampled": 20,
-      "avg_views": 6129,
-      "median_views": 3945,
+      "avg_views": 6163,
+      "median_views": 3982,
       "uploads_30d": 20,
-      "views_30d": 122589,
+      "views_30d": 123276,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -281,7 +281,7 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 7767,
+          "views": 8038,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -297,35 +297,35 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "카피바라는 왜 모든 동물과 잘 지낼까 #왜그럴까 #과학상식",
-          "views": 867,
+          "views": 952,
           "date": "2026-06-17",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
         },
         {
           "title": "복어는 위협받으면 왜 몸을 부풀릴까",
-          "views": 1029,
+          "views": 1053,
           "date": "2026-06-16",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=AaE5dlk1Ph0"
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 4260,
+          "views": 4420,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 7767,
+          "views": 8038,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "곰치는 왜 입을 쩍 벌릴까",
-          "views": 4129,
+          "views": 4204,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VotD4zlV5lM"
@@ -339,7 +339,7 @@ window.DATA = {
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 6188,
+          "views": 6260,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
         }
       ],
-      "analyzed_at": "2026-06-17 16:29"
+      "analyzed_at": "2026-06-17 17:33"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,15 +374,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1334,
+      "avg_views": 1347,
       "median_views": 1401,
       "uploads_30d": 20,
-      "views_30d": 26687,
+      "views_30d": 26958,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 3114,
+          "views": 3230,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -419,7 +419,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "같은 코어 울트라5인데 왜 하나만 후기가 쏟아질까 (삼성 갤럭시북5 프로 vs LG 그램 프로 17)",
-          "views": 814,
+          "views": 969,
           "date": "2026-06-17",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=DgQvpdMV17k"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
         }
       ],
-      "analyzed_at": "2026-06-17 16:30"
+      "analyzed_at": "2026-06-17 17:34"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -497,9 +497,9 @@ window.DATA = {
       "subscribers": 2360,
       "sampled": 20,
       "avg_views": 772,
-      "median_views": 522,
+      "median_views": 523,
       "uploads_30d": 20,
-      "views_30d": 15441,
+      "views_30d": 15458,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -511,7 +511,7 @@ window.DATA = {
         },
         {
           "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1912,
+          "views": 1913,
           "date": "2026-06-11",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
@@ -541,7 +541,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "에이수스 비보북 S16",
-          "views": 639,
+          "views": 653,
           "date": "2026-06-17",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=39VSFU76oL4"
@@ -562,7 +562,7 @@ window.DATA = {
         },
         {
           "title": "16인치인데 왜 이렇게 가볍지? 가방에 넣으면 무게가 안 느껴지는 노트북 (에이수스 젠북 S16)",
-          "views": 457,
+          "views": 459,
           "date": "2026-06-15",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=gGxepTiSfp4"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nPweXD4cGU0"
         }
       ],
-      "analyzed_at": "2026-06-17 16:31"
+      "analyzed_at": "2026-06-17 17:35"
     }
   ],
-  "generated_at": "2026-06-17 16:28"
+  "generated_at": "2026-06-17 17:32"
 };
