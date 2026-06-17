@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6260,
+      "avg_views": 6264,
       "median_views": 2138,
       "uploads_30d": 20,
-      "views_30d": 125211,
+      "views_30d": 125283,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 58207,
+          "views": 58249,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -53,21 +53,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 779,
+          "views": 776,
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Sm5uIjUtouY"
         },
         {
           "title": "뭉개진 나사 고무줄로 빼기",
-          "views": 1954,
+          "views": 1956,
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RVlAPWufJZ4"
         },
         {
           "title": "깨진 플라스틱 인두로 영구 보수",
-          "views": 1308,
+          "views": 1315,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=uZBBClwjK3w"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "도요타 코롤라 시동 덜덜 소리, 진짜 원인은 타이밍체인 텐셔너",
-          "views": 2516,
+          "views": 2540,
           "date": "2026-06-15",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=6ehCEuh9Ie8"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
         }
       ],
-      "analyzed_at": "2026-06-18 05:14",
+      "analyzed_at": "2026-06-18 06:17",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2513,
+      "avg_views": 2522,
       "median_views": 352,
       "uploads_30d": 20,
-      "views_30d": 50265,
+      "views_30d": 50450,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 31226,
+          "views": 31282,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 1613,
+          "views": 1741,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -197,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
-          "views": 1042,
+          "views": 1043,
           "date": "2026-06-16",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
@@ -225,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 31226,
+          "views": 31282,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         }
       ],
-      "analyzed_at": "2026-06-18 05:14",
+      "analyzed_at": "2026-06-18 06:18",
       "subs_delta": 0
     },
     {
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1110,
       "sampled": 20,
-      "avg_views": 5535,
+      "avg_views": 5544,
       "median_views": 3585,
       "uploads_30d": 20,
-      "views_30d": 110714,
+      "views_30d": 110891,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29620,
+          "views": 29622,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -276,14 +276,14 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 9596,
+          "views": 9601,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 6745,
+          "views": 6883,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "올빼미는 왜 먹이를 씹지 않고 통째로 삼킬까",
-          "views": 592,
+          "views": 593,
           "date": "2026-06-17",
           "duration": 58,
           "url": "https://www.youtube.com/watch?v=SOYyN08Plcs"
@@ -313,21 +313,21 @@ window.DATA = {
         },
         {
           "title": "복어는 위협받으면 왜 몸을 부풀릴까",
-          "views": 1232,
+          "views": 1251,
           "date": "2026-06-16",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=AaE5dlk1Ph0"
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 6745,
+          "views": 6883,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 9596,
+          "views": 9601,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -341,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "배럴아이는 왜 머리가 투명할까",
-          "views": 4912,
+          "views": 4924,
           "date": "2026-06-14",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         }
       ],
-      "analyzed_at": "2026-06-18 05:15",
+      "analyzed_at": "2026-06-18 06:18",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1434,
-      "median_views": 1547,
+      "avg_views": 1435,
+      "median_views": 1551,
       "uploads_30d": 20,
-      "views_30d": 28695,
+      "views_30d": 28707,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 3349,
+          "views": 3353,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이 두께에 RTX 5060을 풀파워로 박았다고?",
-          "views": 1577,
+          "views": 1584,
           "date": "2026-06-17",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=A67JOkeTXY0"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "250만 원 게이밍 노트북 보러 갔다가 이걸 담은 이유 (레노버 리전5i)",
-          "views": 1373,
+          "views": 1374,
           "date": "2026-06-15",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=kaO1l3fTU70"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
         }
       ],
-      "analyzed_at": "2026-06-18 05:16",
+      "analyzed_at": "2026-06-18 06:19",
       "subs_delta": 0
     },
     {
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 800,
       "median_views": 548,
       "uploads_30d": 20,
-      "views_30d": 16018,
+      "views_30d": 16017,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -529,7 +529,7 @@ window.DATA = {
         },
         {
           "title": "게이밍 노트북은 1시간이면 방전이라더니, 이건 종일 가더라고요 (에이서 니트로 V16)",
-          "views": 1442,
+          "views": 1441,
           "date": "2026-06-15",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=IBwY5vaDyKk"
@@ -580,7 +580,7 @@ window.DATA = {
         },
         {
           "title": "게이밍 노트북은 1시간이면 방전이라더니, 이건 종일 가더라고요 (에이서 니트로 V16)",
-          "views": 1442,
+          "views": 1441,
           "date": "2026-06-15",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=IBwY5vaDyKk"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
         }
       ],
-      "analyzed_at": "2026-06-18 05:16",
+      "analyzed_at": "2026-06-18 06:20",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-18 05:14"
+  "generated_at": "2026-06-18 06:17"
 };
