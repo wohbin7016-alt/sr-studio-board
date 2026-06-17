@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6205,
+      "avg_views": 6207,
       "median_views": 2097,
       "uploads_30d": 20,
-      "views_30d": 124108,
+      "views_30d": 124147,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -60,21 +60,21 @@ window.DATA = {
         },
         {
           "title": "뭉개진 나사 고무줄로 빼기",
-          "views": 1937,
+          "views": 1939,
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RVlAPWufJZ4"
         },
         {
           "title": "깨진 플라스틱 인두로 영구 보수",
-          "views": 1289,
+          "views": 1293,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=uZBBClwjK3w"
         },
         {
           "title": "아우디 A6 배터리 경고등, 배터리 갈면 또 당합니다 (진짜 범인은 발전기 정류기)",
-          "views": 859,
+          "views": 892,
           "date": "2026-06-16",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=D76zTvIBy7A"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
         }
       ],
-      "analyzed_at": "2026-06-17 19:39",
+      "analyzed_at": "2026-06-17 20:44",
       "subs_delta": null
     },
     {
@@ -131,22 +131,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2438,
+      "avg_views": 2453,
       "median_views": 351,
       "uploads_30d": 20,
-      "views_30d": 48772,
+      "views_30d": 49076,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 30805,
+          "views": 30835,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 4745,
+          "views": 4750,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 2039,
+          "views": 2045,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -176,14 +176,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "무릎이 두 번 끊어진 골키퍼 김승규",
-          "views": 1,
+          "views": 2,
           "date": "2026-06-17",
           "duration": 60,
           "url": "https://www.youtube.com/watch?v=WUdE6F3XNGQ"
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 794,
+          "views": 1066,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1381,
+          "views": 1371,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
@@ -225,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 30805,
+          "views": 30835,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         }
       ],
-      "analyzed_at": "2026-06-17 19:40",
+      "analyzed_at": "2026-06-17 20:44",
       "subs_delta": null
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1110,
       "sampled": 20,
-      "avg_views": 5309,
-      "median_views": 3584,
+      "avg_views": 5331,
+      "median_views": 3585,
       "uploads_30d": 20,
-      "views_30d": 106189,
+      "views_30d": 106631,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -276,10 +276,17 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 8495,
+          "views": 8663,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
+        },
+        {
+          "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
+          "views": 6490,
+          "date": "2026-06-13",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
         },
         {
           "title": "시속 100km 치타, 왜 사냥 성공률은 절반도 안 될까",
@@ -287,13 +294,6 @@ window.DATA = {
           "date": "2026-06-08",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=nC34nlpQsEA"
-        },
-        {
-          "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 6401,
-          "date": "2026-06-13",
-          "duration": 30,
-          "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
         }
       ],
       "recent_videos": [
@@ -320,35 +320,35 @@ window.DATA = {
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 4682,
+          "views": 4785,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 8495,
+          "views": 8663,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "곰치는 왜 입을 쩍 벌릴까",
-          "views": 4230,
+          "views": 4288,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VotD4zlV5lM"
         },
         {
           "title": "배럴아이는 왜 머리가 투명할까",
-          "views": 4438,
+          "views": 4460,
           "date": "2026-06-14",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 6401,
+          "views": 6490,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         }
       ],
-      "analyzed_at": "2026-06-17 19:41",
+      "analyzed_at": "2026-06-17 20:45",
       "subs_delta": null
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1366,
-      "median_views": 1402,
+      "avg_views": 1349,
+      "median_views": 1403,
       "uploads_30d": 20,
-      "views_30d": 27328,
+      "views_30d": 26988,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -421,8 +421,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "이 두께에 RTX 5060을 풀파워로 박았다고?",
+          "views": 160,
+          "date": "2026-06-17",
+          "duration": 40,
+          "url": "https://www.youtube.com/watch?v=A67JOkeTXY0"
+        },
+        {
           "title": "같은 코어 울트라5인데 왜 하나만 후기가 쏟아질까 (삼성 갤럭시북5 프로 vs LG 그램 프로 17",
-          "views": 1297,
+          "views": 1330,
           "date": "2026-06-17",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=DgQvpdMV17k"
@@ -443,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "250만 원 게이밍 노트북 보러 갔다가 이걸 담은 이유 (레노버 리전5i)",
-          "views": 1369,
+          "views": 1371,
           "date": "2026-06-15",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=kaO1l3fTU70"
@@ -482,16 +489,9 @@ window.DATA = {
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
-        },
-        {
-          "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
-          "views": 1867,
-          "date": "2026-06-12",
-          "duration": 37,
-          "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
         }
       ],
-      "analyzed_at": "2026-06-17 19:42",
+      "analyzed_at": "2026-06-17 20:46",
       "subs_delta": null
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 749,
+      "avg_views": 753,
       "median_views": 453,
       "uploads_30d": 20,
-      "views_30d": 14995,
+      "views_30d": 15060,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -545,14 +545,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "14인치인데 안 답답한 OLED 노트북 (레노버 요가 슬림 7",
-          "views": 134,
+          "views": 187,
           "date": "2026-06-17",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=96_qejCfVu0"
         },
         {
           "title": "에이수스 비보북 S16",
-          "views": 643,
+          "views": 655,
           "date": "2026-06-17",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=39VSFU76oL4"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
         }
       ],
-      "analyzed_at": "2026-06-17 19:43",
+      "analyzed_at": "2026-06-17 20:47",
       "subs_delta": null
     }
   ],
-  "generated_at": "2026-06-17 19:39"
+  "generated_at": "2026-06-17 20:44"
 };
