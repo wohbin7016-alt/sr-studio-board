@@ -30,9 +30,10 @@
       </nav>
     </aside>
     <div class="main">
-      <header class="topbar">
+      <header class="topbar" style="display:flex;align-items:center;gap:12px;flex-wrap:wrap">
         <h1 class="page-title">대시보드</h1>
-        <div class="meta">데이터 기준: <span id="generated-at"></span></div>
+        <div class="meta" style="margin-left:auto">데이터 기준: <span id="generated-at"></span></div>
+        <button id="topRefresh" type="button" onclick="hardRefresh()" style="display:inline-flex;align-items:center;gap:6px;padding:9px 16px;border:0;border-radius:10px;background:#2563eb;color:#fff;font-size:15px;font-weight:700;cursor:pointer;box-shadow:0 2px 8px rgba(37,99,235,.4)">🔄 새로고침</button>
       </header>
       <main class="page" id="page"></main>
     </div>
@@ -52,6 +53,17 @@
       advice: 'AI 어드바이스',
       settings: '설정'
     };
+
+    function hardRefresh() {
+      var btn = document.getElementById('topRefresh');
+      if (btn) { btn.textContent = '🔄 갱신 중…'; btn.disabled = true; }
+      var done = function () { location.reload(true); };
+      if (window.caches && caches.keys) {
+        caches.keys().then(function (ks) {
+          return Promise.all(ks.map(function (k) { return caches.delete(k); }));
+        }).then(done).catch(done);
+      } else { done(); }
+    }
 
     function navigate(key) {
       if (!window.PAGES || !window.PAGES[key]) key = 'dashboard';
