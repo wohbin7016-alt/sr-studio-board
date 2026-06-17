@@ -68,7 +68,17 @@ td{padding:7px 10px;border-bottom:1px solid #21262d}
 .tpbar{height:6px;background:#0d1117;border-radius:3px;margin-top:6px;overflow:hidden}
 .tpfill{height:100%;border-radius:3px;transition:width .6s}
 .wktbl td a,.card a{color:#58a6ff;text-decoration:none;font-size:12px}
+/* pull-to-refresh + 새로고침 버튼 */
+html,body{overscroll-behavior-y:contain}
+#ptr{position:fixed;top:0;left:0;right:0;display:flex;align-items:center;justify-content:center;gap:8px;height:56px;transform:translateY(-56px);color:#58a6ff;font-size:13px;font-weight:600;z-index:50;pointer-events:none}
+#ptr .sp{width:18px;height:18px;border:2px solid #30363d;border-top-color:#58a6ff;border-radius:50%}
+#ptr.spin .sp{animation:ptrspin .7s linear infinite}
+@keyframes ptrspin{to{transform:rotate(360deg)}}
+#refbtn{position:fixed;top:14px;right:14px;z-index:60;background:#161b22;border:1px solid #30363d;color:#58a6ff;border-radius:50%;width:40px;height:40px;font-size:18px;cursor:pointer;line-height:1;transition:transform .3s}
+#refbtn:hover{border-color:#58a6ff} #refbtn:active{transform:rotate(180deg)}
 </style></head><body>
+<div id="ptr"><span class="sp"></span><span id="ptrtxt">↓ 당겨서 새로고침</span></div>
+<button id="refbtn" title="새로고침" onclick="doRefresh()">🔄</button>
 <h1>🎬 에스알스튜디오 운영현황</h1>
 <div class="ts"><span class="live"></span>실시간 자동 갱신 · 2026-06-17 17:15 · 동업자 공유(읽기전용)</div>
 
@@ -297,5 +307,36 @@ new Chart(document.getElementById('ch1'),{
             y:{ticks:{color:'#8b949e'},grid:{color:'#21262d'},beginAtZero:true}}
   }
 });
+</script>
+<script>
+/* 당겨서 새로고침 (모바일) + 🔄 버튼 (데스크톱) */
+(function(){
+  var ptr=document.getElementById('ptr'),txt=document.getElementById('ptrtxt');
+  var startY=0,pulling=false,dist=0,TH=70,MAX=90;
+  window.doRefresh=function(){
+    ptr.classList.add('spin');
+    ptr.style.transition='transform .25s ease';
+    ptr.style.transform='translateY(0)';
+    txt.textContent='새로고침 중…';
+    setTimeout(function(){location.reload(true);},300);
+  };
+  document.addEventListener('touchstart',function(e){
+    if(window.scrollY<=0&&e.touches.length===1){
+      startY=e.touches[0].clientY;pulling=true;dist=0;ptr.style.transition='none';
+    }
+  },{passive:true});
+  document.addEventListener('touchmove',function(e){
+    if(!pulling)return;
+    dist=e.touches[0].clientY-startY;
+    if(dist<=0){pulling=false;ptr.style.transition='transform .2s';ptr.style.transform='translateY(-56px)';return;}
+    var d=Math.min(dist*0.5,MAX);
+    ptr.style.transform='translateY('+(d-56)+'px)';
+    txt.textContent=d>=TH?'놓으면 갱신':'↓ 당겨서 새로고침';
+  },{passive:true});
+  document.addEventListener('touchend',function(){
+    if(!pulling)return;pulling=false;ptr.style.transition='transform .25s ease';
+    if(dist*0.5>=TH){doRefresh();}else{ptr.style.transform='translateY(-56px)';}
+  },{passive:true});
+})();
 </script>
 </body></html>
