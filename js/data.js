@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6207,
+      "avg_views": 6219,
       "median_views": 2097,
       "uploads_30d": 20,
-      "views_30d": 124147,
+      "views_30d": 124395,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 58066,
+          "views": 58078,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 8877,
+          "views": 8924,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 566,
+          "views": 721,
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Sm5uIjUtouY"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱 인두로 영구 보수",
-          "views": 1293,
+          "views": 1292,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=uZBBClwjK3w"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "도요타 코롤라 시동 덜덜 소리, 진짜 원인은 타이밍체인 텐셔너",
-          "views": 2262,
+          "views": 2297,
           "date": "2026-06-15",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=6ehCEuh9Ie8"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 8877,
+          "views": 8924,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
         }
       ],
-      "analyzed_at": "2026-06-17 20:44",
+      "analyzed_at": "2026-06-17 21:48",
       "subs_delta": null
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2453,
+      "avg_views": 2465,
       "median_views": 351,
       "uploads_30d": 20,
-      "views_30d": 49076,
+      "views_30d": 49304,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -183,21 +183,21 @@ window.DATA = {
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 1066,
+          "views": 1218,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         },
         {
           "title": "미스터비스트, 또 유튜브 역사 썼다…개인 최초 5억 구독 근황",
-          "views": 12,
+          "views": 19,
           "date": "2026-06-16",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=Cxww0fUnNG8"
         },
         {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
-          "views": 944,
+          "views": 988,
           "date": "2026-06-16",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1371,
+          "views": 1396,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         }
       ],
-      "analyzed_at": "2026-06-17 20:44",
+      "analyzed_at": "2026-06-17 21:48",
       "subs_delta": null
     },
     {
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1110,
       "sampled": 20,
-      "avg_views": 5331,
+      "avg_views": 5360,
       "median_views": 3585,
       "uploads_30d": 20,
-      "views_30d": 106631,
+      "views_30d": 107214,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29571,
+          "views": 29601,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
@@ -276,14 +276,14 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 8663,
+          "views": 8851,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 6490,
+          "views": 6535,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "올빼미는 왜 먹이를 씹지 않고 통째로 삼킬까",
-          "views": 473,
+          "views": 581,
           "date": "2026-06-17",
           "duration": 58,
           "url": "https://www.youtube.com/watch?v=SOYyN08Plcs"
@@ -313,42 +313,42 @@ window.DATA = {
         },
         {
           "title": "복어는 위협받으면 왜 몸을 부풀릴까",
-          "views": 1066,
+          "views": 1120,
           "date": "2026-06-16",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=AaE5dlk1Ph0"
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 4785,
+          "views": 4891,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 8663,
+          "views": 8851,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "곰치는 왜 입을 쩍 벌릴까",
-          "views": 4288,
+          "views": 4302,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VotD4zlV5lM"
         },
         {
           "title": "배럴아이는 왜 머리가 투명할까",
-          "views": 4460,
+          "views": 4498,
           "date": "2026-06-14",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 6490,
+          "views": 6535,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         }
       ],
-      "analyzed_at": "2026-06-17 20:45",
+      "analyzed_at": "2026-06-17 21:49",
       "subs_delta": null
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1349,
+      "avg_views": 1366,
       "median_views": 1403,
       "uploads_30d": 20,
-      "views_30d": 26988,
+      "views_30d": 27336,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이 두께에 RTX 5060을 풀파워로 박았다고?",
-          "views": 160,
+          "views": 503,
           "date": "2026-06-17",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=A67JOkeTXY0"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "HP 빅터스 16 게이밍 노트북",
-          "views": 246,
+          "views": 251,
           "date": "2026-06-16",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=jkiY7LFI3xU"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
         }
       ],
-      "analyzed_at": "2026-06-17 20:46",
+      "analyzed_at": "2026-06-17 21:50",
       "subs_delta": null
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 753,
-      "median_views": 453,
+      "avg_views": 768,
+      "median_views": 477,
       "uploads_30d": 20,
-      "views_30d": 15060,
+      "views_30d": 15371,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -545,14 +545,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "14인치인데 안 답답한 OLED 노트북 (레노버 요가 슬림 7",
-          "views": 187,
+          "views": 495,
           "date": "2026-06-17",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=96_qejCfVu0"
         },
         {
           "title": "에이수스 비보북 S16",
-          "views": 655,
+          "views": 657,
           "date": "2026-06-17",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=39VSFU76oL4"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
         }
       ],
-      "analyzed_at": "2026-06-17 20:47",
+      "analyzed_at": "2026-06-17 21:51",
       "subs_delta": null
     }
   ],
-  "generated_at": "2026-06-17 20:44"
+  "generated_at": "2026-06-17 21:48"
 };
