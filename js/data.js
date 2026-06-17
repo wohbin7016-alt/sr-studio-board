@@ -8,29 +8,29 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6236,
+      "avg_views": 6260,
       "median_views": 2165,
       "uploads_30d": 20,
-      "views_30d": 124727,
+      "views_30d": 125216,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 58047,
+          "views": 58049,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 16773,
+          "views": 16775,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 8638,
+          "views": 8647,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -44,7 +44,7 @@ window.DATA = {
         },
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 5967,
+          "views": 5972,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
@@ -53,42 +53,42 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "뭉개진 나사 고무줄로 빼기",
-          "views": 718,
+          "views": 1156,
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RVlAPWufJZ4"
         },
         {
           "title": "깨진 플라스틱 인두로 영구 보수",
-          "views": 1274,
+          "views": 1277,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=uZBBClwjK3w"
         },
         {
           "title": "아우디 A6 배터리 경고등, 배터리 갈면 또 당합니다 (진짜 범인은 발전기 정류기)",
-          "views": 843,
+          "views": 852,
           "date": "2026-06-16",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=D76zTvIBy7A"
         },
         {
           "title": "도요타 코롤라 시동 덜덜 소리, 진짜 원인은 타이밍체인 텐셔너",
-          "views": 2185,
+          "views": 2190,
           "date": "2026-06-15",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=6ehCEuh9Ie8"
         },
         {
           "title": "볼보 S80 코너 출렁임, 진짜 원인은 스웨이바 부싱",
-          "views": 1961,
+          "views": 1969,
           "date": "2026-06-15",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=8HTBOGU2LfA"
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 8638,
+          "views": 8647,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -102,14 +102,14 @@ window.DATA = {
         },
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 5967,
+          "views": 5972,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 3452,
+          "views": 3455,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=8YeMLAgaBEQ"
         }
       ],
-      "analyzed_at": "2026-06-17 13:16"
+      "analyzed_at": "2026-06-17 14:20"
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -130,10 +130,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2378,
-      "median_views": 92,
+      "avg_views": 2384,
+      "median_views": 148,
       "uploads_30d": 20,
-      "views_30d": 47560,
+      "views_30d": 47680,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -145,14 +145,14 @@ window.DATA = {
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 4736,
+          "views": 4742,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3113,
+          "views": 3114,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -166,7 +166,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 2033,
+          "views": 2035,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -175,14 +175,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 156,
+          "views": 268,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         },
         {
           "title": "미스터비스트, 또 유튜브 역사 썼다…개인 최초 5억 구독 근황",
-          "views": 11,
+          "views": 10,
           "date": "2026-06-16",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=Cxww0fUnNG8"
@@ -231,7 +231,7 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3113,
+          "views": 3114,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -244,7 +244,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=eREKNXppMfw"
         }
       ],
-      "analyzed_at": "2026-06-17 13:17"
+      "analyzed_at": "2026-06-17 14:21"
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -252,10 +252,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1110,
       "sampled": 20,
-      "avg_views": 6018,
-      "median_views": 3894,
+      "avg_views": 6060,
+      "median_views": 3916,
       "uploads_30d": 20,
-      "views_30d": 120364,
+      "views_30d": 121218,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -281,7 +281,7 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 6664,
+          "views": 7230,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -304,28 +304,28 @@ window.DATA = {
         },
         {
           "title": "복어는 위협받으면 왜 몸을 부풀릴까",
-          "views": 1001,
+          "views": 1029,
           "date": "2026-06-16",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=AaE5dlk1Ph0"
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 4027,
+          "views": 4071,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 6664,
+          "views": 7230,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "곰치는 왜 입을 쩍 벌릴까",
-          "views": 4088,
+          "views": 4129,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VotD4zlV5lM"
@@ -339,7 +339,7 @@ window.DATA = {
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 5868,
+          "views": 6043,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
@@ -366,7 +366,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jbtEFP-QT74"
         }
       ],
-      "analyzed_at": "2026-06-17 13:18"
+      "analyzed_at": "2026-06-17 14:22"
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -374,10 +374,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1312,
+      "avg_views": 1316,
       "median_views": 1401,
       "uploads_30d": 20,
-      "views_30d": 26243,
+      "views_30d": 26328,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -396,7 +396,7 @@ window.DATA = {
         },
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1923,
+          "views": 1924,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
@@ -419,7 +419,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "같은 코어 울트라5인데 왜 하나만 후기가 쏟아질까 (삼성 갤럭시북5 프로 vs LG 그램 프로 17)",
-          "views": 386,
+          "views": 469,
           "date": "2026-06-17",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=DgQvpdMV17k"
@@ -454,7 +454,7 @@ window.DATA = {
         },
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1923,
+          "views": 1924,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
@@ -468,7 +468,7 @@ window.DATA = {
         },
         {
           "title": "옵션 건드리면 손해, 맥북에어 15 M4 기본형이 답인 이유",
-          "views": 1679,
+          "views": 1680,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=Avpyw0U75Dg"
@@ -488,7 +488,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
         }
       ],
-      "analyzed_at": "2026-06-17 13:19"
+      "analyzed_at": "2026-06-17 14:22"
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -496,10 +496,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 758,
+      "avg_views": 762,
       "median_views": 452,
       "uploads_30d": 20,
-      "views_30d": 15160,
+      "views_30d": 15243,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -541,7 +541,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "에이수스 비보북 S16",
-          "views": 362,
+          "views": 445,
           "date": "2026-06-17",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=39VSFU76oL4"
@@ -610,8 +610,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nPweXD4cGU0"
         }
       ],
-      "analyzed_at": "2026-06-17 13:19"
+      "analyzed_at": "2026-06-17 14:23"
     }
   ],
-  "generated_at": "2026-06-17 13:16"
+  "generated_at": "2026-06-17 14:20"
 };
