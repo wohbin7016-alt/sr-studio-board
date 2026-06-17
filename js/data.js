@@ -122,7 +122,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
         }
       ],
-      "analyzed_at": "2026-06-17 19:39"
+      "analyzed_at": "2026-06-17 19:39",
+      "subs_delta": null
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
@@ -244,7 +245,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         }
       ],
-      "analyzed_at": "2026-06-17 19:40"
+      "analyzed_at": "2026-06-17 19:40",
+      "subs_delta": null
     },
     {
       "url": "https://youtube.com/@prismalogia",
@@ -366,7 +368,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         }
       ],
-      "analyzed_at": "2026-06-17 19:41"
+      "analyzed_at": "2026-06-17 19:41",
+      "subs_delta": null
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -488,7 +491,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
         }
       ],
-      "analyzed_at": "2026-06-17 19:42"
+      "analyzed_at": "2026-06-17 19:42",
+      "subs_delta": null
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
@@ -610,7 +614,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
         }
       ],
-      "analyzed_at": "2026-06-17 19:43"
+      "analyzed_at": "2026-06-17 19:43",
+      "subs_delta": null
     }
   ],
   "generated_at": "2026-06-17 19:39"

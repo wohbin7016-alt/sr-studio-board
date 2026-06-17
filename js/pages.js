@@ -187,6 +187,12 @@
         ? '구독 ' + UI.fmt(ch.subscribers)
         : '구독 미상';
       head.appendChild(UI.badge(subTxt, 'neutral'));
+      // 전일 대비 구독자 증감: 증가=초록▲ / 감소=빨강▼ / 동일·데이터부족=회색
+      var d = ch.subs_delta;
+      if (typeof d === 'number' && d > 0) head.appendChild(UI.badge('▲ +' + UI.fmt(d), 'good'));
+      else if (typeof d === 'number' && d < 0) head.appendChild(UI.badge('▼ ' + UI.fmt(d), 'bad'));
+      else if (typeof d === 'number') head.appendChild(UI.badge('— 0', 'neutral'));
+      else head.appendChild(UI.badge('— 데이터부족', 'neutral'));
       cardBody.appendChild(head);
 
       var mini = el('div', 'kpi-grid');
