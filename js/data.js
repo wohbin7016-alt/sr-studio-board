@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6257,
-      "median_views": 2125,
+      "avg_views": 6260,
+      "median_views": 2138,
       "uploads_30d": 20,
-      "views_30d": 125151,
+      "views_30d": 125211,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 9107,
+          "views": 9121,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 776,
+          "views": 779,
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Sm5uIjUtouY"
         },
         {
           "title": "뭉개진 나사 고무줄로 빼기",
-          "views": 1951,
+          "views": 1954,
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RVlAPWufJZ4"
@@ -74,28 +74,28 @@ window.DATA = {
         },
         {
           "title": "아우디 A6 배터리 경고등, 배터리 갈면 또 당합니다 (진짜 범인은 발전기 정류기)",
-          "views": 944,
+          "views": 976,
           "date": "2026-06-16",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=D76zTvIBy7A"
         },
         {
           "title": "도요타 코롤라 시동 덜덜 소리, 진짜 원인은 타이밍체인 텐셔너",
-          "views": 2540,
+          "views": 2516,
           "date": "2026-06-15",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=6ehCEuh9Ie8"
         },
         {
           "title": "볼보 S80 코너 출렁임, 진짜 원인은 스웨이바 부싱",
-          "views": 2102,
+          "views": 2128,
           "date": "2026-06-15",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=8HTBOGU2LfA"
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 9107,
+          "views": 9121,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
         }
       ],
-      "analyzed_at": "2026-06-18 04:10",
+      "analyzed_at": "2026-06-18 05:14",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2512,
+      "avg_views": 2513,
       "median_views": 352,
       "uploads_30d": 20,
-      "views_30d": 50258,
+      "views_30d": 50265,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 2071,
+          "views": 2073,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -197,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
-          "views": 1037,
+          "views": 1042,
           "date": "2026-06-16",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         }
       ],
-      "analyzed_at": "2026-06-18 04:11",
+      "analyzed_at": "2026-06-18 05:14",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1110,
       "sampled": 20,
-      "avg_views": 5520,
+      "avg_views": 5535,
       "median_views": 3585,
       "uploads_30d": 20,
-      "views_30d": 110411,
+      "views_30d": 110714,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -283,7 +283,7 @@ window.DATA = {
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 6595,
+          "views": 6745,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -306,7 +306,7 @@ window.DATA = {
         },
         {
           "title": "카피바라는 왜 모든 동물과 잘 지낼까 #왜그럴까 #과학상식",
-          "views": 1116,
+          "views": 1191,
           "date": "2026-06-17",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
@@ -320,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 6595,
+          "views": 6745,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -334,14 +334,14 @@ window.DATA = {
         },
         {
           "title": "곰치는 왜 입을 쩍 벌릴까",
-          "views": 4446,
+          "views": 4462,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VotD4zlV5lM"
         },
         {
           "title": "배럴아이는 왜 머리가 투명할까",
-          "views": 4850,
+          "views": 4912,
           "date": "2026-06-14",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         }
       ],
-      "analyzed_at": "2026-06-18 04:12",
+      "analyzed_at": "2026-06-18 05:15",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1433,
-      "median_views": 1544,
+      "avg_views": 1434,
+      "median_views": 1547,
       "uploads_30d": 20,
-      "views_30d": 28669,
+      "views_30d": 28695,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 3334,
+          "views": 3349,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -399,7 +399,7 @@ window.DATA = {
         },
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1929,
+          "views": 1930,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
@@ -413,7 +413,7 @@ window.DATA = {
         },
         {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1850,
+          "views": 1851,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "같은 코어 울트라5인데 왜 하나만 후기가 쏟아질까 (삼성 갤럭시북5 프로 vs LG 그램 프로 17",
-          "views": 1512,
+          "views": 1518,
           "date": "2026-06-17",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=DgQvpdMV17k"
@@ -457,14 +457,14 @@ window.DATA = {
         },
         {
           "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
-          "views": 1729,
+          "views": 1732,
           "date": "2026-06-15",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
         },
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1929,
+          "views": 1930,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
@@ -485,13 +485,13 @@ window.DATA = {
         },
         {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1850,
+          "views": 1851,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
         }
       ],
-      "analyzed_at": "2026-06-18 04:12",
+      "analyzed_at": "2026-06-18 05:16",
       "subs_delta": 0
     },
     {
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 800,
       "median_views": 548,
       "uploads_30d": 20,
-      "views_30d": 16017,
+      "views_30d": 16018,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -529,7 +529,7 @@ window.DATA = {
         },
         {
           "title": "게이밍 노트북은 1시간이면 방전이라더니, 이건 종일 가더라고요 (에이서 니트로 V16)",
-          "views": 1441,
+          "views": 1442,
           "date": "2026-06-15",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=IBwY5vaDyKk"
@@ -580,7 +580,7 @@ window.DATA = {
         },
         {
           "title": "게이밍 노트북은 1시간이면 방전이라더니, 이건 종일 가더라고요 (에이서 니트로 V16)",
-          "views": 1441,
+          "views": 1442,
           "date": "2026-06-15",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=IBwY5vaDyKk"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
         }
       ],
-      "analyzed_at": "2026-06-18 04:13",
+      "analyzed_at": "2026-06-18 05:16",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-18 04:10"
+  "generated_at": "2026-06-18 05:14"
 };
