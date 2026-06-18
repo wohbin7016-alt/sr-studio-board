@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6532,
+      "avg_views": 6542,
       "median_views": 2167,
       "uploads_30d": 20,
-      "views_30d": 130655,
+      "views_30d": 130852,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 61572,
+          "views": 61760,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 1522,
+          "views": 1529,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱 인두로 영구 보수",
-          "views": 1341,
+          "views": 1342,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=uZBBClwjK3w"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "누렇게 찌든 운동화, 거품 한 번에 새 신발로",
-          "views": 2183,
+          "views": 2184,
           "date": "2026-06-13",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=0h4iHOBZc4k"
         }
       ],
-      "analyzed_at": "2026-06-19 07:43",
+      "analyzed_at": "2026-06-19 08:46",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2845,
+      "avg_views": 2858,
       "median_views": 547,
       "uploads_30d": 20,
-      "views_30d": 56909,
+      "views_30d": 57174,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 35359,
+          "views": 35582,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 3054,
+          "views": 3088,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "월세도 없던 남자가 1500조가 되기까지",
-          "views": 1177,
+          "views": 1181,
           "date": "2026-06-18",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
@@ -197,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 3054,
+          "views": 3088,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -239,13 +239,13 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 35359,
+          "views": 35582,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         }
       ],
-      "analyzed_at": "2026-06-19 07:43",
+      "analyzed_at": "2026-06-19 08:46",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 5362,
+      "avg_views": 5368,
       "median_views": 3164,
       "uploads_30d": 20,
-      "views_30d": 107257,
+      "views_30d": 107371,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -269,14 +269,14 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14282,
+          "views": 14287,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10421,
+          "views": 10490,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 1924,
+          "views": 1947,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
@@ -320,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "카피바라는 왜 모든 동물과 잘 지낼까 #왜그럴까 #과학상식",
-          "views": 2122,
+          "views": 2139,
           "date": "2026-06-17",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
@@ -341,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10421,
+          "views": 10490,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
         }
       ],
-      "analyzed_at": "2026-06-19 07:44",
+      "analyzed_at": "2026-06-19 08:47",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1410,
-      "median_views": 1491,
+      "avg_views": 1411,
+      "median_views": 1492,
       "uploads_30d": 20,
-      "views_30d": 28213,
+      "views_30d": 28237,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 3633,
+          "views": 3646,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -413,7 +413,7 @@ window.DATA = {
         },
         {
           "title": "가방에 넣은 줄도 모를 1kg, 14인치 2.8K OLED 들고 다니는 노트북 (레노버 요가 슬림 7i 울트라)",
-          "views": 1784,
+          "views": 1783,
           "date": "2026-06-09",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=HBrDMeUg5jo"
@@ -429,14 +429,14 @@ window.DATA = {
         },
         {
           "title": "이 스펙이 왜 이 가격? 델 G15 5530의 정체",
-          "views": 1453,
+          "views": 1456,
           "date": "2026-06-18",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=QjLyebPClJ0"
         },
         {
           "title": "이 두께에 RTX 5060을 풀파워로 박았다고?",
-          "views": 1596,
+          "views": 1598,
           "date": "2026-06-17",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=A67JOkeTXY0"
@@ -471,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
-          "views": 1730,
+          "views": 1737,
           "date": "2026-06-15",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=qHjbd-m1U2w"
         }
       ],
-      "analyzed_at": "2026-06-19 07:44",
+      "analyzed_at": "2026-06-19 08:48",
       "subs_delta": 0
     },
     {
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Qpylku1SquE"
         }
       ],
-      "analyzed_at": "2026-06-19 07:45",
+      "analyzed_at": "2026-06-19 08:48",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-19 07:43"
+  "generated_at": "2026-06-19 08:46"
 };
