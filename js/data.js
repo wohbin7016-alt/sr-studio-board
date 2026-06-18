@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6516,
+      "avg_views": 6524,
       "median_views": 2167,
       "uploads_30d": 20,
-      "views_30d": 130333,
+      "views_30d": 130483,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 61432,
+          "views": 61526,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -44,7 +44,7 @@ window.DATA = {
         },
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 5982,
+          "views": 5981,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 1436,
+          "views": 1477,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
@@ -74,14 +74,14 @@ window.DATA = {
         },
         {
           "title": "뭉개진 나사 고무줄로 빼기",
-          "views": 1960,
+          "views": 1959,
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RVlAPWufJZ4"
         },
         {
           "title": "깨진 플라스틱 인두로 영구 보수",
-          "views": 1328,
+          "views": 1337,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=uZBBClwjK3w"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "볼보 S80 코너 출렁임, 진짜 원인은 스웨이바 부싱",
-          "views": 2257,
+          "views": 2265,
           "date": "2026-06-15",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=8HTBOGU2LfA"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=0h4iHOBZc4k"
         }
       ],
-      "analyzed_at": "2026-06-19 03:30",
+      "analyzed_at": "2026-06-19 04:33",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2832,
+      "avg_views": 2835,
       "median_views": 546,
       "uploads_30d": 20,
-      "views_30d": 56645,
+      "views_30d": 56706,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 35245,
+          "views": 35290,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -225,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1535,
+          "views": 1533,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
@@ -239,13 +239,13 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 35245,
+          "views": 35290,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         }
       ],
-      "analyzed_at": "2026-06-19 03:31",
+      "analyzed_at": "2026-06-19 04:34",
       "subs_delta": 0
     },
     {
@@ -254,36 +254,36 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 5337,
+      "avg_views": 5354,
       "median_views": 3164,
       "uploads_30d": 20,
-      "views_30d": 106749,
+      "views_30d": 107083,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29671,
+          "views": 29682,
           "date": "2026-06-09",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14274,
+          "views": 14282,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10255,
+          "views": 10355,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 8716,
+          "views": 8786,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -299,14 +299,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 1752,
+          "views": 1869,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
         },
         {
           "title": "호랑이는 왜 암컷에게 함부로 못 덤빌까",
-          "views": 8,
+          "views": 10,
           "date": "2026-06-18",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=AfOT6Sws68o"
@@ -320,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "카피바라는 왜 모든 동물과 잘 지낼까 #왜그럴까 #과학상식",
-          "views": 2100,
+          "views": 2117,
           "date": "2026-06-17",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
@@ -334,21 +334,21 @@ window.DATA = {
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 8716,
+          "views": 8786,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10255,
+          "views": 10355,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "곰치는 왜 입을 쩍 벌릴까",
-          "views": 4530,
+          "views": 4531,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VotD4zlV5lM"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
         }
       ],
-      "analyzed_at": "2026-06-19 03:32",
+      "analyzed_at": "2026-06-19 04:34",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1400,
-      "median_views": 1495,
+      "avg_views": 1409,
+      "median_views": 1489,
       "uploads_30d": 20,
-      "views_30d": 28010,
+      "views_30d": 28189,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,21 +422,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "노트북도 태블릿도 한 대로 끝, HP 파빌리온 x360 14",
-          "views": 784,
+          "views": 979,
           "date": "2026-06-18",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
         },
         {
           "title": "이 스펙이 왜 이 가격? 델 G15 5530의 정체",
-          "views": 1464,
+          "views": 1452,
           "date": "2026-06-18",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=QjLyebPClJ0"
         },
         {
           "title": "이 두께에 RTX 5060을 풀파워로 박았다고?",
-          "views": 1601,
+          "views": 1596,
           "date": "2026-06-17",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=A67JOkeTXY0"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "HP 빅터스 16 게이밍 노트북",
-          "views": 255,
+          "views": 256,
           "date": "2026-06-16",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=jkiY7LFI3xU"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=qHjbd-m1U2w"
         }
       ],
-      "analyzed_at": "2026-06-19 03:32",
+      "analyzed_at": "2026-06-19 04:35",
       "subs_delta": 0
     },
     {
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 857,
       "median_views": 644,
       "uploads_30d": 20,
-      "views_30d": 17146,
+      "views_30d": 17147,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -522,21 +522,21 @@ window.DATA = {
         },
         {
           "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1640,
+          "views": 1639,
           "date": "2026-06-16",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
         },
         {
           "title": "게이밍 노트북은 1시간이면 방전이라더니, 이건 종일 가더라고요 (에이서 니트로 V16)",
-          "views": 1443,
+          "views": 1444,
           "date": "2026-06-15",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=IBwY5vaDyKk"
         },
         {
           "title": "맥북 프로가 에어보다 비싼 진짜 이유 (맥북 프로 14 M4)",
-          "views": 1374,
+          "views": 1375,
           "date": "2026-06-18",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=fV5nbHUBa-Y"
@@ -545,21 +545,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "노트북도 색으로 고르는 시대, 이 미드나이트가 물건입니다",
-          "views": 371,
+          "views": 370,
           "date": "2026-06-18",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=EDQXV8Bh8RM"
         },
         {
           "title": "맥북 프로가 에어보다 비싼 진짜 이유 (맥북 프로 14 M4)",
-          "views": 1374,
+          "views": 1375,
           "date": "2026-06-18",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=fV5nbHUBa-Y"
         },
         {
           "title": "14인치인데 안 답답한 OLED 노트북 (레노버 요가 슬림 7",
-          "views": 1146,
+          "views": 1147,
           "date": "2026-06-17",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=96_qejCfVu0"
@@ -573,7 +573,7 @@ window.DATA = {
         },
         {
           "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1640,
+          "views": 1639,
           "date": "2026-06-16",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
@@ -594,7 +594,7 @@ window.DATA = {
         },
         {
           "title": "게이밍 노트북은 1시간이면 방전이라더니, 이건 종일 가더라고요 (에이서 니트로 V16)",
-          "views": 1443,
+          "views": 1444,
           "date": "2026-06-15",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=IBwY5vaDyKk"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Qpylku1SquE"
         }
       ],
-      "analyzed_at": "2026-06-19 03:33",
+      "analyzed_at": "2026-06-19 04:36",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-19 03:30"
+  "generated_at": "2026-06-19 04:33"
 };
