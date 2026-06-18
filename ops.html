@@ -79,10 +79,11 @@ html,body{overscroll-behavior-y:contain}
 #ptr{position:fixed;top:0;left:0;right:0;display:flex;align-items:center;justify-content:center;gap:8px;height:56px;transform:translateY(-56px);color:#58a6ff;font-size:13px;font-weight:600;z-index:50;pointer-events:none}
 #ptr .sp{width:18px;height:18px;border:2px solid #30363d;border-top-color:#58a6ff;border-radius:50%}
 #ptr.spin .sp{animation:refspin .7s linear infinite}
+@media(max-width:768px){#refbtn{position:fixed;right:14px;bottom:calc(16px + env(safe-area-inset-bottom));z-index:60;padding:14px 20px;font-size:16px;border-radius:30px;box-shadow:0 5px 18px #1f6febaa}}
 </style></head><body>
 <div id="ptr"><span class="sp"></span><span id="ptrtxt">↓ 당겨서 새로고침</span></div>
 <div class="tophdr"><h1>🎬 에스알스튜디오 운영현황</h1><button id="refbtn" onclick="doRefresh()"><span class="ricon">🔄</span> 새로고침</button></div>
-<div class="ts"><span class="live"></span>실시간 자동 갱신 · 2026-06-19 00:23 · 동업자 공유(읽기전용)</div>
+<div class="ts"><span class="live"></span>실시간 자동 갱신 · 2026-06-19 00:36 · 동업자 공유(읽기전용)</div>
 
 <div class="kpis">
   <div class="kpi g"><div class="n">0</div><div class="l">오늘 제작·배포</div></div>
@@ -317,7 +318,7 @@ new Chart(document.getElementById('ch1'),{
   var startY=0,pulling=false,dist=0,TH=70,MAX=90;
   window.doRefresh=function(){
     if(btn)btn.classList.add('spin');
-    setTimeout(function(){location.reload(true);},350);
+    setTimeout(function(){location.replace(location.pathname.split('?')[0]+'?_='+Date.now());},350);
   };
   document.addEventListener('touchstart',function(e){
     if(window.scrollY<=0&&e.touches.length===1){
@@ -334,7 +335,7 @@ new Chart(document.getElementById('ch1'),{
   },{passive:true});
   document.addEventListener('touchend',function(){
     if(!pulling)return;pulling=false;ptr.style.transition='transform .25s ease';
-    if(dist*0.5>=TH){ptr.classList.add('spin');ptr.style.transform='translateY(0)';txt.textContent='새로고침 중…';setTimeout(function(){location.reload(true);},300);}
+    if(dist*0.5>=TH){ptr.classList.add('spin');ptr.style.transform='translateY(0)';txt.textContent='새로고침 중…';setTimeout(function(){location.replace(location.pathname.split('?')[0]+'?_='+Date.now());},300);}
     else{ptr.style.transform='translateY(-56px)';}
   },{passive:true});
 })();
