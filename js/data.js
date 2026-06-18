@@ -369,7 +369,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-06-18 23:17",
-      "subs_delta": 10
+      "subs_delta": 0
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
