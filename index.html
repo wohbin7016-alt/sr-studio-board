@@ -15,13 +15,15 @@
   <link rel="stylesheet" href="css/style.css">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
   <style>
-  /* 모바일: 새로고침 버튼 하단 고정 FAB — 상단이라 못 누르던 문제 해결 (2026-06-19) */
-  @media(max-width:768px){
-    #topRefresh{position:fixed!important;right:16px;bottom:calc(18px + env(safe-area-inset-bottom));z-index:9999;margin:0!important;padding:15px 22px!important;font-size:16px!important;border-radius:30px!important;box-shadow:0 5px 18px rgba(37,99,235,.55)!important}
-  }
+  /* 당겨서 새로고침 (pull-to-refresh) — 버튼 제거, 상단서 당기면 갱신 (2026-06-19) */
+  #ptr{position:fixed;top:0;left:0;right:0;display:flex;align-items:center;justify-content:center;gap:8px;height:60px;transform:translateY(-64px);color:#fff;font-size:14px;font-weight:700;z-index:9999;pointer-events:none;background:linear-gradient(#2563ebee,#2563eb00)}
+  #ptr .ptrsp{width:20px;height:20px;border:2px solid #ffffff55;border-top-color:#fff;border-radius:50%}
+  #ptr.spin .ptrsp{animation:ptrspin .7s linear infinite}
+  @keyframes ptrspin{to{transform:rotate(360deg)}}
   </style>
 </head>
 <body>
+  <div id="ptr"><span class="ptrsp"></span><span id="ptrtx">↓ 당겨서 새로고침</span></div>
   <div class="app">
     <aside class="sidebar">
       <div class="logo">SR<span>스튜디오</span> <small>Analytics</small></div>
@@ -39,7 +41,6 @@
       <header class="topbar" style="display:flex;align-items:center;gap:12px;flex-wrap:wrap">
         <h1 class="page-title">대시보드</h1>
         <div class="meta" style="margin-left:auto">데이터 기준: <span id="generated-at"></span></div>
-        <button id="topRefresh" type="button" onclick="hardRefresh()" style="display:inline-flex;align-items:center;gap:6px;padding:9px 16px;border:0;border-radius:10px;background:#2563eb;color:#fff;font-size:15px;font-weight:700;cursor:pointer;box-shadow:0 2px 8px rgba(37,99,235,.4)">🔄 새로고침</button>
       </header>
       <main class="page" id="page"></main>
     </div>
@@ -70,6 +71,29 @@
         }).then(done).catch(done);
       } else { done(); }
     }
+
+    /* 당겨서 새로고침 — .main 최상단서 아래로 당기면 갱신 (2026-06-19) */
+    (function(){
+      var sc=document.querySelector('.main'),ptr=document.getElementById('ptr'),tx=document.getElementById('ptrtx');
+      if(!sc||!ptr)return;
+      var startY=0,pulling=false,dist=0,TH=70,MAX=90;
+      sc.addEventListener('touchstart',function(e){
+        if(sc.scrollTop<=0&&e.touches.length===1){startY=e.touches[0].clientY;pulling=true;dist=0;ptr.style.transition='none';}
+      },{passive:true});
+      sc.addEventListener('touchmove',function(e){
+        if(!pulling)return;
+        dist=e.touches[0].clientY-startY;
+        if(dist<=0){pulling=false;ptr.style.transition='transform .2s';ptr.style.transform='translateY(-64px)';return;}
+        var d=Math.min(dist*0.5,MAX);
+        ptr.style.transform='translateY('+(d-64)+'px)';
+        tx.textContent=d>=TH?'놓으면 새로고침':'↓ 당겨서 새로고침';
+      },{passive:true});
+      sc.addEventListener('touchend',function(){
+        if(!pulling)return;pulling=false;ptr.style.transition='transform .25s ease';
+        if(dist*0.5>=TH){ptr.classList.add('spin');ptr.style.transform='translateY(0)';tx.textContent='새로고침 중…';hardRefresh();}
+        else{ptr.style.transform='translateY(-64px)';}
+      },{passive:true});
+    })();
 
     function navigate(key) {
       if (!window.PAGES || !window.PAGES[key]) key = 'dashboard';
