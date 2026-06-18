@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6298,
+      "avg_views": 6241,
       "median_views": 2150,
       "uploads_30d": 20,
-      "views_30d": 125970,
+      "views_30d": 124823,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 58450,
+          "views": 58515,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -52,8 +52,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "갈라진 가죽 소파, 버리지 마세요. 5분이면 새것처럼 됩니다",
+          "views": 382,
+          "date": "2026-06-18",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=F5d3cMn3jmw"
+        },
+        {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 787,
+          "views": 790,
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Sm5uIjUtouY"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
-        },
-        {
-          "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 3464,
-          "date": "2026-06-10",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
         }
       ],
-      "analyzed_at": "2026-06-18 11:33",
+      "analyzed_at": "2026-06-18 12:37",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2614,
-      "median_views": 352,
+      "avg_views": 2609,
+      "median_views": 66,
       "uploads_30d": 20,
-      "views_30d": 52285,
+      "views_30d": 52185,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 32556,
+          "views": 32966,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -167,13 +167,20 @@ window.DATA = {
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 2165,
+          "views": 2232,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         }
       ],
       "recent_videos": [
+        {
+          "title": "월세도 없던 남자가 1500조가 되기까지",
+          "views": 104,
+          "date": "2026-06-18",
+          "duration": 42,
+          "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
+        },
         {
           "title": "무릎이 두 번 끊어진 골키퍼 김승규",
           "views": 18,
@@ -183,7 +190,7 @@ window.DATA = {
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 2165,
+          "views": 2232,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -197,21 +204,21 @@ window.DATA = {
         },
         {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
-          "views": 1067,
+          "views": 1055,
           "date": "2026-06-16",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
         },
         {
           "title": "젠슨 황 삼쏘 회동, 이 조합 실화? (2026 한국 총수 삼겹살 회동)",
-          "views": 6,
+          "views": 7,
           "date": "2026-06-15",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=hEYUrDPTOCo"
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1476,
+          "views": 1489,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
@@ -225,7 +232,7 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 32556,
+          "views": 32966,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=GSMkuZ9VvdQ"
-        },
-        {
-          "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3123,
-          "date": "2026-06-13",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         }
       ],
-      "analyzed_at": "2026-06-18 11:34",
+      "analyzed_at": "2026-06-18 12:37",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1110,
       "sampled": 20,
-      "avg_views": 5600,
-      "median_views": 3585,
+      "avg_views": 5711,
+      "median_views": 3409,
       "uploads_30d": 20,
-      "views_30d": 112017,
+      "views_30d": 108520,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -283,7 +283,7 @@ window.DATA = {
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 7382,
+          "views": 7503,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -297,6 +297,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "호랑이는 왜 암컷에게 함부로 못 덤빌까",
+          "views": 0,
+          "date": "2026-06-18",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=AfOT6Sws68o"
+        },
         {
           "title": "올빼미는 왜 먹이를 씹지 않고 통째로 삼킬까",
           "views": 594,
@@ -320,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 7382,
+          "views": 7503,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -341,7 +348,7 @@ window.DATA = {
         },
         {
           "title": "배럴아이는 왜 머리가 투명할까",
-          "views": 5045,
+          "views": 5187,
           "date": "2026-06-14",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
-        },
-        {
-          "title": "펭귄이 이 물범만 보면 필사적으로 도망치는 이유",
-          "views": 4381,
-          "date": "2026-06-12",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=eRYmvsPHX6Y"
         }
       ],
-      "analyzed_at": "2026-06-18 11:35",
+      "analyzed_at": "2026-06-18 12:38",
       "subs_delta": 0
     },
     {
@@ -377,25 +377,18 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1436,
-      "median_views": 1554,
+      "avg_views": 1345,
+      "median_views": 1477,
       "uploads_30d": 20,
-      "views_30d": 28738,
+      "views_30d": 26910,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 3377,
+          "views": 3424,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
-        },
-        {
-          "title": "이 가격에 QHD 165Hz? HP 오멘 16 화면 보고 바로 담았습니다",
-          "views": 2201,
-          "date": "2026-06-08",
-          "duration": 31,
-          "url": "https://www.youtube.com/watch?v=lbKXPjJZw34"
         },
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
@@ -417,9 +410,23 @@ window.DATA = {
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
+        },
+        {
+          "title": "150만 원 안 되는데 화면이 등 뒤까지 넘어가는 노트북 (옴니북 X 플립 14)",
+          "views": 1778,
+          "date": "2026-06-14",
+          "duration": 39,
+          "url": "https://www.youtube.com/watch?v=qHjbd-m1U2w"
         }
       ],
       "recent_videos": [
+        {
+          "title": "이 스펙이 왜 이 가격? 델 G15 5530의 정체",
+          "views": 330,
+          "date": "2026-06-18",
+          "duration": 37,
+          "url": "https://www.youtube.com/watch?v=QjLyebPClJ0"
+        },
         {
           "title": "이 두께에 RTX 5060을 풀파워로 박았다고?",
           "views": 1588,
@@ -457,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
-          "views": 1732,
+          "views": 1728,
           "date": "2026-06-15",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
@@ -482,16 +489,9 @@ window.DATA = {
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=Avpyw0U75Dg"
-        },
-        {
-          "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1851,
-          "date": "2026-06-13",
-          "duration": 39,
-          "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
         }
       ],
-      "analyzed_at": "2026-06-18 11:35",
+      "analyzed_at": "2026-06-18 12:39",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 801,
+      "avg_views": 804,
       "median_views": 548,
       "uploads_30d": 20,
-      "views_30d": 16028,
+      "views_30d": 16086,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -543,6 +543,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "맥북 프로가 에어보다 비싼 진짜 이유 (맥북 프로 14 M4)",
+          "views": 277,
+          "date": "2026-06-18",
+          "duration": 34,
+          "url": "https://www.youtube.com/watch?v=fV5nbHUBa-Y"
+        },
         {
           "title": "14인치인데 안 답답한 OLED 노트북 (레노버 요가 슬림 7",
           "views": 1144,
@@ -605,18 +612,11 @@ window.DATA = {
           "date": "2026-06-13",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=vlJ0GbOGVg4"
-        },
-        {
-          "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2041,
-          "date": "2026-06-12",
-          "duration": 30,
-          "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
         }
       ],
-      "analyzed_at": "2026-06-18 11:36",
+      "analyzed_at": "2026-06-18 12:40",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-18 11:33"
+  "generated_at": "2026-06-18 12:37"
 };
