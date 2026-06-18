@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6471,
-      "median_views": 2166,
+      "avg_views": 6491,
+      "median_views": 2167,
       "uploads_30d": 20,
-      "views_30d": 129422,
+      "views_30d": 129828,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 60747,
+          "views": 61078,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 10433,
+          "views": 10446,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -53,21 +53,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 1367,
+          "views": 1403,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
         },
         {
           "title": "갈라진 가죽 소파, 버리지 마세요. 5분이면 새것처럼 됩니다",
-          "views": 1542,
+          "views": 1544,
           "date": "2026-06-18",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=F5d3cMn3jmw"
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 806,
+          "views": 817,
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Sm5uIjUtouY"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "아우디 A6 배터리 경고등, 배터리 갈면 또 당합니다 (진짜 범인은 발전기 정류기)",
-          "views": 1123,
+          "views": 1135,
           "date": "2026-06-16",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=D76zTvIBy7A"
@@ -109,20 +109,20 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 10433,
+          "views": 10446,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
         },
         {
           "title": "누렇게 찌든 운동화, 거품 한 번에 새 신발로",
-          "views": 2182,
+          "views": 2183,
           "date": "2026-06-13",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=0h4iHOBZc4k"
         }
       ],
-      "analyzed_at": "2026-06-18 22:11",
+      "analyzed_at": "2026-06-18 23:15",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2919,
-      "median_views": 1060,
+      "avg_views": 2791,
+      "median_views": 546,
       "uploads_30d": 20,
-      "views_30d": 55476,
+      "views_30d": 55820,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 34573,
+          "views": 34689,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -153,21 +153,21 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3224,
+          "views": 3244,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 3165,
+          "views": 3177,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 2613,
+          "views": 2807,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "멕시코가 한국한테 빚진 게 하나 있습니다",
-          "views": 0,
+          "views": 2,
           "date": "2026-06-18",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=88pIvaIJ4aY"
@@ -197,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 2613,
+          "views": 2807,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -239,13 +239,13 @@ window.DATA = {
         },
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 34573,
+          "views": 34689,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         }
       ],
-      "analyzed_at": "2026-06-18 22:12",
+      "analyzed_at": "2026-06-18 23:16",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 5282,
+      "avg_views": 5295,
       "median_views": 3164,
       "uploads_30d": 20,
-      "views_30d": 105650,
+      "views_30d": 105914,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -283,7 +283,7 @@ window.DATA = {
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 8258,
+          "views": 8375,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 1501,
+          "views": 1610,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
@@ -320,21 +320,21 @@ window.DATA = {
         },
         {
           "title": "카피바라는 왜 모든 동물과 잘 지낼까 #왜그럴까 #과학상식",
-          "views": 1947,
+          "views": 1950,
           "date": "2026-06-17",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
         },
         {
           "title": "복어는 위협받으면 왜 몸을 부풀릴까",
-          "views": 1441,
+          "views": 1472,
           "date": "2026-06-16",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=AaE5dlk1Ph0"
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 8258,
+          "views": 8375,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -355,7 +355,7 @@ window.DATA = {
         },
         {
           "title": "배럴아이는 왜 머리가 투명할까",
-          "views": 5414,
+          "views": 5416,
           "date": "2026-06-14",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
         }
       ],
-      "analyzed_at": "2026-06-18 22:13",
+      "analyzed_at": "2026-06-18 23:17",
       "subs_delta": 10
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1382,
+      "avg_views": 1389,
       "median_views": 1488,
       "uploads_30d": 20,
-      "views_30d": 27641,
+      "views_30d": 27794,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "노트북도 태블릿도 한 대로 끝, HP 파빌리온 x360 14",
-          "views": 541,
+          "views": 692,
           "date": "2026-06-18",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "HP 빅터스 16 게이밍 노트북",
-          "views": 254,
+          "views": 255,
           "date": "2026-06-16",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=jkiY7LFI3xU"
@@ -471,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
-          "views": 1728,
+          "views": 1729,
           "date": "2026-06-15",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=qHjbd-m1U2w"
         }
       ],
-      "analyzed_at": "2026-06-18 22:14",
+      "analyzed_at": "2026-06-18 23:18",
       "subs_delta": 0
     },
     {
@@ -500,15 +500,15 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 857,
+      "avg_views": 854,
       "median_views": 645,
       "uploads_30d": 20,
-      "views_30d": 17141,
+      "views_30d": 17080,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2044,
+          "views": 2045,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -536,7 +536,7 @@ window.DATA = {
         },
         {
           "title": "맥북 프로가 에어보다 비싼 진짜 이유 (맥북 프로 14 M4)",
-          "views": 1372,
+          "views": 1371,
           "date": "2026-06-18",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=fV5nbHUBa-Y"
@@ -545,14 +545,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "노트북도 색으로 고르는 시대, 이 미드나이트가 물건입니다",
-          "views": 365,
+          "views": 304,
           "date": "2026-06-18",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=EDQXV8Bh8RM"
         },
         {
           "title": "맥북 프로가 에어보다 비싼 진짜 이유 (맥북 프로 14 M4)",
-          "views": 1372,
+          "views": 1371,
           "date": "2026-06-18",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=fV5nbHUBa-Y"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Qpylku1SquE"
         }
       ],
-      "analyzed_at": "2026-06-18 22:14",
+      "analyzed_at": "2026-06-18 23:18",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-18 22:11"
+  "generated_at": "2026-06-18 23:15"
 };
