@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6566,
+      "avg_views": 6578,
       "median_views": 2058,
       "uploads_30d": 20,
-      "views_30d": 131330,
+      "views_30d": 131564,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 63319,
+          "views": 63404,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 10610,
+          "views": 10657,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "썩은 나무 통째로 버리지 마세요… 2액형 에폭시로 새것처럼 #shorts",
-          "views": 818,
+          "views": 899,
           "date": "2026-06-19",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 828,
+          "views": 835,
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Sm5uIjUtouY"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱 인두로 영구 보수",
-          "views": 1351,
+          "views": 1365,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=uZBBClwjK3w"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=8HTBOGU2LfA"
         }
       ],
-      "analyzed_at": "2026-06-19 20:27",
+      "analyzed_at": "2026-06-19 21:32",
       "subs_delta": 0
     },
     {
@@ -131,25 +131,32 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2906,
-      "median_views": 344,
+      "avg_views": 2925,
+      "median_views": 378,
       "uploads_30d": 20,
-      "views_30d": 58124,
+      "views_30d": 58509,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 36664,
+          "views": 36839,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 4846,
+          "views": 4853,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
+        },
+        {
+          "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
+          "views": 3390,
+          "date": "2026-06-17",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
@@ -159,15 +166,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         },
         {
-          "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 3260,
-          "date": "2026-06-17",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
-        },
-        {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 3212,
+          "views": 3217,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "27년을 감옥에서 보낸 남자가 한 의외의 행동",
-          "views": 651,
+          "views": 720,
           "date": "2026-06-19",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
@@ -204,14 +204,14 @@ window.DATA = {
         },
         {
           "title": "무릎이 두 번 끊어진 골키퍼 김승규",
-          "views": 34,
+          "views": 35,
           "date": "2026-06-17",
           "duration": 60,
           "url": "https://www.youtube.com/watch?v=WUdE6F3XNGQ"
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 3260,
+          "views": 3390,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -225,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
-          "views": 1091,
+          "views": 1089,
           "date": "2026-06-16",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
         }
       ],
-      "analyzed_at": "2026-06-19 20:28",
+      "analyzed_at": "2026-06-19 21:33",
       "subs_delta": 0
     },
     {
@@ -254,29 +254,29 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4013,
+      "avg_views": 4029,
       "median_views": 2610,
       "uploads_30d": 20,
-      "views_30d": 80269,
+      "views_30d": 80594,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14308,
+          "views": 14320,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 10848,
+          "views": 11072,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10655,
+          "views": 10656,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -299,21 +299,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 755,
+          "views": 784,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
         },
         {
           "title": "사슴은 왜 멀쩡한 뿔을 해마다 스스로 떨굴까",
-          "views": 1256,
+          "views": 1294,
           "date": "2026-06-19",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=pffZD5VXcF4"
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2045,
+          "views": 2066,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
@@ -348,14 +348,14 @@ window.DATA = {
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 10848,
+          "views": 11072,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10655,
+          "views": 10656,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=VotD4zlV5lM"
         }
       ],
-      "analyzed_at": "2026-06-19 20:29",
+      "analyzed_at": "2026-06-19 21:33",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1366,
-      "median_views": 1495,
+      "avg_views": 1304,
+      "median_views": 1419,
       "uploads_30d": 20,
-      "views_30d": 27339,
+      "views_30d": 26090,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -412,17 +412,24 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
         },
         {
-          "title": "가방에 넣은 줄도 모를 1kg, 14인치 2.8K OLED 들고 다니는 노트북 (레노버 요가 슬림 7i 울트라)",
-          "views": 1784,
-          "date": "2026-06-09",
-          "duration": 35,
-          "url": "https://www.youtube.com/watch?v=HBrDMeUg5jo"
+          "title": "150만 원 안 되는데 화면이 등 뒤까지 넘어가는 노트북 (옴니북 X 플립 14)",
+          "views": 1778,
+          "date": "2026-06-14",
+          "duration": 39,
+          "url": "https://www.youtube.com/watch?v=qHjbd-m1U2w"
         }
       ],
       "recent_videos": [
         {
+          "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
+          "views": 533,
+          "date": "2026-06-19",
+          "duration": 32,
+          "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
+        },
+        {
           "title": "겉은 수수한데 i7에 RTX 4060? 기가바이트 G6X 정체",
-          "views": 387,
+          "views": 388,
           "date": "2026-06-19",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=vN9AyUTpynI"
@@ -482,16 +489,9 @@ window.DATA = {
           "date": "2026-06-15",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
-        },
-        {
-          "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1933,
-          "date": "2026-06-14",
-          "duration": 33,
-          "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
         }
       ],
-      "analyzed_at": "2026-06-19 20:30",
+      "analyzed_at": "2026-06-19 21:34",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 931,
+      "avg_views": 934,
       "median_views": 704,
       "uploads_30d": 20,
-      "views_30d": 18632,
+      "views_30d": 18695,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "에이수스 비보북 Go 15 / 89만 원대 사무용 가성비 노트북",
-          "views": 347,
+          "views": 410,
           "date": "2026-06-19",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=0yeHBMU8mWo"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=IBwY5vaDyKk"
         }
       ],
-      "analyzed_at": "2026-06-19 20:31",
+      "analyzed_at": "2026-06-19 21:35",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-19 20:27"
+  "generated_at": "2026-06-19 21:32"
 };
