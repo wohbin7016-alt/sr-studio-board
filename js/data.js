@@ -8,29 +8,29 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6426,
+      "avg_views": 6469,
       "median_views": 2057,
       "uploads_30d": 20,
-      "views_30d": 128534,
+      "views_30d": 129397,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 62151,
+          "views": 62229,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
         },
         {
           "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 16798,
+          "views": 16799,
           "date": "2026-06-06",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 10552,
+          "views": 10571,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -53,21 +53,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 357,
+          "views": 1034,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         },
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 1573,
+          "views": 1632,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
         },
         {
           "title": "갈라진 가죽 소파, 버리지 마세요. 5분이면 새것처럼 됩니다",
-          "views": 1554,
+          "views": 1569,
           "date": "2026-06-18",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=F5d3cMn3jmw"
@@ -81,28 +81,28 @@ window.DATA = {
         },
         {
           "title": "뭉개진 나사 고무줄로 빼기",
-          "views": 1963,
+          "views": 1964,
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RVlAPWufJZ4"
         },
         {
           "title": "깨진 플라스틱 인두로 영구 보수",
-          "views": 1342,
+          "views": 1344,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=uZBBClwjK3w"
         },
         {
           "title": "아우디 A6 배터리 경고등, 배터리 갈면 또 당합니다 (진짜 범인은 발전기 정류기)",
-          "views": 1192,
+          "views": 1200,
           "date": "2026-06-16",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=D76zTvIBy7A"
         },
         {
           "title": "도요타 코롤라 시동 덜덜 소리, 진짜 원인은 타이밍체인 텐셔너",
-          "views": 2688,
+          "views": 2691,
           "date": "2026-06-15",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=6ehCEuh9Ie8"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 10552,
+          "views": 10571,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
         }
       ],
-      "analyzed_at": "2026-06-19 12:59",
+      "analyzed_at": "2026-06-19 14:03",
       "subs_delta": 0
     },
     {
@@ -131,29 +131,29 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2832,
-      "median_views": 67,
+      "avg_views": 2845,
+      "median_views": 107,
       "uploads_30d": 20,
-      "views_30d": 56643,
+      "views_30d": 56919,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 35921,
+          "views": 36054,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 4826,
+          "views": 4827,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3286,
+          "views": 3289,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 3138,
+          "views": 3188,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "27년을 감옥에서 보낸 남자가 한 의외의 행동",
-          "views": 100,
+          "views": 180,
           "date": "2026-06-19",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
@@ -204,14 +204,14 @@ window.DATA = {
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 3138,
+          "views": 3188,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         },
         {
           "title": "미스터비스트, 또 유튜브 역사 썼다…개인 최초 5억 구독 근황",
-          "views": 34,
+          "views": 35,
           "date": "2026-06-16",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=Cxww0fUnNG8"
@@ -232,7 +232,7 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1548,
+          "views": 1547,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=F6cCXwyPHP8"
         }
       ],
-      "analyzed_at": "2026-06-19 13:00",
+      "analyzed_at": "2026-06-19 14:04",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 5305,
+      "avg_views": 5333,
       "median_views": 3164,
       "uploads_30d": 20,
-      "views_30d": 106103,
+      "views_30d": 106676,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -269,21 +269,21 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14296,
+          "views": 14299,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10565,
+          "views": 10569,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 8872,
+          "views": 8894,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -299,21 +299,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "사슴은 왜 멀쩡한 뿔을 해마다 스스로 떨굴까",
-          "views": 354,
+          "views": 889,
           "date": "2026-06-19",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=pffZD5VXcF4"
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 1999,
+          "views": 2001,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
         },
         {
           "title": "호랑이는 왜 암컷에게 함부로 못 덤빌까",
-          "views": 13,
+          "views": 15,
           "date": "2026-06-18",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=AfOT6Sws68o"
@@ -334,21 +334,21 @@ window.DATA = {
         },
         {
           "title": "복어는 위협받으면 왜 몸을 부풀릴까",
-          "views": 1476,
+          "views": 1478,
           "date": "2026-06-16",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=AaE5dlk1Ph0"
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 8872,
+          "views": 8894,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10565,
+          "views": 10569,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
         }
       ],
-      "analyzed_at": "2026-06-19 13:01",
+      "analyzed_at": "2026-06-19 14:04",
       "subs_delta": 0
     },
     {
@@ -380,7 +380,7 @@ window.DATA = {
       "avg_views": 1358,
       "median_views": 1494,
       "uploads_30d": 20,
-      "views_30d": 27163,
+      "views_30d": 27164,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,7 +392,7 @@ window.DATA = {
         },
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1931,
+          "views": 1932,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "겉은 수수한데 i7에 RTX 4060? 기가바이트 G6X 정체",
-          "views": 305,
+          "views": 306,
           "date": "2026-06-19",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=vN9AyUTpynI"
@@ -478,20 +478,20 @@ window.DATA = {
         },
         {
           "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
-          "views": 1737,
+          "views": 1736,
           "date": "2026-06-15",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
         },
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1931,
+          "views": 1932,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
         }
       ],
-      "analyzed_at": "2026-06-19 13:01",
+      "analyzed_at": "2026-06-19 14:05",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 853,
-      "median_views": 644,
+      "avg_views": 872,
+      "median_views": 662,
       "uploads_30d": 20,
-      "views_30d": 17065,
+      "views_30d": 17443,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -545,14 +545,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 298,
+          "views": 678,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
         },
         {
           "title": "노트북도 색으로 고르는 시대, 이 미드나이트가 물건입니다",
-          "views": 374,
+          "views": 373,
           "date": "2026-06-18",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=EDQXV8Bh8RM"
@@ -587,7 +587,7 @@ window.DATA = {
         },
         {
           "title": "100만 원 아래 노트북, 레노버 아이디어패드 슬림3 가성비 끝판왕",
-          "views": 449,
+          "views": 445,
           "date": "2026-06-16",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=OJe_wWi2QOo"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=T8EKN8A8N1M"
         }
       ],
-      "analyzed_at": "2026-06-19 13:02",
+      "analyzed_at": "2026-06-19 14:06",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-19 12:59"
+  "generated_at": "2026-06-19 14:03"
 };
