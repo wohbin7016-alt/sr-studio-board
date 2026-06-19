@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6483,
+      "avg_views": 6511,
       "median_views": 2057,
       "uploads_30d": 20,
-      "views_30d": 129671,
+      "views_30d": 130237,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 62353,
+          "views": 62522,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -53,21 +53,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 1183,
+          "views": 1473,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         },
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 1638,
+          "views": 1694,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
         },
         {
           "title": "갈라진 가죽 소파, 버리지 마세요. 5분이면 새것처럼 됩니다",
-          "views": 1554,
+          "views": 1605,
           "date": "2026-06-18",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=F5d3cMn3jmw"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
         }
       ],
-      "analyzed_at": "2026-06-19 15:07",
+      "analyzed_at": "2026-06-19 16:11",
       "subs_delta": 0
     },
     {
@@ -131,32 +131,39 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2854,
+      "avg_views": 2858,
       "median_views": 151,
       "uploads_30d": 20,
-      "views_30d": 57080,
+      "views_30d": 57167,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 36122,
+          "views": 36180,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 4826,
+          "views": 4827,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3291,
+          "views": 3293,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
+        },
+        {
+          "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
+          "views": 3214,
+          "date": "2026-06-17",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
@@ -164,13 +171,6 @@ window.DATA = {
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
-        },
-        {
-          "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 3188,
-          "date": "2026-06-17",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         }
       ],
       "recent_videos": [
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 3188,
+          "views": 3214,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=F6cCXwyPHP8"
         }
       ],
-      "analyzed_at": "2026-06-19 15:07",
+      "analyzed_at": "2026-06-19 16:12",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 5352,
+      "avg_views": 5377,
       "median_views": 3164,
       "uploads_30d": 20,
-      "views_30d": 107041,
+      "views_30d": 107553,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -283,7 +283,7 @@ window.DATA = {
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 9211,
+          "views": 9422,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -299,14 +299,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "사슴은 왜 멀쩡한 뿔을 해마다 스스로 떨굴까",
-          "views": 911,
+          "views": 1189,
           "date": "2026-06-19",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=pffZD5VXcF4"
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2019,
+          "views": 2025,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
@@ -327,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "카피바라는 왜 모든 동물과 잘 지낼까 #왜그럴까 #과학상식",
-          "views": 2189,
+          "views": 2206,
           "date": "2026-06-17",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
@@ -341,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 9211,
+          "views": 9422,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
         }
       ],
-      "analyzed_at": "2026-06-19 15:09",
+      "analyzed_at": "2026-06-19 16:13",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1360,
-      "median_views": 1494,
+      "avg_views": 1359,
+      "median_views": 1495,
       "uploads_30d": 20,
-      "views_30d": 27215,
+      "views_30d": 27186,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "겉은 수수한데 i7에 RTX 4060? 기가바이트 G6X 정체",
-          "views": 336,
+          "views": 306,
           "date": "2026-06-19",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=vN9AyUTpynI"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "이 스펙이 왜 이 가격? 델 G15 5530의 정체",
-          "views": 1457,
+          "views": 1458,
           "date": "2026-06-18",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=QjLyebPClJ0"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
         }
       ],
-      "analyzed_at": "2026-06-19 15:09",
+      "analyzed_at": "2026-06-19 16:13",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 874,
-      "median_views": 687,
+      "avg_views": 890,
+      "median_views": 704,
       "uploads_30d": 20,
-      "views_30d": 17495,
+      "views_30d": 17811,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -515,7 +515,7 @@ window.DATA = {
         },
         {
           "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1914,
+          "views": 1915,
           "date": "2026-06-11",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 728,
+          "views": 1043,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=T8EKN8A8N1M"
         }
       ],
-      "analyzed_at": "2026-06-19 15:10",
+      "analyzed_at": "2026-06-19 16:14",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-19 15:07"
+  "generated_at": "2026-06-19 16:11"
 };
