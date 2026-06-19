@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6571,
+      "avg_views": 6566,
       "median_views": 2058,
       "uploads_30d": 20,
-      "views_30d": 131430,
+      "views_30d": 131330,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 63170,
+          "views": 63319,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -52,8 +52,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "썩은 나무 통째로 버리지 마세요… 2액형 에폭시로 새것처럼 #shorts",
+          "views": 818,
+          "date": "2026-06-19",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
+        },
+        {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 1872,
+          "views": 1921,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
@@ -102,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "도요타 코롤라 시동 덜덜 소리, 진짜 원인은 타이밍체인 텐셔너",
-          "views": 2692,
+          "views": 2740,
           "date": "2026-06-15",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=6ehCEuh9Ie8"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-15",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=8HTBOGU2LfA"
-        },
-        {
-          "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 10610,
-          "date": "2026-06-14",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
         }
       ],
-      "analyzed_at": "2026-06-19 19:23",
+      "analyzed_at": "2026-06-19 20:27",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2898,
-      "median_views": 342,
+      "avg_views": 2906,
+      "median_views": 344,
       "uploads_30d": 20,
-      "views_30d": 57962,
+      "views_30d": 58124,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 36521,
+          "views": 36664,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -153,7 +153,7 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3293,
+          "views": 3299,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "BMW M3 흡기 통째로 바꾸면 생기는 일",
-          "views": 3211,
+          "views": 3212,
           "date": "2026-06-10",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=cy67Dc2-4JI"
@@ -175,8 +175,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "음바페가 골 넣고 유니폼에 숨긴 한 줄… 8살 루카스의 마지막 #shorts",
+          "views": 2,
+          "date": "2026-06-19",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=tTVIlTqTbUY"
+        },
+        {
           "title": "27년을 감옥에서 보낸 남자가 한 의외의 행동",
-          "views": 648,
+          "views": 651,
           "date": "2026-06-19",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
@@ -197,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "무릎이 두 번 끊어진 골키퍼 김승규",
-          "views": 30,
+          "views": 34,
           "date": "2026-06-17",
           "duration": 60,
           "url": "https://www.youtube.com/watch?v=WUdE6F3XNGQ"
@@ -218,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
-          "views": 1089,
+          "views": 1091,
           "date": "2026-06-16",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
@@ -232,20 +239,13 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1548,
+          "views": 1549,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
-        },
-        {
-          "title": "병역 면제받은 배우가 스스로 군대 간 진짜 이유",
-          "views": 28,
-          "date": "2026-06-14",
-          "duration": 30,
-          "url": "https://www.youtube.com/watch?v=F6cCXwyPHP8"
         }
       ],
-      "analyzed_at": "2026-06-19 19:24",
+      "analyzed_at": "2026-06-19 20:28",
       "subs_delta": 0
     },
     {
@@ -254,49 +254,56 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 5438,
-      "median_views": 3164,
+      "avg_views": 4013,
+      "median_views": 2610,
       "uploads_30d": 20,
-      "views_30d": 108776,
+      "views_30d": 80269,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
-          "title": "산양은 왜 절벽에서 안 떨어질까",
-          "views": 29700,
-          "date": "2026-06-09",
-          "duration": 17,
-          "url": "https://www.youtube.com/watch?v=3EbBmd9OUuw"
-        },
-        {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14313,
+          "views": 14308,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
-          "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10599,
-          "date": "2026-06-15",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
-        },
-        {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 10482,
+          "views": 10848,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
+          "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
+          "views": 10655,
+          "date": "2026-06-15",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
+        },
+        {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 6551,
+          "views": 6552,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
+        },
+        {
+          "title": "배럴아이는 왜 머리가 투명할까",
+          "views": 5416,
+          "date": "2026-06-14",
+          "duration": 19,
+          "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
         }
       ],
       "recent_videos": [
+        {
+          "title": "흰동가리는 왜 성별을 바꿀까",
+          "views": 755,
+          "date": "2026-06-19",
+          "duration": 21,
+          "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
+        },
         {
           "title": "사슴은 왜 멀쩡한 뿔을 해마다 스스로 떨굴까",
           "views": 1256,
@@ -327,7 +334,7 @@ window.DATA = {
         },
         {
           "title": "카피바라는 왜 모든 동물과 잘 지낼까 #왜그럴까 #과학상식",
-          "views": 2220,
+          "views": 2229,
           "date": "2026-06-17",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
@@ -341,14 +348,14 @@ window.DATA = {
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 10482,
+          "views": 10848,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10599,
+          "views": 10655,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=VotD4zlV5lM"
-        },
-        {
-          "title": "배럴아이는 왜 머리가 투명할까",
-          "views": 5416,
-          "date": "2026-06-14",
-          "duration": 19,
-          "url": "https://www.youtube.com/watch?v=dVZK8T4AWeM"
         }
       ],
-      "analyzed_at": "2026-06-19 19:24",
+      "analyzed_at": "2026-06-19 20:29",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1365,
+      "avg_views": 1366,
       "median_views": 1495,
       "uploads_30d": 20,
-      "views_30d": 27306,
+      "views_30d": 27339,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 3741,
+          "views": 3774,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "겉은 수수한데 i7에 RTX 4060? 기가바이트 G6X 정체",
-          "views": 388,
+          "views": 387,
           "date": "2026-06-19",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=vN9AyUTpynI"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
-          "views": 1739,
+          "views": 1740,
           "date": "2026-06-15",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
         }
       ],
-      "analyzed_at": "2026-06-19 19:25",
+      "analyzed_at": "2026-06-19 20:30",
       "subs_delta": 0
     },
     {
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 931,
       "median_views": 704,
       "uploads_30d": 20,
-      "views_30d": 18621,
+      "views_30d": 18632,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -515,7 +515,7 @@ window.DATA = {
         },
         {
           "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1915,
+          "views": 1916,
           "date": "2026-06-11",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
@@ -543,6 +543,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "에이수스 비보북 Go 15 / 89만 원대 사무용 가성비 노트북",
+          "views": 347,
+          "date": "2026-06-19",
+          "duration": 34,
+          "url": "https://www.youtube.com/watch?v=0yeHBMU8mWo"
+        },
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
           "views": 1847,
@@ -605,18 +612,11 @@ window.DATA = {
           "date": "2026-06-15",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=IBwY5vaDyKk"
-        },
-        {
-          "title": "굳이 프로? M5 보고 조용히 담았습니다 (맥북 프로 14",
-          "views": 761,
-          "date": "2026-06-14",
-          "duration": 26,
-          "url": "https://www.youtube.com/watch?v=T8EKN8A8N1M"
         }
       ],
-      "analyzed_at": "2026-06-19 19:26",
+      "analyzed_at": "2026-06-19 20:31",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-19 19:23"
+  "generated_at": "2026-06-19 20:27"
 };
