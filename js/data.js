@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6206,
+      "avg_views": 6212,
       "median_views": 2232,
       "uploads_30d": 20,
-      "views_30d": 124120,
+      "views_30d": 124256,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 67991,
+          "views": 68059,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -60,14 +60,14 @@ window.DATA = {
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1064,
+          "views": 1072,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
         },
         {
           "title": "썩은 나무 통째로 버리지 마세요… 2액형 에폭시로 새것처럼 #shorts",
-          "views": 2734,
+          "views": 2740,
           "date": "2026-06-19",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 2399,
+          "views": 2452,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=D76zTvIBy7A"
         }
       ],
-      "analyzed_at": "2026-06-21 03:28",
+      "analyzed_at": "2026-06-21 04:31",
       "subs_delta": 0
     },
     {
@@ -131,36 +131,36 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2983,
+      "avg_views": 2977,
       "median_views": 446,
       "uploads_30d": 20,
-      "views_30d": 59661,
+      "views_30d": 59556,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 39294,
+          "views": 39160,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 4906,
+          "views": 4904,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 3999,
+          "views": 4024,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3362,
+          "views": 3363,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -176,21 +176,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "한 살 반에 빛과 소리를 잃은 아이 (헬렌 켈러)",
-          "views": 2,
+          "views": 4,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=LhrrJEFcNw8"
         },
         {
           "title": "선로에 뛰어든 26살 한국 청년… 단 2초가 운명을 갈랐다 #shorts",
-          "views": 968,
+          "views": 967,
           "date": "2026-06-20",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=GA4arzC36I0"
         },
         {
           "title": "음바페가 골 넣고 유니폼에 숨긴 한 줄… 8살 루카스의 마지막 #shorts",
-          "views": 26,
+          "views": 28,
           "date": "2026-06-19",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=tTVIlTqTbUY"
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "멕시코가 한국한테 빚진 게 하나 있습니다",
-          "views": 6,
+          "views": 7,
           "date": "2026-06-18",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=88pIvaIJ4aY"
@@ -225,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 3999,
+          "views": 4024,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
         }
       ],
-      "analyzed_at": "2026-06-21 03:29",
+      "analyzed_at": "2026-06-21 04:32",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4362,
+      "avg_views": 4383,
       "median_views": 2731,
       "uploads_30d": 20,
-      "views_30d": 87247,
+      "views_30d": 87663,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -269,14 +269,14 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14392,
+          "views": 14393,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10663,
+          "views": 10662,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -306,35 +306,35 @@ window.DATA = {
         },
         {
           "title": "가오리는 왜 웃는 얼굴일까 (눈은 등 위에)",
-          "views": 1856,
+          "views": 2036,
           "date": "2026-06-20",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6KzQIb91-Zg"
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 1651,
+          "views": 1834,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
         },
         {
           "title": "사슴은 왜 멀쩡한 뿔을 해마다 스스로 떨굴까",
-          "views": 1631,
+          "views": 1662,
           "date": "2026-06-19",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=pffZD5VXcF4"
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2351,
+          "views": 2370,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
         },
         {
           "title": "호랑이는 왜 암컷에게 함부로 못 덤빌까",
-          "views": 20,
+          "views": 21,
           "date": "2026-06-18",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=AfOT6Sws68o"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         }
       ],
-      "analyzed_at": "2026-06-21 03:29",
+      "analyzed_at": "2026-06-21 04:33",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1454,
-      "median_views": 1501,
+      "avg_views": 1458,
+      "median_views": 1502,
       "uploads_30d": 20,
-      "views_30d": 29099,
+      "views_30d": 29168,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
-          "views": 1195,
+          "views": 1264,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1241,
+          "views": 1239,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
@@ -457,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "이 스펙이 왜 이 가격? 델 G15 5530의 정체",
-          "views": 1471,
+          "views": 1472,
           "date": "2026-06-18",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=QjLyebPClJ0"
@@ -471,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "같은 코어 울트라5인데 왜 하나만 후기가 쏟아질까 (삼성 갤럭시북5 프로 vs LG 그램 프로 17",
-          "views": 1531,
+          "views": 1532,
           "date": "2026-06-17",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=DgQvpdMV17k"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sl-qm7NW9JE"
         }
       ],
-      "analyzed_at": "2026-06-21 03:30",
+      "analyzed_at": "2026-06-21 04:33",
       "subs_delta": 0
     },
     {
@@ -501,9 +501,9 @@ window.DATA = {
       "subscribers": 2360,
       "sampled": 20,
       "avg_views": 1077,
-      "median_views": 1233,
+      "median_views": 1234,
       "uploads_30d": 20,
-      "views_30d": 21547,
+      "views_30d": 21548,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -536,7 +536,7 @@ window.DATA = {
         },
         {
           "title": "에이수스_게이밍_V16",
-          "views": 1617,
+          "views": 1618,
           "date": "2026-06-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
@@ -552,14 +552,14 @@ window.DATA = {
         },
         {
           "title": "에이수스_게이밍_V16",
-          "views": 1617,
+          "views": 1618,
           "date": "2026-06-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
         },
         {
           "title": "에이수스 비보북 Go 15 / 89만 원대 사무용 가성비 노트북",
-          "views": 553,
+          "views": 551,
           "date": "2026-06-19",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=0yeHBMU8mWo"
@@ -587,7 +587,7 @@ window.DATA = {
         },
         {
           "title": "14인치인데 안 답답한 OLED 노트북 (레노버 요가 슬림 7",
-          "views": 1170,
+          "views": 1172,
           "date": "2026-06-17",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=96_qejCfVu0"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=OJe_wWi2QOo"
         }
       ],
-      "analyzed_at": "2026-06-21 03:31",
+      "analyzed_at": "2026-06-21 04:34",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-21 03:28"
+  "generated_at": "2026-06-21 04:31"
 };
