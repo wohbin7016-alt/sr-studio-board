@@ -8,25 +8,18 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6862,
-      "median_views": 2284,
+      "avg_views": 6056,
+      "median_views": 2232,
       "uploads_30d": 20,
-      "views_30d": 137241,
+      "views_30d": 121139,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 66236,
+          "views": 66503,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
-        },
-        {
-          "title": "와이어로프 끝, 당겨도 안 풀리는 고리 만드는 법",
-          "views": 16802,
-          "date": "2026-06-06",
-          "duration": 29,
-          "url": "https://www.youtube.com/watch?v=1Gch6oVxois"
         },
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
@@ -48,9 +41,23 @@ window.DATA = {
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
+        },
+        {
+          "title": "수전 안 돌아갈 때 푸는 법",
+          "views": 3470,
+          "date": "2026-06-10",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
         }
       ],
       "recent_videos": [
+        {
+          "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
+          "views": 421,
+          "date": "2026-06-20",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
+        },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
           "views": 911,
@@ -67,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 2324,
+          "views": 2335,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
@@ -81,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "갈라진 가죽 소파, 버리지 마세요. 5분이면 새것처럼 됩니다",
-          "views": 1763,
+          "views": 1764,
           "date": "2026-06-18",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=F5d3cMn3jmw"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-16",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=D76zTvIBy7A"
-        },
-        {
-          "title": "도요타 코롤라 시동 덜덜 소리, 진짜 원인은 타이밍체인 텐셔너",
-          "views": 2765,
-          "date": "2026-06-15",
-          "duration": 28,
-          "url": "https://www.youtube.com/watch?v=6ehCEuh9Ie8"
         }
       ],
-      "analyzed_at": "2026-06-20 19:48",
+      "analyzed_at": "2026-06-20 20:52",
       "subs_delta": 0
     },
     {
@@ -131,36 +131,36 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2927,
-      "median_views": 341,
+      "avg_views": 2936,
+      "median_views": 343,
       "uploads_30d": 20,
-      "views_30d": 58549,
+      "views_30d": 58731,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 38744,
+          "views": 38832,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 4899,
+          "views": 4901,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 3819,
+          "views": 3901,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3354,
+          "views": 3358,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -175,8 +175,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "한 살 반에 빛과 소리를 잃은 아이 (헬렌 켈러)",
+          "views": 2,
+          "date": "2026-06-20",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=LhrrJEFcNw8"
+        },
+        {
           "title": "선로에 뛰어든 26살 한국 청년… 단 2초가 운명을 갈랐다 #shorts",
-          "views": 629,
+          "views": 630,
           "date": "2026-06-20",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=GA4arzC36I0"
@@ -190,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "27년을 감옥에서 보낸 남자가 한 의외의 행동",
-          "views": 829,
+          "views": 832,
           "date": "2026-06-19",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
@@ -211,41 +218,34 @@ window.DATA = {
         },
         {
           "title": "무릎이 두 번 끊어진 골키퍼 김승규",
-          "views": 54,
+          "views": 56,
           "date": "2026-06-17",
           "duration": 60,
           "url": "https://www.youtube.com/watch?v=WUdE6F3XNGQ"
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 3819,
+          "views": 3901,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         },
         {
           "title": "미스터비스트, 또 유튜브 역사 썼다…개인 최초 5억 구독 근황",
-          "views": 47,
+          "views": 51,
           "date": "2026-06-16",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=Cxww0fUnNG8"
         },
         {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
-          "views": 1102,
+          "views": 1106,
           "date": "2026-06-16",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
-        },
-        {
-          "title": "젠슨 황 삼쏘 회동, 이 조합 실화? (2026 한국 총수 삼겹살 회동)",
-          "views": 7,
-          "date": "2026-06-15",
-          "duration": 25,
-          "url": "https://www.youtube.com/watch?v=hEYUrDPTOCo"
         }
       ],
-      "analyzed_at": "2026-06-20 19:49",
+      "analyzed_at": "2026-06-20 20:53",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4335,
+      "avg_views": 4264,
       "median_views": 2694,
       "uploads_30d": 20,
-      "views_30d": 86708,
+      "views_30d": 85280,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -298,15 +298,22 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "낙타 혹엔 왜 물이 없을까 (지방 저장)",
+          "views": 406,
+          "date": "2026-06-20",
+          "duration": 17,
+          "url": "https://www.youtube.com/watch?v=Tjmmh4Z16VQ"
+        },
+        {
           "title": "가오리는 왜 웃는 얼굴일까 (눈은 등 위에)",
-          "views": 1641,
+          "views": 1627,
           "date": "2026-06-20",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6KzQIb91-Zg"
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 1430,
+          "views": 1454,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
@@ -320,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2231,
+          "views": 2267,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
@@ -348,7 +355,7 @@ window.DATA = {
         },
         {
           "title": "복어는 위협받으면 왜 몸을 부풀릴까",
-          "views": 1485,
+          "views": 1487,
           "date": "2026-06-16",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=AaE5dlk1Ph0"
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
-        },
-        {
-          "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10662,
-          "date": "2026-06-15",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         }
       ],
-      "analyzed_at": "2026-06-20 19:50",
+      "analyzed_at": "2026-06-20 20:54",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1407,
+      "avg_views": 1408,
       "median_views": 1497,
       "uploads_30d": 20,
-      "views_30d": 28142,
+      "views_30d": 28164,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 3889,
+          "views": 3892,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -421,6 +421,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
+          "views": 280,
+          "date": "2026-06-20",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
+        },
+        {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
           "views": 1909,
           "date": "2026-06-20",
@@ -429,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1238,
+          "views": 1239,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
@@ -482,16 +489,9 @@ window.DATA = {
           "date": "2026-06-16",
           "duration": 46,
           "url": "https://www.youtube.com/watch?v=sl-qm7NW9JE"
-        },
-        {
-          "title": "250만 원 게이밍 노트북 보러 갔다가 이걸 담은 이유 (레노버 리전5i)",
-          "views": 1392,
-          "date": "2026-06-15",
-          "duration": 42,
-          "url": "https://www.youtube.com/watch?v=kaO1l3fTU70"
         }
       ],
-      "analyzed_at": "2026-06-20 19:51",
+      "analyzed_at": "2026-06-20 20:55",
       "subs_delta": 0
     },
     {
@@ -500,15 +500,15 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1012,
+      "avg_views": 1026,
       "median_views": 960,
       "uploads_30d": 20,
-      "views_30d": 20259,
+      "views_30d": 20524,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2051,
+          "views": 2052,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -543,6 +543,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "노트북이 충전기 없이 하루를 통째로 버틴다고? 비보북 S15 OLED",
+          "views": 287,
+          "date": "2026-06-20",
+          "duration": 28,
+          "url": "https://www.youtube.com/watch?v=Za3EHcwOF4k"
+        },
         {
           "title": "에이수스_게이밍_V16",
           "views": 1621,
@@ -605,18 +612,11 @@ window.DATA = {
           "date": "2026-06-16",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=OJe_wWi2QOo"
-        },
-        {
-          "title": "16인치인데 왜 이렇게 가볍지? 가방에 넣으면 무게가 안 느껴지는 노트북 (에이수스 젠북 S16)",
-          "views": 469,
-          "date": "2026-06-15",
-          "duration": 33,
-          "url": "https://www.youtube.com/watch?v=gGxepTiSfp4"
         }
       ],
-      "analyzed_at": "2026-06-20 19:51",
+      "analyzed_at": "2026-06-20 20:55",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-20 19:48"
+  "generated_at": "2026-06-20 20:52"
 };
