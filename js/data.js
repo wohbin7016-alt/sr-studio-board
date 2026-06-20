@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6826,
+      "avg_views": 6831,
       "median_views": 2253,
       "uploads_30d": 20,
-      "views_30d": 136527,
+      "views_30d": 136630,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 65682,
+          "views": 65784,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "파이프 그냥 끼우면 안 됩니다 (배관 통과의 핵심)",
-          "views": 6995,
+          "views": 6996,
           "date": "2026-06-08",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=5BlRoFoP-RQ"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=6ehCEuh9Ie8"
         }
       ],
-      "analyzed_at": "2026-06-20 16:37",
+      "analyzed_at": "2026-06-20 17:41",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2899,
+      "avg_views": 2905,
       "median_views": 192,
       "uploads_30d": 20,
-      "views_30d": 57981,
+      "views_30d": 58111,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 38493,
+          "views": 38623,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -160,7 +160,7 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3353,
+          "views": 3354,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -183,14 +183,14 @@ window.DATA = {
         },
         {
           "title": "음바페가 골 넣고 유니폼에 숨긴 한 줄… 8살 루카스의 마지막 #shorts",
-          "views": 15,
+          "views": 16,
           "date": "2026-06-19",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=tTVIlTqTbUY"
         },
         {
           "title": "27년을 감옥에서 보낸 남자가 한 의외의 행동",
-          "views": 826,
+          "views": 824,
           "date": "2026-06-19",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=hEYUrDPTOCo"
         }
       ],
-      "analyzed_at": "2026-06-20 16:38",
+      "analyzed_at": "2026-06-20 17:41",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4315,
+      "avg_views": 4320,
       "median_views": 2687,
       "uploads_30d": 20,
-      "views_30d": 86305,
+      "views_30d": 86418,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -269,21 +269,21 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14383,
+          "views": 14384,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10661,
+          "views": 10662,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 6562,
+          "views": 6564,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "가오리는 왜 웃는 얼굴일까 (눈은 등 위에)",
-          "views": 1449,
+          "views": 1523,
           "date": "2026-06-20",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6KzQIb91-Zg"
@@ -320,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2209,
+          "views": 2244,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
@@ -362,13 +362,13 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10661,
+          "views": 10662,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         }
       ],
-      "analyzed_at": "2026-06-20 16:38",
+      "analyzed_at": "2026-06-20 17:42",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1380,
-      "median_views": 1433,
+      "avg_views": 1396,
+      "median_views": 1497,
       "uploads_30d": 20,
-      "views_30d": 27609,
+      "views_30d": 27938,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -406,7 +406,7 @@ window.DATA = {
         },
         {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1860,
+          "views": 1863,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1403,
+          "views": 1728,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -457,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "이 두께에 RTX 5060을 풀파워로 박았다고?",
-          "views": 1607,
+          "views": 1608,
           "date": "2026-06-17",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=A67JOkeTXY0"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=kaO1l3fTU70"
         }
       ],
-      "analyzed_at": "2026-06-20 16:39",
+      "analyzed_at": "2026-06-20 17:43",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 991,
+      "avg_views": 1011,
       "median_views": 959,
       "uploads_30d": 20,
-      "views_30d": 19833,
+      "views_30d": 20220,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -522,30 +522,30 @@ window.DATA = {
         },
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1867,
+          "views": 1869,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
         },
         {
           "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1642,
+          "views": 1643,
           "date": "2026-06-16",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
         },
         {
-          "title": "게이밍 노트북은 1시간이면 방전이라더니, 이건 종일 가더라고요 (에이서 니트로 V16)",
-          "views": 1444,
-          "date": "2026-06-15",
-          "duration": 36,
-          "url": "https://www.youtube.com/watch?v=IBwY5vaDyKk"
+          "title": "에이수스_게이밍_V16",
+          "views": 1585,
+          "date": "2026-06-20",
+          "duration": 31,
+          "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
         }
       ],
       "recent_videos": [
         {
           "title": "에이수스_게이밍_V16",
-          "views": 1203,
+          "views": 1585,
           "date": "2026-06-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
@@ -559,14 +559,14 @@ window.DATA = {
         },
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1867,
+          "views": 1869,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
         },
         {
           "title": "노트북도 색으로 고르는 시대, 이 미드나이트가 물건입니다",
-          "views": 374,
+          "views": 375,
           "date": "2026-06-18",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=EDQXV8Bh8RM"
@@ -594,7 +594,7 @@ window.DATA = {
         },
         {
           "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1642,
+          "views": 1643,
           "date": "2026-06-16",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=gGxepTiSfp4"
         }
       ],
-      "analyzed_at": "2026-06-20 16:40",
+      "analyzed_at": "2026-06-20 17:44",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-20 16:37"
+  "generated_at": "2026-06-20 17:41"
 };
