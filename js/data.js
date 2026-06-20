@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6845,
+      "avg_views": 6862,
       "median_views": 2284,
       "uploads_30d": 20,
-      "views_30d": 136919,
+      "views_30d": 137241,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 65937,
+          "views": 66236,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 912,
+          "views": 911,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 2300,
+          "views": 2324,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=6ehCEuh9Ie8"
         }
       ],
-      "analyzed_at": "2026-06-20 18:44",
+      "analyzed_at": "2026-06-20 19:48",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2914,
-      "median_views": 263,
+      "avg_views": 2927,
+      "median_views": 341,
       "uploads_30d": 20,
-      "views_30d": 58299,
+      "views_30d": 58549,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 38657,
+          "views": 38744,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -176,14 +176,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "선로에 뛰어든 26살 한국 청년… 단 2초가 운명을 갈랐다 #shorts",
-          "views": 475,
+          "views": 629,
           "date": "2026-06-20",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=GA4arzC36I0"
         },
         {
           "title": "음바페가 골 넣고 유니폼에 숨긴 한 줄… 8살 루카스의 마지막 #shorts",
-          "views": 15,
+          "views": 20,
           "date": "2026-06-19",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=tTVIlTqTbUY"
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "무릎이 두 번 끊어진 골키퍼 김승규",
-          "views": 51,
+          "views": 54,
           "date": "2026-06-17",
           "duration": 60,
           "url": "https://www.youtube.com/watch?v=WUdE6F3XNGQ"
@@ -232,7 +232,7 @@ window.DATA = {
         },
         {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
-          "views": 1101,
+          "views": 1102,
           "date": "2026-06-16",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=hEYUrDPTOCo"
         }
       ],
-      "analyzed_at": "2026-06-20 18:45",
+      "analyzed_at": "2026-06-20 19:49",
       "subs_delta": 0
     },
     {
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4327,
-      "median_views": 2687,
+      "avg_views": 4335,
+      "median_views": 2694,
       "uploads_30d": 20,
-      "views_30d": 86559,
+      "views_30d": 86708,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 15726,
+          "views": 15737,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -276,7 +276,7 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10661,
+          "views": 10662,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -299,14 +299,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "가오리는 왜 웃는 얼굴일까 (눈은 등 위에)",
-          "views": 1608,
+          "views": 1641,
           "date": "2026-06-20",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6KzQIb91-Zg"
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 1327,
+          "views": 1430,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
@@ -320,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2244,
+          "views": 2231,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
@@ -341,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "카피바라는 왜 모든 동물과 잘 지낼까 #왜그럴까 #과학상식",
-          "views": 2382,
+          "views": 2396,
           "date": "2026-06-17",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
@@ -355,20 +355,20 @@ window.DATA = {
         },
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 15726,
+          "views": 15737,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10661,
+          "views": 10662,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         }
       ],
-      "analyzed_at": "2026-06-20 18:46",
+      "analyzed_at": "2026-06-20 19:50",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1406,
+      "avg_views": 1407,
       "median_views": 1497,
       "uploads_30d": 20,
-      "views_30d": 28127,
+      "views_30d": 28142,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 3877,
+          "views": 3889,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "노트북도 태블릿도 한 대로 끝, HP 파빌리온 x360 14",
-          "views": 987,
+          "views": 988,
           "date": "2026-06-18",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
@@ -457,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "이 두께에 RTX 5060을 풀파워로 박았다고?",
-          "views": 1608,
+          "views": 1610,
           "date": "2026-06-17",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=A67JOkeTXY0"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=kaO1l3fTU70"
         }
       ],
-      "analyzed_at": "2026-06-20 18:47",
+      "analyzed_at": "2026-06-20 19:51",
       "subs_delta": 0
     },
     {
@@ -501,9 +501,9 @@ window.DATA = {
       "subscribers": 2360,
       "sampled": 20,
       "avg_views": 1012,
-      "median_views": 959,
+      "median_views": 960,
       "uploads_30d": 20,
-      "views_30d": 20252,
+      "views_30d": 20259,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -536,7 +536,7 @@ window.DATA = {
         },
         {
           "title": "에이수스_게이밍_V16",
-          "views": 1615,
+          "views": 1621,
           "date": "2026-06-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "에이수스_게이밍_V16",
-          "views": 1615,
+          "views": 1621,
           "date": "2026-06-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
@@ -580,7 +580,7 @@ window.DATA = {
         },
         {
           "title": "14인치인데 안 답답한 OLED 노트북 (레노버 요가 슬림 7",
-          "views": 1157,
+          "views": 1159,
           "date": "2026-06-17",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=96_qejCfVu0"
@@ -608,15 +608,15 @@ window.DATA = {
         },
         {
           "title": "16인치인데 왜 이렇게 가볍지? 가방에 넣으면 무게가 안 느껴지는 노트북 (에이수스 젠북 S16)",
-          "views": 470,
+          "views": 469,
           "date": "2026-06-15",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=gGxepTiSfp4"
         }
       ],
-      "analyzed_at": "2026-06-20 18:48",
+      "analyzed_at": "2026-06-20 19:51",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-20 18:44"
+  "generated_at": "2026-06-20 19:48"
 };
