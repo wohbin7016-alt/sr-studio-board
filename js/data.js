@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2895,
-      "median_views": 2169,
+      "avg_views": 2917,
+      "median_views": 2204,
       "uploads_30d": 20,
-      "views_30d": 57908,
+      "views_30d": 58345,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 11188,
+          "views": 11199,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -60,14 +60,14 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 1866,
+          "views": 2223,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1189,
+          "views": 1220,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 2508,
+          "views": 2547,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "뭉개진 나사 고무줄로 빼기",
-          "views": 1966,
+          "views": 1965,
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RVlAPWufJZ4"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=uZBBClwjK3w"
         }
       ],
-      "analyzed_at": "2026-06-21 14:02",
+      "analyzed_at": "2026-06-21 15:05",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2768,
-      "median_views": 77,
+      "avg_views": 2779,
+      "median_views": 138,
       "uploads_30d": 20,
-      "views_30d": 55375,
+      "views_30d": 55583,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -146,7 +146,7 @@ window.DATA = {
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 4149,
+          "views": 4221,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1560,
+          "views": 1562,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "임영웅 — 버스킹하던 무명가수가 국민가수가 되기까지",
-          "views": 96,
+          "views": 219,
           "date": "2026-06-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "27년을 감옥에서 보낸 남자가 한 의외의 행동",
-          "views": 852,
+          "views": 865,
           "date": "2026-06-19",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
@@ -232,20 +232,20 @@ window.DATA = {
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 4149,
+          "views": 4221,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         },
         {
           "title": "미스터비스트, 또 유튜브 역사 썼다…개인 최초 5억 구독 근황",
-          "views": 58,
+          "views": 56,
           "date": "2026-06-16",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=Cxww0fUnNG8"
         }
       ],
-      "analyzed_at": "2026-06-21 14:02",
+      "analyzed_at": "2026-06-21 15:06",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4381,
+      "avg_views": 4382,
       "median_views": 2773,
       "uploads_30d": 20,
-      "views_30d": 87621,
+      "views_30d": 87656,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -276,7 +276,7 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10666,
+          "views": 10667,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -320,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 2155,
+          "views": 2189,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=AaE5dlk1Ph0"
         }
       ],
-      "analyzed_at": "2026-06-21 14:03",
+      "analyzed_at": "2026-06-21 15:07",
       "subs_delta": 0
     },
     {
@@ -378,9 +378,9 @@ window.DATA = {
       "subscribers": 72900,
       "sampled": 20,
       "avg_views": 1279,
-      "median_views": 1433,
+      "median_views": 1432,
       "uploads_30d": 20,
-      "views_30d": 25593,
+      "views_30d": 25598,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
-          "views": 1272,
+          "views": 1274,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1242,
+          "views": 1245,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
@@ -457,14 +457,14 @@ window.DATA = {
         },
         {
           "title": "노트북도 태블릿도 한 대로 끝, HP 파빌리온 x360 14",
-          "views": 992,
+          "views": 993,
           "date": "2026-06-18",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
         },
         {
           "title": "이 스펙이 왜 이 가격? 델 G15 5530의 정체",
-          "views": 1472,
+          "views": 1471,
           "date": "2026-06-18",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=QjLyebPClJ0"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jkiY7LFI3xU"
         }
       ],
-      "analyzed_at": "2026-06-21 14:04",
+      "analyzed_at": "2026-06-21 15:08",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1095,
+      "avg_views": 1102,
       "median_views": 1243,
       "uploads_30d": 20,
-      "views_30d": 21917,
+      "views_30d": 22041,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -522,7 +522,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1875,
+          "views": 1876,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "맥북에어 13 / 1.24kg 통알루미늄 프리미엄 노트북",
-          "views": 567,
+          "views": 692,
           "date": "2026-06-21",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=LWm0kNTQTo8"
@@ -573,7 +573,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1875,
+          "views": 1876,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
@@ -587,7 +587,7 @@ window.DATA = {
         },
         {
           "title": "맥북 프로가 에어보다 비싼 진짜 이유 (맥북 프로 14 M4)",
-          "views": 1383,
+          "views": 1381,
           "date": "2026-06-18",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=fV5nbHUBa-Y"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
         }
       ],
-      "analyzed_at": "2026-06-21 14:05",
+      "analyzed_at": "2026-06-21 15:08",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-21 14:02"
+  "generated_at": "2026-06-21 15:05"
 };
