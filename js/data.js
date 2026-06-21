@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 3223,
-      "median_views": 2494,
+      "avg_views": 3240,
+      "median_views": 2524,
       "uploads_30d": 20,
-      "views_30d": 64475,
+      "views_30d": 64816,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 5717,
+          "views": 5952,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -53,21 +53,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1213,
+          "views": 1222,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 2710,
+          "views": 2786,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 5717,
+          "views": 5952,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -88,14 +88,14 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3131,
+          "views": 3140,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         },
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 2998,
+          "views": 3010,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=RVlAPWufJZ4"
         }
       ],
-      "analyzed_at": "2026-06-22 07:02",
+      "analyzed_at": "2026-06-22 08:06",
       "subs_delta": 0
     },
     {
@@ -134,12 +134,12 @@ window.DATA = {
       "avg_views": 2820,
       "median_views": 421,
       "uploads_30d": 20,
-      "views_30d": 56402,
+      "views_30d": 56407,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 39841,
+          "views": 39844,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "션 — 매일 만 원으로 병원을 세운 가수",
-          "views": 2,
+          "views": 3,
           "date": "2026-06-21",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=v0frUDW9dLs"
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "27년을 감옥에서 보낸 남자가 한 의외의 행동",
-          "views": 881,
+          "views": 882,
           "date": "2026-06-19",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         }
       ],
-      "analyzed_at": "2026-06-22 07:03",
+      "analyzed_at": "2026-06-22 08:06",
       "subs_delta": 0
     },
     {
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4464,
+      "avg_views": 4507,
       "median_views": 2855,
       "uploads_30d": 20,
-      "views_30d": 89298,
+      "views_30d": 90153,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 15811,
+          "views": 15827,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -306,7 +306,7 @@ window.DATA = {
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 3144,
+          "views": 3988,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -327,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 2568,
+          "views": 2560,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
@@ -341,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2547,
+          "views": 2551,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
         }
       ],
-      "analyzed_at": "2026-06-22 07:04",
+      "analyzed_at": "2026-06-22 08:07",
       "subs_delta": 0
     },
     {
@@ -380,7 +380,7 @@ window.DATA = {
       "avg_views": 1353,
       "median_views": 1510,
       "uploads_30d": 20,
-      "views_30d": 27063,
+      "views_30d": 27067,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,7 +392,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1925,
+          "views": 1926,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -429,28 +429,28 @@ window.DATA = {
         },
         {
           "title": "MSI인데 게이밍이 아니라고? 사무용으로 나온 모던 15 포스",
-          "views": 346,
+          "views": 348,
           "date": "2026-06-21",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=o6If1aGjNH4"
         },
         {
           "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
-          "views": 1275,
+          "views": 1276,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1925,
+          "views": 1926,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1261,
+          "views": 1260,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DgQvpdMV17k"
         }
       ],
-      "analyzed_at": "2026-06-22 07:04",
+      "analyzed_at": "2026-06-22 08:08",
       "subs_delta": 0
     },
     {
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 1112,
       "median_views": 1244,
       "uploads_30d": 20,
-      "views_30d": 22244,
+      "views_30d": 22240,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -515,7 +515,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1887,
+          "views": 1882,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
@@ -529,7 +529,7 @@ window.DATA = {
         },
         {
           "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1656,
+          "views": 1657,
           "date": "2026-06-16",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
@@ -580,7 +580,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1887,
+          "views": 1882,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=39VSFU76oL4"
         }
       ],
-      "analyzed_at": "2026-06-22 07:05",
+      "analyzed_at": "2026-06-22 08:08",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-22 07:02"
+  "generated_at": "2026-06-22 08:06"
 };
