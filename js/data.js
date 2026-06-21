@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6295,
+      "avg_views": 6320,
       "median_views": 2232,
       "uploads_30d": 20,
-      "views_30d": 125912,
+      "views_30d": 126419,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 68973,
+          "views": 69407,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 1828,
+          "views": 1866,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -67,21 +67,21 @@ window.DATA = {
         },
         {
           "title": "썩은 나무 통째로 버리지 마세요… 2액형 에폭시로 새것처럼 #shorts",
-          "views": 2745,
+          "views": 2757,
           "date": "2026-06-19",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 2528,
+          "views": 2526,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         },
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 2508,
+          "views": 2528,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=D76zTvIBy7A"
         }
       ],
-      "analyzed_at": "2026-06-21 11:54",
+      "analyzed_at": "2026-06-21 12:58",
       "subs_delta": 0
     },
     {
@@ -131,22 +131,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 3003,
-      "median_views": 447,
+      "avg_views": 3007,
+      "median_views": 454,
       "uploads_30d": 20,
-      "views_30d": 60079,
+      "views_30d": 60157,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 39567,
+          "views": 39624,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 4905,
+          "views": 4909,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
@@ -160,14 +160,14 @@ window.DATA = {
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3364,
+          "views": 3365,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         },
         {
           "title": "BMW 직렬 엔진 떨림·경고등, 진짜 원인은 작은 바노스 볼트 (E90)",
-          "views": 2223,
+          "views": 2224,
           "date": "2026-06-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=xuANuNLkUo0"
@@ -197,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "27년을 감옥에서 보낸 남자가 한 의외의 행동",
-          "views": 837,
+          "views": 852,
           "date": "2026-06-19",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
         }
       ],
-      "analyzed_at": "2026-06-21 11:55",
+      "analyzed_at": "2026-06-21 12:59",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4409,
-      "median_views": 2755,
+      "avg_views": 4416,
+      "median_views": 2773,
       "uploads_30d": 20,
-      "views_30d": 88186,
+      "views_30d": 88338,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -276,7 +276,7 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10664,
+          "views": 10666,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "낙타 혹엔 왜 물이 없을까 (지방 저장)",
-          "views": 1615,
+          "views": 1613,
           "date": "2026-06-20",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=Tjmmh4Z16VQ"
@@ -313,21 +313,21 @@ window.DATA = {
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 2051,
+          "views": 2106,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
         },
         {
           "title": "사슴은 왜 멀쩡한 뿔을 해마다 스스로 떨굴까",
-          "views": 1725,
+          "views": 1772,
           "date": "2026-06-19",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=pffZD5VXcF4"
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2420,
+          "views": 2433,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
@@ -348,7 +348,7 @@ window.DATA = {
         },
         {
           "title": "카피바라는 왜 모든 동물과 잘 지낼까 #왜그럴까 #과학상식",
-          "views": 2518,
+          "views": 2555,
           "date": "2026-06-17",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         }
       ],
-      "analyzed_at": "2026-06-21 11:56",
+      "analyzed_at": "2026-06-21 12:59",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1459,
+      "avg_views": 1460,
       "median_views": 1502,
       "uploads_30d": 20,
-      "views_30d": 29197,
+      "views_30d": 29217,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "스위치 쓰던 사람들이 2 만져보고 못 돌아간다는 그 물건",
-          "views": 3895,
+          "views": 3913,
           "date": "2026-06-11",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=12SWpEjf40E"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1240,
+          "views": 1242,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sl-qm7NW9JE"
         }
       ],
-      "analyzed_at": "2026-06-21 11:57",
+      "analyzed_at": "2026-06-21 13:00",
       "subs_delta": 0
     },
     {
@@ -501,9 +501,9 @@ window.DATA = {
       "subscribers": 2360,
       "sampled": 20,
       "avg_views": 1078,
-      "median_views": 1242,
+      "median_views": 1243,
       "uploads_30d": 20,
-      "views_30d": 21571,
+      "views_30d": 21573,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -522,7 +522,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1873,
+          "views": 1875,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "노트북이 충전기 없이 하루를 통째로 버틴다고? 비보북 S15 OLED",
-          "views": 1311,
+          "views": 1313,
           "date": "2026-06-20",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Za3EHcwOF4k"
@@ -566,7 +566,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1873,
+          "views": 1875,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
@@ -580,7 +580,7 @@ window.DATA = {
         },
         {
           "title": "맥북 프로가 에어보다 비싼 진짜 이유 (맥북 프로 14 M4)",
-          "views": 1383,
+          "views": 1381,
           "date": "2026-06-18",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=fV5nbHUBa-Y"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=OJe_wWi2QOo"
         }
       ],
-      "analyzed_at": "2026-06-21 11:57",
+      "analyzed_at": "2026-06-21 13:01",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-21 11:54"
+  "generated_at": "2026-06-21 12:58"
 };
