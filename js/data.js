@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6253,
+      "avg_views": 6266,
       "median_views": 2232,
       "uploads_30d": 20,
-      "views_30d": 125075,
+      "views_30d": 125321,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 68489,
+          "views": 68666,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -60,28 +60,28 @@ window.DATA = {
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1162,
+          "views": 1189,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
         },
         {
           "title": "썩은 나무 통째로 버리지 마세요… 2액형 에폭시로 새것처럼 #shorts",
-          "views": 2745,
+          "views": 2750,
           "date": "2026-06-19",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 2501,
+          "views": 2526,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         },
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 2496,
+          "views": 2508,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=D76zTvIBy7A"
         }
       ],
-      "analyzed_at": "2026-06-21 09:47",
+      "analyzed_at": "2026-06-21 10:51",
       "subs_delta": 0
     },
     {
@@ -131,36 +131,36 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2996,
-      "median_views": 447,
+      "avg_views": 2994,
+      "median_views": 451,
       "uploads_30d": 20,
-      "views_30d": 59921,
+      "views_30d": 59897,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 39467,
+          "views": 39419,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "휠 테두리 긁힘, 페인트만 덧칠하면 또 까집니다 (다이아몬드컷 복원)",
-          "views": 4904,
+          "views": 4908,
           "date": "2026-06-11",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=To65qIxvXvM"
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 4080,
+          "views": 4087,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         },
         {
           "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3364,
+          "views": 3365,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
@@ -190,14 +190,14 @@ window.DATA = {
         },
         {
           "title": "음바페가 골 넣고 유니폼에 숨긴 한 줄… 8살 루카스의 마지막 #shorts",
-          "views": 28,
+          "views": 31,
           "date": "2026-06-19",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=tTVIlTqTbUY"
         },
         {
           "title": "27년을 감옥에서 보낸 남자가 한 의외의 행동",
-          "views": 837,
+          "views": 846,
           "date": "2026-06-19",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
@@ -225,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 4080,
+          "views": 4087,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
         }
       ],
-      "analyzed_at": "2026-06-21 09:48",
+      "analyzed_at": "2026-06-21 10:52",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4401,
+      "avg_views": 4402,
       "median_views": 2755,
       "uploads_30d": 20,
-      "views_30d": 88033,
+      "views_30d": 88056,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -306,21 +306,21 @@ window.DATA = {
         },
         {
           "title": "가오리는 왜 웃는 얼굴일까 (눈은 등 위에)",
-          "views": 2176,
+          "views": 2173,
           "date": "2026-06-20",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6KzQIb91-Zg"
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 1959,
+          "views": 1963,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
         },
         {
           "title": "사슴은 왜 멀쩡한 뿔을 해마다 스스로 떨굴까",
-          "views": 1703,
+          "views": 1725,
           "date": "2026-06-19",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=pffZD5VXcF4"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         }
       ],
-      "analyzed_at": "2026-06-21 09:49",
+      "analyzed_at": "2026-06-21 10:52",
       "subs_delta": 0
     },
     {
@@ -380,7 +380,7 @@ window.DATA = {
       "avg_views": 1459,
       "median_views": 1502,
       "uploads_30d": 20,
-      "views_30d": 29193,
+      "views_30d": 29194,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "노트북도 태블릿도 한 대로 끝, HP 파빌리온 x360 14",
-          "views": 991,
+          "views": 992,
           "date": "2026-06-18",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sl-qm7NW9JE"
         }
       ],
-      "analyzed_at": "2026-06-21 09:49",
+      "analyzed_at": "2026-06-21 10:53",
       "subs_delta": 0
     },
     {
@@ -503,12 +503,12 @@ window.DATA = {
       "avg_views": 1078,
       "median_views": 1239,
       "uploads_30d": 20,
-      "views_30d": 21562,
+      "views_30d": 21563,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2052,
+          "views": 2053,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=OJe_wWi2QOo"
         }
       ],
-      "analyzed_at": "2026-06-21 09:50",
+      "analyzed_at": "2026-06-21 10:54",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-21 09:47"
+  "generated_at": "2026-06-21 10:51"
 };
