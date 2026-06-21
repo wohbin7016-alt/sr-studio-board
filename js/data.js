@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2947,
+      "avg_views": 2997,
       "median_views": 2232,
       "uploads_30d": 20,
-      "views_30d": 58952,
+      "views_30d": 59944,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 3527,
+          "views": 3783,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -53,28 +53,28 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 277,
+          "views": 891,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 1458,
+          "views": 1573,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 3527,
+          "views": 3783,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1234,
+          "views": 1241,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=RVlAPWufJZ4"
         }
       ],
-      "analyzed_at": "2026-06-21 19:21",
+      "analyzed_at": "2026-06-21 20:25",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2937,
-      "median_views": 329,
+      "avg_views": 2939,
+      "median_views": 331,
       "uploads_30d": 20,
-      "views_30d": 55817,
+      "views_30d": 55853,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 39751,
+          "views": 39779,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "임영웅 — 버스킹하던 무명가수가 국민가수가 되기까지",
-          "views": 329,
+          "views": 331,
           "date": "2026-06-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
@@ -197,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "선로에 뛰어든 26살 한국 청년… 단 2초가 운명을 갈랐다 #shorts",
-          "views": 966,
+          "views": 971,
           "date": "2026-06-20",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=GA4arzC36I0"
@@ -225,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "월세도 없던 남자가 1500조가 되기까지",
-          "views": 1192,
+          "views": 1193,
           "date": "2026-06-18",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         }
       ],
-      "analyzed_at": "2026-06-21 19:22",
+      "analyzed_at": "2026-06-21 20:25",
       "subs_delta": 0
     },
     {
@@ -254,22 +254,22 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4284,
+      "avg_views": 4321,
       "median_views": 2533,
       "uploads_30d": 20,
-      "views_30d": 85682,
+      "views_30d": 86421,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 15780,
+          "views": 15785,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14398,
+          "views": 14406,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -299,14 +299,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "도마뱀은 왜 꼬리를 스스로 끊을까",
-          "views": 261,
+          "views": 884,
           "date": "2026-06-21",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=V4kkM4AWB_4"
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 1712,
+          "views": 1815,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
         }
       ],
-      "analyzed_at": "2026-06-21 19:22",
+      "analyzed_at": "2026-06-21 20:26",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1280,
+      "avg_views": 1304,
       "median_views": 1432,
       "uploads_30d": 20,
-      "views_30d": 25615,
+      "views_30d": 26095,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,21 +422,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "100만 원대 노트북이 AI를 자체적으로 돌린다고? 레노버 슬림5",
-          "views": 220,
+          "views": 681,
           "date": "2026-06-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         },
         {
           "title": "MSI인데 게이밍이 아니라고? 사무용으로 나온 모던 15 포스",
-          "views": 327,
+          "views": 339,
           "date": "2026-06-21",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=o6If1aGjNH4"
         },
         {
           "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
-          "views": 1276,
+          "views": 1279,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1245,
+          "views": 1249,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DgQvpdMV17k"
         }
       ],
-      "analyzed_at": "2026-06-21 19:23",
+      "analyzed_at": "2026-06-21 20:27",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1031,
-      "median_views": 1058,
+      "avg_views": 1059,
+      "median_views": 1060,
       "uploads_30d": 20,
-      "views_30d": 20639,
+      "views_30d": 21180,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -545,14 +545,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
-          "views": 256,
+          "views": 793,
           "date": "2026-06-21",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
         },
         {
           "title": "맥북에어 13 / 1.24kg 통알루미늄 프리미엄 노트북",
-          "views": 943,
+          "views": 947,
           "date": "2026-06-21",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=LWm0kNTQTo8"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=39VSFU76oL4"
         }
       ],
-      "analyzed_at": "2026-06-21 19:24",
+      "analyzed_at": "2026-06-21 20:28",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-21 19:21"
+  "generated_at": "2026-06-21 20:25"
 };
