@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2967,
+      "avg_views": 3004,
       "median_views": 2232,
       "uploads_30d": 20,
-      "views_30d": 59359,
+      "views_30d": 60092,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 11199,
+          "views": 11297,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -44,7 +44,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 2834,
+          "views": 3191,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 1201,
+          "views": 1346,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 2834,
+          "views": 3191,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -81,21 +81,21 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 2579,
+          "views": 2640,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         },
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 2547,
+          "views": 2613,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
         },
         {
           "title": "갈라진 가죽 소파, 버리지 마세요. 5분이면 새것처럼 됩니다",
-          "views": 1770,
+          "views": 1774,
           "date": "2026-06-18",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=F5d3cMn3jmw"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=uZBBClwjK3w"
         }
       ],
-      "analyzed_at": "2026-06-21 17:13",
+      "analyzed_at": "2026-06-21 18:17",
       "subs_delta": 0
     },
     {
@@ -131,22 +131,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2786,
-      "median_views": 151,
+      "avg_views": 2791,
+      "median_views": 195,
       "uploads_30d": 20,
-      "views_30d": 55737,
+      "views_30d": 55839,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 39746,
+          "views": 39751,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 4224,
+          "views": 4225,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "임영웅 — 버스킹하던 무명가수가 국민가수가 되기까지",
-          "views": 244,
+          "views": 331,
           "date": "2026-06-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "27년을 감옥에서 보낸 남자가 한 의외의 행동",
-          "views": 866,
+          "views": 870,
           "date": "2026-06-19",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
@@ -218,7 +218,7 @@ window.DATA = {
         },
         {
           "title": "월세도 없던 남자가 1500조가 되기까지",
-          "views": 1188,
+          "views": 1192,
           "date": "2026-06-18",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
@@ -232,20 +232,20 @@ window.DATA = {
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 4224,
+          "views": 4225,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         },
         {
           "title": "미스터비스트, 또 유튜브 역사 썼다…개인 최초 5억 구독 근황",
-          "views": 58,
+          "views": 59,
           "date": "2026-06-16",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=Cxww0fUnNG8"
         }
       ],
-      "analyzed_at": "2026-06-21 17:14",
+      "analyzed_at": "2026-06-21 18:18",
       "subs_delta": 0
     },
     {
@@ -254,29 +254,29 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4420,
+      "avg_views": 4431,
       "median_views": 2776,
       "uploads_30d": 20,
-      "views_30d": 88408,
+      "views_30d": 88639,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 15768,
+          "views": 15780,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14396,
+          "views": 14398,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10667,
+          "views": 10668,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 1518,
+          "views": 1618,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -320,21 +320,21 @@ window.DATA = {
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 2219,
+          "views": 2288,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
         },
         {
           "title": "사슴은 왜 멀쩡한 뿔을 해마다 스스로 떨굴까",
-          "views": 1855,
+          "views": 1887,
           "date": "2026-06-19",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=pffZD5VXcF4"
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2466,
+          "views": 2481,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=AaE5dlk1Ph0"
         }
       ],
-      "analyzed_at": "2026-06-21 17:15",
+      "analyzed_at": "2026-06-21 18:18",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1281,
+      "avg_views": 1282,
       "median_views": 1432,
       "uploads_30d": 20,
-      "views_30d": 25638,
+      "views_30d": 25645,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,7 +392,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1922,
+          "views": 1923,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -429,14 +429,14 @@ window.DATA = {
         },
         {
           "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
-          "views": 1274,
+          "views": 1275,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1922,
+          "views": 1923,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "같은 코어 울트라5인데 왜 하나만 후기가 쏟아질까 (삼성 갤럭시북5 프로 vs LG 그램 프로 17",
-          "views": 1533,
+          "views": 1538,
           "date": "2026-06-17",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=DgQvpdMV17k"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jkiY7LFI3xU"
         }
       ],
-      "analyzed_at": "2026-06-21 17:15",
+      "analyzed_at": "2026-06-21 18:19",
       "subs_delta": 0
     },
     {
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 1115,
       "median_views": 1245,
       "uploads_30d": 20,
-      "views_30d": 22302,
+      "views_30d": 22304,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "맥북에어 13 / 1.24kg 통알루미늄 프리미엄 노트북",
-          "views": 942,
+          "views": 943,
           "date": "2026-06-21",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=LWm0kNTQTo8"
@@ -580,7 +580,7 @@ window.DATA = {
         },
         {
           "title": "노트북도 색으로 고르는 시대, 이 미드나이트가 물건입니다",
-          "views": 377,
+          "views": 378,
           "date": "2026-06-18",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=EDQXV8Bh8RM"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
         }
       ],
-      "analyzed_at": "2026-06-21 17:16",
+      "analyzed_at": "2026-06-21 18:20",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-21 17:13"
+  "generated_at": "2026-06-21 18:17"
 };
