@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 3013,
+      "avg_views": 3047,
       "median_views": 2232,
       "uploads_30d": 20,
-      "views_30d": 60272,
+      "views_30d": 60940,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 11306,
+          "views": 11424,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -30,14 +30,14 @@ window.DATA = {
         },
         {
           "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 5988,
+          "views": 5989,
           "date": "2026-06-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 3937,
+          "views": 4152,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 891,
+          "views": 1140,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
@@ -67,28 +67,28 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 3937,
+          "views": 4152,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1234,
+          "views": 1241,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
         },
         {
           "title": "썩은 나무 통째로 버리지 마세요… 2액형 에폭시로 새것처럼 #shorts",
-          "views": 2775,
+          "views": 2777,
           "date": "2026-06-19",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 2690,
+          "views": 2766,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=RVlAPWufJZ4"
         }
       ],
-      "analyzed_at": "2026-06-21 21:29",
+      "analyzed_at": "2026-06-21 22:33",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2956,
-      "median_views": 642,
+      "avg_views": 2963,
+      "median_views": 770,
       "uploads_30d": 20,
-      "views_30d": 56169,
+      "views_30d": 56308,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 39779,
+          "views": 39786,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1562,
+          "views": 1564,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "임영웅 — 버스킹하던 무명가수가 국민가수가 되기까지",
-          "views": 642,
+          "views": 770,
           "date": "2026-06-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         }
       ],
-      "analyzed_at": "2026-06-21 21:29",
+      "analyzed_at": "2026-06-21 22:34",
       "subs_delta": 0
     },
     {
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4336,
+      "avg_views": 4356,
       "median_views": 2573,
       "uploads_30d": 20,
-      "views_30d": 86734,
+      "views_30d": 87132,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 15780,
+          "views": 15790,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "도마뱀은 왜 꼬리를 스스로 끊을까",
-          "views": 948,
+          "views": 1294,
           "date": "2026-06-21",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=V4kkM4AWB_4"
@@ -341,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2484,
+          "views": 2526,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
         }
       ],
-      "analyzed_at": "2026-06-21 21:30",
+      "analyzed_at": "2026-06-21 22:35",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1324,
+      "avg_views": 1332,
       "median_views": 1432,
       "uploads_30d": 20,
-      "views_30d": 26491,
+      "views_30d": 26656,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "100만 원대 노트북이 AI를 자체적으로 돌린다고? 레노버 슬림5",
-          "views": 1078,
+          "views": 1238,
           "date": "2026-06-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
-          "views": 1275,
+          "views": 1279,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "노트북도 태블릿도 한 대로 끝, HP 파빌리온 x360 14",
-          "views": 993,
+          "views": 994,
           "date": "2026-06-18",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DgQvpdMV17k"
         }
       ],
-      "analyzed_at": "2026-06-21 21:31",
+      "analyzed_at": "2026-06-21 22:35",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1081,
-      "median_views": 1210,
+      "avg_views": 1090,
+      "median_views": 1245,
       "uploads_30d": 20,
-      "views_30d": 21639,
+      "views_30d": 21809,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -529,7 +529,7 @@ window.DATA = {
         },
         {
           "title": "에이수스_게이밍_V16",
-          "views": 1619,
+          "views": 1620,
           "date": "2026-06-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
@@ -545,14 +545,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
-          "views": 1246,
+          "views": 1412,
           "date": "2026-06-21",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
         },
         {
           "title": "맥북에어 13 / 1.24kg 통알루미늄 프리미엄 노트북",
-          "views": 947,
+          "views": 948,
           "date": "2026-06-21",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=LWm0kNTQTo8"
@@ -566,7 +566,7 @@ window.DATA = {
         },
         {
           "title": "에이수스_게이밍_V16",
-          "views": 1619,
+          "views": 1620,
           "date": "2026-06-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
@@ -587,7 +587,7 @@ window.DATA = {
         },
         {
           "title": "노트북도 색으로 고르는 시대, 이 미드나이트가 물건입니다",
-          "views": 378,
+          "views": 380,
           "date": "2026-06-18",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=EDQXV8Bh8RM"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=39VSFU76oL4"
         }
       ],
-      "analyzed_at": "2026-06-21 21:32",
+      "analyzed_at": "2026-06-21 22:36",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-21 21:29"
+  "generated_at": "2026-06-21 22:33"
 };
