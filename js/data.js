@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 6244,
+      "avg_views": 6253,
       "median_views": 2232,
       "uploads_30d": 20,
-      "views_30d": 124887,
+      "views_30d": 125075,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "창틀로 빗물 새는 진짜 원인, 새시 방수 코킹 한 번에 해결",
-          "views": 68362,
+          "views": 68489,
           "date": "2026-06-07",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=XTq3om3dFgw"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 1544,
+          "views": 1572,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -74,14 +74,14 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 2488,
+          "views": 2501,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         },
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 2476,
+          "views": 2496,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=D76zTvIBy7A"
         }
       ],
-      "analyzed_at": "2026-06-21 08:44",
+      "analyzed_at": "2026-06-21 09:47",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2994,
+      "avg_views": 2996,
       "median_views": 447,
       "uploads_30d": 20,
-      "views_30d": 59890,
+      "views_30d": 59921,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 39437,
+          "views": 39467,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -239,13 +239,13 @@ window.DATA = {
         },
         {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
-          "views": 1110,
+          "views": 1111,
           "date": "2026-06-16",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
         }
       ],
-      "analyzed_at": "2026-06-21 08:45",
+      "analyzed_at": "2026-06-21 09:48",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4395,
-      "median_views": 2745,
+      "avg_views": 4401,
+      "median_views": 2755,
       "uploads_30d": 20,
-      "views_30d": 87919,
+      "views_30d": 88033,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -269,14 +269,14 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14394,
+          "views": 14395,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10663,
+          "views": 10664,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -299,21 +299,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "낙타 혹엔 왜 물이 없을까 (지방 저장)",
-          "views": 1607,
+          "views": 1613,
           "date": "2026-06-20",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=Tjmmh4Z16VQ"
         },
         {
           "title": "가오리는 왜 웃는 얼굴일까 (눈은 등 위에)",
-          "views": 2140,
+          "views": 2176,
           "date": "2026-06-20",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6KzQIb91-Zg"
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 1913,
+          "views": 1959,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
@@ -327,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2385,
+          "views": 2389,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
@@ -348,7 +348,7 @@ window.DATA = {
         },
         {
           "title": "카피바라는 왜 모든 동물과 잘 지낼까 #왜그럴까 #과학상식",
-          "views": 2498,
+          "views": 2518,
           "date": "2026-06-17",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         }
       ],
-      "analyzed_at": "2026-06-21 08:45",
+      "analyzed_at": "2026-06-21 09:49",
       "subs_delta": 0
     },
     {
@@ -380,7 +380,7 @@ window.DATA = {
       "avg_views": 1459,
       "median_views": 1502,
       "uploads_30d": 20,
-      "views_30d": 29190,
+      "views_30d": 29193,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -399,7 +399,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1921,
+          "views": 1922,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -429,21 +429,21 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1921,
+          "views": 1922,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1239,
+          "views": 1240,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
         },
         {
           "title": "겉은 수수한데 i7에 RTX 4060? 기가바이트 G6X 정체",
-          "views": 392,
+          "views": 393,
           "date": "2026-06-19",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=vN9AyUTpynI"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sl-qm7NW9JE"
         }
       ],
-      "analyzed_at": "2026-06-21 08:46",
+      "analyzed_at": "2026-06-21 09:49",
       "subs_delta": 0
     },
     {
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 1078,
       "median_views": 1239,
       "uploads_30d": 20,
-      "views_30d": 21561,
+      "views_30d": 21562,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -587,7 +587,7 @@ window.DATA = {
         },
         {
           "title": "14인치인데 안 답답한 OLED 노트북 (레노버 요가 슬림 7",
-          "views": 1172,
+          "views": 1173,
           "date": "2026-06-17",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=96_qejCfVu0"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=OJe_wWi2QOo"
         }
       ],
-      "analyzed_at": "2026-06-21 08:47",
+      "analyzed_at": "2026-06-21 09:50",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-21 08:44"
+  "generated_at": "2026-06-21 09:47"
 };
