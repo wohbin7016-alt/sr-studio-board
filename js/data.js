@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2944,
+      "avg_views": 2967,
       "median_views": 2232,
       "uploads_30d": 20,
-      "views_30d": 58885,
+      "views_30d": 59359,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -43,38 +43,38 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
         },
         {
-          "title": "도요타 코롤라 시동 덜덜 소리, 진짜 원인은 타이밍체인 텐셔너",
-          "views": 2766,
-          "date": "2026-06-15",
-          "duration": 28,
-          "url": "https://www.youtube.com/watch?v=6ehCEuh9Ie8"
+          "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
+          "views": 2834,
+          "date": "2026-06-20",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         }
       ],
       "recent_videos": [
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 1052,
+          "views": 1201,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 2530,
+          "views": 2834,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1220,
+          "views": 1234,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
         },
         {
           "title": "썩은 나무 통째로 버리지 마세요… 2액형 에폭시로 새것처럼 #shorts",
-          "views": 2757,
+          "views": 2764,
           "date": "2026-06-19",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=uZBBClwjK3w"
         }
       ],
-      "analyzed_at": "2026-06-21 16:09",
+      "analyzed_at": "2026-06-21 17:13",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Cxww0fUnNG8"
         }
       ],
-      "analyzed_at": "2026-06-21 16:10",
+      "analyzed_at": "2026-06-21 17:14",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4403,
+      "avg_views": 4420,
       "median_views": 2776,
       "uploads_30d": 20,
-      "views_30d": 88076,
+      "views_30d": 88408,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -269,7 +269,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14398,
+          "views": 14396,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -283,7 +283,7 @@ window.DATA = {
         },
         {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 6566,
+          "views": 6573,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 1407,
+          "views": 1518,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -313,7 +313,7 @@ window.DATA = {
         },
         {
           "title": "가오리는 왜 웃는 얼굴일까 (눈은 등 위에)",
-          "views": 2350,
+          "views": 2506,
           "date": "2026-06-20",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6KzQIb91-Zg"
@@ -327,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "사슴은 왜 멀쩡한 뿔을 해마다 스스로 떨굴까",
-          "views": 1797,
+          "views": 1855,
           "date": "2026-06-19",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=pffZD5VXcF4"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=AaE5dlk1Ph0"
         }
       ],
-      "analyzed_at": "2026-06-21 16:11",
+      "analyzed_at": "2026-06-21 17:15",
       "subs_delta": 0
     },
     {
@@ -380,7 +380,7 @@ window.DATA = {
       "avg_views": 1281,
       "median_views": 1432,
       "uploads_30d": 20,
-      "views_30d": 25637,
+      "views_30d": 25638,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=jkiY7LFI3xU"
         }
       ],
-      "analyzed_at": "2026-06-21 16:12",
+      "analyzed_at": "2026-06-21 17:15",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1107,
+      "avg_views": 1115,
       "median_views": 1245,
       "uploads_30d": 20,
-      "views_30d": 22159,
+      "views_30d": 22302,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "맥북에어 13 / 1.24kg 통알루미늄 프리미엄 노트북",
-          "views": 799,
+          "views": 942,
           "date": "2026-06-21",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=LWm0kNTQTo8"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
         }
       ],
-      "analyzed_at": "2026-06-21 16:12",
+      "analyzed_at": "2026-06-21 17:16",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-21 16:09"
+  "generated_at": "2026-06-21 17:13"
 };
