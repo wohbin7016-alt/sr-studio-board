@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 3004,
+      "avg_views": 2947,
       "median_views": 2232,
       "uploads_30d": 20,
-      "views_30d": 60092,
+      "views_30d": 58952,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 11297,
+          "views": 11306,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -36,31 +36,38 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
         },
         {
+          "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
+          "views": 3527,
+          "date": "2026-06-20",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
+        },
+        {
           "title": "수전 안 돌아갈 때 푸는 법",
           "views": 3470,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
-        },
-        {
-          "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 3191,
-          "date": "2026-06-20",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         }
       ],
       "recent_videos": [
         {
+          "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
+          "views": 277,
+          "date": "2026-06-21",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
+        },
+        {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 1346,
+          "views": 1458,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 3191,
+          "views": 3527,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -102,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 851,
+          "views": 855,
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Sm5uIjUtouY"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=RVlAPWufJZ4"
-        },
-        {
-          "title": "깨진 플라스틱 인두로 영구 보수",
-          "views": 1381,
-          "date": "2026-06-16",
-          "duration": 25,
-          "url": "https://www.youtube.com/watch?v=uZBBClwjK3w"
         }
       ],
-      "analyzed_at": "2026-06-21 18:17",
+      "analyzed_at": "2026-06-21 19:21",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2791,
-      "median_views": 195,
+      "avg_views": 2937,
+      "median_views": 329,
       "uploads_30d": 20,
-      "views_30d": 55839,
+      "views_30d": 55817,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -175,8 +175,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "2026년 6월 21일",
+          "views": 0,
+          "date": "2026-06-21",
+          "duration": 32,
+          "url": "https://www.youtube.com/watch?v=v0frUDW9dLs"
+        },
+        {
           "title": "임영웅 — 버스킹하던 무명가수가 국민가수가 되기까지",
-          "views": 331,
+          "views": 329,
           "date": "2026-06-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
-        },
-        {
-          "title": "미스터비스트, 또 유튜브 역사 썼다…개인 최초 5억 구독 근황",
-          "views": 59,
-          "date": "2026-06-16",
-          "duration": 36,
-          "url": "https://www.youtube.com/watch?v=Cxww0fUnNG8"
         }
       ],
-      "analyzed_at": "2026-06-21 18:18",
+      "analyzed_at": "2026-06-21 19:22",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4431,
-      "median_views": 2776,
+      "avg_views": 4284,
+      "median_views": 2533,
       "uploads_30d": 20,
-      "views_30d": 88639,
+      "views_30d": 85682,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -298,8 +298,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "도마뱀은 왜 꼬리를 스스로 끊을까",
+          "views": 261,
+          "date": "2026-06-21",
+          "duration": 18,
+          "url": "https://www.youtube.com/watch?v=V4kkM4AWB_4"
+        },
+        {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 1618,
+          "views": 1712,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -320,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 2288,
+          "views": 2386,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
@@ -334,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2481,
+          "views": 2484,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-17",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
-        },
-        {
-          "title": "복어는 위협받으면 왜 몸을 부풀릴까",
-          "views": 1489,
-          "date": "2026-06-16",
-          "duration": 29,
-          "url": "https://www.youtube.com/watch?v=AaE5dlk1Ph0"
         }
       ],
-      "analyzed_at": "2026-06-21 18:18",
+      "analyzed_at": "2026-06-21 19:22",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1282,
+      "avg_views": 1280,
       "median_views": 1432,
       "uploads_30d": 20,
-      "views_30d": 25645,
+      "views_30d": 25615,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -421,6 +421,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "100만 원대 노트북이 AI를 자체적으로 돌린다고? 레노버 슬림5",
+          "views": 220,
+          "date": "2026-06-21",
+          "duration": 33,
+          "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
+        },
+        {
           "title": "MSI인데 게이밍이 아니라고? 사무용으로 나온 모던 15 포스",
           "views": 327,
           "date": "2026-06-21",
@@ -429,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
-          "views": 1275,
+          "views": 1276,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
@@ -457,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "노트북도 태블릿도 한 대로 끝, HP 파빌리온 x360 14",
-          "views": 993,
+          "views": 994,
           "date": "2026-06-18",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
@@ -482,16 +489,9 @@ window.DATA = {
           "date": "2026-06-17",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=DgQvpdMV17k"
-        },
-        {
-          "title": "HP 빅터스 16 게이밍 노트북",
-          "views": 257,
-          "date": "2026-06-16",
-          "duration": 34,
-          "url": "https://www.youtube.com/watch?v=jkiY7LFI3xU"
         }
       ],
-      "analyzed_at": "2026-06-21 18:19",
+      "analyzed_at": "2026-06-21 19:23",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1115,
-      "median_views": 1245,
+      "avg_views": 1031,
+      "median_views": 1058,
       "uploads_30d": 20,
-      "views_30d": 22304,
+      "views_30d": 20639,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -512,13 +512,6 @@ window.DATA = {
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
-        },
-        {
-          "title": "16인치인데 가방에 넣은 줄도 몰랐던 노트북",
-          "views": 1921,
-          "date": "2026-06-11",
-          "duration": 36,
-          "url": "https://www.youtube.com/watch?v=tz-cqIoKBew"
         },
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
@@ -540,9 +533,23 @@ window.DATA = {
           "date": "2026-06-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
+        },
+        {
+          "title": "게이밍 노트북은 1시간이면 방전이라더니, 이건 종일 가더라고요 (에이서 니트로 V16)",
+          "views": 1445,
+          "date": "2026-06-15",
+          "duration": 36,
+          "url": "https://www.youtube.com/watch?v=IBwY5vaDyKk"
         }
       ],
       "recent_videos": [
+        {
+          "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
+          "views": 256,
+          "date": "2026-06-21",
+          "duration": 27,
+          "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
+        },
         {
           "title": "맥북에어 13 / 1.24kg 통알루미늄 프리미엄 노트북",
           "views": 943,
@@ -605,18 +612,11 @@ window.DATA = {
           "date": "2026-06-17",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=39VSFU76oL4"
-        },
-        {
-          "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1649,
-          "date": "2026-06-16",
-          "duration": 33,
-          "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
         }
       ],
-      "analyzed_at": "2026-06-21 18:20",
+      "analyzed_at": "2026-06-21 19:24",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-21 18:17"
+  "generated_at": "2026-06-21 19:21"
 };
