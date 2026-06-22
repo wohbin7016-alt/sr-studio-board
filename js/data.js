@@ -8,22 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 3102,
+      "avg_views": 3117,
       "median_views": 2233,
       "uploads_30d": 20,
-      "views_30d": 62058,
+      "views_30d": 62358,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 11702,
+          "views": 11745,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7259,
+          "views": 7449,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1223,
+          "views": 1282,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 1606,
+          "views": 1612,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7259,
+          "views": 7449,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3223,
+          "views": 3225,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=F5d3cMn3jmw"
         }
       ],
-      "analyzed_at": "2026-06-23 02:25",
+      "analyzed_at": "2026-06-23 03:30",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2761,
+      "avg_views": 2760,
       "median_views": 428,
       "uploads_30d": 20,
-      "views_30d": 55234,
+      "views_30d": 55213,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 40017,
+          "views": 39996,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
         }
       ],
-      "analyzed_at": "2026-06-23 02:26",
+      "analyzed_at": "2026-06-23 03:31",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4407,
+      "avg_views": 4419,
       "median_views": 2671,
       "uploads_30d": 20,
-      "views_30d": 88158,
+      "views_30d": 88390,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -290,7 +290,7 @@ window.DATA = {
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 6040,
+          "views": 6204,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -313,14 +313,14 @@ window.DATA = {
         },
         {
           "title": "도마뱀은 왜 꼬리를 스스로 끊을까",
-          "views": 1822,
+          "views": 1861,
           "date": "2026-06-21",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=V4kkM4AWB_4"
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 6040,
+          "views": 6204,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -341,34 +341,34 @@ window.DATA = {
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 2775,
+          "views": 2772,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
         },
         {
           "title": "사슴은 왜 멀쩡한 뿔을 해마다 스스로 떨굴까",
-          "views": 2322,
+          "views": 2351,
           "date": "2026-06-19",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=pffZD5VXcF4"
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2568,
+          "views": 2571,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
         },
         {
           "title": "호랑이는 왜 암컷에게 함부로 못 덤빌까",
-          "views": 23,
+          "views": 24,
           "date": "2026-06-18",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=AfOT6Sws68o"
         }
       ],
-      "analyzed_at": "2026-06-23 02:28",
+      "analyzed_at": "2026-06-23 03:32",
       "subs_delta": 0
     },
     {
@@ -377,12 +377,19 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1327,
-      "median_views": 1512,
+      "avg_views": 1328,
+      "median_views": 1515,
       "uploads_30d": 20,
-      "views_30d": 26550,
+      "views_30d": 26568,
       "shorts_ratio": 1.0,
       "top_videos": [
+        {
+          "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
+          "views": 1945,
+          "date": "2026-06-22",
+          "duration": 34,
+          "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
+        },
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
           "views": 1934,
@@ -392,21 +399,14 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1927,
+          "views": 1929,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         },
         {
-          "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1926,
-          "date": "2026-06-22",
-          "duration": 34,
-          "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
-        },
-        {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1865,
+          "views": 1867,
           "date": "2026-06-13",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
@@ -422,14 +422,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1926,
+          "views": 1945,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
         },
         {
           "title": "ASUS ROG 스트릭스 G16 / i9 13세대·RTX 4060·240Hz",
-          "views": 364,
+          "views": 354,
           "date": "2026-06-22",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=T4FmeY1NqdA"
@@ -457,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1927,
+          "views": 1929,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=QjLyebPClJ0"
         }
       ],
-      "analyzed_at": "2026-06-23 02:29",
+      "analyzed_at": "2026-06-23 03:32",
       "subs_delta": 0
     },
     {
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 1162,
       "median_views": 1271,
       "uploads_30d": 20,
-      "views_30d": 23252,
+      "views_30d": 23254,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -529,7 +529,7 @@ window.DATA = {
         },
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 1757,
+          "views": 1759,
           "date": "2026-06-22",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 1757,
+          "views": 1759,
           "date": "2026-06-22",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=fV5nbHUBa-Y"
         }
       ],
-      "analyzed_at": "2026-06-23 02:30",
+      "analyzed_at": "2026-06-23 03:33",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-23 02:25"
+  "generated_at": "2026-06-23 03:30"
 };
