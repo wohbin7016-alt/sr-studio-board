@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2996,
+      "avg_views": 3005,
       "median_views": 2232,
       "uploads_30d": 20,
-      "views_30d": 59930,
+      "views_30d": 60106,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 809,
+          "views": 1012,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1236,
+          "views": 1246,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1483,
+          "views": 1447,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "갈라진 가죽 소파, 버리지 마세요. 5분이면 새것처럼 됩니다",
-          "views": 1781,
+          "views": 1780,
           "date": "2026-06-18",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=F5d3cMn3jmw"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Sm5uIjUtouY"
         }
       ],
-      "analyzed_at": "2026-06-22 13:22",
+      "analyzed_at": "2026-06-22 14:26",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2716,
-      "median_views": 77,
+      "avg_views": 2720,
+      "median_views": 125,
       "uploads_30d": 20,
-      "views_30d": 54321,
+      "views_30d": 54419,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -160,7 +160,7 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1564,
+          "views": 1566,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "인류 첫 발자국 — 그날 온 세계가 멈췄다 (닐 암스트롱)",
-          "views": 91,
+          "views": 187,
           "date": "2026-06-22",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=WUdE6F3XNGQ"
         }
       ],
-      "analyzed_at": "2026-06-22 13:23",
+      "analyzed_at": "2026-06-22 14:26",
       "subs_delta": 0
     },
     {
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4627,
+      "avg_views": 4642,
       "median_views": 2760,
       "uploads_30d": 20,
-      "views_30d": 87915,
+      "views_30d": 88200,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 15828,
+          "views": 15827,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -276,7 +276,7 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10673,
+          "views": 10674,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -306,14 +306,14 @@ window.DATA = {
         },
         {
           "title": "도마뱀은 왜 꼬리를 스스로 끊을까",
-          "views": 1659,
+          "views": 1661,
           "date": "2026-06-21",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=V4kkM4AWB_4"
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 4480,
+          "views": 4762,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -348,7 +348,7 @@ window.DATA = {
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2561,
+          "views": 2562,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=SOYyN08Plcs"
         }
       ],
-      "analyzed_at": "2026-06-22 13:23",
+      "analyzed_at": "2026-06-22 14:27",
       "subs_delta": 0
     },
     {
@@ -378,9 +378,9 @@ window.DATA = {
       "subscribers": 72900,
       "sampled": 20,
       "avg_views": 1320,
-      "median_views": 1510,
+      "median_views": 1512,
       "uploads_30d": 20,
-      "views_30d": 26402,
+      "views_30d": 26406,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "겉은 수수한데 i7에 RTX 4060? 기가바이트 G6X 정체",
-          "views": 394,
+          "views": 393,
           "date": "2026-06-19",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=vN9AyUTpynI"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=A67JOkeTXY0"
         }
       ],
-      "analyzed_at": "2026-06-22 13:24",
+      "analyzed_at": "2026-06-22 14:28",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1104,
+      "avg_views": 1122,
       "median_views": 1246,
       "uploads_30d": 20,
-      "views_30d": 22084,
+      "views_30d": 22444,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 476,
+          "views": 835,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=96_qejCfVu0"
         }
       ],
-      "analyzed_at": "2026-06-22 13:25",
+      "analyzed_at": "2026-06-22 14:29",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-22 13:22"
+  "generated_at": "2026-06-22 14:26"
 };
