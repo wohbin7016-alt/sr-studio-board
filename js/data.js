@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 3080,
+      "avg_views": 3089,
       "median_views": 2233,
       "uploads_30d": 20,
-      "views_30d": 61606,
+      "views_30d": 61790,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,7 +23,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7111,
+          "views": 7269,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1205,
+          "views": 1223,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 1542,
+          "views": 1522,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
@@ -81,14 +81,14 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7111,
+          "views": 7269,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1694,
+          "views": 1722,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=F5d3cMn3jmw"
         }
       ],
-      "analyzed_at": "2026-06-23 00:02",
+      "analyzed_at": "2026-06-23 01:05",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2902,
-      "median_views": 791,
+      "avg_views": 2760,
+      "median_views": 428,
       "uploads_30d": 20,
-      "views_30d": 55152,
+      "views_30d": 55209,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 39943,
+          "views": 39996,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "박지현, 안정된 공무원 자리를 버리고 트로트 무대를 택한 이유",
-          "views": 0,
+          "views": 4,
           "date": "2026-06-22",
           "duration": 47,
           "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
         }
       ],
-      "analyzed_at": "2026-06-23 00:02",
+      "analyzed_at": "2026-06-23 01:06",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4399,
-      "median_views": 2662,
+      "avg_views": 4405,
+      "median_views": 2656,
       "uploads_30d": 20,
-      "views_30d": 87998,
+      "views_30d": 88107,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -290,7 +290,7 @@ window.DATA = {
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 5947,
+          "views": 6021,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -299,14 +299,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "해달은 왜 손 잡고 잘까",
-          "views": 1503,
+          "views": 1508,
           "date": "2026-06-22",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=Pw_xlCPud40"
         },
         {
           "title": "비버는 왜 한밤중에 댐을 쌓을까 (정작 댐 안엔 안 산다고?)",
-          "views": 12,
+          "views": 14,
           "date": "2026-06-22",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=gof_oUPOHWM"
@@ -320,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 5947,
+          "views": 6021,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -334,14 +334,14 @@ window.DATA = {
         },
         {
           "title": "가오리는 왜 웃는 얼굴일까 (눈은 등 위에)",
-          "views": 2861,
+          "views": 2900,
           "date": "2026-06-20",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6KzQIb91-Zg"
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 2756,
+          "views": 2745,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=AfOT6Sws68o"
         }
       ],
-      "analyzed_at": "2026-06-23 00:03",
+      "analyzed_at": "2026-06-23 01:07",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1307,
-      "median_views": 1497,
+      "avg_views": 1327,
+      "median_views": 1513,
       "uploads_30d": 20,
-      "views_30d": 26148,
+      "views_30d": 26541,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -398,6 +398,13 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         },
         {
+          "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
+          "views": 1916,
+          "date": "2026-06-22",
+          "duration": 34,
+          "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
+        },
+        {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
           "views": 1865,
           "date": "2026-06-13",
@@ -410,19 +417,12 @@ window.DATA = {
           "date": "2026-06-14",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=qHjbd-m1U2w"
-        },
-        {
-          "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
-          "views": 1748,
-          "date": "2026-06-15",
-          "duration": 35,
-          "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
         }
       ],
       "recent_videos": [
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1524,
+          "views": 1916,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "100만 원대 노트북이 AI를 자체적으로 돌린다고? 레노버 슬림5",
-          "views": 1620,
+          "views": 1616,
           "date": "2026-06-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
-          "views": 1280,
+          "views": 1283,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1264,
+          "views": 1266,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=QjLyebPClJ0"
         }
       ],
-      "analyzed_at": "2026-06-23 00:04",
+      "analyzed_at": "2026-06-23 01:08",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1160,
-      "median_views": 1270,
+      "avg_views": 1161,
+      "median_views": 1262,
       "uploads_30d": 20,
-      "views_30d": 23211,
+      "views_30d": 23226,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -522,14 +522,14 @@ window.DATA = {
         },
         {
           "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
-          "views": 1838,
+          "views": 1839,
           "date": "2026-06-21",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
         },
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 1722,
+          "views": 1751,
           "date": "2026-06-22",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
@@ -545,21 +545,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 1722,
+          "views": 1751,
           "date": "2026-06-22",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
         },
         {
           "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 1220,
+          "views": 1203,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
         },
         {
           "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
-          "views": 1838,
+          "views": 1839,
           "date": "2026-06-21",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
@@ -573,7 +573,7 @@ window.DATA = {
         },
         {
           "title": "노트북이 충전기 없이 하루를 통째로 버틴다고? 비보북 S15 OLED",
-          "views": 1320,
+          "views": 1322,
           "date": "2026-06-20",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Za3EHcwOF4k"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=fV5nbHUBa-Y"
         }
       ],
-      "analyzed_at": "2026-06-23 00:05",
+      "analyzed_at": "2026-06-23 01:08",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-23 00:02"
+  "generated_at": "2026-06-23 01:05"
 };
