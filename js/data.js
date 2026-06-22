@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2991,
+      "avg_views": 3022,
       "median_views": 2233,
       "uploads_30d": 20,
-      "views_30d": 59821,
+      "views_30d": 60443,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,7 +23,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 6921,
+          "views": 7046,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1,
+          "views": 455,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 6921,
+          "views": 7046,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 3110,
+          "views": 3153,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=F5d3cMn3jmw"
         }
       ],
-      "analyzed_at": "2026-06-22 19:45",
+      "analyzed_at": "2026-06-22 20:49",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2890,
-      "median_views": 638,
+      "avg_views": 2892,
+      "median_views": 651,
       "uploads_30d": 20,
-      "views_30d": 54918,
+      "views_30d": 54950,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 39924,
+          "views": 39942,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "인류 첫 발자국 — 그날 온 세계가 멈췄다 (닐 암스트롱)",
-          "views": 638,
+          "views": 651,
           "date": "2026-06-22",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "선로에 뛰어든 26살 한국 청년… 단 2초가 운명을 갈랐다 #shorts",
-          "views": 976,
+          "views": 977,
           "date": "2026-06-20",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=GA4arzC36I0"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
         }
       ],
-      "analyzed_at": "2026-06-22 19:46",
+      "analyzed_at": "2026-06-22 20:50",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4331,
-      "median_views": 2640,
+      "avg_views": 4365,
+      "median_views": 2642,
       "uploads_30d": 20,
-      "views_30d": 86639,
+      "views_30d": 87304,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -269,7 +269,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14409,
+          "views": 14410,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -290,7 +290,7 @@ window.DATA = {
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 5849,
+          "views": 5904,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "해달은 왜 손 잡고 잘까",
-          "views": 405,
+          "views": 1009,
           "date": "2026-06-22",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=Pw_xlCPud40"
@@ -320,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 5849,
+          "views": 5904,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -341,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 2713,
+          "views": 2718,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=AfOT6Sws68o"
         }
       ],
-      "analyzed_at": "2026-06-22 19:46",
+      "analyzed_at": "2026-06-22 20:51",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1247,
+      "avg_views": 1262,
       "median_views": 1433,
       "uploads_30d": 20,
-      "views_30d": 24942,
+      "views_30d": 25252,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,14 +422,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 339,
+          "views": 643,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
         },
         {
           "title": "ASUS ROG 스트릭스 G16 / i9 13세대·RTX 4060·240Hz",
-          "views": 353,
+          "views": 359,
           "date": "2026-06-22",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=T4FmeY1NqdA"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=QjLyebPClJ0"
         }
       ],
-      "analyzed_at": "2026-06-22 19:47",
+      "analyzed_at": "2026-06-22 20:51",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1093,
-      "median_views": 1176,
+      "avg_views": 1117,
+      "median_views": 1197,
       "uploads_30d": 20,
-      "views_30d": 21866,
+      "views_30d": 22354,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -545,14 +545,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 424,
+          "views": 869,
           "date": "2026-06-22",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
         },
         {
           "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 1176,
+          "views": 1219,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=fV5nbHUBa-Y"
         }
       ],
-      "analyzed_at": "2026-06-22 19:48",
+      "analyzed_at": "2026-06-22 20:52",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-22 19:45"
+  "generated_at": "2026-06-22 20:49"
 };
