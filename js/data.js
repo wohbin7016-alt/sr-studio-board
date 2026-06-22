@@ -8,22 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 3022,
-      "median_views": 2233,
+      "avg_views": 3059,
+      "median_views": 2232,
       "uploads_30d": 20,
-      "views_30d": 60447,
+      "views_30d": 61186,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 11561,
+          "views": 11592,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 6442,
+          "views": 6720,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -44,7 +44,7 @@ window.DATA = {
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 3237,
+          "views": 3388,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
@@ -53,76 +53,76 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 1211,
+          "views": 1395,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1276,
+          "views": 1272,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 3237,
+          "views": 3388,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 6442,
+          "views": 6720,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1464,
+          "views": 1555,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
         },
         {
           "title": "썩은 나무 통째로 버리지 마세요… 2액형 에폭시로 새것처럼 #shorts",
-          "views": 2806,
+          "views": 2804,
           "date": "2026-06-19",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3201,
+          "views": 3198,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         },
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 3089,
+          "views": 3105,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
         },
         {
           "title": "갈라진 가죽 소파, 버리지 마세요. 5분이면 새것처럼 됩니다",
-          "views": 1782,
+          "views": 1781,
           "date": "2026-06-18",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=F5d3cMn3jmw"
         },
         {
           "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 856,
+          "views": 855,
           "date": "2026-06-17",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=Sm5uIjUtouY"
         }
       ],
-      "analyzed_at": "2026-06-22 15:30",
+      "analyzed_at": "2026-06-22 16:33",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2724,
-      "median_views": 160,
+      "avg_views": 2730,
+      "median_views": 206,
       "uploads_30d": 20,
-      "views_30d": 54489,
+      "views_30d": 54601,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 39871,
+          "views": 39887,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "인류 첫 발자국 — 그날 온 세계가 멈췄다 (닐 암스트롱)",
-          "views": 258,
+          "views": 349,
           "date": "2026-06-22",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
@@ -190,7 +190,7 @@ window.DATA = {
         },
         {
           "title": "임영웅 — 버스킹하던 무명가수가 국민가수가 되기까지",
-          "views": 784,
+          "views": 787,
           "date": "2026-06-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "선로에 뛰어든 26살 한국 청년… 단 2초가 운명을 갈랐다 #shorts",
-          "views": 975,
+          "views": 976,
           "date": "2026-06-20",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=GA4arzC36I0"
@@ -239,13 +239,13 @@ window.DATA = {
         },
         {
           "title": "무릎이 두 번 끊어진 골키퍼 김승규",
-          "views": 63,
+          "views": 64,
           "date": "2026-06-17",
           "duration": 60,
           "url": "https://www.youtube.com/watch?v=WUdE6F3XNGQ"
         }
       ],
-      "analyzed_at": "2026-06-22 15:30",
+      "analyzed_at": "2026-06-22 16:34",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4450,
-      "median_views": 2703,
+      "avg_views": 4468,
+      "median_views": 2722,
       "uploads_30d": 20,
-      "views_30d": 89019,
+      "views_30d": 89370,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -290,7 +290,7 @@ window.DATA = {
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 5560,
+          "views": 5835,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -299,21 +299,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "비버는 왜 한밤중에 댐을 쌓을까 (정작 댐 안엔 안 산다고?)",
-          "views": 2,
+          "views": 4,
           "date": "2026-06-22",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=gof_oUPOHWM"
         },
         {
           "title": "도마뱀은 왜 꼬리를 스스로 끊을까",
-          "views": 1659,
+          "views": 1692,
           "date": "2026-06-21",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=V4kkM4AWB_4"
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 5560,
+          "views": 5835,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -334,21 +334,21 @@ window.DATA = {
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 2630,
+          "views": 2668,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
         },
         {
           "title": "사슴은 왜 멀쩡한 뿔을 해마다 스스로 떨굴까",
-          "views": 2306,
+          "views": 2313,
           "date": "2026-06-19",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=pffZD5VXcF4"
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2564,
+          "views": 2562,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=SOYyN08Plcs"
         }
       ],
-      "analyzed_at": "2026-06-22 15:31",
+      "analyzed_at": "2026-06-22 16:35",
       "subs_delta": 0
     },
     {
@@ -380,7 +380,7 @@ window.DATA = {
       "avg_views": 1323,
       "median_views": 1512,
       "uploads_30d": 20,
-      "views_30d": 26467,
+      "views_30d": 26473,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "ASUS ROG 스트릭스 G16 / i9 13세대·RTX 4060·240Hz",
-          "views": 347,
+          "views": 353,
           "date": "2026-06-22",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=T4FmeY1NqdA"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=A67JOkeTXY0"
         }
       ],
-      "analyzed_at": "2026-06-22 15:32",
+      "analyzed_at": "2026-06-22 16:36",
       "subs_delta": 0
     },
     {
@@ -500,15 +500,15 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1125,
-      "median_views": 1246,
+      "avg_views": 1139,
+      "median_views": 1247,
       "uploads_30d": 20,
-      "views_30d": 22514,
+      "views_30d": 22792,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2055,
+          "views": 2056,
           "date": "2026-06-12",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 903,
+          "views": 1176,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
@@ -566,7 +566,7 @@ window.DATA = {
         },
         {
           "title": "노트북이 충전기 없이 하루를 통째로 버틴다고? 비보북 S15 OLED",
-          "views": 1318,
+          "views": 1319,
           "date": "2026-06-20",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Za3EHcwOF4k"
@@ -608,15 +608,15 @@ window.DATA = {
         },
         {
           "title": "14인치인데 안 답답한 OLED 노트북 (레노버 요가 슬림 7",
-          "views": 1175,
+          "views": 1176,
           "date": "2026-06-17",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=96_qejCfVu0"
         }
       ],
-      "analyzed_at": "2026-06-22 15:33",
+      "analyzed_at": "2026-06-22 16:36",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-22 15:30"
+  "generated_at": "2026-06-22 16:33"
 };
