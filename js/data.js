@@ -8,22 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 3072,
+      "avg_views": 2991,
       "median_views": 2233,
       "uploads_30d": 20,
-      "views_30d": 61450,
+      "views_30d": 59821,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 11640,
+          "views": 11648,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 6720,
+          "views": 6921,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -36,24 +36,31 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
         },
         {
+          "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
+          "views": 3708,
+          "date": "2026-06-21",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=s2zar88EozY"
+        },
+        {
           "title": "수전 안 돌아갈 때 푸는 법",
           "views": 3470,
           "date": "2026-06-10",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
-        },
-        {
-          "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 3429,
-          "date": "2026-06-21",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         }
       ],
       "recent_videos": [
         {
+          "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
+          "views": 1,
+          "date": "2026-06-22",
+          "duration": 19,
+          "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
+        },
+        {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 1467,
+          "views": 1477,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
@@ -67,14 +74,14 @@ window.DATA = {
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 3429,
+          "views": 3708,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 6720,
+          "views": 6921,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -95,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3198,
+          "views": 3223,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
@@ -109,20 +116,13 @@ window.DATA = {
         },
         {
           "title": "갈라진 가죽 소파, 버리지 마세요. 5분이면 새것처럼 됩니다",
-          "views": 1781,
+          "views": 1782,
           "date": "2026-06-18",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=F5d3cMn3jmw"
-        },
-        {
-          "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 856,
-          "date": "2026-06-17",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=Sm5uIjUtouY"
         }
       ],
-      "analyzed_at": "2026-06-22 18:41",
+      "analyzed_at": "2026-06-22 19:45",
       "subs_delta": 0
     },
     {
@@ -131,22 +131,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2739,
-      "median_views": 295,
+      "avg_views": 2890,
+      "median_views": 638,
       "uploads_30d": 20,
-      "views_30d": 54791,
+      "views_30d": 54918,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 39897,
+          "views": 39924,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 4230,
+          "views": 4232,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -160,7 +160,7 @@ window.DATA = {
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1566,
+          "views": 1567,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
@@ -175,8 +175,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "박지현, 안정된 공무원 자리를 버리고 트로트 무대를 택한 이유",
+          "views": 0,
+          "date": "2026-06-22",
+          "duration": 47,
+          "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
+        },
+        {
           "title": "인류 첫 발자국 — 그날 온 세계가 멈췄다 (닐 암스트롱)",
-          "views": 526,
+          "views": 638,
           "date": "2026-06-22",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-06-18",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
-        },
-        {
-          "title": "무릎이 두 번 끊어진 골키퍼 김승규",
-          "views": 64,
-          "date": "2026-06-17",
-          "duration": 60,
-          "url": "https://www.youtube.com/watch?v=WUdE6F3XNGQ"
         }
       ],
-      "analyzed_at": "2026-06-22 18:42",
+      "analyzed_at": "2026-06-22 19:46",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4471,
-      "median_views": 2767,
+      "avg_views": 4331,
+      "median_views": 2640,
       "uploads_30d": 20,
-      "views_30d": 89438,
+      "views_30d": 86639,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -269,7 +269,7 @@ window.DATA = {
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14410,
+          "views": 14409,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
@@ -290,7 +290,7 @@ window.DATA = {
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 5742,
+          "views": 5849,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -298,22 +298,29 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "해달은 왜 손 잡고 잘까",
+          "views": 405,
+          "date": "2026-06-22",
+          "duration": 18,
+          "url": "https://www.youtube.com/watch?v=Pw_xlCPud40"
+        },
+        {
           "title": "비버는 왜 한밤중에 댐을 쌓을까 (정작 댐 안엔 안 산다고?)",
-          "views": 5,
+          "views": 6,
           "date": "2026-06-22",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=gof_oUPOHWM"
         },
         {
           "title": "도마뱀은 왜 꼬리를 스스로 끊을까",
-          "views": 1738,
+          "views": 1763,
           "date": "2026-06-21",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=V4kkM4AWB_4"
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 5742,
+          "views": 5849,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -327,14 +334,14 @@ window.DATA = {
         },
         {
           "title": "가오리는 왜 웃는 얼굴일까 (눈은 등 위에)",
-          "views": 2838,
+          "views": 2822,
           "date": "2026-06-20",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6KzQIb91-Zg"
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 2697,
+          "views": 2713,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-18",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=AfOT6Sws68o"
-        },
-        {
-          "title": "올빼미는 왜 먹이를 씹지 않고 통째로 삼킬까",
-          "views": 603,
-          "date": "2026-06-17",
-          "duration": 58,
-          "url": "https://www.youtube.com/watch?v=SOYyN08Plcs"
         }
       ],
-      "analyzed_at": "2026-06-22 18:42",
+      "analyzed_at": "2026-06-22 19:46",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1324,
-      "median_views": 1512,
+      "avg_views": 1247,
+      "median_views": 1433,
       "uploads_30d": 20,
-      "views_30d": 26482,
+      "views_30d": 24942,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -398,13 +398,6 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         },
         {
-          "title": "사무용이라더니 H칩을 박았네… 레노버 V15 정체",
-          "views": 1874,
-          "date": "2026-06-12",
-          "duration": 37,
-          "url": "https://www.youtube.com/watch?v=PT6mwMemYyw"
-        },
-        {
           "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
           "views": 1865,
           "date": "2026-06-13",
@@ -417,12 +410,26 @@ window.DATA = {
           "date": "2026-06-14",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=qHjbd-m1U2w"
+        },
+        {
+          "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
+          "views": 1748,
+          "date": "2026-06-15",
+          "duration": 35,
+          "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
         }
       ],
       "recent_videos": [
         {
+          "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
+          "views": 339,
+          "date": "2026-06-22",
+          "duration": 34,
+          "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
+        },
+        {
           "title": "ASUS ROG 스트릭스 G16 / i9 13세대·RTX 4060·240Hz",
-          "views": 359,
+          "views": 353,
           "date": "2026-06-22",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=T4FmeY1NqdA"
@@ -482,16 +489,9 @@ window.DATA = {
           "date": "2026-06-18",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=QjLyebPClJ0"
-        },
-        {
-          "title": "이 두께에 RTX 5060을 풀파워로 박았다고?",
-          "views": 1612,
-          "date": "2026-06-17",
-          "duration": 40,
-          "url": "https://www.youtube.com/watch?v=A67JOkeTXY0"
         }
       ],
-      "analyzed_at": "2026-06-22 18:43",
+      "analyzed_at": "2026-06-22 19:47",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1141,
-      "median_views": 1266,
+      "avg_views": 1093,
+      "median_views": 1176,
       "uploads_30d": 20,
-      "views_30d": 22838,
+      "views_30d": 21866,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -522,7 +522,7 @@ window.DATA = {
         },
         {
           "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
-          "views": 1840,
+          "views": 1841,
           "date": "2026-06-21",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
@@ -544,15 +544,22 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
+          "views": 424,
+          "date": "2026-06-22",
+          "duration": 23,
+          "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
+        },
+        {
           "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 1214,
+          "views": 1176,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
         },
         {
           "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
-          "views": 1840,
+          "views": 1841,
           "date": "2026-06-21",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
@@ -566,7 +573,7 @@ window.DATA = {
         },
         {
           "title": "노트북이 충전기 없이 하루를 통째로 버틴다고? 비보북 S15 OLED",
-          "views": 1319,
+          "views": 1320,
           "date": "2026-06-20",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Za3EHcwOF4k"
@@ -605,18 +612,11 @@ window.DATA = {
           "date": "2026-06-18",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=fV5nbHUBa-Y"
-        },
-        {
-          "title": "14인치인데 안 답답한 OLED 노트북 (레노버 요가 슬림 7",
-          "views": 1176,
-          "date": "2026-06-17",
-          "duration": 37,
-          "url": "https://www.youtube.com/watch?v=96_qejCfVu0"
         }
       ],
-      "analyzed_at": "2026-06-22 18:44",
+      "analyzed_at": "2026-06-22 19:48",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-22 18:41"
+  "generated_at": "2026-06-22 19:45"
 };
