@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 3263,
+      "avg_views": 3282,
       "median_views": 2524,
       "uploads_30d": 20,
-      "views_30d": 65271,
+      "views_30d": 65656,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 11514,
+          "views": 11533,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 6104,
+          "views": 6325,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -60,21 +60,21 @@ window.DATA = {
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 3023,
+          "views": 3095,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 6104,
+          "views": 6325,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1319,
+          "views": 1367,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3140,
+          "views": 3165,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=RVlAPWufJZ4"
         }
       ],
-      "analyzed_at": "2026-06-22 10:12",
+      "analyzed_at": "2026-06-22 11:15",
       "subs_delta": 0
     },
     {
@@ -132,9 +132,9 @@ window.DATA = {
       "subscribers": 1140,
       "sampled": 20,
       "avg_views": 2821,
-      "median_views": 421,
+      "median_views": 423,
       "uploads_30d": 20,
-      "views_30d": 56420,
+      "views_30d": 56424,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "임영웅 — 버스킹하던 무명가수가 국민가수가 되기까지",
-          "views": 780,
+          "views": 784,
           "date": "2026-06-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         }
       ],
-      "analyzed_at": "2026-06-22 10:13",
+      "analyzed_at": "2026-06-22 11:16",
       "subs_delta": 0
     },
     {
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4528,
+      "avg_views": 4534,
       "median_views": 2868,
       "uploads_30d": 20,
-      "views_30d": 90577,
+      "views_30d": 90685,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 15827,
+          "views": 15828,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -276,7 +276,7 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10672,
+          "views": 10673,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -306,7 +306,7 @@ window.DATA = {
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 4296,
+          "views": 4396,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -341,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2551,
+          "views": 2557,
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=bGSSu73jQvc"
         }
       ],
-      "analyzed_at": "2026-06-22 10:13",
+      "analyzed_at": "2026-06-22 11:17",
       "subs_delta": 0
     },
     {
@@ -380,7 +380,7 @@ window.DATA = {
       "avg_views": 1353,
       "median_views": 1510,
       "uploads_30d": 20,
-      "views_30d": 27071,
+      "views_30d": 27074,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "100만 원대 노트북이 AI를 자체적으로 돌린다고? 레노버 슬림5",
-          "views": 1615,
+          "views": 1618,
           "date": "2026-06-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DgQvpdMV17k"
         }
       ],
-      "analyzed_at": "2026-06-22 10:14",
+      "analyzed_at": "2026-06-22 11:17",
       "subs_delta": 0
     },
     {
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 1112,
       "median_views": 1246,
       "uploads_30d": 20,
-      "views_30d": 22249,
+      "views_30d": 22250,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -601,7 +601,7 @@ window.DATA = {
         },
         {
           "title": "14인치인데 안 답답한 OLED 노트북 (레노버 요가 슬림 7",
-          "views": 1174,
+          "views": 1175,
           "date": "2026-06-17",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=96_qejCfVu0"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=39VSFU76oL4"
         }
       ],
-      "analyzed_at": "2026-06-22 10:15",
+      "analyzed_at": "2026-06-22 11:18",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-22 10:12"
+  "generated_at": "2026-06-22 11:15"
 };
