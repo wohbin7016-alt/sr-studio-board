@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 3083,
-      "median_views": 2076,
+      "avg_views": 2835,
+      "median_views": 1935,
       "uploads_30d": 20,
-      "views_30d": 61679,
+      "views_30d": 56712,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,17 +23,10 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7797,
+          "views": 7798,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
-        },
-        {
-          "title": "버리려던 녹슨 칼, 새것보다 멋지게 되살아납니다",
-          "views": 5989,
-          "date": "2026-06-13",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=Mda5NCu1Ydk"
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
@@ -48,19 +41,33 @@ window.DATA = {
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
+        },
+        {
+          "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
+          "views": 3152,
+          "date": "2026-06-18",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
         }
       ],
       "recent_videos": [
         {
+          "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
+          "views": 959,
+          "date": "2026-06-23",
+          "duration": 20,
+          "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
+        },
+        {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 1231,
+          "views": 1281,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1425,
+          "views": 1433,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
@@ -88,14 +95,14 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7797,
+          "views": 7798,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1795,
+          "views": 1799,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
-        },
-        {
-          "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 3152,
-          "date": "2026-06-18",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
         }
       ],
-      "analyzed_at": "2026-06-23 21:34",
+      "analyzed_at": "2026-06-23 22:38",
       "subs_delta": 0
     },
     {
@@ -131,22 +131,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2633,
-      "median_views": 387,
+      "avg_views": 2637,
+      "median_views": 423,
       "uploads_30d": 20,
-      "views_30d": 52674,
+      "views_30d": 52757,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 40039,
+          "views": 40043,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 4251,
+          "views": 4255,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -175,15 +175,22 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "데뷔 전 KBS 노래가 좋아 4연승, 무명의 실력이 빛난 박지현",
+          "views": 5,
+          "date": "2026-06-23",
+          "duration": 23,
+          "url": "https://www.youtube.com/watch?v=95yJlTs1rlo"
+        },
+        {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 709,
+          "views": 781,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
         },
         {
           "title": "박지현, 안정된 공무원 자리를 버리고 트로트 무대를 택한 이유",
-          "views": 6,
+          "views": 9,
           "date": "2026-06-22",
           "duration": 47,
           "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
@@ -218,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "선로에 뛰어든 26살 한국 청년… 단 2초가 운명을 갈랐다 #shorts",
-          "views": 999,
+          "views": 1000,
           "date": "2026-06-20",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=GA4arzC36I0"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-06-19",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
-        },
-        {
-          "title": "멕시코가 한국한테 빚진 게 하나 있습니다",
-          "views": 7,
-          "date": "2026-06-18",
-          "duration": 31,
-          "url": "https://www.youtube.com/watch?v=88pIvaIJ4aY"
         }
       ],
-      "analyzed_at": "2026-06-23 21:35",
+      "analyzed_at": "2026-06-23 22:39",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4325,
+      "avg_views": 4327,
       "median_views": 2567,
       "uploads_30d": 20,
-      "views_30d": 86506,
+      "views_30d": 86545,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,14 +299,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "목에서 빨간 풍선이? 프레리치킨의 짝짓기 쇼",
-          "views": 1564,
+          "views": 1579,
           "date": "2026-06-23",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=sBQDJqIk8Yg"
         },
         {
           "title": "해달은 왜 손 잡고 잘까",
-          "views": 1762,
+          "views": 1782,
           "date": "2026-06-22",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=Pw_xlCPud40"
@@ -341,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "가오리는 왜 웃는 얼굴일까 (눈은 등 위에)",
-          "views": 2980,
+          "views": 2984,
           "date": "2026-06-20",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6KzQIb91-Zg"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
         }
       ],
-      "analyzed_at": "2026-06-23 21:36",
+      "analyzed_at": "2026-06-23 22:40",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1310,
+      "avg_views": 1311,
       "median_views": 1474,
       "uploads_30d": 20,
-      "views_30d": 26215,
+      "views_30d": 26221,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -399,7 +399,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1926,
+          "views": 1927,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -464,34 +464,34 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1926,
+          "views": 1927,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1271,
+          "views": 1273,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
         },
         {
           "title": "겉은 수수한데 i7에 RTX 4060? 기가바이트 G6X 정체",
-          "views": 399,
+          "views": 400,
           "date": "2026-06-19",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=vN9AyUTpynI"
         },
         {
           "title": "노트북도 태블릿도 한 대로 끝, HP 파빌리온 x360 14",
-          "views": 995,
+          "views": 997,
           "date": "2026-06-18",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
         }
       ],
-      "analyzed_at": "2026-06-23 21:36",
+      "analyzed_at": "2026-06-23 22:40",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1118,
-      "median_views": 1191,
+      "avg_views": 1064,
+      "median_views": 1167,
       "uploads_30d": 20,
-      "views_30d": 22373,
+      "views_30d": 21295,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -536,13 +536,20 @@ window.DATA = {
         },
         {
           "title": "에이수스_게이밍_V16",
-          "views": 1620,
+          "views": 1623,
           "date": "2026-06-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
         }
       ],
       "recent_videos": [
+        {
+          "title": "Apple 맥북에어 15 M4 / 15.3인치 M4 대화면 데스크 셋업",
+          "views": 277,
+          "date": "2026-06-23",
+          "duration": 29,
+          "url": "https://www.youtube.com/watch?v=HM7gULCpk-s"
+        },
         {
           "title": "태블릿 화면이 노트북보다 크다고? 갤럭시탭 S10 울트라",
           "views": 1157,
@@ -559,7 +566,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 1206,
+          "views": 1207,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
@@ -587,7 +594,7 @@ window.DATA = {
         },
         {
           "title": "에이수스_게이밍_V16",
-          "views": 1620,
+          "views": 1623,
           "date": "2026-06-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
@@ -605,18 +612,11 @@ window.DATA = {
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
-        },
-        {
-          "title": "노트북도 색으로 고르는 시대, 이 미드나이트가 물건입니다",
-          "views": 386,
-          "date": "2026-06-18",
-          "duration": 36,
-          "url": "https://www.youtube.com/watch?v=EDQXV8Bh8RM"
         }
       ],
-      "analyzed_at": "2026-06-23 21:37",
+      "analyzed_at": "2026-06-23 22:41",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-23 21:34"
+  "generated_at": "2026-06-23 22:38"
 };
