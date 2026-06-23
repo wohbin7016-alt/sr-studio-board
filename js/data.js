@@ -8,22 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 3142,
+      "avg_views": 3154,
       "median_views": 2233,
       "uploads_30d": 20,
-      "views_30d": 62851,
+      "views_30d": 63099,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 11753,
+          "views": 11747,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7634,
+          "views": 7726,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4255,
+          "views": 4308,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
@@ -53,42 +53,42 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1301,
+          "views": 1290,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 1632,
+          "views": 1745,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1316,
+          "views": 1322,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4255,
+          "views": 4308,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7634,
+          "views": 7726,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1764,
+          "views": 1765,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=F5d3cMn3jmw"
         }
       ],
-      "analyzed_at": "2026-06-23 08:51",
+      "analyzed_at": "2026-06-23 09:54",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 2763,
       "median_views": 429,
       "uploads_30d": 20,
-      "views_30d": 55261,
+      "views_30d": 55266,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -225,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "27년을 감옥에서 보낸 남자가 한 의외의 행동",
-          "views": 888,
+          "views": 893,
           "date": "2026-06-19",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
         }
       ],
-      "analyzed_at": "2026-06-23 08:51",
+      "analyzed_at": "2026-06-23 09:54",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4439,
+      "avg_views": 4440,
       "median_views": 2683,
       "uploads_30d": 20,
-      "views_30d": 88787,
+      "views_30d": 88810,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "해달은 왜 손 잡고 잘까",
-          "views": 1594,
+          "views": 1611,
           "date": "2026-06-22",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=Pw_xlCPud40"
@@ -313,7 +313,7 @@ window.DATA = {
         },
         {
           "title": "도마뱀은 왜 꼬리를 스스로 끊을까",
-          "views": 1892,
+          "views": 1898,
           "date": "2026-06-21",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=V4kkM4AWB_4"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=AfOT6Sws68o"
         }
       ],
-      "analyzed_at": "2026-06-23 08:52",
+      "analyzed_at": "2026-06-23 09:55",
       "subs_delta": 0
     },
     {
@@ -380,12 +380,12 @@ window.DATA = {
       "avg_views": 1329,
       "median_views": 1515,
       "uploads_30d": 20,
-      "views_30d": 26592,
+      "views_30d": 26596,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1962,
+          "views": 1966,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1962,
+          "views": 1966,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=QjLyebPClJ0"
         }
       ],
-      "analyzed_at": "2026-06-23 08:53",
+      "analyzed_at": "2026-06-23 09:56",
       "subs_delta": 0
     },
     {
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 1162,
       "median_views": 1264,
       "uploads_30d": 20,
-      "views_30d": 23247,
+      "views_30d": 23253,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -529,7 +529,7 @@ window.DATA = {
         },
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 1764,
+          "views": 1769,
           "date": "2026-06-22",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
@@ -545,14 +545,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 1764,
+          "views": 1769,
           "date": "2026-06-22",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
         },
         {
           "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 1204,
+          "views": 1205,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=fV5nbHUBa-Y"
         }
       ],
-      "analyzed_at": "2026-06-23 08:53",
+      "analyzed_at": "2026-06-23 09:56",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-23 08:51"
+  "generated_at": "2026-06-23 09:54"
 };
