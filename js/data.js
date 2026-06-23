@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 3157,
+      "avg_views": 3162,
       "median_views": 2233,
       "uploads_30d": 20,
-      "views_30d": 63153,
+      "views_30d": 63241,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 11768,
+          "views": 11773,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4255,
+          "views": 4282,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1301,
+          "views": 1355,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
@@ -67,14 +67,14 @@ window.DATA = {
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1326,
+          "views": 1327,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4255,
+          "views": 4282,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 3152,
+          "views": 3153,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=F5d3cMn3jmw"
         }
       ],
-      "analyzed_at": "2026-06-23 10:57",
+      "analyzed_at": "2026-06-23 12:01",
       "subs_delta": 0
     },
     {
@@ -132,9 +132,9 @@ window.DATA = {
       "subscribers": 1140,
       "sampled": 20,
       "avg_views": 2763,
-      "median_views": 430,
+      "median_views": 429,
       "uploads_30d": 20,
-      "views_30d": 55279,
+      "views_30d": 55277,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -197,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "임영웅 — 버스킹하던 무명가수가 국민가수가 되기까지",
-          "views": 796,
+          "views": 794,
           "date": "2026-06-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
         }
       ],
-      "analyzed_at": "2026-06-23 10:58",
+      "analyzed_at": "2026-06-23 12:01",
       "subs_delta": 0
     },
     {
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4441,
-      "median_views": 2683,
+      "avg_views": 4445,
+      "median_views": 2694,
       "uploads_30d": 20,
-      "views_30d": 88828,
+      "views_30d": 88909,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 15840,
+          "views": 15842,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "해달은 왜 손 잡고 잘까",
-          "views": 1622,
+          "views": 1663,
           "date": "2026-06-22",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=Pw_xlCPud40"
@@ -327,21 +327,21 @@ window.DATA = {
         },
         {
           "title": "낙타 혹엔 왜 물이 없을까 (지방 저장)",
-          "views": 1617,
+          "views": 1623,
           "date": "2026-06-20",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=Tjmmh4Z16VQ"
         },
         {
           "title": "가오리는 왜 웃는 얼굴일까 (눈은 등 위에)",
-          "views": 2956,
+          "views": 2965,
           "date": "2026-06-20",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6KzQIb91-Zg"
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 2796,
+          "views": 2818,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=AfOT6Sws68o"
         }
       ],
-      "analyzed_at": "2026-06-23 10:58",
+      "analyzed_at": "2026-06-23 12:02",
       "subs_delta": 0
     },
     {
@@ -380,12 +380,12 @@ window.DATA = {
       "avg_views": 1329,
       "median_views": 1515,
       "uploads_30d": 20,
-      "views_30d": 26596,
+      "views_30d": 26592,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1966,
+          "views": 1962,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1966,
+          "views": 1962,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=QjLyebPClJ0"
         }
       ],
-      "analyzed_at": "2026-06-23 10:59",
+      "analyzed_at": "2026-06-23 12:03",
       "subs_delta": 0
     },
     {
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 1162,
       "median_views": 1265,
       "uploads_30d": 20,
-      "views_30d": 23253,
+      "views_30d": 23252,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=fV5nbHUBa-Y"
         }
       ],
-      "analyzed_at": "2026-06-23 11:00",
+      "analyzed_at": "2026-06-23 12:03",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-23 10:57"
+  "generated_at": "2026-06-23 12:01"
 };
