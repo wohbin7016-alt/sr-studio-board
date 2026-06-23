@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 3130,
+      "avg_views": 3142,
       "median_views": 2233,
       "uploads_30d": 20,
-      "views_30d": 62601,
+      "views_30d": 62851,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,7 +23,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7472,
+          "views": 7634,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4170,
+          "views": 4255,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
@@ -53,35 +53,35 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1290,
+          "views": 1301,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 1642,
+          "views": 1632,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1314,
+          "views": 1316,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4170,
+          "views": 4255,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7472,
+          "views": 7634,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=F5d3cMn3jmw"
         }
       ],
-      "analyzed_at": "2026-06-23 07:47",
+      "analyzed_at": "2026-06-23 08:51",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
         }
       ],
-      "analyzed_at": "2026-06-23 07:48",
+      "analyzed_at": "2026-06-23 08:51",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4434,
-      "median_views": 2680,
+      "avg_views": 4439,
+      "median_views": 2683,
       "uploads_30d": 20,
-      "views_30d": 88693,
+      "views_30d": 88787,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -276,7 +276,7 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10675,
+          "views": 10676,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -290,7 +290,7 @@ window.DATA = {
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 6315,
+          "views": 6391,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -313,14 +313,14 @@ window.DATA = {
         },
         {
           "title": "도마뱀은 왜 꼬리를 스스로 끊을까",
-          "views": 1882,
+          "views": 1892,
           "date": "2026-06-21",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=V4kkM4AWB_4"
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 6315,
+          "views": 6391,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -341,14 +341,14 @@ window.DATA = {
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 2790,
+          "views": 2796,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
         },
         {
           "title": "사슴은 왜 멀쩡한 뿔을 해마다 스스로 떨굴까",
-          "views": 2354,
+          "views": 2355,
           "date": "2026-06-19",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=pffZD5VXcF4"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=AfOT6Sws68o"
         }
       ],
-      "analyzed_at": "2026-06-23 07:49",
+      "analyzed_at": "2026-06-23 08:52",
       "subs_delta": 0
     },
     {
@@ -380,7 +380,7 @@ window.DATA = {
       "avg_views": 1329,
       "median_views": 1515,
       "uploads_30d": 20,
-      "views_30d": 26588,
+      "views_30d": 26592,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -464,14 +464,14 @@ window.DATA = {
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1266,
+          "views": 1267,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
         },
         {
           "title": "겉은 수수한데 i7에 RTX 4060? 기가바이트 G6X 정체",
-          "views": 396,
+          "views": 399,
           "date": "2026-06-19",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=vN9AyUTpynI"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=QjLyebPClJ0"
         }
       ],
-      "analyzed_at": "2026-06-23 07:49",
+      "analyzed_at": "2026-06-23 08:53",
       "subs_delta": 0
     },
     {
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 1162,
       "median_views": 1264,
       "uploads_30d": 20,
-      "views_30d": 23242,
+      "views_30d": 23247,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -529,7 +529,7 @@ window.DATA = {
         },
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 1759,
+          "views": 1764,
           "date": "2026-06-22",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 1759,
+          "views": 1764,
           "date": "2026-06-22",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=fV5nbHUBa-Y"
         }
       ],
-      "analyzed_at": "2026-06-23 07:50",
+      "analyzed_at": "2026-06-23 08:53",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-23 07:47"
+  "generated_at": "2026-06-23 08:51"
 };
