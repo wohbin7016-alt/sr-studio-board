@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2882,
+      "avg_views": 2884,
       "median_views": 2006,
       "uploads_30d": 20,
-      "views_30d": 57649,
+      "views_30d": 57680,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 11903,
+          "views": 11934,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         }
       ],
-      "analyzed_at": "2026-06-24 06:02",
+      "analyzed_at": "2026-06-24 07:06",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2647,
-      "median_views": 437,
+      "avg_views": 2649,
+      "median_views": 438,
       "uploads_30d": 20,
-      "views_30d": 52951,
+      "views_30d": 52990,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -183,14 +183,14 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 955,
+          "views": 990,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
         },
         {
           "title": "박지현, 안정된 공무원 자리를 버리고 트로트 무대를 택한 이유",
-          "views": 10,
+          "views": 11,
           "date": "2026-06-22",
           "duration": 47,
           "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
@@ -204,14 +204,14 @@ window.DATA = {
         },
         {
           "title": "션 — 매일 만 원으로 병원을 세운 가수",
-          "views": 4,
+          "views": 5,
           "date": "2026-06-21",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=v0frUDW9dLs"
         },
         {
           "title": "임영웅 — 버스킹하던 무명가수가 국민가수가 되기까지",
-          "views": 809,
+          "views": 811,
           "date": "2026-06-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
         }
       ],
-      "analyzed_at": "2026-06-24 06:03",
+      "analyzed_at": "2026-06-24 07:06",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 4339,
       "median_views": 2567,
       "uploads_30d": 20,
-      "views_30d": 86792,
+      "views_30d": 86793,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -276,7 +276,7 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10677,
+          "views": 10678,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
         }
       ],
-      "analyzed_at": "2026-06-24 06:04",
+      "analyzed_at": "2026-06-24 07:07",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1314,
-      "median_views": 1495,
+      "avg_views": 1313,
+      "median_views": 1493,
       "uploads_30d": 20,
-      "views_30d": 26285,
+      "views_30d": 26275,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -391,18 +391,18 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
         },
         {
-          "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1936,
-          "date": "2026-06-20",
-          "duration": 36,
-          "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
-        },
-        {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
           "views": 1934,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
+        },
+        {
+          "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
+          "views": 1931,
+          "date": "2026-06-20",
+          "duration": 36,
+          "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         },
         {
           "title": "150만 원 안 되는데 화면이 등 뒤까지 넘어가는 노트북 (옴니북 X 플립 14)",
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1515,
+          "views": 1512,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -464,14 +464,14 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1936,
+          "views": 1931,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1278,
+          "views": 1276,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
         }
       ],
-      "analyzed_at": "2026-06-24 06:04",
+      "analyzed_at": "2026-06-24 07:08",
       "subs_delta": 0
     },
     {
@@ -501,9 +501,9 @@ window.DATA = {
       "subscribers": 2360,
       "sampled": 20,
       "avg_views": 1066,
-      "median_views": 1164,
+      "median_views": 1163,
       "uploads_30d": 20,
-      "views_30d": 21324,
+      "views_30d": 21327,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -545,14 +545,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "Apple 맥북에어 15 M4 / 15.3인치 M4 대화면 데스크 셋업",
-          "views": 316,
+          "views": 321,
           "date": "2026-06-23",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=HM7gULCpk-s"
         },
         {
           "title": "태블릿 화면이 노트북보다 크다고? 갤럭시탭 S10 울트라",
-          "views": 1150,
+          "views": 1149,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=msIGtcGNzq4"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
         }
       ],
-      "analyzed_at": "2026-06-24 06:05",
+      "analyzed_at": "2026-06-24 07:08",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-24 06:02"
+  "generated_at": "2026-06-24 07:06"
 };
