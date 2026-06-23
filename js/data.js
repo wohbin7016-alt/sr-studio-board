@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 3162,
-      "median_views": 2233,
+      "avg_views": 3009,
+      "median_views": 2076,
       "uploads_30d": 20,
-      "views_30d": 63241,
+      "views_30d": 60188,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 11773,
+          "views": 11768,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -37,20 +37,27 @@ window.DATA = {
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4282,
+          "views": 4371,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
-          "title": "수전 안 돌아갈 때 푸는 법",
-          "views": 3470,
-          "date": "2026-06-10",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=PbGx2fbmydI"
+          "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
+          "views": 3225,
+          "date": "2026-06-19",
+          "duration": 20,
+          "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         }
       ],
       "recent_videos": [
+        {
+          "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
+          "views": 334,
+          "date": "2026-06-23",
+          "duration": 20,
+          "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
+        },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
           "views": 1355,
@@ -74,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4282,
+          "views": 4371,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
@@ -109,20 +116,13 @@ window.DATA = {
         },
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 3153,
+          "views": 3152,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
-        },
-        {
-          "title": "갈라진 가죽 소파, 버리지 마세요. 5분이면 새것처럼 됩니다",
-          "views": 1782,
-          "date": "2026-06-18",
-          "duration": 25,
-          "url": "https://www.youtube.com/watch?v=F5d3cMn3jmw"
         }
       ],
-      "analyzed_at": "2026-06-23 12:01",
+      "analyzed_at": "2026-06-23 13:04",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2763,
-      "median_views": 429,
+      "avg_views": 2599,
+      "median_views": 75,
       "uploads_30d": 20,
-      "views_30d": 55277,
+      "views_30d": 51990,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 40034,
+          "views": 40026,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -150,13 +150,6 @@ window.DATA = {
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
-        },
-        {
-          "title": "한쪽으로만 핸들이 무겁다면, 범인은 이 센서입니다",
-          "views": 3367,
-          "date": "2026-06-13",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=RzPNk6W8jCI"
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
@@ -171,9 +164,23 @@ window.DATA = {
           "date": "2026-06-18",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
+        },
+        {
+          "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
+          "views": 1115,
+          "date": "2026-06-16",
+          "duration": 44,
+          "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
         }
       ],
       "recent_videos": [
+        {
+          "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
+          "views": 85,
+          "date": "2026-06-23",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
+        },
         {
           "title": "박지현, 안정된 공무원 자리를 버리고 트로트 무대를 택한 이유",
           "views": 4,
@@ -197,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "임영웅 — 버스킹하던 무명가수가 국민가수가 되기까지",
-          "views": 794,
+          "views": 796,
           "date": "2026-06-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-06-18",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=88pIvaIJ4aY"
-        },
-        {
-          "title": "월세도 없던 남자가 1500조가 되기까지",
-          "views": 1207,
-          "date": "2026-06-18",
-          "duration": 42,
-          "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
         }
       ],
-      "analyzed_at": "2026-06-23 12:01",
+      "analyzed_at": "2026-06-23 13:05",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4445,
-      "median_views": 2694,
+      "avg_views": 4243,
+      "median_views": 2567,
       "uploads_30d": 20,
-      "views_30d": 88909,
+      "views_30d": 84864,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -290,13 +290,20 @@ window.DATA = {
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 6391,
+          "views": 6471,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
         }
       ],
       "recent_videos": [
+        {
+          "title": "목에서 빨간 풍선이? 프레리치킨의 짝짓기 쇼",
+          "views": 330,
+          "date": "2026-06-23",
+          "duration": 29,
+          "url": "https://www.youtube.com/watch?v=sBQDJqIk8Yg"
+        },
         {
           "title": "해달은 왜 손 잡고 잘까",
           "views": 1663,
@@ -320,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 6391,
+          "views": 6471,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -334,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "가오리는 왜 웃는 얼굴일까 (눈은 등 위에)",
-          "views": 2965,
+          "views": 2968,
           "date": "2026-06-20",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6KzQIb91-Zg"
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-18",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
-        },
-        {
-          "title": "호랑이는 왜 암컷에게 함부로 못 덤빌까",
-          "views": 24,
-          "date": "2026-06-18",
-          "duration": 30,
-          "url": "https://www.youtube.com/watch?v=AfOT6Sws68o"
         }
       ],
-      "analyzed_at": "2026-06-23 12:02",
+      "analyzed_at": "2026-06-23 13:05",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1329,
-      "median_views": 1515,
+      "avg_views": 1252,
+      "median_views": 1434,
       "uploads_30d": 20,
-      "views_30d": 26592,
+      "views_30d": 25047,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1962,
+          "views": 1966,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -399,17 +399,10 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1929,
+          "views": 1923,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
-        },
-        {
-          "title": "149만 원인데 화면이 등 뒤로 넘어간다고? HP 옴니북 X 플립 14",
-          "views": 1867,
-          "date": "2026-06-13",
-          "duration": 39,
-          "url": "https://www.youtube.com/watch?v=GMj38VzOFXk"
         },
         {
           "title": "150만 원 안 되는데 화면이 등 뒤까지 넘어가는 노트북 (옴니북 X 플립 14)",
@@ -417,12 +410,26 @@ window.DATA = {
           "date": "2026-06-14",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=qHjbd-m1U2w"
+        },
+        {
+          "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
+          "views": 1749,
+          "date": "2026-06-15",
+          "duration": 35,
+          "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
         }
       ],
       "recent_videos": [
         {
+          "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
+          "views": 324,
+          "date": "2026-06-23",
+          "duration": 31,
+          "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
+        },
+        {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1962,
+          "views": 1966,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -457,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1929,
+          "views": 1923,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -482,16 +489,9 @@ window.DATA = {
           "date": "2026-06-18",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
-        },
-        {
-          "title": "이 스펙이 왜 이 가격? 델 G15 5530의 정체",
-          "views": 1471,
-          "date": "2026-06-18",
-          "duration": 37,
-          "url": "https://www.youtube.com/watch?v=QjLyebPClJ0"
         }
       ],
-      "analyzed_at": "2026-06-23 12:03",
+      "analyzed_at": "2026-06-23 13:06",
       "subs_delta": 0
     },
     {
@@ -500,19 +500,12 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1162,
-      "median_views": 1265,
+      "avg_views": 1075,
+      "median_views": 1190,
       "uploads_30d": 20,
-      "views_30d": 23252,
+      "views_30d": 21508,
       "shorts_ratio": 1.0,
       "top_videos": [
-        {
-          "title": "S펜이 기본 구성이면 반칙이죠, 갤럭시탭 S10 플러스",
-          "views": 2056,
-          "date": "2026-06-12",
-          "duration": 30,
-          "url": "https://www.youtube.com/watch?v=9YKDcPu_shI"
-        },
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
           "views": 1889,
@@ -540,9 +533,23 @@ window.DATA = {
           "date": "2026-06-16",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
+        },
+        {
+          "title": "에이수스_게이밍_V16",
+          "views": 1619,
+          "date": "2026-06-20",
+          "duration": 31,
+          "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
         }
       ],
       "recent_videos": [
+        {
+          "title": "태블릿 화면이 노트북보다 크다고? 갤럭시탭 S10 울트라",
+          "views": 312,
+          "date": "2026-06-23",
+          "duration": 31,
+          "url": "https://www.youtube.com/watch?v=msIGtcGNzq4"
+        },
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
           "views": 1769,
@@ -605,18 +612,11 @@ window.DATA = {
           "date": "2026-06-18",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=EDQXV8Bh8RM"
-        },
-        {
-          "title": "맥북 프로가 에어보다 비싼 진짜 이유 (맥북 프로 14 M4)",
-          "views": 1381,
-          "date": "2026-06-18",
-          "duration": 34,
-          "url": "https://www.youtube.com/watch?v=fV5nbHUBa-Y"
         }
       ],
-      "analyzed_at": "2026-06-23 12:03",
+      "analyzed_at": "2026-06-23 13:07",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-23 12:01"
+  "generated_at": "2026-06-23 13:04"
 };
