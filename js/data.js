@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 3070,
+      "avg_views": 3072,
       "median_views": 2076,
       "uploads_30d": 20,
-      "views_30d": 61414,
+      "views_30d": 61459,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,7 +23,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7788,
+          "views": 7797,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 1194,
+          "views": 1226,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -74,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1334,
+          "views": 1338,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7788,
+          "views": 7797,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
         }
       ],
-      "analyzed_at": "2026-06-23 18:23",
+      "analyzed_at": "2026-06-23 19:26",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2627,
-      "median_views": 338,
+      "avg_views": 2630,
+      "median_views": 362,
       "uploads_30d": 20,
-      "views_30d": 52559,
+      "views_30d": 52611,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 40034,
+          "views": 40035,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 611,
+          "views": 659,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "임영웅 — 버스킹하던 무명가수가 국민가수가 되기까지",
-          "views": 803,
+          "views": 805,
           "date": "2026-06-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
@@ -218,7 +218,7 @@ window.DATA = {
         },
         {
           "title": "선로에 뛰어든 26살 한국 청년… 단 2초가 운명을 갈랐다 #shorts",
-          "views": 998,
+          "views": 999,
           "date": "2026-06-20",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=GA4arzC36I0"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=88pIvaIJ4aY"
         }
       ],
-      "analyzed_at": "2026-06-23 18:23",
+      "analyzed_at": "2026-06-23 19:27",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4315,
+      "avg_views": 4320,
       "median_views": 2567,
       "uploads_30d": 20,
-      "views_30d": 86312,
+      "views_30d": 86410,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -282,18 +282,18 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
+          "title": "북극곰은 왜 흰색인데 피부는 까말까",
+          "views": 6582,
+          "date": "2026-06-21",
+          "duration": 19,
+          "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
+        },
+        {
           "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
           "views": 6574,
           "date": "2026-06-13",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
-        },
-        {
-          "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 6508,
-          "date": "2026-06-21",
-          "duration": 19,
-          "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
         }
       ],
       "recent_videos": [
@@ -313,21 +313,21 @@ window.DATA = {
         },
         {
           "title": "비버는 왜 한밤중에 댐을 쌓을까 (정작 댐 안엔 안 산다고?)",
-          "views": 20,
+          "views": 33,
           "date": "2026-06-22",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=gof_oUPOHWM"
         },
         {
           "title": "도마뱀은 왜 꼬리를 스스로 끊을까",
-          "views": 1938,
+          "views": 1954,
           "date": "2026-06-21",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=V4kkM4AWB_4"
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 6508,
+          "views": 6582,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -348,7 +348,7 @@ window.DATA = {
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 2856,
+          "views": 2851,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
         }
       ],
-      "analyzed_at": "2026-06-23 18:24",
+      "analyzed_at": "2026-06-23 19:28",
       "subs_delta": 0
     },
     {
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
         }
       ],
-      "analyzed_at": "2026-06-23 18:25",
+      "analyzed_at": "2026-06-23 19:29",
       "subs_delta": 0
     },
     {
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=EDQXV8Bh8RM"
         }
       ],
-      "analyzed_at": "2026-06-23 18:26",
+      "analyzed_at": "2026-06-23 19:29",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-23 18:23"
+  "generated_at": "2026-06-23 19:26"
 };
