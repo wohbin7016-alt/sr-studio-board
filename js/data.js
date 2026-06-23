@@ -8,22 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2862,
+      "avg_views": 2879,
       "median_views": 2001,
       "uploads_30d": 20,
-      "views_30d": 57256,
+      "views_30d": 57593,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 11898,
+          "views": 11917,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7798,
+          "views": 7796,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -37,14 +37,14 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3235,
+          "views": 3238,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         },
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 3154,
+          "views": 3152,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 1164,
+          "views": 1477,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1446,
+          "views": 1443,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1351,
+          "views": 1359,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7798,
+          "views": 7796,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -109,20 +109,20 @@ window.DATA = {
         },
         {
           "title": "썩은 나무 통째로 버리지 마세요… 2액형 에폭시로 새것처럼 #shorts",
-          "views": 2809,
+          "views": 2810,
           "date": "2026-06-19",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3235,
+          "views": 3238,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         }
       ],
-      "analyzed_at": "2026-06-24 03:56",
+      "analyzed_at": "2026-06-24 04:59",
       "subs_delta": 0
     },
     {
@@ -131,29 +131,29 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2644,
+      "avg_views": 2647,
       "median_views": 437,
       "uploads_30d": 20,
-      "views_30d": 52880,
+      "views_30d": 52944,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 40051,
+          "views": 40055,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 4255,
+          "views": 4256,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1571,
+          "views": 1572,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 890,
+          "views": 947,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -197,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "인류 첫 발자국 — 그날 온 세계가 멈췄다 (닐 암스트롱)",
-          "views": 843,
+          "views": 844,
           "date": "2026-06-22",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
         }
       ],
-      "analyzed_at": "2026-06-24 03:57",
+      "analyzed_at": "2026-06-24 05:00",
       "subs_delta": 0
     },
     {
@@ -254,36 +254,36 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4334,
+      "avg_views": 4337,
       "median_views": 2567,
       "uploads_30d": 20,
-      "views_30d": 86699,
+      "views_30d": 86751,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 15859,
+          "views": 15858,
           "date": "2026-06-16",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
         },
         {
           "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14414,
+          "views": 14413,
           "date": "2026-06-13",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10678,
+          "views": 10677,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 6684,
+          "views": 6669,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -306,7 +306,7 @@ window.DATA = {
         },
         {
           "title": "해달은 왜 손 잡고 잘까",
-          "views": 1847,
+          "views": 1895,
           "date": "2026-06-22",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=Pw_xlCPud40"
@@ -320,14 +320,14 @@ window.DATA = {
         },
         {
           "title": "도마뱀은 왜 꼬리를 스스로 끊을까",
-          "views": 1974,
+          "views": 1983,
           "date": "2026-06-21",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=V4kkM4AWB_4"
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 6684,
+          "views": 6669,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -341,14 +341,14 @@ window.DATA = {
         },
         {
           "title": "가오리는 왜 웃는 얼굴일까 (눈은 등 위에)",
-          "views": 2990,
+          "views": 3001,
           "date": "2026-06-20",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6KzQIb91-Zg"
         },
         {
           "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 2862,
+          "views": 2864,
           "date": "2026-06-19",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
         }
       ],
-      "analyzed_at": "2026-06-24 03:57",
+      "analyzed_at": "2026-06-24 05:01",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1312,
-      "median_views": 1484,
+      "avg_views": 1313,
+      "median_views": 1493,
       "uploads_30d": 20,
-      "views_30d": 26256,
+      "views_30d": 26275,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1971,
+          "views": 1969,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -422,21 +422,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1496,
+          "views": 1512,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
         },
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1971,
+          "views": 1969,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
         },
         {
           "title": "ASUS ROG 스트릭스 G16 / i9 13세대·RTX 4060·240Hz",
-          "views": 358,
+          "views": 359,
           "date": "2026-06-22",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=T4FmeY1NqdA"
@@ -457,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
-          "views": 1284,
+          "views": 1285,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
         }
       ],
-      "analyzed_at": "2026-06-24 03:58",
+      "analyzed_at": "2026-06-24 05:01",
       "subs_delta": 0
     },
     {
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 1066,
       "median_views": 1163,
       "uploads_30d": 20,
-      "views_30d": 21328,
+      "views_30d": 21321,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -522,14 +522,14 @@ window.DATA = {
         },
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 1776,
+          "views": 1766,
           "date": "2026-06-22",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
         },
         {
           "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1669,
+          "views": 1670,
           "date": "2026-06-16",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
@@ -559,7 +559,7 @@ window.DATA = {
         },
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 1776,
+          "views": 1766,
           "date": "2026-06-22",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
         }
       ],
-      "analyzed_at": "2026-06-24 03:59",
+      "analyzed_at": "2026-06-24 05:02",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-24 03:56"
+  "generated_at": "2026-06-24 04:59"
 };
