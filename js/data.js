@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2869,
-      "median_views": 1966,
+      "avg_views": 2862,
+      "median_views": 2001,
       "uploads_30d": 20,
-      "views_30d": 57385,
+      "views_30d": 57256,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,21 +30,21 @@ window.DATA = {
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4633,
+          "views": 4708,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3233,
+          "views": 3235,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         },
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 3152,
+          "views": 3154,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 1446,
+          "views": 1164,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
@@ -67,14 +67,14 @@ window.DATA = {
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1443,
+          "views": 1446,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 1967,
+          "views": 2037,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4633,
+          "views": 4708,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3233,
+          "views": 3235,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         }
       ],
-      "analyzed_at": "2026-06-24 02:53",
+      "analyzed_at": "2026-06-24 03:56",
       "subs_delta": 0
     },
     {
@@ -132,28 +132,28 @@ window.DATA = {
       "subscribers": 1140,
       "sampled": 20,
       "avg_views": 2644,
-      "median_views": 438,
+      "median_views": 437,
       "uploads_30d": 20,
-      "views_30d": 52888,
+      "views_30d": 52880,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 40055,
+          "views": 40051,
           "date": "2026-06-14",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 4256,
+          "views": 4255,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         },
         {
           "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1572,
+          "views": 1571,
           "date": "2026-06-15",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
@@ -197,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "인류 첫 발자국 — 그날 온 세계가 멈췄다 (닐 암스트롱)",
-          "views": 844,
+          "views": 843,
           "date": "2026-06-22",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "임영웅 — 버스킹하던 무명가수가 국민가수가 되기까지",
-          "views": 810,
+          "views": 809,
           "date": "2026-06-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
         }
       ],
-      "analyzed_at": "2026-06-24 02:53",
+      "analyzed_at": "2026-06-24 03:57",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4332,
+      "avg_views": 4334,
       "median_views": 2567,
       "uploads_30d": 20,
-      "views_30d": 86652,
+      "views_30d": 86699,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -283,7 +283,7 @@ window.DATA = {
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 6637,
+          "views": 6684,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -327,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 6637,
+          "views": 6684,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
         }
       ],
-      "analyzed_at": "2026-06-24 02:54",
+      "analyzed_at": "2026-06-24 03:57",
       "subs_delta": 0
     },
     {
@@ -380,7 +380,7 @@ window.DATA = {
       "avg_views": 1312,
       "median_views": 1484,
       "uploads_30d": 20,
-      "views_30d": 26251,
+      "views_30d": 26256,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -457,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
-          "views": 1285,
+          "views": 1284,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
@@ -471,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1273,
+          "views": 1276,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
         }
       ],
-      "analyzed_at": "2026-06-24 02:55",
+      "analyzed_at": "2026-06-24 03:58",
       "subs_delta": 0
     },
     {
@@ -501,9 +501,9 @@ window.DATA = {
       "subscribers": 2360,
       "sampled": 20,
       "avg_views": 1066,
-      "median_views": 1168,
+      "median_views": 1163,
       "uploads_30d": 20,
-      "views_30d": 21337,
+      "views_30d": 21328,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -515,7 +515,7 @@ window.DATA = {
         },
         {
           "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
-          "views": 1842,
+          "views": 1843,
           "date": "2026-06-21",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
@@ -536,7 +536,7 @@ window.DATA = {
         },
         {
           "title": "에이수스_게이밍_V16",
-          "views": 1623,
+          "views": 1624,
           "date": "2026-06-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
@@ -552,7 +552,7 @@ window.DATA = {
         },
         {
           "title": "태블릿 화면이 노트북보다 크다고? 갤럭시탭 S10 울트라",
-          "views": 1160,
+          "views": 1149,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=msIGtcGNzq4"
@@ -573,7 +573,7 @@ window.DATA = {
         },
         {
           "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
-          "views": 1842,
+          "views": 1843,
           "date": "2026-06-21",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
@@ -594,7 +594,7 @@ window.DATA = {
         },
         {
           "title": "에이수스_게이밍_V16",
-          "views": 1623,
+          "views": 1624,
           "date": "2026-06-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
         }
       ],
-      "analyzed_at": "2026-06-24 02:55",
+      "analyzed_at": "2026-06-24 03:59",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-24 02:53"
+  "generated_at": "2026-06-24 03:56"
 };
