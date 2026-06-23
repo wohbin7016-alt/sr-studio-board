@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2851,
+      "avg_views": 2868,
       "median_views": 1966,
       "uploads_30d": 20,
-      "views_30d": 57028,
+      "views_30d": 57368,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 11856,
+          "views": 11898,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 1164,
+          "views": 1446,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 1281,
+          "views": 1297,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         }
       ],
-      "analyzed_at": "2026-06-24 00:46",
+      "analyzed_at": "2026-06-24 01:49",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
         }
       ],
-      "analyzed_at": "2026-06-24 00:47",
+      "analyzed_at": "2026-06-24 01:50",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4328,
+      "avg_views": 4331,
       "median_views": 2567,
       "uploads_30d": 20,
-      "views_30d": 86572,
+      "views_30d": 86627,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -276,7 +276,7 @@ window.DATA = {
         },
         {
           "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10676,
+          "views": 10677,
           "date": "2026-06-15",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
@@ -306,7 +306,7 @@ window.DATA = {
         },
         {
           "title": "해달은 왜 손 잡고 잘까",
-          "views": 1782,
+          "views": 1826,
           "date": "2026-06-22",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=Pw_xlCPud40"
@@ -320,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "도마뱀은 왜 꼬리를 스스로 끊을까",
-          "views": 1964,
+          "views": 1974,
           "date": "2026-06-21",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=V4kkM4AWB_4"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
         }
       ],
-      "analyzed_at": "2026-06-24 00:47",
+      "analyzed_at": "2026-06-24 01:51",
       "subs_delta": 0
     },
     {
@@ -380,7 +380,7 @@ window.DATA = {
       "avg_views": 1312,
       "median_views": 1484,
       "uploads_30d": 20,
-      "views_30d": 26246,
+      "views_30d": 26250,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -399,7 +399,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1927,
+          "views": 1931,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1927,
+          "views": 1931,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
         }
       ],
-      "analyzed_at": "2026-06-24 00:48",
+      "analyzed_at": "2026-06-24 01:52",
       "subs_delta": 0
     },
     {
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
         }
       ],
-      "analyzed_at": "2026-06-24 00:49",
+      "analyzed_at": "2026-06-24 01:52",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-24 00:46"
+  "generated_at": "2026-06-24 01:49"
 };
