@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2892,
-      "median_views": 2013,
+      "avg_views": 2894,
+      "median_views": 2047,
       "uploads_30d": 20,
-      "views_30d": 57840,
+      "views_30d": 57897,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -60,28 +60,28 @@ window.DATA = {
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 1355,
+          "views": 1356,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1502,
+          "views": 1483,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2060,
+          "views": 2129,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1360,
+          "views": 1364,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1816,
+          "views": 1818,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
@@ -122,131 +122,24 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         }
       ],
-      "analyzed_at": "2026-06-24 10:15",
+      "analyzed_at": "2026-06-24 11:18",
       "subs_delta": 0
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
-      "name": "카픽스",
-      "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
-      "subscribers": 1140,
-      "sampled": 20,
-      "avg_views": 2659,
-      "median_views": 441,
-      "uploads_30d": 20,
-      "views_30d": 53180,
-      "shorts_ratio": 1.0,
-      "top_videos": [
-        {
-          "title": "한국 응원에 인도가 발끈했는데, 멕시코 반응은?",
-          "views": 40057,
-          "date": "2026-06-14",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=zGJ0VXmnjw8"
-        },
-        {
-          "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 4256,
-          "date": "2026-06-17",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
-        },
-        {
-          "title": "미국vs이란 32강서 만날까? (2026 월드컵)",
-          "views": 1572,
-          "date": "2026-06-15",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=QjvhwwxpUxo"
-        },
-        {
-          "title": "월세도 없던 남자가 1500조가 되기까지",
-          "views": 1207,
-          "date": "2026-06-18",
-          "duration": 42,
-          "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
-        },
-        {
-          "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1168,
-          "date": "2026-06-23",
-          "duration": 25,
-          "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
-        }
-      ],
-      "recent_videos": [
-        {
-          "title": "데뷔 전 KBS 노래가 좋아 4연승, 무명의 실력이 빛난 박지현",
-          "views": 8,
-          "date": "2026-06-23",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=95yJlTs1rlo"
-        },
-        {
-          "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1168,
-          "date": "2026-06-23",
-          "duration": 25,
-          "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
-        },
-        {
-          "title": "박지현, 안정된 공무원 자리를 버리고 트로트 무대를 택한 이유",
-          "views": 11,
-          "date": "2026-06-22",
-          "duration": 47,
-          "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
-        },
-        {
-          "title": "인류 첫 발자국 — 그날 온 세계가 멈췄다 (닐 암스트롱)",
-          "views": 844,
-          "date": "2026-06-22",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
-        },
-        {
-          "title": "션 — 매일 만 원으로 병원을 세운 가수",
-          "views": 5,
-          "date": "2026-06-21",
-          "duration": 32,
-          "url": "https://www.youtube.com/watch?v=v0frUDW9dLs"
-        },
-        {
-          "title": "임영웅 — 버스킹하던 무명가수가 국민가수가 되기까지",
-          "views": 816,
-          "date": "2026-06-21",
-          "duration": 34,
-          "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
-        },
-        {
-          "title": "한 살 반에 빛과 소리를 잃은 아이 (헬렌 켈러)",
-          "views": 4,
-          "date": "2026-06-20",
-          "duration": 30,
-          "url": "https://www.youtube.com/watch?v=LhrrJEFcNw8"
-        },
-        {
-          "title": "선로에 뛰어든 26살 한국 청년… 단 2초가 운명을 갈랐다 #shorts",
-          "views": 1003,
-          "date": "2026-06-20",
-          "duration": 32,
-          "url": "https://www.youtube.com/watch?v=GA4arzC36I0"
-        },
-        {
-          "title": "음바페가 골 넣고 유니폼에 숨긴 한 줄… 8살 루카스의 마지막 #shorts",
-          "views": 39,
-          "date": "2026-06-19",
-          "duration": 30,
-          "url": "https://www.youtube.com/watch?v=tTVIlTqTbUY"
-        },
-        {
-          "title": "27년을 감옥에서 보낸 남자가 한 의외의 행동",
-          "views": 901,
-          "date": "2026-06-19",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
-        }
-      ],
-      "analyzed_at": "2026-06-24 10:16",
-      "subs_delta": 0
+      "name": "https://youtube.com/@mechanicstudio-t4f",
+      "channel_id": "",
+      "subscribers": null,
+      "sampled": 0,
+      "avg_views": 0,
+      "median_views": 0,
+      "uploads_30d": 0,
+      "views_30d": 0,
+      "shorts_ratio": 0,
+      "top_videos": [],
+      "recent_videos": [],
+      "analyzed_at": "2026-06-24 11:18",
+      "subs_delta": null
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -255,9 +148,9 @@ window.DATA = {
       "subscribers": 72900,
       "sampled": 20,
       "avg_views": 1314,
-      "median_views": 1495,
+      "median_views": 1498,
       "uploads_30d": 20,
-      "views_30d": 26286,
+      "views_30d": 26293,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +192,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1515,
+          "views": 1522,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -368,7 +261,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
         }
       ],
-      "analyzed_at": "2026-06-24 10:17",
+      "analyzed_at": "2026-06-24 11:19",
       "subs_delta": 0
     },
     {
@@ -491,9 +384,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
         }
       ],
-      "analyzed_at": "2026-06-24 10:17",
+      "analyzed_at": "2026-06-24 11:19",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-24 10:15"
+  "generated_at": "2026-06-24 11:18"
 };
