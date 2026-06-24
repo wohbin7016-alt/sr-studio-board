@@ -8,29 +8,29 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2886,
-      "median_views": 2010,
+      "avg_views": 2892,
+      "median_views": 2013,
       "uploads_30d": 20,
-      "views_30d": 57734,
+      "views_30d": 57840,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 11944,
+          "views": 11953,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7798,
+          "views": 7803,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4722,
+          "views": 4746,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
@@ -60,21 +60,21 @@ window.DATA = {
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 1311,
+          "views": 1355,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1483,
+          "views": 1502,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2055,
+          "views": 2060,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
@@ -88,14 +88,14 @@ window.DATA = {
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4722,
+          "views": 4746,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7798,
+          "views": 7803,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         }
       ],
-      "analyzed_at": "2026-06-24 09:12",
+      "analyzed_at": "2026-06-24 10:15",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2655,
+      "avg_views": 2659,
       "median_views": 441,
       "uploads_30d": 20,
-      "views_30d": 53113,
+      "views_30d": 53180,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -166,11 +166,11 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
         },
         {
-          "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
-          "views": 1115,
-          "date": "2026-06-16",
-          "duration": 44,
-          "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
+          "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
+          "views": 1168,
+          "date": "2026-06-23",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
         }
       ],
       "recent_videos": [
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1102,
+          "views": 1168,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -225,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "선로에 뛰어든 26살 한국 청년… 단 2초가 운명을 갈랐다 #shorts",
-          "views": 1002,
+          "views": 1003,
           "date": "2026-06-20",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=GA4arzC36I0"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
         }
       ],
-      "analyzed_at": "2026-06-24 09:13",
+      "analyzed_at": "2026-06-24 10:16",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1314,
       "median_views": 1495,
       "uploads_30d": 20,
-      "views_30d": 26285,
+      "views_30d": 26286,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -269,7 +269,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1936,
+          "views": 1937,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -341,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1936,
+          "views": 1937,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
         }
       ],
-      "analyzed_at": "2026-06-24 09:14",
+      "analyzed_at": "2026-06-24 10:17",
       "subs_delta": 0
     },
     {
@@ -380,7 +380,7 @@ window.DATA = {
       "avg_views": 1066,
       "median_views": 1164,
       "uploads_30d": 20,
-      "views_30d": 21330,
+      "views_30d": 21331,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "Apple 맥북에어 15 M4 / 15.3인치 M4 대화면 데스크 셋업",
-          "views": 321,
+          "views": 322,
           "date": "2026-06-23",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=HM7gULCpk-s"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
         }
       ],
-      "analyzed_at": "2026-06-24 09:15",
+      "analyzed_at": "2026-06-24 10:17",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-24 09:12"
+  "generated_at": "2026-06-24 10:15"
 };
