@@ -8,22 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2892,
-      "median_views": 1900,
+      "avg_views": 2351,
+      "median_views": 1810,
       "uploads_30d": 20,
-      "views_30d": 57854,
+      "views_30d": 47022,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
-          "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 12012,
-          "date": "2026-06-14",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
-        },
-        {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7840,
+          "views": 7845,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -48,12 +41,26 @@ window.DATA = {
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
+        },
+        {
+          "title": "썩은 나무 통째로 버리지 마세요… 2액형 에폭시로 새것처럼 #shorts",
+          "views": 2811,
+          "date": "2026-06-19",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
         }
       ],
       "recent_videos": [
         {
+          "title": "막힌 샤워헤드 식초로 뚫기",
+          "views": 1103,
+          "date": "2026-06-24",
+          "duration": 20,
+          "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
+        },
+        {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 1302,
+          "views": 1327,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
@@ -74,14 +81,14 @@ window.DATA = {
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1564,
+          "views": 1579,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2315,
+          "views": 2347,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
@@ -102,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7840,
+          "views": 7845,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
-        },
-        {
-          "title": "썩은 나무 통째로 버리지 마세요… 2액형 에폭시로 새것처럼 #shorts",
-          "views": 2811,
-          "date": "2026-06-19",
-          "duration": 25,
-          "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
         }
       ],
-      "analyzed_at": "2026-06-24 21:49",
+      "analyzed_at": "2026-06-24 22:52",
       "subs_delta": 0
     },
     {
@@ -138,7 +138,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-06-24 21:49",
+      "analyzed_at": "2026-06-24 22:53",
       "subs_delta": null
     },
     {
@@ -147,10 +147,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1260,
+      "avg_views": 1265,
       "median_views": 1433,
       "uploads_30d": 20,
-      "views_30d": 25216,
+      "views_30d": 25300,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -192,7 +192,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 887,
+          "views": 971,
           "date": "2026-06-24",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
@@ -261,7 +261,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
         }
       ],
-      "analyzed_at": "2026-06-24 21:50",
+      "analyzed_at": "2026-06-24 22:53",
       "subs_delta": 0
     },
     {
@@ -270,10 +270,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1125,
-      "median_views": 1194,
+      "avg_views": 1128,
+      "median_views": 1193,
       "uploads_30d": 20,
-      "views_30d": 22501,
+      "views_30d": 22566,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -315,14 +315,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "목에서 빨간 풍선이? 프레리치킨의 짝짓기 쇼",
-          "views": 750,
+          "views": 800,
           "date": "2026-06-24",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=gmq-pvlL-00"
         },
         {
           "title": "춤추는 새? 멧도요가 몸을 흔드는 진짜 이유",
-          "views": 1470,
+          "views": 1486,
           "date": "2026-06-24",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=dJRG9efcloI"
@@ -350,7 +350,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 1210,
+          "views": 1209,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
@@ -384,9 +384,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
         }
       ],
-      "analyzed_at": "2026-06-24 21:52",
+      "analyzed_at": "2026-06-24 22:54",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-24 21:49"
+  "generated_at": "2026-06-24 22:52"
 };
