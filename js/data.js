@@ -23,7 +23,7 @@ window.DATA = {
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4946,
+          "views": 4963,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
@@ -60,7 +60,7 @@ window.DATA = {
         },
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 1493,
+          "views": 1473,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1601,
+          "views": 1608,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
@@ -95,14 +95,14 @@ window.DATA = {
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1398,
+          "views": 1394,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4946,
+          "views": 4963,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
         }
       ],
-      "analyzed_at": "2026-06-25 07:11",
+      "analyzed_at": "2026-06-25 08:13",
       "subs_delta": 0
     },
     {
@@ -138,7 +138,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-06-25 07:11",
+      "analyzed_at": "2026-06-25 08:13",
       "subs_delta": null
     },
     {
@@ -150,7 +150,7 @@ window.DATA = {
       "avg_views": 1286,
       "median_views": 1438,
       "uploads_30d": 20,
-      "views_30d": 25728,
+      "views_30d": 25723,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -206,7 +206,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1535,
+          "views": 1534,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -255,13 +255,13 @@ window.DATA = {
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1294,
+          "views": 1290,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
         }
       ],
-      "analyzed_at": "2026-06-25 07:12",
+      "analyzed_at": "2026-06-25 08:14",
       "subs_delta": 0
     },
     {
@@ -384,9 +384,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
         }
       ],
-      "analyzed_at": "2026-06-25 07:13",
+      "analyzed_at": "2026-06-25 08:15",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-25 07:11"
+  "generated_at": "2026-06-25 08:13"
 };
