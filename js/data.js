@@ -127,7 +127,7 @@ window.DATA = {
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
-      "name": "비하인드썰",
+      "name": "카픽스",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
@@ -373,7 +373,7 @@ window.DATA = {
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
-      "name": "카픽스",
+      "name": "왜그럴까",
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
