@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2875,
-      "median_views": 1896,
+      "avg_views": 2882,
+      "median_views": 1898,
       "uploads_30d": 20,
-      "views_30d": 57503,
+      "views_30d": 57653,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
-          "views": 11987,
+          "views": 11999,
           "date": "2026-06-14",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 1245,
+          "views": 1302,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
         },
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 1523,
+          "views": 1533,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
@@ -74,14 +74,14 @@ window.DATA = {
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1541,
+          "views": 1564,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2272,
+          "views": 2315,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1826,
+          "views": 1831,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
         }
       ],
-      "analyzed_at": "2026-06-24 18:38",
+      "analyzed_at": "2026-06-24 19:41",
       "subs_delta": 0
     },
     {
@@ -138,7 +138,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-06-24 18:38",
+      "analyzed_at": "2026-06-24 19:41",
       "subs_delta": null
     },
     {
@@ -147,10 +147,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1296,
-      "median_views": 1436,
+      "avg_views": 1221,
+      "median_views": 1356,
       "uploads_30d": 20,
-      "views_30d": 25935,
+      "views_30d": 24426,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -175,21 +175,28 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
         },
         {
-          "title": "150만 원 안 되는데 화면이 등 뒤까지 넘어가는 노트북 (옴니북 X 플립 14)",
-          "views": 1780,
-          "date": "2026-06-14",
-          "duration": 39,
-          "url": "https://www.youtube.com/watch?v=qHjbd-m1U2w"
-        },
-        {
           "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
           "views": 1750,
           "date": "2026-06-15",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
+        },
+        {
+          "title": "100만 원대 노트북이 AI를 자체적으로 돌린다고? 레노버 슬림5",
+          "views": 1617,
+          "date": "2026-06-21",
+          "duration": 33,
+          "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         }
       ],
       "recent_videos": [
+        {
+          "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
+          "views": 262,
+          "date": "2026-06-24",
+          "duration": 31,
+          "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
+        },
         {
           "title": "200만 원 게이밍을 반값에? MSI 스워드 GF76 HX (i7 14세대 · RTX 5060 · 17.3 144Hz)",
           "views": 1314,
@@ -199,7 +206,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1528,
+          "views": 1535,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -213,7 +220,7 @@ window.DATA = {
         },
         {
           "title": "ASUS ROG 스트릭스 G16 / i9 13세대·RTX 4060·240Hz",
-          "views": 362,
+          "views": 363,
           "date": "2026-06-22",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=T4FmeY1NqdA"
@@ -252,16 +259,9 @@ window.DATA = {
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
-        },
-        {
-          "title": "겉은 수수한데 i7에 RTX 4060? 기가바이트 G6X 정체",
-          "views": 401,
-          "date": "2026-06-19",
-          "duration": 31,
-          "url": "https://www.youtube.com/watch?v=vN9AyUTpynI"
         }
       ],
-      "analyzed_at": "2026-06-24 18:39",
+      "analyzed_at": "2026-06-24 19:41",
       "subs_delta": 0
     },
     {
@@ -270,10 +270,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1120,
+      "avg_views": 1107,
       "median_views": 1193,
       "uploads_30d": 20,
-      "views_30d": 22411,
+      "views_30d": 22144,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -314,8 +314,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "목에서 빨간 풍선이? 프레리치킨의 짝짓기 쇼",
+          "views": 398,
+          "date": "2026-06-24",
+          "duration": 29,
+          "url": "https://www.youtube.com/watch?v=gmq-pvlL-00"
+        },
+        {
           "title": "춤추는 새? 멧도요가 몸을 흔드는 진짜 이유",
-          "views": 1369,
+          "views": 1470,
           "date": "2026-06-24",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=dJRG9efcloI"
@@ -375,18 +382,11 @@ window.DATA = {
           "date": "2026-06-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
-        },
-        {
-          "title": "에이수스 비보북 Go 15 / 89만 원대 사무용 가성비 노트북",
-          "views": 552,
-          "date": "2026-06-19",
-          "duration": 34,
-          "url": "https://www.youtube.com/watch?v=0yeHBMU8mWo"
         }
       ],
-      "analyzed_at": "2026-06-24 18:40",
+      "analyzed_at": "2026-06-24 19:42",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-24 18:38"
+  "generated_at": "2026-06-24 19:41"
 };
