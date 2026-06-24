@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2407,
+      "avg_views": 2410,
       "median_views": 1810,
       "uploads_30d": 20,
-      "views_30d": 48149,
+      "views_30d": 48200,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -67,14 +67,14 @@ window.DATA = {
         },
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 1599,
+          "views": 1623,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 1690,
+          "views": 1717,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
         }
       ],
-      "analyzed_at": "2026-06-25 06:09",
+      "analyzed_at": "2026-06-25 07:11",
       "subs_delta": 0
     },
     {
@@ -138,7 +138,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-06-25 06:09",
+      "analyzed_at": "2026-06-25 07:11",
       "subs_delta": null
     },
     {
@@ -147,10 +147,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1285,
+      "avg_views": 1286,
       "median_views": 1438,
       "uploads_30d": 20,
-      "views_30d": 25719,
+      "views_30d": 25728,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -241,7 +241,7 @@ window.DATA = {
         },
         {
           "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
-          "views": 1286,
+          "views": 1290,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
@@ -255,13 +255,13 @@ window.DATA = {
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1290,
+          "views": 1294,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
         }
       ],
-      "analyzed_at": "2026-06-25 06:10",
+      "analyzed_at": "2026-06-25 07:12",
       "subs_delta": 0
     },
     {
@@ -273,7 +273,7 @@ window.DATA = {
       "avg_views": 1141,
       "median_views": 1195,
       "uploads_30d": 20,
-      "views_30d": 22835,
+      "views_30d": 22837,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -329,7 +329,7 @@ window.DATA = {
         },
         {
           "title": "Apple 맥북에어 15 M4 / 15.3인치 M4 대화면 데스크 셋업",
-          "views": 324,
+          "views": 325,
           "date": "2026-06-23",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=HM7gULCpk-s"
@@ -350,7 +350,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 1212,
+          "views": 1213,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
@@ -384,9 +384,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
         }
       ],
-      "analyzed_at": "2026-06-25 06:10",
+      "analyzed_at": "2026-06-25 07:13",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-25 06:09"
+  "generated_at": "2026-06-25 07:11"
 };
