@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2885,
-      "median_views": 2013,
+      "avg_views": 2886,
+      "median_views": 2010,
       "uploads_30d": 20,
-      "views_30d": 57717,
+      "views_30d": 57734,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -67,21 +67,21 @@ window.DATA = {
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1462,
+          "views": 1483,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2060,
+          "views": 2055,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1359,
+          "views": 1360,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         }
       ],
-      "analyzed_at": "2026-06-24 08:09",
+      "analyzed_at": "2026-06-24 09:12",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 2650,
+      "avg_views": 2655,
       "median_views": 441,
       "uploads_30d": 20,
-      "views_30d": 53006,
+      "views_30d": 53113,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,21 +176,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "데뷔 전 KBS 노래가 좋아 4연승, 무명의 실력이 빛난 박지현",
-          "views": 6,
+          "views": 8,
           "date": "2026-06-23",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=95yJlTs1rlo"
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1000,
+          "views": 1102,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
         },
         {
           "title": "박지현, 안정된 공무원 자리를 버리고 트로트 무대를 택한 이유",
-          "views": 10,
+          "views": 11,
           "date": "2026-06-22",
           "duration": 47,
           "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
@@ -225,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "선로에 뛰어든 26살 한국 청년… 단 2초가 운명을 갈랐다 #shorts",
-          "views": 1000,
+          "views": 1002,
           "date": "2026-06-20",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=GA4arzC36I0"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=pUwBKe9SoBU"
         }
       ],
-      "analyzed_at": "2026-06-24 08:10",
+      "analyzed_at": "2026-06-24 09:13",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
       "subscribers": 1120,
       "sampled": 20,
-      "avg_views": 4341,
+      "avg_views": 4343,
       "median_views": 2567,
       "uploads_30d": 20,
-      "views_30d": 86835,
+      "views_30d": 86861,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -283,7 +283,7 @@ window.DATA = {
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 6704,
+          "views": 6729,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -313,7 +313,7 @@ window.DATA = {
         },
         {
           "title": "비버는 왜 한밤중에 댐을 쌓을까 (정작 댐 안엔 안 산다고?)",
-          "views": 38,
+          "views": 39,
           "date": "2026-06-22",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=gof_oUPOHWM"
@@ -327,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 6704,
+          "views": 6729,
           "date": "2026-06-21",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
         }
       ],
-      "analyzed_at": "2026-06-24 08:10",
+      "analyzed_at": "2026-06-24 09:13",
       "subs_delta": 0
     },
     {
@@ -380,7 +380,7 @@ window.DATA = {
       "avg_views": 1314,
       "median_views": 1495,
       "uploads_30d": 20,
-      "views_30d": 26280,
+      "views_30d": 26285,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -391,18 +391,18 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
         },
         {
+          "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
+          "views": 1936,
+          "date": "2026-06-20",
+          "duration": 36,
+          "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
+        },
+        {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
           "views": 1934,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
-        },
-        {
-          "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1931,
-          "date": "2026-06-20",
-          "duration": 36,
-          "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         },
         {
           "title": "150만 원 안 되는데 화면이 등 뒤까지 넘어가는 노트북 (옴니북 X 플립 14)",
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1931,
+          "views": 1936,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
         }
       ],
-      "analyzed_at": "2026-06-24 08:11",
+      "analyzed_at": "2026-06-24 09:14",
       "subs_delta": 0
     },
     {
@@ -614,9 +614,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
         }
       ],
-      "analyzed_at": "2026-06-24 08:11",
+      "analyzed_at": "2026-06-24 09:15",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-24 08:09"
+  "generated_at": "2026-06-24 09:12"
 };
