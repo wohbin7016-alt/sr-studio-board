@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2841,
-      "median_views": 1892,
+      "avg_views": 2842,
+      "median_views": 1896,
       "uploads_30d": 20,
-      "views_30d": 56832,
+      "views_30d": 56841,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -60,7 +60,7 @@ window.DATA = {
         },
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 1502,
+          "views": 1506,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
@@ -74,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1523,
+          "views": 1529,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1373,
+          "views": 1364,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1818,
+          "views": 1826,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
         }
       ],
-      "analyzed_at": "2026-06-24 14:25",
+      "analyzed_at": "2026-06-24 15:28",
       "subs_delta": 0
     },
     {
@@ -138,7 +138,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-06-24 14:25",
+      "analyzed_at": "2026-06-24 15:28",
       "subs_delta": null
     },
     {
@@ -147,10 +147,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1262,
+      "avg_views": 1278,
       "median_views": 1436,
       "uploads_30d": 20,
-      "views_30d": 25245,
+      "views_30d": 25575,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -192,14 +192,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "200만 원 게이밍을 반값에? MSI 스워드 GF76 HX (i7 14세대 · RTX 5060 · 17.3 144Hz)",
-          "views": 629,
+          "views": 953,
           "date": "2026-06-24",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1524,
+          "views": 1528,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -213,7 +213,7 @@ window.DATA = {
         },
         {
           "title": "ASUS ROG 스트릭스 G16 / i9 13세대·RTX 4060·240Hz",
-          "views": 362,
+          "views": 363,
           "date": "2026-06-22",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=T4FmeY1NqdA"
@@ -261,7 +261,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=vN9AyUTpynI"
         }
       ],
-      "analyzed_at": "2026-06-24 14:26",
+      "analyzed_at": "2026-06-24 15:29",
       "subs_delta": 0
     },
     {
@@ -269,124 +269,17 @@ window.DATA = {
       "name": "왜그럴까",
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
-      "sampled": 20,
-      "avg_views": 1088,
-      "median_views": 1164,
-      "uploads_30d": 20,
-      "views_30d": 21776,
-      "shorts_ratio": 1.0,
-      "top_videos": [
-        {
-          "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1899,
-          "date": "2026-06-19",
-          "duration": 35,
-          "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
-        },
-        {
-          "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
-          "views": 1843,
-          "date": "2026-06-21",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
-        },
-        {
-          "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 1766,
-          "date": "2026-06-22",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
-        },
-        {
-          "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1670,
-          "date": "2026-06-16",
-          "duration": 33,
-          "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
-        },
-        {
-          "title": "에이수스_게이밍_V16",
-          "views": 1624,
-          "date": "2026-06-20",
-          "duration": 31,
-          "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
-        }
-      ],
-      "recent_videos": [
-        {
-          "title": "춤추는 새? 멧도요가 몸을 흔드는 진짜 이유",
-          "views": 739,
-          "date": "2026-06-24",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=dJRG9efcloI"
-        },
-        {
-          "title": "Apple 맥북에어 15 M4 / 15.3인치 M4 대화면 데스크 셋업",
-          "views": 323,
-          "date": "2026-06-23",
-          "duration": 29,
-          "url": "https://www.youtube.com/watch?v=HM7gULCpk-s"
-        },
-        {
-          "title": "태블릿 화면이 노트북보다 크다고? 갤럭시탭 S10 울트라",
-          "views": 1150,
-          "date": "2026-06-23",
-          "duration": 30,
-          "url": "https://www.youtube.com/watch?v=msIGtcGNzq4"
-        },
-        {
-          "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 1766,
-          "date": "2026-06-22",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
-        },
-        {
-          "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 1209,
-          "date": "2026-06-22",
-          "duration": 26,
-          "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
-        },
-        {
-          "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
-          "views": 1843,
-          "date": "2026-06-21",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
-        },
-        {
-          "title": "맥북에어 13 / 1.24kg 통알루미늄 프리미엄 노트북",
-          "views": 943,
-          "date": "2026-06-21",
-          "duration": 29,
-          "url": "https://www.youtube.com/watch?v=LWm0kNTQTo8"
-        },
-        {
-          "title": "노트북이 충전기 없이 하루를 통째로 버틴다고? 비보북 S15 OLED",
-          "views": 1325,
-          "date": "2026-06-20",
-          "duration": 28,
-          "url": "https://www.youtube.com/watch?v=Za3EHcwOF4k"
-        },
-        {
-          "title": "에이수스_게이밍_V16",
-          "views": 1624,
-          "date": "2026-06-20",
-          "duration": 31,
-          "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
-        },
-        {
-          "title": "에이수스 비보북 Go 15 / 89만 원대 사무용 가성비 노트북",
-          "views": 552,
-          "date": "2026-06-19",
-          "duration": 34,
-          "url": "https://www.youtube.com/watch?v=0yeHBMU8mWo"
-        }
-      ],
-      "analyzed_at": "2026-06-24 14:26",
+      "sampled": 0,
+      "avg_views": 0,
+      "median_views": 0,
+      "uploads_30d": 0,
+      "views_30d": 0,
+      "shorts_ratio": 0,
+      "top_videos": [],
+      "recent_videos": [],
+      "analyzed_at": "2026-06-24 15:32",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-24 14:25"
+  "generated_at": "2026-06-24 15:28"
 };
