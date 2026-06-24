@@ -249,129 +249,6 @@ window.DATA = {
       "subs_delta": 0
     },
     {
-      "url": "https://youtube.com/@prismalogia",
-      "name": "왜그럴까",
-      "channel_id": "UCxkJVh9sL7nk9K-GDpAlmsg",
-      "subscribers": 1120,
-      "sampled": 20,
-      "avg_views": 4343,
-      "median_views": 2567,
-      "uploads_30d": 20,
-      "views_30d": 86861,
-      "shorts_ratio": 1.0,
-      "top_videos": [
-        {
-          "title": "지구에서 제일 큰 동물인데 왜 가장 작은 먹이만 먹을까 (흰긴수염고래)",
-          "views": 15860,
-          "date": "2026-06-16",
-          "duration": 25,
-          "url": "https://www.youtube.com/watch?v=yQrnxeZJp5s"
-        },
-        {
-          "title": "뱀이 갑자기 입을 쩍 벌리는 진짜 이유",
-          "views": 14414,
-          "date": "2026-06-13",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=fqKSz_7dWfE"
-        },
-        {
-          "title": "풀만 먹는 사슴인데 왜 송곳니가 있을까",
-          "views": 10678,
-          "date": "2026-06-15",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=h1mkgZA1JfQ"
-        },
-        {
-          "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 6729,
-          "date": "2026-06-21",
-          "duration": 19,
-          "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
-        },
-        {
-          "title": "고양이는 왜 거울 속 자신을 못 알아볼까",
-          "views": 6575,
-          "date": "2026-06-13",
-          "duration": 30,
-          "url": "https://www.youtube.com/watch?v=_W5YlZl3dbU"
-        }
-      ],
-      "recent_videos": [
-        {
-          "title": "목에서 빨간 풍선이? 프레리치킨의 짝짓기 쇼",
-          "views": 1571,
-          "date": "2026-06-23",
-          "duration": 29,
-          "url": "https://www.youtube.com/watch?v=sBQDJqIk8Yg"
-        },
-        {
-          "title": "해달은 왜 손 잡고 잘까",
-          "views": 1930,
-          "date": "2026-06-22",
-          "duration": 18,
-          "url": "https://www.youtube.com/watch?v=Pw_xlCPud40"
-        },
-        {
-          "title": "비버는 왜 한밤중에 댐을 쌓을까 (정작 댐 안엔 안 산다고?)",
-          "views": 39,
-          "date": "2026-06-22",
-          "duration": 20,
-          "url": "https://www.youtube.com/watch?v=gof_oUPOHWM"
-        },
-        {
-          "title": "도마뱀은 왜 꼬리를 스스로 끊을까",
-          "views": 1995,
-          "date": "2026-06-21",
-          "duration": 18,
-          "url": "https://www.youtube.com/watch?v=V4kkM4AWB_4"
-        },
-        {
-          "title": "북극곰은 왜 흰색인데 피부는 까말까",
-          "views": 6729,
-          "date": "2026-06-21",
-          "duration": 19,
-          "url": "https://www.youtube.com/watch?v=IEoXw26InFk"
-        },
-        {
-          "title": "낙타 혹엔 왜 물이 없을까 (지방 저장)",
-          "views": 1624,
-          "date": "2026-06-20",
-          "duration": 17,
-          "url": "https://www.youtube.com/watch?v=Tjmmh4Z16VQ"
-        },
-        {
-          "title": "가오리는 왜 웃는 얼굴일까 (눈은 등 위에)",
-          "views": 3001,
-          "date": "2026-06-20",
-          "duration": 19,
-          "url": "https://www.youtube.com/watch?v=6KzQIb91-Zg"
-        },
-        {
-          "title": "흰동가리는 왜 성별을 바꿀까",
-          "views": 2862,
-          "date": "2026-06-19",
-          "duration": 21,
-          "url": "https://www.youtube.com/watch?v=sUnd14VBWWs"
-        },
-        {
-          "title": "사슴은 왜 멀쩡한 뿔을 해마다 스스로 떨굴까",
-          "views": 2367,
-          "date": "2026-06-19",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=pffZD5VXcF4"
-        },
-        {
-          "title": "바다거북은 왜 늘 눈물을 흘릴까",
-          "views": 2571,
-          "date": "2026-06-18",
-          "duration": 32,
-          "url": "https://www.youtube.com/watch?v=2gLJMY6fcKw"
-        }
-      ],
-      "analyzed_at": "2026-06-24 09:13",
-      "subs_delta": 0
-    },
-    {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
       "name": "놓치면손해템",
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
@@ -496,7 +373,7 @@ window.DATA = {
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
-      "name": "가전스튜디오",
+      "name": "카픽스",
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
