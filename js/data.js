@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2377,
+      "avg_views": 2383,
       "median_views": 1810,
       "uploads_30d": 20,
-      "views_30d": 47553,
+      "views_30d": 47668,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7848,
+          "views": 7847,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 1325,
+          "views": 1321,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
         },
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 1406,
+          "views": 1493,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
@@ -81,21 +81,21 @@ window.DATA = {
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1584,
+          "views": 1601,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2376,
+          "views": 2385,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1391,
+          "views": 1398,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7848,
+          "views": 7847,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
         }
       ],
-      "analyzed_at": "2026-06-25 04:05",
+      "analyzed_at": "2026-06-25 05:07",
       "subs_delta": 0
     },
     {
@@ -138,7 +138,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-06-25 04:05",
+      "analyzed_at": "2026-06-25 05:07",
       "subs_delta": null
     },
     {
@@ -147,10 +147,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1284,
+      "avg_views": 1285,
       "median_views": 1436,
       "uploads_30d": 20,
-      "views_30d": 25693,
+      "views_30d": 25708,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -162,14 +162,14 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1938,
+          "views": 1944,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         },
         {
           "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1934,
+          "views": 1935,
           "date": "2026-06-14",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
@@ -234,34 +234,34 @@ window.DATA = {
         },
         {
           "title": "MSI인데 게이밍이 아니라고? 사무용으로 나온 모던 15 포스",
-          "views": 352,
+          "views": 353,
           "date": "2026-06-21",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=o6If1aGjNH4"
         },
         {
           "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
-          "views": 1285,
+          "views": 1286,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1938,
+          "views": 1944,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1285,
+          "views": 1290,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
         }
       ],
-      "analyzed_at": "2026-06-25 04:06",
+      "analyzed_at": "2026-06-25 05:08",
       "subs_delta": 0
     },
     {
@@ -270,15 +270,15 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1136,
+      "avg_views": 1137,
       "median_views": 1195,
       "uploads_30d": 20,
-      "views_30d": 22728,
+      "views_30d": 22742,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1902,
+          "views": 1904,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
@@ -299,7 +299,7 @@ window.DATA = {
         },
         {
           "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1676,
+          "views": 1687,
           "date": "2026-06-16",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
@@ -329,7 +329,7 @@ window.DATA = {
         },
         {
           "title": "Apple 맥북에어 15 M4 / 15.3인치 M4 대화면 데스크 셋업",
-          "views": 324,
+          "views": 325,
           "date": "2026-06-23",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=HM7gULCpk-s"
@@ -384,9 +384,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
         }
       ],
-      "analyzed_at": "2026-06-25 04:06",
+      "analyzed_at": "2026-06-25 05:08",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-25 04:05"
+  "generated_at": "2026-06-25 05:07"
 };
