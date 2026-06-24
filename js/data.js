@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2860,
-      "median_views": 1898,
+      "avg_views": 2875,
+      "median_views": 1896,
       "uploads_30d": 20,
-      "views_30d": 57216,
+      "views_30d": 57503,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 952,
+          "views": 1245,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1381,
+          "views": 1380,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1831,
+          "views": 1826,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
         }
       ],
-      "analyzed_at": "2026-06-24 17:36",
+      "analyzed_at": "2026-06-24 18:38",
       "subs_delta": 0
     },
     {
@@ -138,7 +138,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-06-24 17:36",
+      "analyzed_at": "2026-06-24 18:38",
       "subs_delta": null
     },
     {
@@ -147,10 +147,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1285,
+      "avg_views": 1296,
       "median_views": 1436,
       "uploads_30d": 20,
-      "views_30d": 25708,
+      "views_30d": 25935,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -192,7 +192,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "200만 원 게이밍을 반값에? MSI 스워드 GF76 HX (i7 14세대 · RTX 5060 · 17.3 144Hz)",
-          "views": 1086,
+          "views": 1314,
           "date": "2026-06-24",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
@@ -213,7 +213,7 @@ window.DATA = {
         },
         {
           "title": "ASUS ROG 스트릭스 G16 / i9 13세대·RTX 4060·240Hz",
-          "views": 363,
+          "views": 362,
           "date": "2026-06-22",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=T4FmeY1NqdA"
@@ -261,7 +261,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=vN9AyUTpynI"
         }
       ],
-      "analyzed_at": "2026-06-24 17:37",
+      "analyzed_at": "2026-06-24 18:39",
       "subs_delta": 0
     },
     {
@@ -270,10 +270,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1107,
-      "median_views": 1164,
+      "avg_views": 1120,
+      "median_views": 1193,
       "uploads_30d": 20,
-      "views_30d": 22149,
+      "views_30d": 22411,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
         },
         {
           "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1670,
+          "views": 1672,
           "date": "2026-06-16",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
@@ -315,7 +315,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "춤추는 새? 멧도요가 몸을 흔드는 진짜 이유",
-          "views": 1109,
+          "views": 1369,
           "date": "2026-06-24",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=dJRG9efcloI"
@@ -384,9 +384,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=0yeHBMU8mWo"
         }
       ],
-      "analyzed_at": "2026-06-24 17:37",
+      "analyzed_at": "2026-06-24 18:40",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-24 17:36"
+  "generated_at": "2026-06-24 18:38"
 };
