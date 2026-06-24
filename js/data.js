@@ -7,15 +7,122 @@ window.DATA = {
       "name": "숏츠시작",
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
-      "sampled": 0,
-      "avg_views": 0,
-      "median_views": 0,
-      "uploads_30d": 0,
-      "views_30d": 0,
-      "shorts_ratio": 0,
-      "top_videos": [],
-      "recent_videos": [],
-      "analyzed_at": "2026-06-24 20:46",
+      "sampled": 20,
+      "avg_views": 2892,
+      "median_views": 1900,
+      "uploads_30d": 20,
+      "views_30d": 57854,
+      "shorts_ratio": 1.0,
+      "top_videos": [
+        {
+          "title": "이 매듭, 왜 아무리 당겨도 안 풀릴까? (보울라인)",
+          "views": 12012,
+          "date": "2026-06-14",
+          "duration": 27,
+          "url": "https://www.youtube.com/watch?v=2gZT412R1cY"
+        },
+        {
+          "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
+          "views": 7840,
+          "date": "2026-06-20",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
+        },
+        {
+          "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
+          "views": 4880,
+          "date": "2026-06-21",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=s2zar88EozY"
+        },
+        {
+          "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
+          "views": 3241,
+          "date": "2026-06-19",
+          "duration": 20,
+          "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
+        },
+        {
+          "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
+          "views": 3156,
+          "date": "2026-06-18",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
+        }
+      ],
+      "recent_videos": [
+        {
+          "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
+          "views": 1302,
+          "date": "2026-06-24",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
+        },
+        {
+          "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
+          "views": 1537,
+          "date": "2026-06-23",
+          "duration": 20,
+          "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
+        },
+        {
+          "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
+          "views": 1610,
+          "date": "2026-06-23",
+          "duration": 20,
+          "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
+        },
+        {
+          "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
+          "views": 1564,
+          "date": "2026-06-22",
+          "duration": 19,
+          "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
+        },
+        {
+          "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
+          "views": 2315,
+          "date": "2026-06-22",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
+        },
+        {
+          "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
+          "views": 1382,
+          "date": "2026-06-21",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
+        },
+        {
+          "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
+          "views": 4880,
+          "date": "2026-06-21",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=s2zar88EozY"
+        },
+        {
+          "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
+          "views": 7840,
+          "date": "2026-06-20",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
+        },
+        {
+          "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
+          "views": 1834,
+          "date": "2026-06-20",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
+        },
+        {
+          "title": "썩은 나무 통째로 버리지 마세요… 2액형 에폭시로 새것처럼 #shorts",
+          "views": 2811,
+          "date": "2026-06-19",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
+        }
+      ],
+      "analyzed_at": "2026-06-24 21:49",
       "subs_delta": 0
     },
     {
@@ -31,7 +138,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-06-24 20:46",
+      "analyzed_at": "2026-06-24 21:49",
       "subs_delta": null
     },
     {
@@ -40,10 +147,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1246,
-      "median_views": 1429,
+      "avg_views": 1260,
+      "median_views": 1433,
       "uploads_30d": 20,
-      "views_30d": 24923,
+      "views_30d": 25216,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -85,14 +192,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 605,
+          "views": 887,
           "date": "2026-06-24",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
         },
         {
           "title": "200만 원 게이밍을 반값에? MSI 스워드 GF76 HX (i7 14세대 · RTX 5060 · 17.3 144Hz)",
-          "views": 1459,
+          "views": 1467,
           "date": "2026-06-24",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
@@ -154,7 +261,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
         }
       ],
-      "analyzed_at": "2026-06-24 20:47",
+      "analyzed_at": "2026-06-24 21:50",
       "subs_delta": 0
     },
     {
@@ -163,10 +270,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1124,
-      "median_views": 1193,
+      "avg_views": 1125,
+      "median_views": 1194,
       "uploads_30d": 20,
-      "views_30d": 22497,
+      "views_30d": 22501,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -192,7 +299,7 @@ window.DATA = {
         },
         {
           "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1672,
+          "views": 1675,
           "date": "2026-06-16",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
@@ -243,7 +350,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 1209,
+          "views": 1210,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
@@ -277,9 +384,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
         }
       ],
-      "analyzed_at": "2026-06-24 20:48",
+      "analyzed_at": "2026-06-24 21:52",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-24 20:46"
+  "generated_at": "2026-06-24 21:49"
 };
