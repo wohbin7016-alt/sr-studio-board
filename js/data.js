@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2894,
+      "avg_views": 2897,
       "median_views": 2047,
       "uploads_30d": 20,
-      "views_30d": 57897,
+      "views_30d": 57950,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3238,
+          "views": 3239,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 1490,
+          "views": 1502,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1483,
+          "views": 1523,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3238,
+          "views": 3239,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         }
       ],
-      "analyzed_at": "2026-06-24 11:18",
+      "analyzed_at": "2026-06-24 12:20",
       "subs_delta": 0
     },
     {
@@ -138,7 +138,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-06-24 11:18",
+      "analyzed_at": "2026-06-24 12:20",
       "subs_delta": null
     },
     {
@@ -148,9 +148,9 @@ window.DATA = {
       "subscribers": 72900,
       "sampled": 20,
       "avg_views": 1314,
-      "median_views": 1498,
+      "median_views": 1499,
       "uploads_30d": 20,
-      "views_30d": 26293,
+      "views_30d": 26298,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -162,7 +162,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1937,
+          "views": 1938,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -192,7 +192,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1522,
+          "views": 1524,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -234,21 +234,21 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1937,
+          "views": 1938,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1278,
+          "views": 1279,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
         },
         {
           "title": "겉은 수수한데 i7에 RTX 4060? 기가바이트 G6X 정체",
-          "views": 400,
+          "views": 401,
           "date": "2026-06-19",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=vN9AyUTpynI"
@@ -261,7 +261,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
         }
       ],
-      "analyzed_at": "2026-06-24 11:19",
+      "analyzed_at": "2026-06-24 12:21",
       "subs_delta": 0
     },
     {
@@ -273,12 +273,12 @@ window.DATA = {
       "avg_views": 1066,
       "median_views": 1164,
       "uploads_30d": 20,
-      "views_30d": 21331,
+      "views_30d": 21338,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1890,
+          "views": 1897,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
@@ -324,7 +324,7 @@ window.DATA = {
           "title": "태블릿 화면이 노트북보다 크다고? 갤럭시탭 S10 울트라",
           "views": 1150,
           "date": "2026-06-23",
-          "duration": 31,
+          "duration": 30,
           "url": "https://www.youtube.com/watch?v=msIGtcGNzq4"
         },
         {
@@ -378,15 +378,15 @@ window.DATA = {
         },
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1890,
+          "views": 1897,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
         }
       ],
-      "analyzed_at": "2026-06-24 11:19",
+      "analyzed_at": "2026-06-24 12:22",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-24 11:18"
+  "generated_at": "2026-06-24 12:20"
 };
