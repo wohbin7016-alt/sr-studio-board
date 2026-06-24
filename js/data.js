@@ -11,12 +11,12 @@ window.DATA = {
       "avg_views": 2374,
       "median_views": 1810,
       "uploads_30d": 20,
-      "views_30d": 47493,
+      "views_30d": 47498,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7848,
+          "views": 7847,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -74,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 1684,
+          "views": 1690,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7848,
+          "views": 7847,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
         }
       ],
-      "analyzed_at": "2026-06-25 02:01",
+      "analyzed_at": "2026-06-25 03:03",
       "subs_delta": 0
     },
     {
@@ -138,7 +138,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-06-25 02:01",
+      "analyzed_at": "2026-06-25 03:03",
       "subs_delta": null
     },
     {
@@ -147,10 +147,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1283,
-      "median_views": 1436,
+      "avg_views": 1285,
+      "median_views": 1437,
       "uploads_30d": 20,
-      "views_30d": 25676,
+      "views_30d": 25707,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -162,7 +162,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1938,
+          "views": 1944,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -192,14 +192,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1337,
+          "views": 1357,
           "date": "2026-06-24",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
         },
         {
           "title": "200만 원 게이밍을 반값에? MSI 스워드 GF76 HX (i7 14세대 · RTX 5060 · 17.3 144Hz)",
-          "views": 1472,
+          "views": 1474,
           "date": "2026-06-24",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
@@ -234,21 +234,21 @@ window.DATA = {
         },
         {
           "title": "MSI인데 게이밍이 아니라고? 사무용으로 나온 모던 15 포스",
-          "views": 352,
+          "views": 353,
           "date": "2026-06-21",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=o6If1aGjNH4"
         },
         {
           "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
-          "views": 1285,
+          "views": 1286,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1938,
+          "views": 1944,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -261,7 +261,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
         }
       ],
-      "analyzed_at": "2026-06-25 02:02",
+      "analyzed_at": "2026-06-25 03:04",
       "subs_delta": 0
     },
     {
@@ -270,10 +270,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1128,
+      "avg_views": 1136,
       "median_views": 1195,
       "uploads_30d": 20,
-      "views_30d": 22579,
+      "views_30d": 22725,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
         },
         {
           "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1684,
+          "views": 1676,
           "date": "2026-06-16",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
@@ -315,7 +315,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "목에서 빨간 풍선이? 프레리치킨의 짝짓기 쇼",
-          "views": 800,
+          "views": 954,
           "date": "2026-06-24",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=gmq-pvlL-00"
@@ -384,9 +384,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
         }
       ],
-      "analyzed_at": "2026-06-25 02:02",
+      "analyzed_at": "2026-06-25 03:04",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-25 02:01"
+  "generated_at": "2026-06-25 03:03"
 };
