@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2897,
-      "median_views": 2047,
+      "avg_views": 2806,
+      "median_views": 1892,
       "uploads_30d": 20,
-      "views_30d": 57950,
+      "views_30d": 56129,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,7 +23,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7803,
+          "views": 7810,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -52,6 +52,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
+          "views": 276,
+          "date": "2026-06-24",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
+        },
+        {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
           "views": 1502,
           "date": "2026-06-23",
@@ -67,21 +74,21 @@ window.DATA = {
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1523,
+          "views": 1529,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2129,
+          "views": 2196,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1364,
+          "views": 1373,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
@@ -95,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7803,
+          "views": 7810,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-19",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
-        },
-        {
-          "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3239,
-          "date": "2026-06-19",
-          "duration": 20,
-          "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         }
       ],
-      "analyzed_at": "2026-06-24 12:20",
+      "analyzed_at": "2026-06-24 13:22",
       "subs_delta": 0
     },
     {
@@ -138,7 +138,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-06-24 12:20",
+      "analyzed_at": "2026-06-24 13:22",
       "subs_delta": null
     },
     {
@@ -147,10 +147,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1314,
-      "median_views": 1499,
+      "avg_views": 1239,
+      "median_views": 1436,
       "uploads_30d": 20,
-      "views_30d": 26298,
+      "views_30d": 24791,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -190,6 +190,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "200만 원 게이밍을 반값에? MSI 스워드 GF76 HX (i7 14세대 · RTX 5060 · 17.3 144Hz)",
+          "views": 178,
+          "date": "2026-06-24",
+          "duration": 34,
+          "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
+        },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
           "views": 1524,
@@ -252,16 +259,9 @@ window.DATA = {
           "date": "2026-06-19",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=vN9AyUTpynI"
-        },
-        {
-          "title": "노트북도 태블릿도 한 대로 끝, HP 파빌리온 x360 14",
-          "views": 997,
-          "date": "2026-06-18",
-          "duration": 36,
-          "url": "https://www.youtube.com/watch?v=OTG3GZ_yldo"
         }
       ],
-      "analyzed_at": "2026-06-24 12:21",
+      "analyzed_at": "2026-06-24 13:23",
       "subs_delta": 0
     },
     {
@@ -270,10 +270,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1066,
+      "avg_views": 1057,
       "median_views": 1164,
       "uploads_30d": 20,
-      "views_30d": 21338,
+      "views_30d": 21148,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -314,8 +314,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "춤추는 새? 멧도요가 몸을 흔드는 진짜 이유",
+          "views": 113,
+          "date": "2026-06-24",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=dJRG9efcloI"
+        },
+        {
           "title": "Apple 맥북에어 15 M4 / 15.3인치 M4 대화면 데스크 셋업",
-          "views": 322,
+          "views": 323,
           "date": "2026-06-23",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=HM7gULCpk-s"
@@ -336,7 +343,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 1207,
+          "views": 1209,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
@@ -375,18 +382,11 @@ window.DATA = {
           "date": "2026-06-19",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=0yeHBMU8mWo"
-        },
-        {
-          "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1897,
-          "date": "2026-06-19",
-          "duration": 35,
-          "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
         }
       ],
-      "analyzed_at": "2026-06-24 12:22",
+      "analyzed_at": "2026-06-24 13:24",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-24 12:20"
+  "generated_at": "2026-06-24 13:22"
 };
