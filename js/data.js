@@ -8,22 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2406,
-      "median_views": 1831,
+      "avg_views": 2416,
+      "median_views": 1835,
       "uploads_30d": 20,
-      "views_30d": 48124,
+      "views_30d": 48333,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7848,
+          "views": 7839,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4990,
+          "views": 4998,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
@@ -53,76 +53,76 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "새까맣게 탄 냄비, 베이킹소다로 새것처럼 복원",
-          "views": 1361,
+          "views": 1396,
           "date": "2026-06-25",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
         },
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 1830,
+          "views": 1837,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
         },
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 1988,
+          "views": 2105,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
         },
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 1741,
+          "views": 1738,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 1794,
+          "views": 1815,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1620,
+          "views": 1625,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2417,
+          "views": 2443,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1403,
+          "views": 1405,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4990,
+          "views": 4998,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7848,
+          "views": 7839,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         }
       ],
-      "analyzed_at": "2026-06-25 16:32",
+      "analyzed_at": "2026-06-25 17:37",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1257,
-      "median_views": 1380,
+      "avg_views": 1274,
+      "median_views": 1429,
       "uploads_30d": 20,
-      "views_30d": 25144,
+      "views_30d": 25498,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -159,24 +159,24 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
         },
         {
+          "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
+          "views": 1709,
+          "date": "2026-06-25",
+          "duration": 36,
+          "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
+        },
+        {
           "title": "100만 원대 노트북이 AI를 자체적으로 돌린다고? 레노버 슬림5",
           "views": 1617,
           "date": "2026-06-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
-        },
-        {
-          "title": "이 두께에 RTX 5060을 풀파워로 박았다고?",
-          "views": 1614,
-          "date": "2026-06-17",
-          "duration": 40,
-          "url": "https://www.youtube.com/watch?v=A67JOkeTXY0"
         }
       ],
       "recent_videos": [
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1361,
+          "views": 1709,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "ASUS ROG 스트릭스 G16 / i9 13세대·RTX 4060·240Hz",
-          "views": 365,
+          "views": 370,
           "date": "2026-06-22",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=T4FmeY1NqdA"
@@ -225,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "MSI인데 게이밍이 아니라고? 사무용으로 나온 모던 15 포스",
-          "views": 353,
+          "views": 354,
           "date": "2026-06-21",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=o6If1aGjNH4"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         }
       ],
-      "analyzed_at": "2026-06-25 16:33",
+      "analyzed_at": "2026-06-25 17:37",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1135,
+      "avg_views": 1136,
       "median_views": 1195,
       "uploads_30d": 20,
-      "views_30d": 22715,
+      "views_30d": 22728,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "우파루파는 왜 평생 아기 얼굴일까",
-          "views": 1317,
+          "views": 1332,
           "date": "2026-06-25",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=DrS3zu25BP8"
@@ -327,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "태블릿 화면이 노트북보다 크다고? 갤럭시탭 S10 울트라",
-          "views": 1152,
+          "views": 1150,
           "date": "2026-06-23",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=msIGtcGNzq4"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Za3EHcwOF4k"
         }
       ],
-      "analyzed_at": "2026-06-25 16:35",
+      "analyzed_at": "2026-06-25 17:38",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 659,
-      "median_views": 235,
+      "avg_views": 663,
+      "median_views": 277,
       "uploads_30d": 20,
-      "views_30d": 13180,
+      "views_30d": 13263,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 405,
+          "views": 488,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "BMW 공회전 부르르 떨림, 진짜 원인은 엔진 마운트",
-          "views": 879,
+          "views": 880,
           "date": "2026-06-24",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "인류 첫 발자국 — 그날 온 세계가 멈췄다 (닐 암스트롱)",
-          "views": 844,
+          "views": 843,
           "date": "2026-06-22",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=LhrrJEFcNw8"
         }
       ],
-      "analyzed_at": "2026-06-25 16:36",
+      "analyzed_at": "2026-06-25 17:39",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-25 16:32"
+  "generated_at": "2026-06-25 17:37"
 };
