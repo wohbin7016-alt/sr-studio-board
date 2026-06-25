@@ -126,22 +126,6 @@ window.DATA = {
       "subs_delta": 0
     },
     {
-      "url": "https://youtube.com/@mechanicstudio-t4f",
-      "name": "카픽스",
-      "channel_id": "",
-      "subscribers": null,
-      "sampled": 0,
-      "avg_views": 0,
-      "median_views": 0,
-      "uploads_30d": 0,
-      "views_30d": 0,
-      "shorts_ratio": 0,
-      "top_videos": [],
-      "recent_videos": [],
-      "analyzed_at": "2026-06-25 15:29",
-      "subs_delta": null
-    },
-    {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
       "name": "놓치면손해템",
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
@@ -385,6 +369,129 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-06-25 15:31",
+      "subs_delta": 0
+    },
+    {
+      "url": "https://youtube.com/channel/UC29M9AGVR19NtIrAHsjx-XA",
+      "name": "카픽스",
+      "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
+      "subscribers": 1140,
+      "sampled": 20,
+      "avg_views": 657,
+      "median_views": 222,
+      "uploads_30d": 20,
+      "views_30d": 13153,
+      "shorts_ratio": 1.0,
+      "top_videos": [
+        {
+          "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
+          "views": 4256,
+          "date": "2026-06-17",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
+        },
+        {
+          "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
+          "views": 1506,
+          "date": "2026-06-23",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
+        },
+        {
+          "title": "월세도 없던 남자가 1500조가 되기까지",
+          "views": 1207,
+          "date": "2026-06-18",
+          "duration": 42,
+          "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
+        },
+        {
+          "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
+          "views": 1115,
+          "date": "2026-06-16",
+          "duration": 44,
+          "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
+        },
+        {
+          "title": "선로에 뛰어든 26살 한국 청년… 단 2초가 운명을 갈랐다 #shorts",
+          "views": 1004,
+          "date": "2026-06-20",
+          "duration": 32,
+          "url": "https://www.youtube.com/watch?v=GA4arzC36I0"
+        }
+      ],
+      "recent_videos": [
+        {
+          "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
+          "views": 378,
+          "date": "2026-06-25",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
+        },
+        {
+          "title": "브레이크 패드 한쪽만 닳고 차 쏠림, 패드 갈면 또 닳습니다 (진짜 원인은 캘리퍼 슬라이드핀 고착)",
+          "views": 1,
+          "date": "2026-06-24",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=g3AF-G1fTC8"
+        },
+        {
+          "title": "BMW 공회전 부르르 떨림, 진짜 원인은 엔진 마운트",
+          "views": 879,
+          "date": "2026-06-24",
+          "duration": 23,
+          "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
+        },
+        {
+          "title": "데뷔 전 KBS 노래가 좋아 4연승, 무명의 실력이 빛난 박지현",
+          "views": 12,
+          "date": "2026-06-23",
+          "duration": 23,
+          "url": "https://www.youtube.com/watch?v=95yJlTs1rlo"
+        },
+        {
+          "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
+          "views": 1506,
+          "date": "2026-06-23",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
+        },
+        {
+          "title": "박지현, 안정된 공무원 자리를 버리고 트로트 무대를 택한 이유",
+          "views": 14,
+          "date": "2026-06-22",
+          "duration": 47,
+          "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
+        },
+        {
+          "title": "인류 첫 발자국 — 그날 온 세계가 멈췄다 (닐 암스트롱)",
+          "views": 844,
+          "date": "2026-06-22",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
+        },
+        {
+          "title": "션 — 매일 만 원으로 병원을 세운 가수",
+          "views": 6,
+          "date": "2026-06-21",
+          "duration": 32,
+          "url": "https://www.youtube.com/watch?v=v0frUDW9dLs"
+        },
+        {
+          "title": "임영웅 — 버스킹하던 무명가수가 국민가수가 되기까지",
+          "views": 838,
+          "date": "2026-06-21",
+          "duration": 34,
+          "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
+        },
+        {
+          "title": "한 살 반에 빛과 소리를 잃은 아이 (헬렌 켈러)",
+          "views": 4,
+          "date": "2026-06-20",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=LhrrJEFcNw8"
+        }
+      ],
+      "analyzed_at": "2026-06-25 16:23",
       "subs_delta": 0
     }
   ],
