@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2410,
-      "median_views": 1810,
+      "avg_views": 2415,
+      "median_views": 1811,
       "uploads_30d": 20,
-      "views_30d": 48200,
+      "views_30d": 48317,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 1774,
+          "views": 1788,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
         },
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 1473,
+          "views": 1572,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2385,
+          "views": 2389,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
         }
       ],
-      "analyzed_at": "2026-06-25 08:13",
+      "analyzed_at": "2026-06-25 09:15",
       "subs_delta": 0
     },
     {
@@ -138,7 +138,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-06-25 08:13",
+      "analyzed_at": "2026-06-25 09:15",
       "subs_delta": null
     },
     {
@@ -150,7 +150,7 @@ window.DATA = {
       "avg_views": 1286,
       "median_views": 1438,
       "uploads_30d": 20,
-      "views_30d": 25723,
+      "views_30d": 25727,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -255,13 +255,13 @@ window.DATA = {
         },
         {
           "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1290,
+          "views": 1294,
           "date": "2026-06-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
         }
       ],
-      "analyzed_at": "2026-06-25 08:14",
+      "analyzed_at": "2026-06-25 09:16",
       "subs_delta": 0
     },
     {
@@ -384,9 +384,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
         }
       ],
-      "analyzed_at": "2026-06-25 08:15",
+      "analyzed_at": "2026-06-25 09:17",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-25 08:13"
+  "generated_at": "2026-06-25 09:15"
 };
