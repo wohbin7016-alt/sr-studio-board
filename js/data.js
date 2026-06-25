@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2402,
-      "median_views": 1887,
+      "avg_views": 2403,
+      "median_views": 1891,
       "uploads_30d": 20,
-      "views_30d": 48041,
+      "views_30d": 48065,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -67,14 +67,14 @@ window.DATA = {
         },
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 1881,
+          "views": 1890,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
         },
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 2416,
+          "views": 2432,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2501,
+          "views": 2500,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         }
       ],
-      "analyzed_at": "2026-06-26 05:13",
+      "analyzed_at": "2026-06-26 06:15",
       "subs_delta": 0
     },
     {
@@ -132,9 +132,9 @@ window.DATA = {
       "subscribers": 72900,
       "sampled": 20,
       "avg_views": 1259,
-      "median_views": 1388,
+      "median_views": 1396,
       "uploads_30d": 20,
-      "views_30d": 25181,
+      "views_30d": 25193,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -153,7 +153,7 @@ window.DATA = {
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1742,
+          "views": 1735,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -176,14 +176,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "레노버 리전 5 (라이젠7·RTX5070·16GB·512GB)",
-          "views": 1377,
+          "views": 1392,
           "date": "2026-06-25",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=P5K9KwQA6oQ"
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1742,
+          "views": 1735,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -197,14 +197,14 @@ window.DATA = {
         },
         {
           "title": "200만 원 게이밍을 반값에? MSI 스워드 GF76 HX (i7 14세대 · RTX 5060 · 17.3 144Hz)",
-          "views": 1464,
+          "views": 1465,
           "date": "2026-06-24",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1548,
+          "views": 1549,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
         }
       ],
-      "analyzed_at": "2026-06-26 05:13",
+      "analyzed_at": "2026-06-26 06:16",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=LWm0kNTQTo8"
         }
       ],
-      "analyzed_at": "2026-06-26 05:14",
+      "analyzed_at": "2026-06-26 06:17",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 691,
+      "avg_views": 692,
       "median_views": 451,
       "uploads_30d": 20,
-      "views_30d": 13836,
+      "views_30d": 13856,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,7 +392,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1599,
+          "views": 1601,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 957,
+          "views": 973,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "BMW 공회전 부르르 떨림, 진짜 원인은 엔진 마운트",
-          "views": 889,
+          "views": 891,
           "date": "2026-06-24",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
@@ -457,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1599,
+          "views": 1601,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
         }
       ],
-      "analyzed_at": "2026-06-26 05:15",
+      "analyzed_at": "2026-06-26 06:17",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-26 05:13"
+  "generated_at": "2026-06-26 06:15"
 };
