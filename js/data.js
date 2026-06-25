@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2405,
-      "median_views": 1901,
+      "avg_views": 2407,
+      "median_views": 1899,
       "uploads_30d": 20,
-      "views_30d": 48106,
+      "views_30d": 48141,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -60,14 +60,14 @@ window.DATA = {
         },
         {
           "title": "새까맣게 탄 냄비, 베이킹소다로 새것처럼 복원",
-          "views": 1396,
+          "views": 1397,
           "date": "2026-06-25",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
         },
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 1893,
+          "views": 1890,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
@@ -88,21 +88,21 @@ window.DATA = {
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2000,
+          "views": 2023,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1648,
+          "views": 1655,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2501,
+          "views": 2508,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         }
       ],
-      "analyzed_at": "2026-06-26 07:19",
+      "analyzed_at": "2026-06-26 08:24",
       "subs_delta": 0
     },
     {
@@ -139,7 +139,7 @@ window.DATA = {
       "top_videos": [
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1972,
+          "views": 1971,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1972,
+          "views": 1971,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
         }
       ],
-      "analyzed_at": "2026-06-26 07:20",
+      "analyzed_at": "2026-06-26 08:25",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=LWm0kNTQTo8"
         }
       ],
-      "analyzed_at": "2026-06-26 07:21",
+      "analyzed_at": "2026-06-26 08:26",
       "subs_delta": 0
     },
     {
@@ -380,7 +380,7 @@ window.DATA = {
       "avg_views": 692,
       "median_views": 451,
       "uploads_30d": 20,
-      "views_30d": 13852,
+      "views_30d": 13856,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 970,
+          "views": 973,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "BMW 공회전 부르르 떨림, 진짜 원인은 엔진 마운트",
-          "views": 891,
+          "views": 892,
           "date": "2026-06-24",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
         }
       ],
-      "analyzed_at": "2026-06-26 07:23",
+      "analyzed_at": "2026-06-26 08:26",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-26 07:19"
+  "generated_at": "2026-06-26 08:24"
 };
