@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2375,
-      "median_views": 1796,
+      "avg_views": 2406,
+      "median_views": 1831,
       "uploads_30d": 20,
-      "views_30d": 47503,
+      "views_30d": 48124,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,35 +53,35 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "새까맣게 탄 냄비, 베이킹소다로 새것처럼 복원",
-          "views": 1033,
+          "views": 1361,
           "date": "2026-06-25",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
         },
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 1807,
+          "views": 1830,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
         },
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 1775,
+          "views": 1988,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
         },
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 1713,
+          "views": 1741,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 1782,
+          "views": 1794,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -95,14 +95,14 @@ window.DATA = {
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2401,
+          "views": 2417,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1402,
+          "views": 1403,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         }
       ],
-      "analyzed_at": "2026-06-25 15:29",
+      "analyzed_at": "2026-06-25 16:32",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1248,
+      "avg_views": 1257,
       "median_views": 1380,
       "uploads_30d": 20,
-      "views_30d": 24970,
+      "views_30d": 25144,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "이 두께에 RTX 5060을 풀파워로 박았다고?",
-          "views": 1613,
+          "views": 1614,
           "date": "2026-06-17",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=A67JOkeTXY0"
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1189,
+          "views": 1361,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -232,7 +232,7 @@ window.DATA = {
         },
         {
           "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
-          "views": 1287,
+          "views": 1288,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         }
       ],
-      "analyzed_at": "2026-06-25 15:30",
+      "analyzed_at": "2026-06-25 16:33",
       "subs_delta": 0
     },
     {
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1119,
-      "median_views": 1164,
+      "avg_views": 1135,
+      "median_views": 1195,
       "uploads_30d": 20,
-      "views_30d": 22382,
+      "views_30d": 22715,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1905,
+          "views": 1906,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
@@ -276,7 +276,7 @@ window.DATA = {
         },
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 1766,
+          "views": 1767,
           "date": "2026-06-22",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "우파루파는 왜 평생 아기 얼굴일까",
-          "views": 989,
+          "views": 1317,
           "date": "2026-06-25",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=DrS3zu25BP8"
@@ -320,21 +320,21 @@ window.DATA = {
         },
         {
           "title": "Apple 맥북에어 15 M4 / 15.3인치 M4 대화면 데스크 셋업",
-          "views": 325,
+          "views": 326,
           "date": "2026-06-23",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=HM7gULCpk-s"
         },
         {
           "title": "태블릿 화면이 노트북보다 크다고? 갤럭시탭 S10 울트라",
-          "views": 1150,
+          "views": 1152,
           "date": "2026-06-23",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=msIGtcGNzq4"
         },
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 1766,
+          "views": 1767,
           "date": "2026-06-22",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Za3EHcwOF4k"
         }
       ],
-      "analyzed_at": "2026-06-25 15:31",
+      "analyzed_at": "2026-06-25 16:35",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 657,
-      "median_views": 222,
+      "avg_views": 659,
+      "median_views": 235,
       "uploads_30d": 20,
-      "views_30d": 13153,
+      "views_30d": 13180,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 378,
+          "views": 405,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=LhrrJEFcNw8"
         }
       ],
-      "analyzed_at": "2026-06-25 16:23",
+      "analyzed_at": "2026-06-25 16:36",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-25 15:29"
+  "generated_at": "2026-06-25 16:32"
 };
