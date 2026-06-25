@@ -127,7 +127,7 @@ window.DATA = {
     },
     {
       "url": "https://youtube.com/@mechanicstudio-t4f",
-      "name": "https://youtube.com/@mechanicstudio-t4f",
+      "name": "카픽스",
       "channel_id": "",
       "subscribers": null,
       "sampled": 0,
