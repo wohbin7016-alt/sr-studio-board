@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2349,
+      "avg_views": 2361,
       "median_views": 1847,
       "uploads_30d": 20,
-      "views_30d": 46991,
+      "views_30d": 47221,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7839,
+          "views": 7840,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 1002,
+          "views": 1161,
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
         },
         {
           "title": "새까맣게 탄 냄비, 베이킹소다로 새것처럼 복원",
-          "views": 1410,
+          "views": 1412,
           "date": "2026-06-25",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
@@ -74,21 +74,21 @@ window.DATA = {
         },
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 2320,
+          "views": 2346,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
         },
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 1821,
+          "views": 1822,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 1873,
+          "views": 1899,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2462,
+          "views": 2477,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         }
       ],
-      "analyzed_at": "2026-06-25 21:51",
+      "analyzed_at": "2026-06-25 22:55",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1221,
+      "avg_views": 1236,
       "median_views": 1380,
       "uploads_30d": 20,
-      "views_30d": 24425,
+      "views_30d": 24730,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1971,
+          "views": 1972,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -153,7 +153,7 @@ window.DATA = {
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1736,
+          "views": 1740,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -176,14 +176,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "레노버 리전 5 (라이젠7·RTX5070·16GB·512GB)",
-          "views": 640,
+          "views": 938,
           "date": "2026-06-25",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=P5K9KwQA6oQ"
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1736,
+          "views": 1740,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -197,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "200만 원 게이밍을 반값에? MSI 스워드 GF76 HX (i7 14세대 · RTX 5060 · 17.3 144Hz)",
-          "views": 1460,
+          "views": 1461,
           "date": "2026-06-24",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1971,
+          "views": 1972,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -239,13 +239,13 @@ window.DATA = {
         },
         {
           "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
-          "views": 1288,
+          "views": 1289,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
         }
       ],
-      "analyzed_at": "2026-06-25 21:52",
+      "analyzed_at": "2026-06-25 22:55",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1143,
       "median_views": 1195,
       "uploads_30d": 20,
-      "views_30d": 22868,
+      "views_30d": 22878,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "거미는 왜 자기 거미줄엔 안 붙을까",
-          "views": 599,
+          "views": 609,
           "date": "2026-06-25",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=6ptILdKLgQ0"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=LWm0kNTQTo8"
         }
       ],
-      "analyzed_at": "2026-06-25 21:53",
+      "analyzed_at": "2026-06-25 22:56",
       "subs_delta": 0
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 687,
+      "avg_views": 689,
       "median_views": 451,
       "uploads_30d": 20,
-      "views_30d": 13754,
+      "views_30d": 13786,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 4258,
+          "views": 4259,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1563,
+          "views": 1572,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 922,
+          "views": 942,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "BMW 공회전 부르르 떨림, 진짜 원인은 엔진 마운트",
-          "views": 882,
+          "views": 884,
           "date": "2026-06-24",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
@@ -457,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1563,
+          "views": 1572,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
         }
       ],
-      "analyzed_at": "2026-06-25 21:54",
+      "analyzed_at": "2026-06-25 22:57",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-25 21:51"
+  "generated_at": "2026-06-25 22:55"
 };
