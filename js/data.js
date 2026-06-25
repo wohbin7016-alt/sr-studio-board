@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2371,
+      "avg_views": 2375,
       "median_views": 1796,
       "uploads_30d": 20,
-      "views_30d": 47424,
+      "views_30d": 47503,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "새까맣게 탄 냄비, 베이킹소다로 새것처럼 복원",
-          "views": 958,
+          "views": 1033,
           "date": "2026-06-25",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1616,
+          "views": 1620,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         }
       ],
-      "analyzed_at": "2026-06-25 14:27",
+      "analyzed_at": "2026-06-25 15:29",
       "subs_delta": 0
     },
     {
@@ -138,7 +138,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-06-25 14:27",
+      "analyzed_at": "2026-06-25 15:29",
       "subs_delta": null
     },
     {
@@ -147,10 +147,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1230,
+      "avg_views": 1248,
       "median_views": 1380,
       "uploads_30d": 20,
-      "views_30d": 24613,
+      "views_30d": 24970,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -192,7 +192,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 835,
+          "views": 1189,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -213,7 +213,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1535,
+          "views": 1538,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -261,7 +261,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         }
       ],
-      "analyzed_at": "2026-06-25 14:28",
+      "analyzed_at": "2026-06-25 15:30",
       "subs_delta": 0
     },
     {
@@ -270,10 +270,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1114,
+      "avg_views": 1119,
       "median_views": 1164,
       "uploads_30d": 20,
-      "views_30d": 22297,
+      "views_30d": 22382,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
         },
         {
           "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1687,
+          "views": 1688,
           "date": "2026-06-16",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
@@ -315,7 +315,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "우파루파는 왜 평생 아기 얼굴일까",
-          "views": 905,
+          "views": 989,
           "date": "2026-06-25",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=DrS3zu25BP8"
@@ -384,9 +384,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Za3EHcwOF4k"
         }
       ],
-      "analyzed_at": "2026-06-25 14:28",
+      "analyzed_at": "2026-06-25 15:31",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-25 14:27"
+  "generated_at": "2026-06-25 15:29"
 };
