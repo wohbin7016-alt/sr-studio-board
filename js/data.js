@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2424,
-      "median_views": 1850,
+      "avg_views": 2311,
+      "median_views": 1841,
       "uploads_30d": 20,
-      "views_30d": 48495,
+      "views_30d": 46236,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -52,6 +52,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
+          "views": 495,
+          "date": "2026-06-25",
+          "duration": 16,
+          "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
+        },
+        {
           "title": "새까맣게 탄 냄비, 베이킹소다로 새것처럼 복원",
           "views": 1405,
           "date": "2026-06-25",
@@ -88,14 +95,14 @@ window.DATA = {
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1630,
+          "views": 1632,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2449,
+          "views": 2463,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
-        },
-        {
-          "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7839,
-          "date": "2026-06-20",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         }
       ],
-      "analyzed_at": "2026-06-25 19:44",
+      "analyzed_at": "2026-06-25 20:48",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1273,
-      "median_views": 1429,
+      "avg_views": 1203,
+      "median_views": 1380,
       "uploads_30d": 20,
-      "views_30d": 25466,
+      "views_30d": 24069,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -152,13 +152,6 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         },
         {
-          "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
-          "views": 1750,
-          "date": "2026-06-15",
-          "duration": 35,
-          "url": "https://www.youtube.com/watch?v=6xlRUlxaY1Y"
-        },
-        {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
           "views": 1676,
           "date": "2026-06-25",
@@ -171,9 +164,23 @@ window.DATA = {
           "date": "2026-06-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
+        },
+        {
+          "title": "이 두께에 RTX 5060을 풀파워로 박았다고?",
+          "views": 1614,
+          "date": "2026-06-17",
+          "duration": 40,
+          "url": "https://www.youtube.com/watch?v=A67JOkeTXY0"
         }
       ],
       "recent_videos": [
+        {
+          "title": "레노버 리전 5 (라이젠7·RTX5070·16GB·512GB)",
+          "views": 351,
+          "date": "2026-06-25",
+          "duration": 38,
+          "url": "https://www.youtube.com/watch?v=P5K9KwQA6oQ"
+        },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
           "views": 1676,
@@ -190,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "200만 원 게이밍을 반값에? MSI 스워드 GF76 HX (i7 14세대 · RTX 5060 · 17.3 144Hz)",
-          "views": 1458,
+          "views": 1460,
           "date": "2026-06-24",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
-        },
-        {
-          "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1944,
-          "date": "2026-06-20",
-          "duration": 36,
-          "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         }
       ],
-      "analyzed_at": "2026-06-25 19:45",
+      "analyzed_at": "2026-06-25 20:49",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1136,
+      "avg_views": 1131,
       "median_views": 1195,
       "uploads_30d": 20,
-      "views_30d": 22731,
+      "views_30d": 22636,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -298,6 +298,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "거미는 왜 자기 거미줄엔 안 붙을까",
+          "views": 380,
+          "date": "2026-06-25",
+          "duration": 27,
+          "url": "https://www.youtube.com/watch?v=6ptILdKLgQ0"
+        },
+        {
           "title": "우파루파는 왜 평생 아기 얼굴일까",
           "views": 1332,
           "date": "2026-06-25",
@@ -327,7 +334,7 @@ window.DATA = {
         },
         {
           "title": "태블릿 화면이 노트북보다 크다고? 갤럭시탭 S10 울트라",
-          "views": 1153,
+          "views": 1152,
           "date": "2026-06-23",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=msIGtcGNzq4"
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-21",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=LWm0kNTQTo8"
-        },
-        {
-          "title": "노트북이 충전기 없이 하루를 통째로 버틴다고? 비보북 S15 OLED",
-          "views": 1326,
-          "date": "2026-06-20",
-          "duration": 28,
-          "url": "https://www.youtube.com/watch?v=Za3EHcwOF4k"
         }
       ],
-      "analyzed_at": "2026-06-25 19:46",
+      "analyzed_at": "2026-06-25 20:50",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 676,
-      "median_views": 391,
+      "avg_views": 682,
+      "median_views": 445,
       "uploads_30d": 20,
-      "views_30d": 13529,
+      "views_30d": 13652,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,7 +392,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1543,
+          "views": 1563,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -421,15 +421,22 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "BMW X5 에어컨 미지근, 진짜 원인은 컴프레서",
+          "views": 1,
+          "date": "2026-06-25",
+          "duration": 28,
+          "url": "https://www.youtube.com/watch?v=En5NKsnk1Kg"
+        },
+        {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 716,
+          "views": 825,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "브레이크 패드 한쪽만 닳고 차 쏠림, 패드 갈면 또 닳습니다 (진짜 원인은 캘리퍼 슬라이드핀 고착)",
-          "views": 1,
+          "views": 2,
           "date": "2026-06-24",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=g3AF-G1fTC8"
@@ -450,14 +457,14 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1543,
+          "views": 1563,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
         },
         {
           "title": "박지현, 안정된 공무원 자리를 버리고 트로트 무대를 택한 이유",
-          "views": 14,
+          "views": 15,
           "date": "2026-06-22",
           "duration": 47,
           "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
@@ -478,22 +485,15 @@ window.DATA = {
         },
         {
           "title": "임영웅 — 버스킹하던 무명가수가 국민가수가 되기까지",
-          "views": 838,
+          "views": 837,
           "date": "2026-06-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
-        },
-        {
-          "title": "한 살 반에 빛과 소리를 잃은 아이 (헬렌 켈러)",
-          "views": 4,
-          "date": "2026-06-20",
-          "duration": 30,
-          "url": "https://www.youtube.com/watch?v=LhrrJEFcNw8"
         }
       ],
-      "analyzed_at": "2026-06-25 19:48",
+      "analyzed_at": "2026-06-25 20:51",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-25 19:44"
+  "generated_at": "2026-06-25 20:48"
 };
