@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2393,
-      "median_views": 1874,
+      "avg_views": 2396,
+      "median_views": 1873,
       "uploads_30d": 20,
-      "views_30d": 47865,
+      "views_30d": 47934,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -74,14 +74,14 @@ window.DATA = {
         },
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 2346,
+          "views": 2416,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
         },
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 1867,
+          "views": 1866,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         }
       ],
-      "analyzed_at": "2026-06-26 02:05",
+      "analyzed_at": "2026-06-26 03:07",
       "subs_delta": 0
     },
     {
@@ -153,7 +153,7 @@ window.DATA = {
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1742,
+          "views": 1740,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1742,
+          "views": 1740,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1546,
+          "views": 1548,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
         }
       ],
-      "analyzed_at": "2026-06-26 02:06",
+      "analyzed_at": "2026-06-26 03:08",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1154,
       "median_views": 1195,
       "uploads_30d": 20,
-      "views_30d": 23086,
+      "views_30d": 23080,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "거미는 왜 자기 거미줄엔 안 붙을까",
-          "views": 807,
+          "views": 801,
           "date": "2026-06-25",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=6ptILdKLgQ0"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=LWm0kNTQTo8"
         }
       ],
-      "analyzed_at": "2026-06-26 02:06",
+      "analyzed_at": "2026-06-26 03:09",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 690,
+      "avg_views": 692,
       "median_views": 451,
       "uploads_30d": 20,
-      "views_30d": 13803,
+      "views_30d": 13843,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,7 +392,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1587,
+          "views": 1598,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 942,
+          "views": 966,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "BMW 공회전 부르르 떨림, 진짜 원인은 엔진 마운트",
-          "views": 886,
+          "views": 889,
           "date": "2026-06-24",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
@@ -457,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1587,
+          "views": 1598,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
         }
       ],
-      "analyzed_at": "2026-06-26 02:07",
+      "analyzed_at": "2026-06-26 03:09",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-26 02:05"
+  "generated_at": "2026-06-26 03:07"
 };
