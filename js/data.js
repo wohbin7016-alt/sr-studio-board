@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2420,
-      "median_views": 1842,
+      "avg_views": 2424,
+      "median_views": 1850,
       "uploads_30d": 20,
-      "views_30d": 48403,
+      "views_30d": 48495,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -81,21 +81,21 @@ window.DATA = {
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 1794,
+          "views": 1849,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1625,
+          "views": 1630,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2417,
+          "views": 2449,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         }
       ],
-      "analyzed_at": "2026-06-25 18:40",
+      "analyzed_at": "2026-06-25 19:44",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         }
       ],
-      "analyzed_at": "2026-06-25 18:41",
+      "analyzed_at": "2026-06-25 19:45",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1136,
       "median_views": 1195,
       "uploads_30d": 20,
-      "views_30d": 22728,
+      "views_30d": 22731,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -313,7 +313,7 @@ window.DATA = {
         },
         {
           "title": "춤추는 새? 멧도요가 몸을 흔드는 진짜 이유",
-          "views": 1461,
+          "views": 1462,
           "date": "2026-06-24",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=dJRG9efcloI"
@@ -327,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "태블릿 화면이 노트북보다 크다고? 갤럭시탭 S10 울트라",
-          "views": 1150,
+          "views": 1153,
           "date": "2026-06-23",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=msIGtcGNzq4"
@@ -341,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 1213,
+          "views": 1212,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Za3EHcwOF4k"
         }
       ],
-      "analyzed_at": "2026-06-25 18:42",
+      "analyzed_at": "2026-06-25 19:46",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 669,
-      "median_views": 321,
+      "avg_views": 676,
+      "median_views": 391,
       "uploads_30d": 20,
-      "views_30d": 13389,
+      "views_30d": 13529,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 577,
+          "views": 716,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "임영웅 — 버스킹하던 무명가수가 국민가수가 되기까지",
-          "views": 837,
+          "views": 838,
           "date": "2026-06-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=LhrrJEFcNw8"
         }
       ],
-      "analyzed_at": "2026-06-25 18:42",
+      "analyzed_at": "2026-06-25 19:48",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-25 18:40"
+  "generated_at": "2026-06-25 19:44"
 };
