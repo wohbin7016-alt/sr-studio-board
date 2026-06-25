@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2427,
-      "median_views": 1810,
+      "avg_views": 2347,
+      "median_views": 1796,
       "uploads_30d": 20,
-      "views_30d": 48549,
+      "views_30d": 46949,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -52,8 +52,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "새까맣게 탄 냄비, 베이킹소다로 새것처럼 복원",
+          "views": 602,
+          "date": "2026-06-25",
+          "duration": 17,
+          "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
+        },
+        {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 1788,
+          "views": 1807,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
@@ -67,14 +74,14 @@ window.DATA = {
         },
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 1703,
+          "views": 1713,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 1748,
+          "views": 1782,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -88,14 +95,14 @@ window.DATA = {
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2389,
+          "views": 2401,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1397,
+          "views": 1402,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
-        },
-        {
-          "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1833,
-          "date": "2026-06-20",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
         }
       ],
-      "analyzed_at": "2026-06-25 12:22",
+      "analyzed_at": "2026-06-25 13:25",
       "subs_delta": 0
     },
     {
@@ -138,7 +138,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-06-25 12:22",
+      "analyzed_at": "2026-06-25 13:25",
       "subs_delta": null
     },
     {
@@ -147,15 +147,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1285,
-      "median_views": 1429,
+      "avg_views": 1210,
+      "median_views": 1380,
       "uploads_30d": 20,
-      "views_30d": 25706,
+      "views_30d": 24218,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1970,
+          "views": 1971,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -166,13 +166,6 @@ window.DATA = {
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
-        },
-        {
-          "title": "17인치 게이밍 노트북, 생각보다 안 비싸다는 거 아세요 (HP 2025 오멘 17)",
-          "views": 1935,
-          "date": "2026-06-14",
-          "duration": 33,
-          "url": "https://www.youtube.com/watch?v=B7nLKwwbR3A"
         },
         {
           "title": "150만 원 노트북 보러 갔다가 조용히 이걸 담은 이유 (델 인스피론 16)",
@@ -187,9 +180,23 @@ window.DATA = {
           "date": "2026-06-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
+        },
+        {
+          "title": "이 두께에 RTX 5060을 풀파워로 박았다고?",
+          "views": 1613,
+          "date": "2026-06-17",
+          "duration": 40,
+          "url": "https://www.youtube.com/watch?v=A67JOkeTXY0"
         }
       ],
       "recent_videos": [
+        {
+          "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
+          "views": 441,
+          "date": "2026-06-25",
+          "duration": 36,
+          "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
+        },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
           "views": 1360,
@@ -213,7 +220,7 @@ window.DATA = {
         },
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1970,
+          "views": 1971,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -252,16 +259,9 @@ window.DATA = {
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
-        },
-        {
-          "title": "사무실 들고 가도 아무도 게이밍인 줄 모르는 노트북 — 에이수스 TUF 게이밍 A14 #shorts",
-          "views": 1294,
-          "date": "2026-06-19",
-          "duration": 32,
-          "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
         }
       ],
-      "analyzed_at": "2026-06-25 12:23",
+      "analyzed_at": "2026-06-25 13:26",
       "subs_delta": 0
     },
     {
@@ -270,10 +270,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1141,
-      "median_views": 1195,
+      "avg_views": 1097,
+      "median_views": 1164,
       "uploads_30d": 20,
-      "views_30d": 22839,
+      "views_30d": 21957,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -313,6 +313,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "우파루파는 왜 평생 아기 얼굴일까",
+          "views": 565,
+          "date": "2026-06-25",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=DrS3zu25BP8"
+        },
         {
           "title": "목에서 빨간 풍선이? 프레리치킨의 짝짓기 쇼",
           "views": 1076,
@@ -371,22 +378,15 @@ window.DATA = {
         },
         {
           "title": "노트북이 충전기 없이 하루를 통째로 버틴다고? 비보북 S15 OLED",
-          "views": 1325,
+          "views": 1326,
           "date": "2026-06-20",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Za3EHcwOF4k"
-        },
-        {
-          "title": "에이수스_게이밍_V16",
-          "views": 1625,
-          "date": "2026-06-20",
-          "duration": 31,
-          "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
         }
       ],
-      "analyzed_at": "2026-06-25 12:24",
+      "analyzed_at": "2026-06-25 13:26",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-25 12:22"
+  "generated_at": "2026-06-25 13:25"
 };
