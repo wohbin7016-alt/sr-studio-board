@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2426,
-      "median_views": 1811,
+      "avg_views": 2427,
+      "median_views": 1810,
       "uploads_30d": 20,
-      "views_30d": 48532,
+      "views_30d": 48549,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 1696,
+          "views": 1703,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1608,
+          "views": 1616,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1394,
+          "views": 1397,
           "date": "2026-06-21",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "막힌 배수구, 약품으론 안 뚫린다고요? — 드레인 와이어로 한 방 #shorts",
-          "views": 1834,
+          "views": 1833,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=2stro6e2iKk"
         }
       ],
-      "analyzed_at": "2026-06-25 11:20",
+      "analyzed_at": "2026-06-25 12:22",
       "subs_delta": 0
     },
     {
@@ -138,7 +138,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-06-25 11:20",
+      "analyzed_at": "2026-06-25 12:22",
       "subs_delta": null
     },
     {
@@ -148,9 +148,9 @@ window.DATA = {
       "subscribers": 72900,
       "sampled": 20,
       "avg_views": 1285,
-      "median_views": 1428,
+      "median_views": 1429,
       "uploads_30d": 20,
-      "views_30d": 25708,
+      "views_30d": 25706,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -199,7 +199,7 @@ window.DATA = {
         },
         {
           "title": "200만 원 게이밍을 반값에? MSI 스워드 GF76 HX (i7 14세대 · RTX 5060 · 17.3 144Hz)",
-          "views": 1457,
+          "views": 1458,
           "date": "2026-06-24",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
@@ -241,7 +241,7 @@ window.DATA = {
         },
         {
           "title": "이게 게이밍 노트북이라고? 화면 켜자마자 말 쏙 들어간 OLED 게이밍",
-          "views": 1290,
+          "views": 1287,
           "date": "2026-06-20",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
@@ -261,7 +261,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=7EwnPuMkkjI"
         }
       ],
-      "analyzed_at": "2026-06-25 11:21",
+      "analyzed_at": "2026-06-25 12:23",
       "subs_delta": 0
     },
     {
@@ -273,7 +273,7 @@ window.DATA = {
       "avg_views": 1141,
       "median_views": 1195,
       "uploads_30d": 20,
-      "views_30d": 22838,
+      "views_30d": 22839,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -384,9 +384,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
         }
       ],
-      "analyzed_at": "2026-06-25 11:21",
+      "analyzed_at": "2026-06-25 12:24",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-25 11:20"
+  "generated_at": "2026-06-25 12:22"
 };
