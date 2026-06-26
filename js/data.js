@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2418,
-      "median_views": 1933,
+      "avg_views": 2419,
+      "median_views": 1940,
       "uploads_30d": 20,
-      "views_30d": 48375,
+      "views_30d": 48394,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3245,
+          "views": 3246,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 1900,
+          "views": 1914,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1659,
+          "views": 1661,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         }
       ],
-      "analyzed_at": "2026-06-26 14:40",
+      "analyzed_at": "2026-06-26 15:43",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
         }
       ],
-      "analyzed_at": "2026-06-26 14:41",
+      "analyzed_at": "2026-06-26 15:44",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1155,
       "median_views": 1196,
       "uploads_30d": 20,
-      "views_30d": 23105,
+      "views_30d": 23104,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=LWm0kNTQTo8"
         }
       ],
-      "analyzed_at": "2026-06-26 14:42",
+      "analyzed_at": "2026-06-26 15:45",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 706,
+      "avg_views": 730,
       "median_views": 451,
       "uploads_30d": 20,
-      "views_30d": 14127,
+      "views_30d": 14601,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -389,6 +389,13 @@ window.DATA = {
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
+        },
+        {
+          "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
+          "views": 1680,
+          "date": "2026-06-25",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
@@ -403,13 +410,6 @@ window.DATA = {
           "date": "2026-06-18",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
-        },
-        {
-          "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 1206,
-          "date": "2026-06-25",
-          "duration": 26,
-          "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 1206,
+          "views": 1680,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
         }
       ],
-      "analyzed_at": "2026-06-26 14:43",
+      "analyzed_at": "2026-06-26 15:46",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-26 14:40"
+  "generated_at": "2026-06-26 15:43"
 };
