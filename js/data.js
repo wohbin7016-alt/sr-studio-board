@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2410,
+      "avg_views": 2411,
       "median_views": 1917,
       "uploads_30d": 20,
-      "views_30d": 48210,
+      "views_30d": 48228,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 1712,
+          "views": 1730,
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         }
       ],
-      "analyzed_at": "2026-06-26 10:30",
+      "analyzed_at": "2026-06-26 11:32",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1259,
       "median_views": 1399,
       "uploads_30d": 20,
-      "views_30d": 25197,
+      "views_30d": 25198,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -190,7 +190,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1361,
+          "views": 1362,
           "date": "2026-06-24",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
         }
       ],
-      "analyzed_at": "2026-06-26 10:30",
+      "analyzed_at": "2026-06-26 11:33",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1154,
       "median_views": 1195,
       "uploads_30d": 20,
-      "views_30d": 23094,
+      "views_30d": 23097,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -269,7 +269,7 @@ window.DATA = {
         },
         {
           "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
-          "views": 1843,
+          "views": 1845,
           "date": "2026-06-21",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
@@ -306,7 +306,7 @@ window.DATA = {
         },
         {
           "title": "우파루파는 왜 평생 아기 얼굴일까",
-          "views": 1341,
+          "views": 1342,
           "date": "2026-06-25",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=DrS3zu25BP8"
@@ -355,7 +355,7 @@ window.DATA = {
         },
         {
           "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
-          "views": 1843,
+          "views": 1845,
           "date": "2026-06-21",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=LWm0kNTQTo8"
         }
       ],
-      "analyzed_at": "2026-06-26 10:31",
+      "analyzed_at": "2026-06-26 11:34",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 696,
+      "avg_views": 700,
       "median_views": 451,
       "uploads_30d": 20,
-      "views_30d": 13925,
+      "views_30d": 14006,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -413,7 +413,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 1032,
+          "views": 1113,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 1032,
+          "views": 1113,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
         }
       ],
-      "analyzed_at": "2026-06-26 10:32",
+      "analyzed_at": "2026-06-26 11:34",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-26 10:30"
+  "generated_at": "2026-06-26 11:32"
 };
