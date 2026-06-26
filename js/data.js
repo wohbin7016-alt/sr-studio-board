@@ -11,7 +11,7 @@ window.DATA = {
       "avg_views": 2407,
       "median_views": 1899,
       "uploads_30d": 20,
-      "views_30d": 48141,
+      "views_30d": 48153,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -60,7 +60,7 @@ window.DATA = {
         },
         {
           "title": "새까맣게 탄 냄비, 베이킹소다로 새것처럼 복원",
-          "views": 1397,
+          "views": 1396,
           "date": "2026-06-25",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
@@ -74,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 2432,
+          "views": 2445,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         }
       ],
-      "analyzed_at": "2026-06-26 08:24",
+      "analyzed_at": "2026-06-26 09:27",
       "subs_delta": 0
     },
     {
@@ -134,12 +134,12 @@ window.DATA = {
       "avg_views": 1259,
       "median_views": 1396,
       "uploads_30d": 20,
-      "views_30d": 25196,
+      "views_30d": 25197,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1971,
+          "views": 1972,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1971,
+          "views": 1972,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
         }
       ],
-      "analyzed_at": "2026-06-26 08:25",
+      "analyzed_at": "2026-06-26 09:28",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=LWm0kNTQTo8"
         }
       ],
-      "analyzed_at": "2026-06-26 08:26",
+      "analyzed_at": "2026-06-26 09:29",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 692,
+      "avg_views": 695,
       "median_views": 451,
       "uploads_30d": 20,
-      "views_30d": 13856,
+      "views_30d": 13915,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -412,11 +412,11 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
         },
         {
-          "title": "선로에 뛰어든 26살 한국 청년… 단 2초가 운명을 갈랐다 #shorts",
-          "views": 1004,
-          "date": "2026-06-20",
-          "duration": 32,
-          "url": "https://www.youtube.com/watch?v=GA4arzC36I0"
+          "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
+          "views": 1032,
+          "date": "2026-06-25",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         }
       ],
       "recent_videos": [
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 973,
+          "views": 1032,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
         }
       ],
-      "analyzed_at": "2026-06-26 08:26",
+      "analyzed_at": "2026-06-26 09:29",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-26 08:24"
+  "generated_at": "2026-06-26 09:27"
 };
