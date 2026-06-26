@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2431,
-      "median_views": 1963,
+      "avg_views": 2450,
+      "median_views": 1974,
       "uploads_30d": 20,
-      "views_30d": 48624,
+      "views_30d": 49018,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "칼자국 도마 다시 하얘진 이유 — 표백제 아니었습니다",
-          "views": 1049,
+          "views": 1382,
           "date": "2026-06-26",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=zHrpxR15s2E"
@@ -67,14 +67,14 @@ window.DATA = {
         },
         {
           "title": "새까맣게 탄 냄비, 베이킹소다로 새것처럼 복원",
-          "views": 1404,
+          "views": 1405,
           "date": "2026-06-25",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
         },
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 1959,
+          "views": 1981,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 2080,
+          "views": 2118,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
         }
       ],
-      "analyzed_at": "2026-06-27 00:07",
+      "analyzed_at": "2026-06-27 01:10",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1207,
+      "avg_views": 1208,
       "median_views": 1388,
       "uploads_30d": 20,
-      "views_30d": 24142,
+      "views_30d": 24161,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -146,7 +146,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1947,
+          "views": 1944,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -176,14 +176,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "QHD 165Hz 게이밍을 이 가격에? 이거 빠지면 무조건 손해입니다",
-          "views": 296,
+          "views": 319,
           "date": "2026-06-26",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=ZL1usPoL7yc"
         },
         {
           "title": "레노버 리전 5 (라이젠7·RTX5070·16GB·512GB)",
-          "views": 1413,
+          "views": 1412,
           "date": "2026-06-25",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=P5K9KwQA6oQ"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=o6If1aGjNH4"
         }
       ],
-      "analyzed_at": "2026-06-27 00:08",
+      "analyzed_at": "2026-06-27 01:11",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
         }
       ],
-      "analyzed_at": "2026-06-27 00:09",
+      "analyzed_at": "2026-06-27 01:12",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 858,
+      "avg_views": 907,
       "median_views": 167,
       "uploads_30d": 20,
-      "views_30d": 17165,
+      "views_30d": 18158,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 5017,
+          "views": 5990,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -399,7 +399,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1685,
+          "views": 1704,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 5017,
+          "views": 5990,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -457,14 +457,14 @@ window.DATA = {
         },
         {
           "title": "데뷔 전 KBS 노래가 좋아 4연승, 무명의 실력이 빛난 박지현",
-          "views": 13,
+          "views": 12,
           "date": "2026-06-23",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=95yJlTs1rlo"
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1685,
+          "views": 1704,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "인류 첫 발자국 — 그날 온 세계가 멈췄다 (닐 암스트롱)",
-          "views": 845,
+          "views": 846,
           "date": "2026-06-22",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=v0frUDW9dLs"
         }
       ],
-      "analyzed_at": "2026-06-27 00:10",
+      "analyzed_at": "2026-06-27 01:12",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-27 00:07"
+  "generated_at": "2026-06-27 01:10"
 };
