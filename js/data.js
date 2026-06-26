@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2416,
+      "avg_views": 2418,
       "median_views": 1933,
       "uploads_30d": 20,
-      "views_30d": 48324,
+      "views_30d": 48375,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3246,
+          "views": 3245,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 1730,
+          "views": 1748,
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
@@ -74,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 2445,
+          "views": 2464,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2513,
+          "views": 2528,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         }
       ],
-      "analyzed_at": "2026-06-26 13:38",
+      "analyzed_at": "2026-06-26 14:40",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1260,
       "median_views": 1399,
       "uploads_30d": 20,
-      "views_30d": 25208,
+      "views_30d": 25209,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
         }
       ],
-      "analyzed_at": "2026-06-26 13:39",
+      "analyzed_at": "2026-06-26 14:41",
       "subs_delta": 0
     },
     {
@@ -255,14 +255,14 @@ window.DATA = {
       "subscribers": 2360,
       "sampled": 20,
       "avg_views": 1155,
-      "median_views": 1195,
+      "median_views": 1196,
       "uploads_30d": 20,
-      "views_30d": 23100,
+      "views_30d": 23105,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1906,
+          "views": 1907,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
@@ -348,7 +348,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 1213,
+          "views": 1215,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=LWm0kNTQTo8"
         }
       ],
-      "analyzed_at": "2026-06-26 13:39",
+      "analyzed_at": "2026-06-26 14:42",
       "subs_delta": 0
     },
     {
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
         }
       ],
-      "analyzed_at": "2026-06-26 13:40",
+      "analyzed_at": "2026-06-26 14:43",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-26 13:38"
+  "generated_at": "2026-06-26 14:40"
 };
