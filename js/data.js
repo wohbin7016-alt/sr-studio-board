@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2411,
-      "median_views": 1917,
+      "avg_views": 2412,
+      "median_views": 1919,
       "uploads_30d": 20,
-      "views_30d": 48228,
+      "views_30d": 48241,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,14 +23,14 @@ window.DATA = {
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4999,
+          "views": 4998,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3245,
+          "views": 3246,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
@@ -60,14 +60,14 @@ window.DATA = {
         },
         {
           "title": "새까맣게 탄 냄비, 베이킹소다로 새것처럼 복원",
-          "views": 1397,
+          "views": 1398,
           "date": "2026-06-25",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
         },
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 1897,
+          "views": 1900,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
@@ -95,14 +95,14 @@ window.DATA = {
         },
         {
           "title": "석고보드 안 뜯고 벽 구멍·파인 자국을 직접 메우는 셀프 보수법",
-          "views": 1655,
+          "views": 1659,
           "date": "2026-06-22",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2508,
+          "views": 2513,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4999,
+          "views": 4998,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         }
       ],
-      "analyzed_at": "2026-06-26 11:32",
+      "analyzed_at": "2026-06-26 12:35",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1259,
+      "avg_views": 1260,
       "median_views": 1399,
       "uploads_30d": 20,
-      "views_30d": 25198,
+      "views_30d": 25205,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -153,14 +153,14 @@ window.DATA = {
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1737,
+          "views": 1739,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
         },
         {
           "title": "100만 원대 노트북이 AI를 자체적으로 돌린다고? 레노버 슬림5",
-          "views": 1617,
+          "views": 1619,
           "date": "2026-06-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1737,
+          "views": 1739,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -197,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "200만 원 게이밍을 반값에? MSI 스워드 GF76 HX (i7 14세대 · RTX 5060 · 17.3 144Hz)",
-          "views": 1465,
+          "views": 1467,
           "date": "2026-06-24",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
@@ -225,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "100만 원대 노트북이 AI를 자체적으로 돌린다고? 레노버 슬림5",
-          "views": 1617,
+          "views": 1619,
           "date": "2026-06-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=xE3r2NbF6oM"
         }
       ],
-      "analyzed_at": "2026-06-26 11:33",
+      "analyzed_at": "2026-06-26 12:36",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1154,
       "median_views": 1195,
       "uploads_30d": 20,
-      "views_30d": 23097,
+      "views_30d": 23099,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,14 +299,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "거미는 왜 자기 거미줄엔 안 붙을까",
-          "views": 824,
+          "views": 827,
           "date": "2026-06-25",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=6ptILdKLgQ0"
         },
         {
           "title": "우파루파는 왜 평생 아기 얼굴일까",
-          "views": 1342,
+          "views": 1341,
           "date": "2026-06-25",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=DrS3zu25BP8"
@@ -334,7 +334,7 @@ window.DATA = {
         },
         {
           "title": "태블릿 화면이 노트북보다 크다고? 갤럭시탭 S10 울트라",
-          "views": 1154,
+          "views": 1153,
           "date": "2026-06-23",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=msIGtcGNzq4"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=LWm0kNTQTo8"
         }
       ],
-      "analyzed_at": "2026-06-26 11:34",
+      "analyzed_at": "2026-06-26 12:37",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1140,
       "sampled": 20,
-      "avg_views": 700,
+      "avg_views": 705,
       "median_views": 451,
       "uploads_30d": 20,
-      "views_30d": 14006,
+      "views_30d": 14106,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -405,18 +405,18 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
         },
         {
+          "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
+          "views": 1206,
+          "date": "2026-06-25",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
+        },
+        {
           "title": "세계 최고 심장의사가, 정작 자기 아들 심장병은 가장 늦게 안 이유",
           "views": 1115,
           "date": "2026-06-16",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=rT_nEsd1v5E"
-        },
-        {
-          "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 1113,
-          "date": "2026-06-25",
-          "duration": 26,
-          "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         }
       ],
       "recent_videos": [
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 1113,
+          "views": 1206,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "BMW 공회전 부르르 떨림, 진짜 원인은 엔진 마운트",
-          "views": 892,
+          "views": 899,
           "date": "2026-06-24",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZAXKfvXFpdU"
         }
       ],
-      "analyzed_at": "2026-06-26 11:34",
+      "analyzed_at": "2026-06-26 12:37",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-26 11:32"
+  "generated_at": "2026-06-26 12:35"
 };
