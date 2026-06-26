@@ -8,22 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2455,
-      "median_views": 1974,
+      "avg_views": 2463,
+      "median_views": 1983,
       "uploads_30d": 20,
-      "views_30d": 49104,
+      "views_30d": 49267,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7852,
+          "views": 7851,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 4999,
+          "views": 5002,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
@@ -53,49 +53,49 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "칼자국 도마 다시 하얘진 이유 — 표백제 아니었습니다",
-          "views": 1389,
+          "views": 1411,
           "date": "2026-06-26",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=zHrpxR15s2E"
         },
         {
           "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 1807,
+          "views": 1824,
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
         },
         {
           "title": "새까맣게 탄 냄비, 베이킹소다로 새것처럼 복원",
-          "views": 1405,
+          "views": 1407,
           "date": "2026-06-25",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
         },
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 1981,
+          "views": 2000,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
         },
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 2490,
+          "views": 2496,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
         },
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 2118,
+          "views": 2143,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2401,
+          "views": 2469,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2531,
+          "views": 2533,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
         }
       ],
-      "analyzed_at": "2026-06-27 04:18",
+      "analyzed_at": "2026-06-27 05:21",
       "subs_delta": 0
     },
     {
@@ -131,36 +131,36 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1208,
+      "avg_views": 1209,
       "median_views": 1390,
       "uploads_30d": 20,
-      "views_30d": 24173,
+      "views_30d": 24183,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1972,
+          "views": 1976,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1948,
+          "views": 1950,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1747,
+          "views": 1749,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
         },
         {
           "title": "100만 원대 노트북이 AI를 자체적으로 돌린다고? 레노버 슬림5",
-          "views": 1621,
+          "views": 1622,
           "date": "2026-06-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
@@ -190,7 +190,7 @@ window.DATA = {
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1747,
+          "views": 1749,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -218,7 +218,7 @@ window.DATA = {
         },
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1972,
+          "views": 1976,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -232,7 +232,7 @@ window.DATA = {
         },
         {
           "title": "100만 원대 노트북이 AI를 자체적으로 돌린다고? 레노버 슬림5",
-          "views": 1621,
+          "views": 1622,
           "date": "2026-06-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=o6If1aGjNH4"
         }
       ],
-      "analyzed_at": "2026-06-27 04:19",
+      "analyzed_at": "2026-06-27 05:21",
       "subs_delta": 0
     },
     {
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1173,
+      "avg_views": 1190,
       "median_views": 1196,
       "uploads_30d": 20,
-      "views_30d": 23469,
+      "views_30d": 23803,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1907,
+          "views": 1909,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
@@ -276,14 +276,14 @@ window.DATA = {
         },
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 1768,
+          "views": 1769,
           "date": "2026-06-22",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
         },
         {
           "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1690,
+          "views": 1692,
           "date": "2026-06-16",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "죽은 척하는 이 동물, 사실 척이 아니었습니다",
-          "views": 810,
+          "views": 1137,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=Jntz1PGag9U"
@@ -320,14 +320,14 @@ window.DATA = {
         },
         {
           "title": "목에서 빨간 풍선이? 프레리치킨의 짝짓기 쇼",
-          "views": 1074,
+          "views": 1075,
           "date": "2026-06-24",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=gmq-pvlL-00"
         },
         {
           "title": "춤추는 새? 멧도요가 몸을 흔드는 진짜 이유",
-          "views": 1463,
+          "views": 1464,
           "date": "2026-06-24",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=dJRG9efcloI"
@@ -348,7 +348,7 @@ window.DATA = {
         },
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
-          "views": 1768,
+          "views": 1769,
           "date": "2026-06-22",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
         }
       ],
-      "analyzed_at": "2026-06-27 04:19",
+      "analyzed_at": "2026-06-27 05:22",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 966,
-      "median_views": 298,
+      "avg_views": 988,
+      "median_views": 451,
       "uploads_30d": 20,
-      "views_30d": 19325,
+      "views_30d": 19766,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 6849,
+          "views": 6978,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -422,21 +422,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 530,
+          "views": 841,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
         },
         {
           "title": "BMW X5 에어컨 미지근, 진짜 원인은 컴프레서",
-          "views": 7,
+          "views": 8,
           "date": "2026-06-25",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=En5NKsnk1Kg"
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 6849,
+          "views": 6978,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=v0frUDW9dLs"
         }
       ],
-      "analyzed_at": "2026-06-27 04:20",
+      "analyzed_at": "2026-06-27 05:23",
       "subs_delta": 10
     }
   ],
-  "generated_at": "2026-06-27 04:18"
+  "generated_at": "2026-06-27 05:21"
 };
