@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2481,
-      "median_views": 1995,
+      "avg_views": 2484,
+      "median_views": 2002,
       "uploads_30d": 20,
-      "views_30d": 49634,
+      "views_30d": 49693,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,28 +53,28 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "칼자국 도마 다시 하얘진 이유 — 표백제 아니었습니다",
-          "views": 1429,
+          "views": 1432,
           "date": "2026-06-26",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=zHrpxR15s2E"
         },
         {
           "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 1835,
+          "views": 1848,
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
         },
         {
           "title": "새까맣게 탄 냄비, 베이킹소다로 새것처럼 복원",
-          "views": 1407,
+          "views": 1408,
           "date": "2026-06-25",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
         },
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 2023,
+          "views": 2038,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 2171,
+          "views": 2197,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
         }
       ],
-      "analyzed_at": "2026-06-27 21:14",
+      "analyzed_at": "2026-06-27 22:17",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1185,
-      "median_views": 1398,
+      "avg_views": 1205,
+      "median_views": 1399,
       "uploads_30d": 20,
-      "views_30d": 23705,
+      "views_30d": 24108,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -153,7 +153,7 @@ window.DATA = {
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1754,
+          "views": 1755,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "HP 오멘 MAX 16 / 액체금속 쿨링·2.5K OLED 240Hz 게이밍 (299만 원대)",
-          "views": 559,
+          "views": 958,
           "date": "2026-06-27",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=JcNefzghzzY"
@@ -190,14 +190,14 @@ window.DATA = {
         },
         {
           "title": "레노버 리전 5 (라이젠7·RTX5070·16GB·512GB)",
-          "views": 1417,
+          "views": 1420,
           "date": "2026-06-25",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=P5K9KwQA6oQ"
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1754,
+          "views": 1755,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         }
       ],
-      "analyzed_at": "2026-06-27 21:15",
+      "analyzed_at": "2026-06-27 22:18",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1144,
+      "avg_views": 1159,
       "median_views": 1166,
       "uploads_30d": 20,
-      "views_30d": 22897,
+      "views_30d": 23183,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -283,7 +283,7 @@ window.DATA = {
         },
         {
           "title": "에이수스_게이밍_V16",
-          "views": 1625,
+          "views": 1626,
           "date": "2026-06-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "미어캣은 왜 혼자 꼿꼿이 서 있을까",
-          "views": 782,
+          "views": 1067,
           "date": "2026-06-27",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
@@ -313,7 +313,7 @@ window.DATA = {
         },
         {
           "title": "거미는 왜 자기 거미줄엔 안 붙을까",
-          "views": 824,
+          "views": 825,
           "date": "2026-06-25",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=6ptILdKLgQ0"
@@ -362,13 +362,13 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 1216,
+          "views": 1215,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
         }
       ],
-      "analyzed_at": "2026-06-27 21:15",
+      "analyzed_at": "2026-06-27 22:18",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1210,
-      "median_views": 521,
+      "avg_views": 1230,
+      "median_views": 569,
       "uploads_30d": 20,
-      "views_30d": 24205,
+      "views_30d": 24619,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 11129,
+          "views": 11448,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 206,
+          "views": 301,
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 11129,
+          "views": 11448,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
         }
       ],
-      "analyzed_at": "2026-06-27 21:16",
+      "analyzed_at": "2026-06-27 22:19",
       "subs_delta": 10
     }
   ],
-  "generated_at": "2026-06-27 21:14"
+  "generated_at": "2026-06-27 22:17"
 };
