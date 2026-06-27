@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2465,
-      "median_views": 1985,
+      "avg_views": 2467,
+      "median_views": 1986,
       "uploads_30d": 20,
-      "views_30d": 49310,
+      "views_30d": 49355,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -74,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 2003,
+          "views": 2006,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
@@ -88,14 +88,14 @@ window.DATA = {
         },
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 2145,
+          "views": 2151,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2495,
+          "views": 2531,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
         }
       ],
-      "analyzed_at": "2026-06-27 10:56",
+      "analyzed_at": "2026-06-27 11:58",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1211,
-      "median_views": 1391,
+      "avg_views": 1212,
+      "median_views": 1393,
       "uploads_30d": 20,
-      "views_30d": 24234,
+      "views_30d": 24242,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -146,7 +146,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1951,
+          "views": 1952,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -197,14 +197,14 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1369,
+          "views": 1374,
           "date": "2026-06-24",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
         },
         {
           "title": "200만 원 게이밍을 반값에? MSI 스워드 GF76 HX (i7 14세대 · RTX 5060 · 17.3 144Hz)",
-          "views": 1474,
+          "views": 1476,
           "date": "2026-06-24",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=o6If1aGjNH4"
         }
       ],
-      "analyzed_at": "2026-06-27 10:56",
+      "analyzed_at": "2026-06-27 11:59",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
         }
       ],
-      "analyzed_at": "2026-06-27 10:57",
+      "analyzed_at": "2026-06-27 12:00",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1077,
-      "median_views": 451,
+      "avg_views": 1093,
+      "median_views": 452,
       "uploads_30d": 20,
-      "views_30d": 21546,
+      "views_30d": 21876,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 8661,
+          "views": 8993,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -399,7 +399,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1805,
+          "views": 1801,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 8661,
+          "views": 8993,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1805,
+          "views": 1801,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=v0frUDW9dLs"
         }
       ],
-      "analyzed_at": "2026-06-27 10:58",
+      "analyzed_at": "2026-06-27 12:01",
       "subs_delta": 10
     }
   ],
-  "generated_at": "2026-06-27 10:56"
+  "generated_at": "2026-06-27 11:58"
 };
