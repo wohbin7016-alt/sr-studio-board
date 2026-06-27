@@ -9,9 +9,9 @@ window.DATA = {
       "subscribers": 31700,
       "sampled": 20,
       "avg_views": 2481,
-      "median_views": 1992,
+      "median_views": 1995,
       "uploads_30d": 20,
-      "views_30d": 49625,
+      "views_30d": 49630,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -74,14 +74,14 @@ window.DATA = {
         },
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 2017,
+          "views": 2023,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
         },
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 2498,
+          "views": 2499,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2736,
+          "views": 2734,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
         }
       ],
-      "analyzed_at": "2026-06-27 18:04",
+      "analyzed_at": "2026-06-27 19:07",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1212,
-      "median_views": 1396,
+      "avg_views": 1213,
+      "median_views": 1398,
       "uploads_30d": 20,
-      "views_30d": 24258,
+      "views_30d": 24264,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -146,7 +146,7 @@ window.DATA = {
         },
         {
           "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1952,
+          "views": 1953,
           "date": "2026-06-20",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
@@ -197,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1376,
+          "views": 1379,
           "date": "2026-06-24",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1546,
+          "views": 1548,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=o6If1aGjNH4"
         }
       ],
-      "analyzed_at": "2026-06-27 18:05",
+      "analyzed_at": "2026-06-27 19:08",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1190,
       "median_views": 1196,
       "uploads_30d": 20,
-      "views_30d": 23806,
+      "views_30d": 23807,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -306,7 +306,7 @@ window.DATA = {
         },
         {
           "title": "거미는 왜 자기 거미줄엔 안 붙을까",
-          "views": 824,
+          "views": 825,
           "date": "2026-06-25",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=6ptILdKLgQ0"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
         }
       ],
-      "analyzed_at": "2026-06-27 18:06",
+      "analyzed_at": "2026-06-27 19:09",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1156,
+      "avg_views": 1174,
       "median_views": 452,
       "uploads_30d": 20,
-      "views_30d": 23133,
+      "views_30d": 23491,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 10202,
+          "views": 10556,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -429,28 +429,28 @@ window.DATA = {
         },
         {
           "title": "BMW X5 에어컨 미지근, 진짜 원인은 컴프레서",
-          "views": 8,
+          "views": 9,
           "date": "2026-06-25",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=En5NKsnk1Kg"
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 10202,
+          "views": 10556,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "브레이크 패드 한쪽만 닳고 차 쏠림, 패드 갈면 또 닳습니다 (진짜 원인은 캘리퍼 슬라이드핀 고착)",
-          "views": 8,
+          "views": 10,
           "date": "2026-06-24",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=g3AF-G1fTC8"
         },
         {
           "title": "BMW 공회전 부르르 떨림, 진짜 원인은 엔진 마운트",
-          "views": 908,
+          "views": 909,
           "date": "2026-06-24",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=v0frUDW9dLs"
         }
       ],
-      "analyzed_at": "2026-06-27 18:07",
+      "analyzed_at": "2026-06-27 19:10",
       "subs_delta": 10
     }
   ],
-  "generated_at": "2026-06-27 18:04"
+  "generated_at": "2026-06-27 19:07"
 };
