@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2484,
-      "median_views": 2003,
+      "avg_views": 2460,
+      "median_views": 2004,
       "uploads_30d": 20,
-      "views_30d": 49698,
+      "views_30d": 49203,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -52,6 +52,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
+          "views": 885,
+          "date": "2026-06-27",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
+        },
+        {
           "title": "칼자국 도마 다시 하얘진 이유 — 표백제 아니었습니다",
           "views": 1432,
           "date": "2026-06-26",
@@ -74,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 2039,
+          "views": 2041,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
@@ -88,14 +95,14 @@ window.DATA = {
         },
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 2197,
+          "views": 2203,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2737,
+          "views": 2736,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
-        },
-        {
-          "title": "돌처럼 굳은 페인트붓이 새것 된다고요? (버리기 전 꼭 보세요)",
-          "views": 1410,
-          "date": "2026-06-21",
-          "duration": 25,
-          "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
         }
       ],
-      "analyzed_at": "2026-06-27 23:20",
+      "analyzed_at": "2026-06-28 00:23",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1211,
-      "median_views": 1400,
+      "avg_views": 1227,
+      "median_views": 1409,
       "uploads_30d": 20,
-      "views_30d": 24232,
+      "views_30d": 24554,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "HP 오멘 MAX 16 / 액체금속 쿨링·2.5K OLED 240Hz 게이밍 (299만 원대)",
-          "views": 1077,
+          "views": 1398,
           "date": "2026-06-27",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=JcNefzghzzY"
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "200만 원 게이밍을 반값에? MSI 스워드 GF76 HX (i7 14세대 · RTX 5060 · 17.3 144Hz)",
-          "views": 1474,
+          "views": 1475,
           "date": "2026-06-24",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         }
       ],
-      "analyzed_at": "2026-06-27 23:21",
+      "analyzed_at": "2026-06-28 00:24",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1168,
-      "median_views": 1196,
+      "avg_views": 1183,
+      "median_views": 1197,
       "uploads_30d": 20,
-      "views_30d": 23370,
+      "views_30d": 23671,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -289,17 +289,17 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
         },
         {
-          "title": "춤추는 새? 멧도요가 몸을 흔드는 진짜 이유",
-          "views": 1463,
-          "date": "2026-06-24",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=dJRG9efcloI"
+          "title": "미어캣은 왜 혼자 꼿꼿이 서 있을까",
+          "views": 1552,
+          "date": "2026-06-27",
+          "duration": 27,
+          "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
         }
       ],
       "recent_videos": [
         {
           "title": "미어캣은 왜 혼자 꼿꼿이 서 있을까",
-          "views": 1254,
+          "views": 1552,
           "date": "2026-06-27",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
@@ -313,7 +313,7 @@ window.DATA = {
         },
         {
           "title": "거미는 왜 자기 거미줄엔 안 붙을까",
-          "views": 825,
+          "views": 827,
           "date": "2026-06-25",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=6ptILdKLgQ0"
@@ -362,13 +362,13 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 1215,
+          "views": 1216,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
         }
       ],
-      "analyzed_at": "2026-06-27 23:21",
+      "analyzed_at": "2026-06-28 00:25",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1250,
-      "median_views": 605,
+      "avg_views": 1265,
+      "median_views": 645,
       "uploads_30d": 20,
-      "views_30d": 25005,
+      "views_30d": 25318,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 11759,
+          "views": 11977,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -422,28 +422,28 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 374,
+          "views": 454,
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 890,
+          "views": 907,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
         },
         {
           "title": "BMW X5 에어컨 미지근, 진짜 원인은 컴프레서",
-          "views": 11,
+          "views": 9,
           "date": "2026-06-25",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=En5NKsnk1Kg"
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 11759,
+          "views": 11977,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
         }
       ],
-      "analyzed_at": "2026-06-27 23:22",
+      "analyzed_at": "2026-06-28 00:25",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-27 23:20"
+  "generated_at": "2026-06-28 00:23"
 };
