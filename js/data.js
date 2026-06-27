@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2463,
-      "median_views": 1981,
+      "avg_views": 2465,
+      "median_views": 1985,
       "uploads_30d": 20,
-      "views_30d": 49268,
+      "views_30d": 49302,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -74,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 1996,
+          "views": 2003,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
@@ -88,14 +88,14 @@ window.DATA = {
         },
         {
           "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 2144,
+          "views": 2145,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2469,
+          "views": 2495,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
         }
       ],
-      "analyzed_at": "2026-06-27 07:26",
+      "analyzed_at": "2026-06-27 08:28",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1211,
       "median_views": 1390,
       "uploads_30d": 20,
-      "views_30d": 24223,
+      "views_30d": 24227,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -204,14 +204,14 @@ window.DATA = {
         },
         {
           "title": "200만 원 게이밍을 반값에? MSI 스워드 GF76 HX (i7 14세대 · RTX 5060 · 17.3 144Hz)",
-          "views": 1472,
+          "views": 1474,
           "date": "2026-06-24",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1547,
+          "views": 1549,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=o6If1aGjNH4"
         }
       ],
-      "analyzed_at": "2026-06-27 07:27",
+      "analyzed_at": "2026-06-27 08:29",
       "subs_delta": 0
     },
     {
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1189,
+      "avg_views": 1190,
       "median_views": 1196,
       "uploads_30d": 20,
-      "views_30d": 23796,
+      "views_30d": 23800,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1907,
+          "views": 1909,
           "date": "2026-06-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "죽은 척하는 이 동물, 사실 척이 아니었습니다",
-          "views": 1137,
+          "views": 1139,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=Jntz1PGag9U"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
         }
       ],
-      "analyzed_at": "2026-06-27 07:27",
+      "analyzed_at": "2026-06-27 08:30",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1012,
+      "avg_views": 1034,
       "median_views": 451,
       "uploads_30d": 20,
-      "views_30d": 20242,
+      "views_30d": 20696,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 7416,
+          "views": 7861,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 857,
+          "views": 866,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 7416,
+          "views": 7861,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=v0frUDW9dLs"
         }
       ],
-      "analyzed_at": "2026-06-27 07:28",
+      "analyzed_at": "2026-06-27 08:30",
       "subs_delta": 10
     }
   ],
-  "generated_at": "2026-06-27 07:26"
+  "generated_at": "2026-06-27 08:28"
 };
