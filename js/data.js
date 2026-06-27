@@ -11,12 +11,12 @@ window.DATA = {
       "avg_views": 2481,
       "median_views": 1995,
       "uploads_30d": 20,
-      "views_30d": 49630,
+      "views_30d": 49636,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7857,
+          "views": 7858,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3250,
+          "views": 3251,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
@@ -60,7 +60,7 @@ window.DATA = {
         },
         {
           "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 1835,
+          "views": 1836,
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2734,
+          "views": 2736,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sgaNlHibjPk"
         }
       ],
-      "analyzed_at": "2026-06-27 19:07",
+      "analyzed_at": "2026-06-27 20:10",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1213,
+      "avg_views": 1163,
       "median_views": 1398,
       "uploads_30d": 20,
-      "views_30d": 24264,
+      "views_30d": 23264,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -174,6 +174,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "HP 오멘 MAX 16 / 액체금속 쿨링·2.5K OLED 240Hz 게이밍 (299만 원대)",
+          "views": 127,
+          "date": "2026-06-27",
+          "duration": 44,
+          "url": "https://www.youtube.com/watch?v=JcNefzghzzY"
+        },
         {
           "title": "QHD 165Hz 게이밍을 이 가격에? 이거 빠지면 무조건 손해입니다",
           "views": 370,
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-06-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
-        },
-        {
-          "title": "MSI인데 게이밍이 아니라고? 사무용으로 나온 모던 15 포스",
-          "views": 354,
-          "date": "2026-06-21",
-          "duration": 32,
-          "url": "https://www.youtube.com/watch?v=o6If1aGjNH4"
         }
       ],
-      "analyzed_at": "2026-06-27 19:08",
+      "analyzed_at": "2026-06-27 20:11",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1190,
-      "median_views": 1196,
+      "avg_views": 1112,
+      "median_views": 1166,
       "uploads_30d": 20,
-      "views_30d": 23807,
+      "views_30d": 22257,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -282,21 +282,28 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
         },
         {
-          "title": "마이크로소프트 서피스 랩탑 13",
-          "views": 1693,
-          "date": "2026-06-16",
-          "duration": 33,
-          "url": "https://www.youtube.com/watch?v=C4lLui9fsAU"
-        },
-        {
           "title": "에이수스_게이밍_V16",
           "views": 1625,
           "date": "2026-06-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
+        },
+        {
+          "title": "춤추는 새? 멧도요가 몸을 흔드는 진짜 이유",
+          "views": 1463,
+          "date": "2026-06-24",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=dJRG9efcloI"
         }
       ],
       "recent_videos": [
+        {
+          "title": "미어캣은 왜 혼자 꼿꼿이 서 있을까",
+          "views": 144,
+          "date": "2026-06-27",
+          "duration": 27,
+          "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
+        },
         {
           "title": "죽은 척하는 이 동물, 사실 척이 아니었습니다",
           "views": 1143,
@@ -306,7 +313,7 @@ window.DATA = {
         },
         {
           "title": "거미는 왜 자기 거미줄엔 안 붙을까",
-          "views": 825,
+          "views": 824,
           "date": "2026-06-25",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=6ptILdKLgQ0"
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
-        },
-        {
-          "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
-          "views": 1846,
-          "date": "2026-06-21",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
         }
       ],
-      "analyzed_at": "2026-06-27 19:09",
+      "analyzed_at": "2026-06-27 20:12",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1174,
-      "median_views": 452,
+      "avg_views": 1189,
+      "median_views": 463,
       "uploads_30d": 20,
-      "views_30d": 23491,
+      "views_30d": 23790,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 10556,
+          "views": 10830,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -421,8 +421,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
+          "views": 90,
+          "date": "2026-06-27",
+          "duration": 23,
+          "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
+        },
+        {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 888,
+          "views": 890,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -436,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 10556,
+          "views": 10830,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -482,18 +489,11 @@ window.DATA = {
           "date": "2026-06-22",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
-        },
-        {
-          "title": "션 — 매일 만 원으로 병원을 세운 가수",
-          "views": 6,
-          "date": "2026-06-21",
-          "duration": 32,
-          "url": "https://www.youtube.com/watch?v=v0frUDW9dLs"
         }
       ],
-      "analyzed_at": "2026-06-27 19:10",
+      "analyzed_at": "2026-06-27 20:13",
       "subs_delta": 10
     }
   ],
-  "generated_at": "2026-06-27 19:07"
+  "generated_at": "2026-06-27 20:10"
 };
