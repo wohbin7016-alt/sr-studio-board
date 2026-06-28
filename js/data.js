@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2498,
-      "median_views": 2022,
+      "avg_views": 2499,
+      "median_views": 2024,
       "uploads_30d": 20,
-      "views_30d": 49964,
+      "views_30d": 49999,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,21 +53,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 1569,
+          "views": 1579,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
         },
         {
           "title": "칼자국 도마 다시 하얘진 이유 — 표백제 아니었습니다",
-          "views": 1429,
+          "views": 1430,
           "date": "2026-06-26",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=zHrpxR15s2E"
         },
         {
           "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 1887,
+          "views": 1906,
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 2077,
+          "views": 2082,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         }
       ],
-      "analyzed_at": "2026-06-28 21:18",
+      "analyzed_at": "2026-06-28 22:21",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1237,
       "median_views": 1456,
       "uploads_30d": 20,
-      "views_30d": 24748,
+      "views_30d": 24745,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "QHD 165Hz 게이밍을 이 가격에? 이거 빠지면 무조건 손해입니다",
-          "views": 392,
+          "views": 388,
           "date": "2026-06-26",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=ZL1usPoL7yc"
@@ -218,7 +218,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1559,
+          "views": 1560,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         }
       ],
-      "analyzed_at": "2026-06-28 21:19",
+      "analyzed_at": "2026-06-28 22:22",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1186,
       "median_views": 1198,
       "uploads_30d": 20,
-      "views_30d": 23738,
+      "views_30d": 23739,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
         }
       ],
-      "analyzed_at": "2026-06-28 21:19",
+      "analyzed_at": "2026-06-28 22:22",
       "subs_delta": 0
     },
     {
@@ -377,32 +377,39 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1353,
-      "median_views": 671,
+      "avg_views": 1376,
+      "median_views": 790,
       "uploads_30d": 20,
-      "views_30d": 27065,
+      "views_30d": 27521,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 16209,
+          "views": 16315,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1891,
+          "views": 1906,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
         },
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1303,
+          "views": 1307,
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
+        },
+        {
+          "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
+          "views": 1262,
+          "date": "2026-06-26",
+          "duration": 27,
+          "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
         },
         {
           "title": "월세도 없던 남자가 1500조가 되기까지",
@@ -410,47 +417,40 @@ window.DATA = {
           "date": "2026-06-18",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
-        },
-        {
-          "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 1184,
-          "date": "2026-06-26",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
         }
       ],
       "recent_videos": [
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 505,
+          "views": 744,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1303,
+          "views": 1307,
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 1184,
+          "views": 1262,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
         },
         {
           "title": "BMW X5 에어컨 미지근, 진짜 원인은 컴프레서",
-          "views": 14,
+          "views": 17,
           "date": "2026-06-25",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=En5NKsnk1Kg"
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 16209,
+          "views": 16315,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -464,21 +464,21 @@ window.DATA = {
         },
         {
           "title": "BMW 공회전 부르르 떨림, 진짜 원인은 엔진 마운트",
-          "views": 965,
+          "views": 971,
           "date": "2026-06-24",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
         },
         {
           "title": "데뷔 전 KBS 노래가 좋아 4연승, 무명의 실력이 빛난 박지현",
-          "views": 14,
+          "views": 15,
           "date": "2026-06-23",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=95yJlTs1rlo"
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1891,
+          "views": 1906,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
         }
       ],
-      "analyzed_at": "2026-06-28 21:20",
+      "analyzed_at": "2026-06-28 22:23",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-28 21:18"
+  "generated_at": "2026-06-28 22:21"
 };
