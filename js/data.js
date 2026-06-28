@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2499,
+      "avg_views": 2501,
       "median_views": 2025,
       "uploads_30d": 20,
-      "views_30d": 49985,
+      "views_30d": 50022,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7863,
+          "views": 7862,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 1569,
+          "views": 1589,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 1899,
+          "views": 1917,
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         }
       ],
-      "analyzed_at": "2026-06-28 23:24",
+      "analyzed_at": "2026-06-29 00:27",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1237,
       "median_views": 1456,
       "uploads_30d": 20,
-      "views_30d": 24752,
+      "views_30d": 24755,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -160,7 +160,7 @@ window.DATA = {
         },
         {
           "title": "100만 원대 노트북이 AI를 자체적으로 돌린다고? 레노버 슬림5",
-          "views": 1625,
+          "views": 1626,
           "date": "2026-06-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "QHD 165Hz 게이밍을 이 가격에? 이거 빠지면 무조건 손해입니다",
-          "views": 392,
+          "views": 394,
           "date": "2026-06-26",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=ZL1usPoL7yc"
@@ -239,13 +239,13 @@ window.DATA = {
         },
         {
           "title": "100만 원대 노트북이 AI를 자체적으로 돌린다고? 레노버 슬림5",
-          "views": 1625,
+          "views": 1626,
           "date": "2026-06-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         }
       ],
-      "analyzed_at": "2026-06-28 23:25",
+      "analyzed_at": "2026-06-29 00:28",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
         }
       ],
-      "analyzed_at": "2026-06-28 23:25",
+      "analyzed_at": "2026-06-29 00:28",
       "subs_delta": 0
     },
     {
@@ -377,66 +377,66 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1387,
+      "avg_views": 1415,
       "median_views": 849,
       "uploads_30d": 20,
-      "views_30d": 27744,
+      "views_30d": 28301,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 16381,
+          "views": 16470,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1899,
+          "views": 1911,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
         },
         {
-          "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1314,
-          "date": "2026-06-27",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
-        },
-        {
-          "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 1277,
-          "date": "2026-06-26",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
-        },
-        {
-          "title": "월세도 없던 남자가 1500조가 되기까지",
-          "views": 1209,
-          "date": "2026-06-18",
-          "duration": 42,
-          "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
-        }
-      ],
-      "recent_videos": [
-        {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 884,
+          "views": 1346,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1314,
+          "views": 1310,
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 1277,
+          "views": 1279,
+          "date": "2026-06-26",
+          "duration": 27,
+          "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
+        }
+      ],
+      "recent_videos": [
+        {
+          "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
+          "views": 1346,
+          "date": "2026-06-28",
+          "duration": 18,
+          "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
+        },
+        {
+          "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
+          "views": 1310,
+          "date": "2026-06-27",
+          "duration": 23,
+          "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
+        },
+        {
+          "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
+          "views": 1279,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 16381,
+          "views": 16470,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "BMW 공회전 부르르 떨림, 진짜 원인은 엔진 마운트",
-          "views": 973,
+          "views": 969,
           "date": "2026-06-24",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1899,
+          "views": 1911,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
         }
       ],
-      "analyzed_at": "2026-06-28 23:26",
+      "analyzed_at": "2026-06-29 00:29",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-28 23:24"
+  "generated_at": "2026-06-29 00:27"
 };
