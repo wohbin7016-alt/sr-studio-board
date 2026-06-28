@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2493,
+      "avg_views": 2495,
       "median_views": 2015,
       "uploads_30d": 20,
-      "views_30d": 49876,
+      "views_30d": 49900,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7861,
+          "views": 7863,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -53,21 +53,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 1512,
+          "views": 1523,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
         },
         {
           "title": "칼자국 도마 다시 하얘진 이유 — 표백제 아니었습니다",
-          "views": 1426,
+          "views": 1428,
           "date": "2026-06-26",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=zHrpxR15s2E"
         },
         {
           "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 1873,
+          "views": 1880,
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 2502,
+          "views": 2505,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2736,
+          "views": 2735,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         }
       ],
-      "analyzed_at": "2026-06-28 13:57",
+      "analyzed_at": "2026-06-28 15:00",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1234,
       "median_views": 1449,
       "uploads_30d": 20,
-      "views_30d": 24681,
+      "views_30d": 24685,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "HP 오멘 MAX 16 / 액체금속 쿨링·2.5K OLED 240Hz 게이밍 (299만 원대)",
-          "views": 1487,
+          "views": 1490,
           "date": "2026-06-27",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=JcNefzghzzY"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         }
       ],
-      "analyzed_at": "2026-06-28 13:58",
+      "analyzed_at": "2026-06-28 15:01",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1185,
       "median_views": 1197,
       "uploads_30d": 20,
-      "views_30d": 23706,
+      "views_30d": 23716,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -290,7 +290,7 @@ window.DATA = {
         },
         {
           "title": "미어캣은 왜 혼자 꼿꼿이 서 있을까",
-          "views": 1580,
+          "views": 1584,
           "date": "2026-06-27",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
@@ -299,14 +299,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "미어캣은 왜 혼자 꼿꼿이 서 있을까",
-          "views": 1580,
+          "views": 1584,
           "date": "2026-06-27",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
         },
         {
           "title": "죽은 척하는 이 동물, 사실 척이 아니었습니다",
-          "views": 1146,
+          "views": 1150,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=Jntz1PGag9U"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
         }
       ],
-      "analyzed_at": "2026-06-28 13:58",
+      "analyzed_at": "2026-06-28 15:01",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1504,
-      "median_views": 842,
+      "avg_views": 1510,
+      "median_views": 843,
       "uploads_30d": 20,
-      "views_30d": 30095,
+      "views_30d": 30208,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 15679,
+          "views": 15787,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -399,7 +399,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1856,
+          "views": 1861,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -443,14 +443,14 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 15679,
+          "views": 15787,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "브레이크 패드 한쪽만 닳고 차 쏠림, 패드 갈면 또 닳습니다 (진짜 원인은 캘리퍼 슬라이드핀 고착)",
-          "views": 11,
+          "views": 10,
           "date": "2026-06-24",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=g3AF-G1fTC8"
@@ -471,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1856,
+          "views": 1861,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -485,15 +485,15 @@ window.DATA = {
         },
         {
           "title": "인류 첫 발자국 — 그날 온 세계가 멈췄다 (닐 암스트롱)",
-          "views": 848,
+          "views": 849,
           "date": "2026-06-22",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
         }
       ],
-      "analyzed_at": "2026-06-28 13:59",
+      "analyzed_at": "2026-06-28 15:02",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-28 13:57"
+  "generated_at": "2026-06-28 15:00"
 };
