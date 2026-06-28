@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2492,
+      "avg_views": 2493,
       "median_views": 2012,
       "uploads_30d": 20,
-      "views_30d": 49848,
+      "views_30d": 49870,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7859,
+          "views": 7861,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 1501,
+          "views": 1511,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 1863,
+          "views": 1873,
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         }
       ],
-      "analyzed_at": "2026-06-28 11:51",
+      "analyzed_at": "2026-06-28 12:54",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1233,
       "median_views": 1449,
       "uploads_30d": 20,
-      "views_30d": 24676,
+      "views_30d": 24675,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "HP 오멘 MAX 16 / 액체금속 쿨링·2.5K OLED 240Hz 게이밍 (299만 원대)",
-          "views": 1486,
+          "views": 1487,
           "date": "2026-06-27",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=JcNefzghzzY"
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1393,
+          "views": 1391,
           "date": "2026-06-24",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
@@ -218,7 +218,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1555,
+          "views": 1554,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         }
       ],
-      "analyzed_at": "2026-06-28 11:52",
+      "analyzed_at": "2026-06-28 12:55",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1185,
       "median_views": 1197,
       "uploads_30d": 20,
-      "views_30d": 23705,
+      "views_30d": 23706,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
         }
       ],
-      "analyzed_at": "2026-06-28 11:53",
+      "analyzed_at": "2026-06-28 12:56",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1490,
-      "median_views": 843,
+      "avg_views": 1495,
+      "median_views": 842,
       "uploads_30d": 20,
-      "views_30d": 29816,
+      "views_30d": 29911,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 15500,
+          "views": 15579,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -399,14 +399,14 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1837,
+          "views": 1861,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
         },
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1229,
+          "views": 1267,
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
@@ -422,14 +422,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1229,
+          "views": 1267,
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 1067,
+          "views": 1022,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 15500,
+          "views": 15579,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -464,36 +464,36 @@ window.DATA = {
         },
         {
           "title": "데뷔 전 KBS 노래가 좋아 4연승, 무명의 실력이 빛난 박지현",
-          "views": 13,
+          "views": 14,
           "date": "2026-06-23",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=95yJlTs1rlo"
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1837,
+          "views": 1861,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
         },
         {
           "title": "박지현, 안정된 공무원 자리를 버리고 트로트 무대를 택한 이유",
-          "views": 21,
+          "views": 20,
           "date": "2026-06-22",
           "duration": 47,
           "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
         },
         {
           "title": "인류 첫 발자국 — 그날 온 세계가 멈췄다 (닐 암스트롱)",
-          "views": 849,
+          "views": 848,
           "date": "2026-06-22",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
         }
       ],
-      "analyzed_at": "2026-06-28 11:53",
+      "analyzed_at": "2026-06-28 12:56",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-28 11:51"
+  "generated_at": "2026-06-28 12:54"
 };
