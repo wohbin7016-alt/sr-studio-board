@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2495,
+      "avg_views": 2494,
       "median_views": 2015,
       "uploads_30d": 20,
-      "views_30d": 49900,
+      "views_30d": 49891,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 1523,
+          "views": 1517,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -67,14 +67,14 @@ window.DATA = {
         },
         {
           "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 1880,
+          "views": 1882,
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
         },
         {
           "title": "새까맣게 탄 냄비, 베이킹소다로 새것처럼 복원",
-          "views": 1408,
+          "views": 1403,
           "date": "2026-06-25",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         }
       ],
-      "analyzed_at": "2026-06-28 15:00",
+      "analyzed_at": "2026-06-28 16:03",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1234,
       "median_views": 1449,
       "uploads_30d": 20,
-      "views_30d": 24685,
+      "views_30d": 24684,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         }
       ],
-      "analyzed_at": "2026-06-28 15:01",
+      "analyzed_at": "2026-06-28 16:04",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1185,
       "median_views": 1197,
       "uploads_30d": 20,
-      "views_30d": 23716,
+      "views_30d": 23714,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -320,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "우파루파는 왜 평생 아기 얼굴일까",
-          "views": 1342,
+          "views": 1340,
           "date": "2026-06-25",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=DrS3zu25BP8"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
         }
       ],
-      "analyzed_at": "2026-06-28 15:01",
+      "analyzed_at": "2026-06-28 16:04",
       "subs_delta": 0
     },
     {
@@ -377,29 +377,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1510,
-      "median_views": 843,
+      "avg_views": 1304,
+      "median_views": 452,
       "uploads_30d": 20,
-      "views_30d": 30208,
+      "views_30d": 26086,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 15787,
+          "views": 15904,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
-          "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 4277,
-          "date": "2026-06-17",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
-        },
-        {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1861,
+          "views": 1872,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -417,9 +410,23 @@ window.DATA = {
           "date": "2026-06-18",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
+        },
+        {
+          "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
+          "views": 1088,
+          "date": "2026-06-26",
+          "duration": 27,
+          "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
         }
       ],
       "recent_videos": [
+        {
+          "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
+          "views": 10,
+          "date": "2026-06-28",
+          "duration": 18,
+          "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
+        },
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
           "views": 1267,
@@ -443,21 +450,21 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 15787,
+          "views": 15904,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "브레이크 패드 한쪽만 닳고 차 쏠림, 패드 갈면 또 닳습니다 (진짜 원인은 캘리퍼 슬라이드핀 고착)",
-          "views": 10,
+          "views": 11,
           "date": "2026-06-24",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=g3AF-G1fTC8"
         },
         {
           "title": "BMW 공회전 부르르 떨림, 진짜 원인은 엔진 마운트",
-          "views": 932,
+          "views": 948,
           "date": "2026-06-24",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
@@ -471,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1861,
+          "views": 1872,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -482,18 +489,11 @@ window.DATA = {
           "date": "2026-06-22",
           "duration": 47,
           "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
-        },
-        {
-          "title": "인류 첫 발자국 — 그날 온 세계가 멈췄다 (닐 암스트롱)",
-          "views": 849,
-          "date": "2026-06-22",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
         }
       ],
-      "analyzed_at": "2026-06-28 15:02",
+      "analyzed_at": "2026-06-28 16:05",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-28 15:00"
+  "generated_at": "2026-06-28 16:03"
 };
