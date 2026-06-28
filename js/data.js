@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2502,
+      "avg_views": 2504,
       "median_views": 2027,
       "uploads_30d": 20,
-      "views_30d": 50054,
+      "views_30d": 50090,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 1614,
+          "views": 1645,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 1920,
+          "views": 1924,
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2736,
+          "views": 2737,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         }
       ],
-      "analyzed_at": "2026-06-29 02:32",
+      "analyzed_at": "2026-06-29 03:35",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1238,
       "median_views": 1458,
       "uploads_30d": 20,
-      "views_30d": 24760,
+      "views_30d": 24761,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -190,7 +190,7 @@ window.DATA = {
         },
         {
           "title": "레노버 리전 5 (라이젠7·RTX5070·16GB·512GB)",
-          "views": 1426,
+          "views": 1427,
           "date": "2026-06-25",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=P5K9KwQA6oQ"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         }
       ],
-      "analyzed_at": "2026-06-29 02:33",
+      "analyzed_at": "2026-06-29 03:35",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1187,
       "median_views": 1198,
       "uploads_30d": 20,
-      "views_30d": 23740,
+      "views_30d": 23742,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -306,14 +306,14 @@ window.DATA = {
         },
         {
           "title": "죽은 척하는 이 동물, 사실 척이 아니었습니다",
-          "views": 1162,
+          "views": 1165,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=Jntz1PGag9U"
         },
         {
           "title": "거미는 왜 자기 거미줄엔 안 붙을까",
-          "views": 829,
+          "views": 828,
           "date": "2026-06-25",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=6ptILdKLgQ0"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
         }
       ],
-      "analyzed_at": "2026-06-29 02:34",
+      "analyzed_at": "2026-06-29 03:36",
       "subs_delta": 0
     },
     {
@@ -377,43 +377,43 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1486,
+      "avg_views": 1501,
       "median_views": 851,
       "uploads_30d": 20,
-      "views_30d": 29723,
+      "views_30d": 30038,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 16535,
+          "views": 16521,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 2556,
+          "views": 2868,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1915,
+          "views": 1918,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 1411,
+          "views": 1429,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
         },
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1316,
+          "views": 1310,
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
@@ -422,21 +422,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 2556,
+          "views": 2868,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1316,
+          "views": 1310,
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 1411,
+          "views": 1429,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 16535,
+          "views": 16521,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "BMW 공회전 부르르 떨림, 진짜 원인은 엔진 마운트",
-          "views": 971,
+          "views": 973,
           "date": "2026-06-24",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1915,
+          "views": 1918,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
         }
       ],
-      "analyzed_at": "2026-06-29 02:34",
+      "analyzed_at": "2026-06-29 03:37",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-29 02:32"
+  "generated_at": "2026-06-29 03:35"
 };
