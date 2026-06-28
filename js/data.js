@@ -9,9 +9,9 @@ window.DATA = {
       "subscribers": 31700,
       "sampled": 20,
       "avg_views": 2491,
-      "median_views": 2008,
+      "median_views": 2012,
       "uploads_30d": 20,
-      "views_30d": 49826,
+      "views_30d": 49834,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 2050,
+          "views": 2058,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         }
       ],
-      "analyzed_at": "2026-06-28 09:46",
+      "analyzed_at": "2026-06-28 10:49",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1233,
       "median_views": 1449,
       "uploads_30d": 20,
-      "views_30d": 24664,
+      "views_30d": 24666,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -153,7 +153,7 @@ window.DATA = {
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1755,
+          "views": 1756,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -197,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1755,
+          "views": 1756,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         }
       ],
-      "analyzed_at": "2026-06-28 09:47",
+      "analyzed_at": "2026-06-28 10:49",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1185,
       "median_views": 1197,
       "uploads_30d": 20,
-      "views_30d": 23701,
+      "views_30d": 23705,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -290,7 +290,7 @@ window.DATA = {
         },
         {
           "title": "미어캣은 왜 혼자 꼿꼿이 서 있을까",
-          "views": 1578,
+          "views": 1580,
           "date": "2026-06-27",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
@@ -299,14 +299,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "미어캣은 왜 혼자 꼿꼿이 서 있을까",
-          "views": 1578,
+          "views": 1580,
           "date": "2026-06-27",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
         },
         {
           "title": "죽은 척하는 이 동물, 사실 척이 아니었습니다",
-          "views": 1144,
+          "views": 1146,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=Jntz1PGag9U"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
         }
       ],
-      "analyzed_at": "2026-06-28 09:47",
+      "analyzed_at": "2026-06-28 10:50",
       "subs_delta": 0
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1424,
+      "avg_views": 1464,
       "median_views": 842,
       "uploads_30d": 20,
-      "views_30d": 28482,
+      "views_30d": 29290,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 14251,
+          "views": 15021,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "닉부이치치, 사지 없이 태어나 세계를 울린 강연가",
-          "views": 4272,
+          "views": 4277,
           "date": "2026-06-17",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ceKUwLkMNv8"
@@ -405,24 +405,24 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
         },
         {
+          "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
+          "views": 1234,
+          "date": "2026-06-27",
+          "duration": 23,
+          "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
+        },
+        {
           "title": "월세도 없던 남자가 1500조가 되기까지",
           "views": 1209,
           "date": "2026-06-18",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=B5eR-zMF0pI"
-        },
-        {
-          "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1200,
-          "date": "2026-06-27",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
         }
       ],
       "recent_videos": [
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1200,
+          "views": 1234,
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 14251,
+          "views": 15021,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=9G2LSdj63zY"
         }
       ],
-      "analyzed_at": "2026-06-28 09:48",
+      "analyzed_at": "2026-06-28 10:51",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-28 09:46"
+  "generated_at": "2026-06-28 10:49"
 };
