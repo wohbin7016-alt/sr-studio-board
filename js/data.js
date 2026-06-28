@@ -9,9 +9,9 @@ window.DATA = {
       "subscribers": 31700,
       "sampled": 20,
       "avg_views": 2496,
-      "median_views": 2016,
+      "median_views": 2017,
       "uploads_30d": 20,
-      "views_30d": 49925,
+      "views_30d": 49933,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 1887,
+          "views": 1892,
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 2065,
+          "views": 2068,
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         }
       ],
-      "analyzed_at": "2026-06-28 18:09",
+      "analyzed_at": "2026-06-28 19:12",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1236,
+      "avg_views": 1235,
       "median_views": 1450,
       "uploads_30d": 20,
-      "views_30d": 24725,
+      "views_30d": 24700,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1422,
+          "views": 1396,
           "date": "2026-06-24",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
@@ -218,7 +218,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1558,
+          "views": 1559,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         }
       ],
-      "analyzed_at": "2026-06-28 18:10",
+      "analyzed_at": "2026-06-28 19:13",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
         }
       ],
-      "analyzed_at": "2026-06-28 18:10",
+      "analyzed_at": "2026-06-28 19:13",
       "subs_delta": 0
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1333,
-      "median_views": 601,
+      "avg_views": 1342,
+      "median_views": 613,
       "uploads_30d": 20,
-      "views_30d": 26671,
+      "views_30d": 26847,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 16071,
+          "views": 16133,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1872,
+          "views": 1891,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -413,7 +413,7 @@ window.DATA = {
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 1118,
+          "views": 1189,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 366,
+          "views": 390,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 1118,
+          "views": 1189,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 16071,
+          "views": 16133,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1872,
+          "views": 1891,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
         }
       ],
-      "analyzed_at": "2026-06-28 18:11",
+      "analyzed_at": "2026-06-28 19:14",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-28 18:09"
+  "generated_at": "2026-06-28 19:12"
 };
