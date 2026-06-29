@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2507,
+      "avg_views": 2513,
       "median_views": 2027,
       "uploads_30d": 20,
-      "views_30d": 50153,
+      "views_30d": 50265,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 1696,
+          "views": 1808,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         }
       ],
-      "analyzed_at": "2026-06-29 09:50",
+      "analyzed_at": "2026-06-29 10:52",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         }
       ],
-      "analyzed_at": "2026-06-29 09:51",
+      "analyzed_at": "2026-06-29 10:53",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
         }
       ],
-      "analyzed_at": "2026-06-29 09:51",
+      "analyzed_at": "2026-06-29 10:54",
       "subs_delta": 0
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1549,
+      "avg_views": 1554,
       "median_views": 851,
       "uploads_30d": 20,
-      "views_30d": 30989,
+      "views_30d": 31081,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 16718,
+          "views": 16707,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 3414,
+          "views": 3517,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 3414,
+          "views": 3517,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 16718,
+          "views": 16707,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
         }
       ],
-      "analyzed_at": "2026-06-29 09:52",
+      "analyzed_at": "2026-06-29 10:54",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-29 09:50"
+  "generated_at": "2026-06-29 10:52"
 };
