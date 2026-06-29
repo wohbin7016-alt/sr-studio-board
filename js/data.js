@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2517,
-      "median_views": 2029,
+      "avg_views": 2516,
+      "median_views": 2027,
       "uploads_30d": 20,
-      "views_30d": 50345,
+      "views_30d": 50338,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 1970,
+          "views": 1963,
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         }
       ],
-      "analyzed_at": "2026-06-29 12:58",
+      "analyzed_at": "2026-06-29 14:00",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1240,
       "median_views": 1477,
       "uploads_30d": 20,
-      "views_30d": 24802,
+      "views_30d": 24804,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1482,
+          "views": 1484,
           "date": "2026-06-24",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         }
       ],
-      "analyzed_at": "2026-06-29 12:58",
+      "analyzed_at": "2026-06-29 14:01",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1187,
       "median_views": 1198,
       "uploads_30d": 20,
-      "views_30d": 23744,
+      "views_30d": 23745,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -362,13 +362,13 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S10 FE / S펜 기본포함·10.9\" 90Hz·IP68 방수",
-          "views": 1218,
+          "views": 1219,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
         }
       ],
-      "analyzed_at": "2026-06-29 12:59",
+      "analyzed_at": "2026-06-29 14:02",
       "subs_delta": 0
     },
     {
@@ -380,12 +380,12 @@ window.DATA = {
       "avg_views": 1572,
       "median_views": 851,
       "uploads_30d": 20,
-      "views_30d": 31456,
+      "views_30d": 31447,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 16886,
+          "views": 16877,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 16886,
+          "views": 16877,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
         }
       ],
-      "analyzed_at": "2026-06-29 13:00",
+      "analyzed_at": "2026-06-29 14:02",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-29 12:58"
+  "generated_at": "2026-06-29 14:00"
 };
