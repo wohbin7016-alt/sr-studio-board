@@ -11,7 +11,7 @@ window.DATA = {
       "avg_views": 2527,
       "median_views": 2050,
       "uploads_30d": 20,
-      "views_30d": 50556,
+      "views_30d": 50558,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2534,
+          "views": 2536,
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         }
       ],
-      "analyzed_at": "2026-06-29 19:15",
+      "analyzed_at": "2026-06-29 20:17",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         }
       ],
-      "analyzed_at": "2026-06-29 19:15",
+      "analyzed_at": "2026-06-29 20:18",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=k9kJy3CE404"
         }
       ],
-      "analyzed_at": "2026-06-29 19:16",
+      "analyzed_at": "2026-06-29 20:19",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1591,
+      "avg_views": 1593,
       "median_views": 851,
       "uploads_30d": 20,
-      "views_30d": 31837,
+      "views_30d": 31879,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17038,
+          "views": 17080,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17038,
+          "views": 17080,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=A8z4uyOt710"
         }
       ],
-      "analyzed_at": "2026-06-29 19:17",
+      "analyzed_at": "2026-06-29 20:20",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-29 19:15"
+  "generated_at": "2026-06-29 20:17"
 };
