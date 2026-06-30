@@ -11,7 +11,7 @@ window.DATA = {
       "avg_views": 2586,
       "median_views": 2148,
       "uploads_30d": 20,
-      "views_30d": 51733,
+      "views_30d": 51734,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3251,
+          "views": 3252,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         }
       ],
-      "analyzed_at": "2026-06-30 10:59",
+      "analyzed_at": "2026-06-30 12:01",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1241,
       "median_views": 1477,
       "uploads_30d": 20,
-      "views_30d": 24835,
+      "views_30d": 24834,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이 작은 게 머리카락을 그냥 삼켜버린다고? / 홈플래닛 무선 핸디 청소기 (46,800원)",
-          "views": 255,
+          "views": 253,
           "date": "2026-06-29",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=T4FmeY1NqdA"
         }
       ],
-      "analyzed_at": "2026-06-30 10:59",
+      "analyzed_at": "2026-06-30 12:02",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1227,
       "median_views": 1273,
       "uploads_30d": 20,
-      "views_30d": 24550,
+      "views_30d": 24551,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -348,7 +348,7 @@ window.DATA = {
         },
         {
           "title": "Apple 맥북에어 15 M4 / 15.3인치 M4 대화면 데스크 셋업",
-          "views": 327,
+          "views": 328,
           "date": "2026-06-23",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=HM7gULCpk-s"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
         }
       ],
-      "analyzed_at": "2026-06-30 11:00",
+      "analyzed_at": "2026-06-30 12:03",
       "subs_delta": 0
     },
     {
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
         }
       ],
-      "analyzed_at": "2026-06-30 11:01",
+      "analyzed_at": "2026-06-30 12:03",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-30 10:59"
+  "generated_at": "2026-06-30 12:01"
 };
