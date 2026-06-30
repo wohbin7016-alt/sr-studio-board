@@ -11,7 +11,7 @@ window.DATA = {
       "avg_views": 2586,
       "median_views": 2148,
       "uploads_30d": 20,
-      "views_30d": 51734,
+      "views_30d": 51739,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3664,
+          "views": 3669,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -60,7 +60,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3664,
+          "views": 3669,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         }
       ],
-      "analyzed_at": "2026-06-30 12:01",
+      "analyzed_at": "2026-06-30 13:04",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1241,
       "median_views": 1477,
       "uploads_30d": 20,
-      "views_30d": 24834,
+      "views_30d": 24836,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이 작은 게 머리카락을 그냥 삼켜버린다고? / 홈플래닛 무선 핸디 청소기 (46,800원)",
-          "views": 253,
+          "views": 255,
           "date": "2026-06-29",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=T4FmeY1NqdA"
         }
       ],
-      "analyzed_at": "2026-06-30 12:02",
+      "analyzed_at": "2026-06-30 13:05",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
         }
       ],
-      "analyzed_at": "2026-06-30 12:03",
+      "analyzed_at": "2026-06-30 13:06",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1698,
+      "avg_views": 1699,
       "median_views": 888,
       "uploads_30d": 20,
-      "views_30d": 33978,
+      "views_30d": 33991,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17144,
+          "views": 17148,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -413,7 +413,7 @@ window.DATA = {
         },
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1461,
+          "views": 1470,
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1461,
+          "views": 1470,
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
@@ -457,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17144,
+          "views": 17148,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
         }
       ],
-      "analyzed_at": "2026-06-30 12:03",
+      "analyzed_at": "2026-06-30 13:06",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-30 12:01"
+  "generated_at": "2026-06-30 13:04"
 };
