@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2629,
+      "avg_views": 2630,
       "median_views": 2149,
       "uploads_30d": 20,
-      "views_30d": 52597,
+      "views_30d": 52601,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "새까맣게 탄 냄비, 베이킹소다로 새것처럼 복원",
-          "views": 1405,
+          "views": 1409,
           "date": "2026-06-25",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
         }
       ],
-      "analyzed_at": "2026-06-30 19:22",
+      "analyzed_at": "2026-06-30 20:25",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
         }
       ],
-      "analyzed_at": "2026-06-30 19:23",
+      "analyzed_at": "2026-06-30 20:26",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=msIGtcGNzq4"
         }
       ],
-      "analyzed_at": "2026-06-30 19:23",
+      "analyzed_at": "2026-06-30 20:26",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1669,
+      "avg_views": 1671,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 33398,
+      "views_30d": 33436,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -399,7 +399,7 @@ window.DATA = {
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 2033,
+          "views": 2046,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1185,
+          "views": 1210,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 2033,
+          "views": 2046,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=95yJlTs1rlo"
         }
       ],
-      "analyzed_at": "2026-06-30 19:24",
+      "analyzed_at": "2026-06-30 20:27",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-30 19:22"
+  "generated_at": "2026-06-30 20:25"
 };
