@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2612,
+      "avg_views": 2629,
       "median_views": 2149,
       "uploads_30d": 20,
-      "views_30d": 52246,
+      "views_30d": 52597,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "찌그러진 탁구공, 뜨거운 물 한 컵으로 새것처럼 살리는 방법",
-          "views": 1309,
+          "views": 1658,
           "date": "2026-06-30",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
         }
       ],
-      "analyzed_at": "2026-06-30 18:19",
+      "analyzed_at": "2026-06-30 19:22",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1176,
+      "avg_views": 1178,
       "median_views": 1452,
       "uploads_30d": 20,
-      "views_30d": 23539,
+      "views_30d": 23577,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,14 +176,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "전동칫솔 비싸야 좋다고 누가 그래? / 오랄비 바이탈리티 초미세모 전동칫솔 (28,070원)",
-          "views": 277,
+          "views": 304,
           "date": "2026-06-30",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=sBO4Mqnb-Qw"
         },
         {
           "title": "이 작은 게 머리카락을 그냥 삼켜버린다고? / 홈플래닛 무선 핸디 청소기 (46,800원)",
-          "views": 259,
+          "views": 270,
           "date": "2026-06-29",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
         }
       ],
-      "analyzed_at": "2026-06-30 18:20",
+      "analyzed_at": "2026-06-30 19:23",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1229,
       "median_views": 1273,
       "uploads_30d": 20,
-      "views_30d": 24582,
+      "views_30d": 24583,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -306,7 +306,7 @@ window.DATA = {
         },
         {
           "title": "짝짓기 도중 수컷 머리가 사라졌어요... 사마귀가 수컷을 잡아먹는 진짜 이유",
-          "views": 1465,
+          "views": 1466,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=msIGtcGNzq4"
         }
       ],
-      "analyzed_at": "2026-06-30 18:20",
+      "analyzed_at": "2026-06-30 19:23",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1668,
+      "avg_views": 1669,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 33360,
+      "views_30d": 33398,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,7 +392,7 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 4826,
+          "views": 4887,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -406,7 +406,7 @@ window.DATA = {
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1928,
+          "views": 1929,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
@@ -422,21 +422,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "아큐라 TL 주행 중 웅웅 소리, 진짜 원인은 휠베어링",
-          "views": 2,
+          "views": 3,
           "date": "2026-06-30",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=C6wMt6iijDA"
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1210,
+          "views": 1185,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 4826,
+          "views": 4887,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=95yJlTs1rlo"
         }
       ],
-      "analyzed_at": "2026-06-30 18:21",
+      "analyzed_at": "2026-06-30 19:24",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-30 18:19"
+  "generated_at": "2026-06-30 19:22"
 };
