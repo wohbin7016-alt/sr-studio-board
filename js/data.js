@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2630,
+      "avg_views": 2563,
       "median_views": 2149,
       "uploads_30d": 20,
-      "views_30d": 52601,
+      "views_30d": 51263,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7874,
+          "views": 7876,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
@@ -52,6 +52,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "밑창 떨어진 신발 버리지 마세요 5분이면 새것 됩니다",
+          "views": 442,
+          "date": "2026-06-30",
+          "duration": 21,
+          "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
+        },
+        {
           "title": "찌그러진 탁구공, 뜨거운 물 한 컵으로 새것처럼 살리는 방법",
           "views": 1658,
           "date": "2026-06-30",
@@ -60,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "뻑뻑한 지퍼, 연필 하나로 부드럽게 고치는 이유",
-          "views": 1441,
+          "views": 1447,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=krtqZCFL-Ms"
@@ -74,14 +81,14 @@ window.DATA = {
         },
         {
           "title": "칼자국 도마 다시 하얘진 이유 — 표백제 아니었습니다",
-          "views": 1434,
+          "views": 1436,
           "date": "2026-06-26",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=zHrpxR15s2E"
         },
         {
           "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 2059,
+          "views": 2060,
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
-        },
-        {
-          "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2742,
-          "date": "2026-06-23",
-          "duration": 20,
-          "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
         }
       ],
-      "analyzed_at": "2026-06-30 20:25",
+      "analyzed_at": "2026-06-30 21:28",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1178,
-      "median_views": 1452,
+      "avg_views": 1109,
+      "median_views": 1366,
       "uploads_30d": 20,
-      "views_30d": 23577,
+      "views_30d": 22186,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -166,14 +166,21 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         },
         {
-          "title": "이 두께에 RTX 5060을 풀파워로 박았다고?",
-          "views": 1615,
-          "date": "2026-06-17",
-          "duration": 40,
-          "url": "https://www.youtube.com/watch?v=A67JOkeTXY0"
+          "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
+          "views": 1562,
+          "date": "2026-06-23",
+          "duration": 31,
+          "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
         }
       ],
       "recent_videos": [
+        {
+          "title": "3만원짜리가 발뮤다를 이겼다고? 루메나 무선선풍기 1년 쓴 후기",
+          "views": 220,
+          "date": "2026-06-30",
+          "duration": 23,
+          "url": "https://www.youtube.com/watch?v=5Rbmx2pGI_4"
+        },
         {
           "title": "전동칫솔 비싸야 좋다고 누가 그래? / 오랄비 바이탈리티 초미세모 전동칫솔 (28,070원)",
           "views": 304,
@@ -218,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1497,
+          "views": 1499,
           "date": "2026-06-24",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
@@ -232,20 +239,13 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1561,
+          "views": 1562,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
-        },
-        {
-          "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1976,
-          "date": "2026-06-22",
-          "duration": 34,
-          "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
         }
       ],
-      "analyzed_at": "2026-06-30 20:26",
+      "analyzed_at": "2026-06-30 21:29",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1229,
-      "median_views": 1273,
+      "avg_views": 1188,
+      "median_views": 1211,
       "uploads_30d": 20,
-      "views_30d": 24583,
+      "views_30d": 23761,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -297,6 +297,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "물에 빠진 개미 수천 마리, 왜 한 마리도 안 죽을까",
+          "views": 557,
+          "date": "2026-06-30",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=obBtMfQolps"
+        },
         {
           "title": "이 쥐는 암에 거의 안 걸린다고? 30년을 살고 늙어도 안 죽는 벌거숭이두더지쥐의 비밀",
           "views": 1203,
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-23",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=HM7gULCpk-s"
-        },
-        {
-          "title": "태블릿 화면이 노트북보다 크다고? 갤럭시탭 S10 울트라",
-          "views": 1155,
-          "date": "2026-06-23",
-          "duration": 30,
-          "url": "https://www.youtube.com/watch?v=msIGtcGNzq4"
         }
       ],
-      "analyzed_at": "2026-06-30 20:26",
+      "analyzed_at": "2026-06-30 21:30",
       "subs_delta": 0
     },
     {
@@ -377,29 +377,29 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1671,
-      "median_views": 853,
+      "avg_views": 1787,
+      "median_views": 869,
       "uploads_30d": 20,
-      "views_30d": 33436,
+      "views_30d": 33968,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17151,
+          "views": 17167,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 4887,
+          "views": 5408,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 2046,
+          "views": 2050,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -421,6 +421,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "BMW E39 히터 바람이 한 단에서만 나올 때 진짜 원인 (송풍기 모터 아닙니다)",
+          "views": 0,
+          "date": "2026-06-30",
+          "duration": 21,
+          "url": "https://www.youtube.com/watch?v=_cE-5Kqm7kQ"
+        },
+        {
           "title": "아큐라 TL 주행 중 웅웅 소리, 진짜 원인은 휠베어링",
           "views": 3,
           "date": "2026-06-30",
@@ -436,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 4887,
+          "views": 5408,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -450,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 2046,
+          "views": 2050,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -464,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17151,
+          "views": 17167,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -482,18 +489,11 @@ window.DATA = {
           "date": "2026-06-24",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
-        },
-        {
-          "title": "데뷔 전 KBS 노래가 좋아 4연승, 무명의 실력이 빛난 박지현",
-          "views": 15,
-          "date": "2026-06-23",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=95yJlTs1rlo"
         }
       ],
-      "analyzed_at": "2026-06-30 20:27",
+      "analyzed_at": "2026-06-30 21:31",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-30 20:25"
+  "generated_at": "2026-06-30 21:28"
 };
