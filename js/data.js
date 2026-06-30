@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
         }
       ],
-      "analyzed_at": "2026-07-01 04:48",
+      "analyzed_at": "2026-07-01 05:51",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1122,
-      "median_views": 1366,
+      "avg_views": 1123,
+      "median_views": 1368,
       "uploads_30d": 20,
-      "views_30d": 22459,
+      "views_30d": 22468,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -190,7 +190,7 @@ window.DATA = {
         },
         {
           "title": "이 작은 게 머리카락을 그냥 삼켜버린다고? / 홈플래닛 무선 핸디 청소기 (46,800원)",
-          "views": 284,
+          "views": 286,
           "date": "2026-06-29",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "레노버 리전 5 (라이젠7·RTX5070·16GB·512GB)",
-          "views": 1429,
+          "views": 1433,
           "date": "2026-06-25",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=P5K9KwQA6oQ"
@@ -225,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1503,
+          "views": 1506,
           "date": "2026-06-24",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
         }
       ],
-      "analyzed_at": "2026-07-01 04:49",
+      "analyzed_at": "2026-07-01 05:51",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1243,
       "median_views": 1302,
       "uploads_30d": 20,
-      "views_30d": 24875,
+      "views_30d": 24877,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -327,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "죽은 척하는 이 동물, 사실 척이 아니었습니다",
-          "views": 1170,
+          "views": 1172,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=Jntz1PGag9U"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=HM7gULCpk-s"
         }
       ],
-      "analyzed_at": "2026-07-01 04:50",
+      "analyzed_at": "2026-07-01 05:52",
       "subs_delta": 0
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1782,
+      "avg_views": 1781,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 35656,
+      "views_30d": 35620,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17234,
+          "views": 17268,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 6828,
+          "views": 6758,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 6828,
+          "views": 6758,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -471,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17234,
+          "views": 17268,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
         }
       ],
-      "analyzed_at": "2026-07-01 04:50",
+      "analyzed_at": "2026-07-01 05:53",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-01 04:48"
+  "generated_at": "2026-07-01 05:51"
 };
