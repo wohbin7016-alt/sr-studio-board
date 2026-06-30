@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2564,
+      "avg_views": 2593,
       "median_views": 2148,
       "uploads_30d": 20,
-      "views_30d": 51285,
+      "views_30d": 51877,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "찌그러진 탁구공, 뜨거운 물 한 컵으로 새것처럼 살리는 방법",
-          "views": 396,
+          "views": 989,
           "date": "2026-06-30",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
         },
         {
           "title": "뻑뻑한 지퍼, 연필 하나로 부드럽게 고치는 이유",
-          "views": 1433,
+          "views": 1435,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=krtqZCFL-Ms"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 2509,
+          "views": 2506,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
         }
       ],
-      "analyzed_at": "2026-06-30 14:07",
+      "analyzed_at": "2026-06-30 15:10",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
         }
       ],
-      "analyzed_at": "2026-06-30 14:08",
+      "analyzed_at": "2026-06-30 15:11",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1189,
+      "avg_views": 1216,
       "median_views": 1273,
       "uploads_30d": 20,
-      "views_30d": 23788,
+      "views_30d": 24324,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,14 +299,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이 쥐는 암에 거의 안 걸린다고? 30년을 살고 늙어도 안 죽는 벌거숭이두더지쥐의 비밀",
-          "views": 415,
+          "views": 949,
           "date": "2026-06-30",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
         },
         {
           "title": "짝짓기 도중 수컷 머리가 사라졌어요... 사마귀가 수컷을 잡아먹는 진짜 이유",
-          "views": 1460,
+          "views": 1462,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=msIGtcGNzq4"
         }
       ],
-      "analyzed_at": "2026-06-30 14:08",
+      "analyzed_at": "2026-06-30 15:11",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1647,
+      "avg_views": 1653,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 32953,
+      "views_30d": 33076,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,7 +392,7 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 4532,
+          "views": 4652,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -413,7 +413,7 @@ window.DATA = {
         },
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1470,
+          "views": 1473,
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
@@ -436,14 +436,14 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 4532,
+          "views": 4652,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1470,
+          "views": 1473,
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=95yJlTs1rlo"
         }
       ],
-      "analyzed_at": "2026-06-30 14:09",
+      "analyzed_at": "2026-06-30 15:12",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-30 14:07"
+  "generated_at": "2026-06-30 15:10"
 };
