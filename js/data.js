@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2585,
+      "avg_views": 2586,
       "median_views": 2148,
       "uploads_30d": 20,
-      "views_30d": 51711,
+      "views_30d": 51726,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3649,
+          "views": 3664,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -60,7 +60,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3649,
+          "views": 3664,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         }
       ],
-      "analyzed_at": "2026-06-30 08:52",
+      "analyzed_at": "2026-06-30 09:55",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1241,
       "median_views": 1477,
       "uploads_30d": 20,
-      "views_30d": 24834,
+      "views_30d": 24833,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=T4FmeY1NqdA"
         }
       ],
-      "analyzed_at": "2026-06-30 08:52",
+      "analyzed_at": "2026-06-30 09:56",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
         }
       ],
-      "analyzed_at": "2026-06-30 08:53",
+      "analyzed_at": "2026-06-30 09:57",
       "subs_delta": 0
     },
     {
@@ -380,7 +380,7 @@ window.DATA = {
       "avg_views": 1685,
       "median_views": 888,
       "uploads_30d": 20,
-      "views_30d": 33706,
+      "views_30d": 33707,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "BMW X5 에어컨 미지근, 진짜 원인은 컴프레서",
-          "views": 19,
+          "views": 20,
           "date": "2026-06-25",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=En5NKsnk1Kg"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
         }
       ],
-      "analyzed_at": "2026-06-30 08:54",
+      "analyzed_at": "2026-06-30 09:58",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-30 08:52"
+  "generated_at": "2026-06-30 09:55"
 };
