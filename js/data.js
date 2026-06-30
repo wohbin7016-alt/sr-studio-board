@@ -8,29 +8,29 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2601,
+      "avg_views": 2608,
       "median_views": 2148,
       "uploads_30d": 20,
-      "views_30d": 52036,
+      "views_30d": 52161,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7870,
+          "views": 7874,
           "date": "2026-06-20",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 5008,
+          "views": 5010,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3669,
+          "views": 3678,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -44,7 +44,7 @@ window.DATA = {
         },
         {
           "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 3157,
+          "views": 3159,
           "date": "2026-06-18",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "찌그러진 탁구공, 뜨거운 물 한 컵으로 새것처럼 살리는 방법",
-          "views": 1138,
+          "views": 1243,
           "date": "2026-06-30",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3669,
+          "views": 3678,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2740,
+          "views": 2742,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
         }
       ],
-      "analyzed_at": "2026-06-30 16:13",
+      "analyzed_at": "2026-06-30 17:16",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
         }
       ],
-      "analyzed_at": "2026-06-30 16:14",
+      "analyzed_at": "2026-06-30 17:17",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1222,
+      "avg_views": 1228,
       "median_views": 1273,
       "uploads_30d": 20,
-      "views_30d": 24446,
+      "views_30d": 24566,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이 쥐는 암에 거의 안 걸린다고? 30년을 살고 늙어도 안 죽는 벌거숭이두더지쥐의 비밀",
-          "views": 1070,
+          "views": 1190,
           "date": "2026-06-30",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=msIGtcGNzq4"
         }
       ],
-      "analyzed_at": "2026-06-30 16:14",
+      "analyzed_at": "2026-06-30 17:17",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1656,
+      "avg_views": 1661,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 33123,
+      "views_30d": 33237,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,14 +392,14 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 4699,
+          "views": 4745,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 2023,
+          "views": 2033,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -429,14 +429,14 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1117,
+          "views": 1175,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 4699,
+          "views": 4745,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 2023,
+          "views": 2033,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=95yJlTs1rlo"
         }
       ],
-      "analyzed_at": "2026-06-30 16:15",
+      "analyzed_at": "2026-06-30 17:18",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-30 16:13"
+  "generated_at": "2026-06-30 17:16"
 };
