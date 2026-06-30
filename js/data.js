@@ -11,7 +11,7 @@ window.DATA = {
       "avg_views": 2586,
       "median_views": 2148,
       "uploads_30d": 20,
-      "views_30d": 51726,
+      "views_30d": 51733,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "뻑뻑한 지퍼, 연필 하나로 부드럽게 고치는 이유",
-          "views": 1423,
+          "views": 1430,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=krtqZCFL-Ms"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=6kh8dwCyGcw"
         }
       ],
-      "analyzed_at": "2026-06-30 09:55",
+      "analyzed_at": "2026-06-30 10:59",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1241,
       "median_views": 1477,
       "uploads_30d": 20,
-      "views_30d": 24833,
+      "views_30d": 24835,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이 작은 게 머리카락을 그냥 삼켜버린다고? / 홈플래닛 무선 핸디 청소기 (46,800원)",
-          "views": 253,
+          "views": 255,
           "date": "2026-06-29",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=T4FmeY1NqdA"
         }
       ],
-      "analyzed_at": "2026-06-30 09:56",
+      "analyzed_at": "2026-06-30 10:59",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1227,
       "median_views": 1273,
       "uploads_30d": 20,
-      "views_30d": 24547,
+      "views_30d": 24550,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "짝짓기 도중 수컷 머리가 사라졌어요... 사마귀가 수컷을 잡아먹는 진짜 이유",
-          "views": 1457,
+          "views": 1460,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=_M4-KYm7YCE"
         }
       ],
-      "analyzed_at": "2026-06-30 09:57",
+      "analyzed_at": "2026-06-30 11:00",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1685,
+      "avg_views": 1698,
       "median_views": 888,
       "uploads_30d": 20,
-      "views_30d": 33707,
+      "views_30d": 33978,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,14 +392,14 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 4234,
+          "views": 4406,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 2005,
+          "views": 2020,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -422,14 +422,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 995,
+          "views": 1079,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 4234,
+          "views": 4406,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 2005,
+          "views": 2020,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
         }
       ],
-      "analyzed_at": "2026-06-30 09:58",
+      "analyzed_at": "2026-06-30 11:01",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-06-30 09:55"
+  "generated_at": "2026-06-30 10:59"
 };
