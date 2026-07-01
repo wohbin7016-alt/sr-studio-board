@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2437,
+      "avg_views": 2444,
       "median_views": 2078,
       "uploads_30d": 20,
-      "views_30d": 48758,
+      "views_30d": 48898,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 747,
+          "views": 887,
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
@@ -74,14 +74,14 @@ window.DATA = {
         },
         {
           "title": "찌그러진 탁구공, 뜨거운 물 한 컵으로 새것처럼 살리는 방법",
-          "views": 1676,
+          "views": 1677,
           "date": "2026-06-30",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
         },
         {
           "title": "뻑뻑한 지퍼, 연필 하나로 부드럽게 고치는 이유",
-          "views": 1476,
+          "views": 1475,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=krtqZCFL-Ms"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
         }
       ],
-      "analyzed_at": "2026-07-01 20:27",
+      "analyzed_at": "2026-07-01 21:30",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1032,
+      "avg_views": 1034,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 20651,
+      "views_30d": 20692,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1563,
+          "views": 1565,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -176,28 +176,28 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "물 잠긴 두부를 넣고 돌렸더니 마른 두부가 됐다고? 3만원대 짤순이 1년 쓴 후기",
-          "views": 4,
+          "views": 18,
           "date": "2026-07-01",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=RmYNrGYJahM"
         },
         {
           "title": "선 없는데 미용실 매직처럼 펴진다고? 4만원대 무선고데기",
-          "views": 610,
+          "views": 631,
           "date": "2026-07-01",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=wIioMVoVnco"
         },
         {
           "title": "3만원짜리가 발뮤다를 이겼다고? 루메나 무선선풍기 1년 쓴 후기",
-          "views": 448,
+          "views": 449,
           "date": "2026-06-30",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=5Rbmx2pGI_4"
         },
         {
           "title": "전동칫솔 비싸야 좋다고 누가 그래? / 오랄비 바이탈리티 초미세모 전동칫솔 (28,070원)",
-          "views": 365,
+          "views": 366,
           "date": "2026-06-30",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=sBO4Mqnb-Qw"
@@ -239,25 +239,25 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1509,
+          "views": 1511,
           "date": "2026-06-24",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
         }
       ],
-      "analyzed_at": "2026-07-01 20:28",
+      "analyzed_at": "2026-07-01 21:31",
       "subs_delta": 0
     },
     {
       "url": "https://youtube.com/channel/UCC7ZtDMOdJU80HF30wMWM3Q",
       "name": "왜그럴까",
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
-      "subscribers": 2360,
+      "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1254,
+      "avg_views": 1265,
       "median_views": 1308,
       "uploads_30d": 20,
-      "views_30d": 25087,
+      "views_30d": 25304,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 1017,
+          "views": 1234,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
@@ -368,8 +368,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=gmq-pvlL-00"
         }
       ],
-      "analyzed_at": "2026-07-01 20:29",
-      "subs_delta": 0
+      "analyzed_at": "2026-07-01 21:31",
+      "subs_delta": 10
     },
     {
       "url": "https://youtube.com/channel/UC29M9AGVR19NtIrAHsjx-XA",
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         }
       ],
-      "analyzed_at": "2026-07-01 20:29",
+      "analyzed_at": "2026-07-01 21:32",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-01 20:27"
+  "generated_at": "2026-07-01 21:30"
 };
