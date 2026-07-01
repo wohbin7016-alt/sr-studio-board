@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2498,
+      "avg_views": 2527,
       "median_views": 2114,
       "uploads_30d": 20,
-      "views_30d": 49973,
+      "views_30d": 50553,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3717,
+          "views": 3716,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "서랍이 안 빠질 때 비누칠하면 큰일 나요",
-          "views": 91,
+          "views": 673,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=YWP5McH4IcI"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "찌그러진 탁구공, 뜨거운 물 한 컵으로 새것처럼 살리는 방법",
-          "views": 1674,
+          "views": 1673,
           "date": "2026-06-30",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3717,
+          "views": 3716,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
         }
       ],
-      "analyzed_at": "2026-07-01 12:07",
+      "analyzed_at": "2026-07-01 13:09",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1051,
+      "avg_views": 1074,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 21035,
+      "views_30d": 21490,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1562,
+          "views": 1563,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -176,14 +176,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "선 없는데 미용실 매직처럼 펴진다고? 4만원대 무선고데기",
-          "views": 24,
+          "views": 473,
           "date": "2026-07-01",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=wIioMVoVnco"
         },
         {
           "title": "3만원짜리가 발뮤다를 이겼다고? 루메나 무선선풍기 1년 쓴 후기",
-          "views": 438,
+          "views": 442,
           "date": "2026-06-30",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=5Rbmx2pGI_4"
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "QHD 165Hz 게이밍을 이 가격에? 이거 빠지면 무조건 손해입니다",
-          "views": 402,
+          "views": 403,
           "date": "2026-06-26",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=ZL1usPoL7yc"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
         }
       ],
-      "analyzed_at": "2026-07-01 12:07",
+      "analyzed_at": "2026-07-01 13:10",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1229,
+      "avg_views": 1267,
       "median_views": 1308,
       "uploads_30d": 20,
-      "views_30d": 24591,
+      "views_30d": 25357,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "세상에서 가장 겁 없는 동물이 코브라에 물려도 멀쩡한 이유",
-          "views": 94,
+          "views": 860,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=145jVCEOpMs"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=dJRG9efcloI"
         }
       ],
-      "analyzed_at": "2026-07-01 12:08",
+      "analyzed_at": "2026-07-01 13:10",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1766,
-      "median_views": 440,
+      "avg_views": 1771,
+      "median_views": 496,
       "uploads_30d": 20,
-      "views_30d": 35325,
+      "views_30d": 35439,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 43,
+          "views": 155,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=g3AF-G1fTC8"
         }
       ],
-      "analyzed_at": "2026-07-01 12:08",
+      "analyzed_at": "2026-07-01 13:11",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-01 12:07"
+  "generated_at": "2026-07-01 13:09"
 };
