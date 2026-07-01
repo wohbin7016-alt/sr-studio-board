@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2424,
+      "avg_views": 2437,
       "median_views": 2078,
       "uploads_30d": 20,
-      "views_30d": 48497,
+      "views_30d": 48758,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 488,
+          "views": 747,
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "뻑뻑한 지퍼, 연필 하나로 부드럽게 고치는 이유",
-          "views": 1474,
+          "views": 1476,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=krtqZCFL-Ms"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
         }
       ],
-      "analyzed_at": "2026-07-01 19:24",
+      "analyzed_at": "2026-07-01 20:27",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1032,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 20659,
+      "views_30d": 20651,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "물 잠긴 두부를 넣고 돌렸더니 마른 두부가 됐다고? 3만원대 짤순이 1년 쓴 후기",
-          "views": 12,
+          "views": 4,
           "date": "2026-07-01",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=RmYNrGYJahM"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
         }
       ],
-      "analyzed_at": "2026-07-01 19:25",
+      "analyzed_at": "2026-07-01 20:28",
       "subs_delta": 0
     },
     {
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1223,
+      "avg_views": 1254,
       "median_views": 1308,
       "uploads_30d": 20,
-      "views_30d": 24473,
+      "views_30d": 25087,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
-          "views": 1846,
+          "views": 1847,
           "date": "2026-06-21",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
@@ -299,14 +299,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 542,
+          "views": 1017,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
         },
         {
           "title": "세상에서 가장 겁 없는 동물이 코브라에 물려도 멀쩡한 이유",
-          "views": 1343,
+          "views": 1481,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=145jVCEOpMs"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=gmq-pvlL-00"
         }
       ],
-      "analyzed_at": "2026-07-01 19:26",
+      "analyzed_at": "2026-07-01 20:29",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1927,
-      "median_views": 837,
+      "avg_views": 1831,
+      "median_views": 735,
       "uploads_30d": 20,
-      "views_30d": 36615,
+      "views_30d": 36623,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "밟을 때마다 차가 울컥, 미션 고장인 줄 알았는데 진짜 범인은 점화코일",
-          "views": 0,
+          "views": 1,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=VnKxOtvnEE0"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1496,
+          "views": 1503,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         }
       ],
-      "analyzed_at": "2026-07-01 19:26",
+      "analyzed_at": "2026-07-01 20:29",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-01 19:24"
+  "generated_at": "2026-07-01 20:27"
 };
