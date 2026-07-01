@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2549,
-      "median_views": 2114,
+      "avg_views": 2424,
+      "median_views": 2078,
       "uploads_30d": 20,
-      "views_30d": 50998,
+      "views_30d": 48497,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,17 +30,10 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3724,
+          "views": 3730,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
-        },
-        {
-          "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3257,
-          "date": "2026-06-19",
-          "duration": 20,
-          "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         },
         {
           "title": "썩은 나무 통째로 버리지 마세요… 2액형 에폭시로 새것처럼 #shorts",
@@ -48,12 +41,26 @@ window.DATA = {
           "date": "2026-06-19",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
+        },
+        {
+          "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
+          "views": 2745,
+          "date": "2026-06-23",
+          "duration": 20,
+          "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
         }
       ],
       "recent_videos": [
         {
+          "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
+          "views": 488,
+          "date": "2026-07-01",
+          "duration": 28,
+          "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
+        },
+        {
           "title": "서랍이 안 빠질 때 비누칠하면 큰일 나요",
-          "views": 1095,
+          "views": 1356,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=YWP5McH4IcI"
@@ -81,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3724,
+          "views": 3730,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-24",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
-        },
-        {
-          "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 2512,
-          "date": "2026-06-24",
-          "duration": 26,
-          "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
         }
       ],
-      "analyzed_at": "2026-07-01 18:21",
+      "analyzed_at": "2026-07-01 19:24",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1082,
+      "avg_views": 1032,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 21648,
+      "views_30d": 20659,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -174,6 +174,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "물 잠긴 두부를 넣고 돌렸더니 마른 두부가 됐다고? 3만원대 짤순이 1년 쓴 후기",
+          "views": 12,
+          "date": "2026-07-01",
+          "duration": 44,
+          "url": "https://www.youtube.com/watch?v=RmYNrGYJahM"
+        },
         {
           "title": "선 없는데 미용실 매직처럼 펴진다고? 4만원대 무선고데기",
           "views": 610,
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-06-24",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
-        },
-        {
-          "title": "200만 원 게이밍을 반값에? MSI 스워드 GF76 HX (i7 14세대 · RTX 5060 · 17.3 144Hz)",
-          "views": 1475,
-          "date": "2026-06-24",
-          "duration": 34,
-          "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
         }
       ],
-      "analyzed_at": "2026-07-01 18:22",
+      "analyzed_at": "2026-07-01 19:25",
       "subs_delta": 0
     },
     {
@@ -254,19 +254,12 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1292,
-      "median_views": 1336,
+      "avg_views": 1223,
+      "median_views": 1308,
       "uploads_30d": 20,
-      "views_30d": 25840,
+      "views_30d": 24473,
       "shorts_ratio": 1.0,
       "top_videos": [
-        {
-          "title": "에이수스 젠북 A14 / 980g 세계 최경량 코파일럿 노트북",
-          "views": 1909,
-          "date": "2026-06-19",
-          "duration": 35,
-          "url": "https://www.youtube.com/watch?v=MqYU7f6Gh7M"
-        },
         {
           "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
           "views": 1846,
@@ -294,9 +287,23 @@ window.DATA = {
           "date": "2026-06-30",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
+        },
+        {
+          "title": "미어캣은 왜 혼자 꼿꼿이 서 있을까",
+          "views": 1588,
+          "date": "2026-06-27",
+          "duration": 27,
+          "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
         }
       ],
       "recent_videos": [
+        {
+          "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
+          "views": 542,
+          "date": "2026-07-01",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
+        },
         {
           "title": "세상에서 가장 겁 없는 동물이 코브라에 물려도 멀쩡한 이유",
           "views": 1343,
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-24",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=gmq-pvlL-00"
-        },
-        {
-          "title": "춤추는 새? 멧도요가 몸을 흔드는 진짜 이유",
-          "views": 1463,
-          "date": "2026-06-24",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=dJRG9efcloI"
         }
       ],
-      "analyzed_at": "2026-07-01 18:23",
+      "analyzed_at": "2026-07-01 19:26",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1830,
-      "median_views": 732,
+      "avg_views": 1927,
+      "median_views": 837,
       "uploads_30d": 20,
-      "views_30d": 36608,
+      "views_30d": 36615,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,14 +392,14 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 7712,
+          "views": 7723,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 2052,
+          "views": 2053,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -421,8 +421,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "밟을 때마다 차가 울컥, 미션 고장인 줄 알았는데 진짜 범인은 점화코일",
+          "views": 0,
+          "date": "2026-07-01",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=VnKxOtvnEE0"
+        },
+        {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 628,
+          "views": 634,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -443,14 +450,14 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1466,
+          "views": 1496,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 7712,
+          "views": 7723,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -464,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 2052,
+          "views": 2053,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -482,18 +489,11 @@ window.DATA = {
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
-        },
-        {
-          "title": "브레이크 패드 한쪽만 닳고 차 쏠림, 패드 갈면 또 닳습니다 (진짜 원인은 캘리퍼 슬라이드핀 고착)",
-          "views": 12,
-          "date": "2026-06-24",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=g3AF-G1fTC8"
         }
       ],
-      "analyzed_at": "2026-07-01 18:24",
+      "analyzed_at": "2026-07-01 19:26",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-01 18:21"
+  "generated_at": "2026-07-01 19:24"
 };
