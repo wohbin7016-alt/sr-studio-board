@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2527,
+      "avg_views": 2540,
       "median_views": 2114,
       "uploads_30d": 20,
-      "views_30d": 50553,
+      "views_30d": 50804,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,7 +23,7 @@ window.DATA = {
         },
         {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 5011,
+          "views": 5012,
           "date": "2026-06-21",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "서랍이 안 빠질 때 비누칠하면 큰일 나요",
-          "views": 673,
+          "views": 923,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=YWP5McH4IcI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
         }
       ],
-      "analyzed_at": "2026-07-01 13:09",
+      "analyzed_at": "2026-07-01 14:11",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1074,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 21490,
+      "views_30d": 21493,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -190,7 +190,7 @@ window.DATA = {
         },
         {
           "title": "전동칫솔 비싸야 좋다고 누가 그래? / 오랄비 바이탈리티 초미세모 전동칫솔 (28,070원)",
-          "views": 354,
+          "views": 357,
           "date": "2026-06-30",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=sBO4Mqnb-Qw"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
         }
       ],
-      "analyzed_at": "2026-07-01 13:10",
+      "analyzed_at": "2026-07-01 14:12",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1267,
+      "avg_views": 1275,
       "median_views": 1308,
       "uploads_30d": 20,
-      "views_30d": 25357,
+      "views_30d": 25517,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "세상에서 가장 겁 없는 동물이 코브라에 물려도 멀쩡한 이유",
-          "views": 860,
+          "views": 1020,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=145jVCEOpMs"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=dJRG9efcloI"
         }
       ],
-      "analyzed_at": "2026-07-01 13:10",
+      "analyzed_at": "2026-07-01 14:12",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1771,
-      "median_views": 496,
+      "avg_views": 1777,
+      "median_views": 542,
       "uploads_30d": 20,
-      "views_30d": 35439,
+      "views_30d": 35555,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 155,
+          "views": 248,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1425,
+          "views": 1448,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=g3AF-G1fTC8"
         }
       ],
-      "analyzed_at": "2026-07-01 13:11",
+      "analyzed_at": "2026-07-01 14:12",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-01 13:09"
+  "generated_at": "2026-07-01 14:11"
 };
