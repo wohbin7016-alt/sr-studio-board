@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2651,
-      "median_views": 2171,
+      "avg_views": 2498,
+      "median_views": 2114,
       "uploads_30d": 20,
-      "views_30d": 53024,
+      "views_30d": 49973,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3706,
+          "views": 3717,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -43,38 +43,45 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
         },
         {
-          "title": "튀어나온 콘센트, 벽에 쏙 넣으면 이렇게 깔끔해집니다",
-          "views": 3159,
-          "date": "2026-06-18",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=KtFcmzK700w"
+          "title": "썩은 나무 통째로 버리지 마세요… 2액형 에폭시로 새것처럼 #shorts",
+          "views": 2816,
+          "date": "2026-06-19",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
         }
       ],
       "recent_videos": [
         {
+          "title": "서랍이 안 빠질 때 비누칠하면 큰일 나요",
+          "views": 91,
+          "date": "2026-07-01",
+          "duration": 23,
+          "url": "https://www.youtube.com/watch?v=YWP5McH4IcI"
+        },
+        {
           "title": "밑창 떨어진 신발 버리지 마세요 5분이면 새것 됩니다",
-          "views": 2134,
+          "views": 2136,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
         },
         {
           "title": "찌그러진 탁구공, 뜨거운 물 한 컵으로 새것처럼 살리는 방법",
-          "views": 1672,
+          "views": 1674,
           "date": "2026-06-30",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
         },
         {
           "title": "뻑뻑한 지퍼, 연필 하나로 부드럽게 고치는 이유",
-          "views": 1464,
+          "views": 1465,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=krtqZCFL-Ms"
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3706,
+          "views": 3717,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -88,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 2061,
+          "views": 2062,
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
-        },
-        {
-          "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 2208,
-          "date": "2026-06-23",
-          "duration": 20,
-          "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
         }
       ],
-      "analyzed_at": "2026-07-01 11:04",
+      "analyzed_at": "2026-07-01 12:07",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1124,
-      "median_views": 1369,
+      "avg_views": 1051,
+      "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 22492,
+      "views_30d": 21035,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -167,13 +167,20 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1563,
+          "views": 1562,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
         }
       ],
       "recent_videos": [
+        {
+          "title": "선 없는데 미용실 매직처럼 펴진다고? 4만원대 무선고데기",
+          "views": 24,
+          "date": "2026-07-01",
+          "duration": 32,
+          "url": "https://www.youtube.com/watch?v=wIioMVoVnco"
+        },
         {
           "title": "3만원짜리가 발뮤다를 이겼다고? 루메나 무선선풍기 1년 쓴 후기",
           "views": 438,
@@ -225,7 +232,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1508,
+          "views": 1509,
           "date": "2026-06-24",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-06-24",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=vcQPE4W6PF0"
-        },
-        {
-          "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1563,
-          "date": "2026-06-23",
-          "duration": 31,
-          "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
         }
       ],
-      "analyzed_at": "2026-07-01 11:05",
+      "analyzed_at": "2026-07-01 12:07",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1244,
+      "avg_views": 1229,
       "median_views": 1308,
       "uploads_30d": 20,
-      "views_30d": 24885,
+      "views_30d": 24591,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -297,6 +297,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "세상에서 가장 겁 없는 동물이 코브라에 물려도 멀쩡한 이유",
+          "views": 94,
+          "date": "2026-07-01",
+          "duration": 23,
+          "url": "https://www.youtube.com/watch?v=145jVCEOpMs"
+        },
         {
           "title": "물에 빠진 개미 수천 마리, 왜 한 마리도 안 죽을까",
           "views": 1285,
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-24",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=dJRG9efcloI"
-        },
-        {
-          "title": "Apple 맥북에어 15 M4 / 15.3인치 M4 대화면 데스크 셋업",
-          "views": 330,
-          "date": "2026-06-23",
-          "duration": 29,
-          "url": "https://www.youtube.com/watch?v=HM7gULCpk-s"
         }
       ],
-      "analyzed_at": "2026-07-01 11:05",
+      "analyzed_at": "2026-07-01 12:08",
       "subs_delta": 0
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1796,
-      "median_views": 853,
+      "avg_views": 1766,
+      "median_views": 440,
       "uploads_30d": 20,
-      "views_30d": 35932,
+      "views_30d": 35325,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17292,
+          "views": 17346,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 6994,
+          "views": 7196,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -413,13 +413,20 @@ window.DATA = {
         },
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1507,
+          "views": 1509,
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
         }
       ],
       "recent_videos": [
+        {
+          "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
+          "views": 43,
+          "date": "2026-07-01",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
+        },
         {
           "title": "BMW E39 히터 바람이 한 단에서만 나올 때 진짜 원인 (송풍기 모터 아닙니다)",
           "views": 2,
@@ -443,14 +450,14 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 6994,
+          "views": 7196,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
           "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1507,
+          "views": 1509,
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
@@ -471,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17292,
+          "views": 17346,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -482,18 +489,11 @@ window.DATA = {
           "date": "2026-06-24",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=g3AF-G1fTC8"
-        },
-        {
-          "title": "BMW 공회전 부르르 떨림, 진짜 원인은 엔진 마운트",
-          "views": 987,
-          "date": "2026-06-24",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
         }
       ],
-      "analyzed_at": "2026-07-01 11:06",
+      "analyzed_at": "2026-07-01 12:08",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-01 11:04"
+  "generated_at": "2026-07-01 12:07"
 };
