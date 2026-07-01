@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2650,
+      "avg_views": 2651,
       "median_views": 2171,
       "uploads_30d": 20,
-      "views_30d": 53013,
+      "views_30d": 53020,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3703,
+          "views": 3706,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -60,7 +60,7 @@ window.DATA = {
         },
         {
           "title": "찌그러진 탁구공, 뜨거운 물 한 컵으로 새것처럼 살리는 방법",
-          "views": 1668,
+          "views": 1672,
           "date": "2026-06-30",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
@@ -74,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3703,
+          "views": 3706,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
         }
       ],
-      "analyzed_at": "2026-07-01 07:57",
+      "analyzed_at": "2026-07-01 08:59",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1123,
-      "median_views": 1368,
+      "avg_views": 1124,
+      "median_views": 1369,
       "uploads_30d": 20,
-      "views_30d": 22473,
+      "views_30d": 22488,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "3만원짜리가 발뮤다를 이겼다고? 루메나 무선선풍기 1년 쓴 후기",
-          "views": 426,
+          "views": 438,
           "date": "2026-06-30",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=5Rbmx2pGI_4"
@@ -190,7 +190,7 @@ window.DATA = {
         },
         {
           "title": "이 작은 게 머리카락을 그냥 삼켜버린다고? / 홈플래닛 무선 핸디 청소기 (46,800원)",
-          "views": 290,
+          "views": 292,
           "date": "2026-06-29",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "레노버 리전 5 (라이젠7·RTX5070·16GB·512GB)",
-          "views": 1433,
+          "views": 1434,
           "date": "2026-06-25",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=P5K9KwQA6oQ"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
         }
       ],
-      "analyzed_at": "2026-07-01 07:57",
+      "analyzed_at": "2026-07-01 09:00",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1243,
       "median_views": 1307,
       "uploads_30d": 20,
-      "views_30d": 24877,
+      "views_30d": 24878,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=HM7gULCpk-s"
         }
       ],
-      "analyzed_at": "2026-07-01 07:58",
+      "analyzed_at": "2026-07-01 09:00",
       "subs_delta": 0
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1785,
+      "avg_views": 1794,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 35715,
+      "views_30d": 35898,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17268,
+          "views": 17292,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 6835,
+          "views": 6994,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 6835,
+          "views": 6994,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -471,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17268,
+          "views": 17292,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
         }
       ],
-      "analyzed_at": "2026-07-01 07:58",
+      "analyzed_at": "2026-07-01 09:01",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-01 07:57"
+  "generated_at": "2026-07-01 08:59"
 };
