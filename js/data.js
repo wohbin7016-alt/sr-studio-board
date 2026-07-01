@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2489,
+      "avg_views": 2490,
       "median_views": 2078,
       "uploads_30d": 20,
-      "views_30d": 49799,
+      "views_30d": 49804,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 1767,
+          "views": 1771,
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
         },
         {
           "title": "서랍이 안 빠질 때 비누칠하면 큰일 나요",
-          "views": 1362,
+          "views": 1363,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=YWP5McH4IcI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
         }
       ],
-      "analyzed_at": "2026-07-02 05:50",
+      "analyzed_at": "2026-07-02 06:52",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1038,
+      "avg_views": 1039,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 20779,
+      "views_30d": 20781,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -183,14 +183,14 @@ window.DATA = {
         },
         {
           "title": "선 없는데 미용실 매직처럼 펴진다고? 4만원대 무선고데기",
-          "views": 652,
+          "views": 656,
           "date": "2026-07-01",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=wIioMVoVnco"
         },
         {
           "title": "3만원짜리가 발뮤다를 이겼다고? 루메나 무선선풍기 1년 쓴 후기",
-          "views": 463,
+          "views": 461,
           "date": "2026-06-30",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=5Rbmx2pGI_4"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
         }
       ],
-      "analyzed_at": "2026-07-02 05:51",
+      "analyzed_at": "2026-07-02 06:53",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1290,
+      "avg_views": 1291,
       "median_views": 1336,
       "uploads_30d": 20,
-      "views_30d": 25818,
+      "views_30d": 25822,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -306,7 +306,7 @@ window.DATA = {
         },
         {
           "title": "세상에서 가장 겁 없는 동물이 코브라에 물려도 멀쩡한 이유",
-          "views": 1488,
+          "views": 1491,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=145jVCEOpMs"
@@ -327,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "짝짓기 도중 수컷 머리가 사라졌어요... 사마귀가 수컷을 잡아먹는 진짜 이유",
-          "views": 1469,
+          "views": 1470,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=gmq-pvlL-00"
         }
       ],
-      "analyzed_at": "2026-07-02 05:51",
+      "analyzed_at": "2026-07-02 06:53",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1869,
+      "avg_views": 1870,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 37386,
+      "views_30d": 37404,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -413,7 +413,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1571,
+          "views": 1579,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 917,
+          "views": 927,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1571,
+          "views": 1579,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         }
       ],
-      "analyzed_at": "2026-07-02 05:52",
+      "analyzed_at": "2026-07-02 06:54",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-02 05:50"
+  "generated_at": "2026-07-02 06:52"
 };
