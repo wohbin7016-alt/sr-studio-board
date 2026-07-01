@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2485,
+      "avg_views": 2487,
       "median_views": 2078,
       "uploads_30d": 20,
-      "views_30d": 49718,
+      "views_30d": 49758,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 1686,
+          "views": 1727,
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
         },
         {
           "title": "서랍이 안 빠질 때 비누칠하면 큰일 나요",
-          "views": 1362,
+          "views": 1361,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=YWP5McH4IcI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
         }
       ],
-      "analyzed_at": "2026-07-02 02:43",
+      "analyzed_at": "2026-07-02 03:46",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1036,
+      "avg_views": 1037,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 20739,
+      "views_30d": 20752,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "선 없는데 미용실 매직처럼 펴진다고? 4만원대 무선고데기",
-          "views": 638,
+          "views": 650,
           "date": "2026-07-01",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=wIioMVoVnco"
@@ -239,13 +239,13 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1512,
+          "views": 1513,
           "date": "2026-06-24",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
         }
       ],
-      "analyzed_at": "2026-07-02 02:44",
+      "analyzed_at": "2026-07-02 03:46",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=gmq-pvlL-00"
         }
       ],
-      "analyzed_at": "2026-07-02 02:44",
+      "analyzed_at": "2026-07-02 03:47",
       "subs_delta": 0
     },
     {
@@ -380,12 +380,12 @@ window.DATA = {
       "avg_views": 1860,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 37213,
+      "views_30d": 37201,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17517,
+          "views": 17502,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 914,
+          "views": 917,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -485,15 +485,15 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17517,
+          "views": 17502,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         }
       ],
-      "analyzed_at": "2026-07-02 02:45",
+      "analyzed_at": "2026-07-02 03:47",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-02 02:43"
+  "generated_at": "2026-07-02 03:46"
 };
