@@ -11,7 +11,7 @@ window.DATA = {
       "avg_views": 2651,
       "median_views": 2171,
       "uploads_30d": 20,
-      "views_30d": 53023,
+      "views_30d": 53024,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "깨진 플라스틱, 본드 말고 이걸로 붙이세요",
-          "views": 3256,
+          "views": 3257,
           "date": "2026-06-19",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=Q7fk0sFgdlc"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
         }
       ],
-      "analyzed_at": "2026-07-01 10:02",
+      "analyzed_at": "2026-07-01 11:04",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1124,
       "median_views": 1369,
       "uploads_30d": 20,
-      "views_30d": 22491,
+      "views_30d": 22492,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1562,
+          "views": 1563,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -239,13 +239,13 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1562,
+          "views": 1563,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
         }
       ],
-      "analyzed_at": "2026-07-01 10:02",
+      "analyzed_at": "2026-07-01 11:05",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2360,
       "sampled": 20,
-      "avg_views": 1243,
-      "median_views": 1307,
+      "avg_views": 1244,
+      "median_views": 1308,
       "uploads_30d": 20,
-      "views_30d": 24878,
+      "views_30d": 24885,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -289,24 +289,24 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
         },
         {
-          "title": "미어캣은 왜 혼자 꼿꼿이 서 있을까",
-          "views": 1588,
-          "date": "2026-06-27",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
+          "title": "이 쥐는 암에 거의 안 걸린다고? 30년을 살고 늙어도 안 죽는 벌거숭이두더지쥐의 비밀",
+          "views": 1590,
+          "date": "2026-06-30",
+          "duration": 31,
+          "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
         }
       ],
       "recent_videos": [
         {
           "title": "물에 빠진 개미 수천 마리, 왜 한 마리도 안 죽을까",
-          "views": 1283,
+          "views": 1285,
           "date": "2026-06-30",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=obBtMfQolps"
         },
         {
           "title": "이 쥐는 암에 거의 안 걸린다고? 30년을 살고 늙어도 안 죽는 벌거숭이두더지쥐의 비밀",
-          "views": 1585,
+          "views": 1590,
           "date": "2026-06-30",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=HM7gULCpk-s"
         }
       ],
-      "analyzed_at": "2026-07-01 10:03",
+      "analyzed_at": "2026-07-01 11:05",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1794,
+      "avg_views": 1796,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 35898,
+      "views_30d": 35932,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -399,7 +399,7 @@ window.DATA = {
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 2050,
+          "views": 2052,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1393,
+          "views": 1425,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -457,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 2050,
+          "views": 2052,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=BsSlS8P36UQ"
         }
       ],
-      "analyzed_at": "2026-07-01 10:04",
+      "analyzed_at": "2026-07-01 11:06",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-01 10:02"
+  "generated_at": "2026-07-01 11:04"
 };
