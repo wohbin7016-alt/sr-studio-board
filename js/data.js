@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2433,
+      "avg_views": 2460,
       "median_views": 2078,
       "uploads_30d": 20,
-      "views_30d": 48661,
+      "views_30d": 49202,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -36,24 +36,24 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
         },
         {
+          "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
+          "views": 3117,
+          "date": "2026-07-02",
+          "duration": 18,
+          "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
+        },
+        {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
           "views": 2745,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
-        },
-        {
-          "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 2575,
-          "date": "2026-07-02",
-          "duration": 18,
-          "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
         }
       ],
       "recent_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 2575,
+          "views": 3117,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -67,14 +67,14 @@ window.DATA = {
         },
         {
           "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 1790,
+          "views": 1788,
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
         },
         {
           "title": "서랍이 안 빠질 때 비누칠하면 큰일 나요",
-          "views": 1358,
+          "views": 1359,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=YWP5McH4IcI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
         }
       ],
-      "analyzed_at": "2026-07-03 01:37",
+      "analyzed_at": "2026-07-03 02:40",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1046,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 20924,
+      "views_30d": 20926,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
         }
       ],
-      "analyzed_at": "2026-07-03 01:38",
+      "analyzed_at": "2026-07-03 02:40",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1310,
       "median_views": 1336,
       "uploads_30d": 20,
-      "views_30d": 26219,
+      "views_30d": 26217,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -334,7 +334,7 @@ window.DATA = {
         },
         {
           "title": "짝짓기 도중 수컷 머리가 사라졌어요... 사마귀가 수컷을 잡아먹는 진짜 이유",
-          "views": 1473,
+          "views": 1471,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DrS3zu25BP8"
         }
       ],
-      "analyzed_at": "2026-07-03 01:39",
+      "analyzed_at": "2026-07-03 02:41",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1865,
+      "avg_views": 1864,
       "median_views": 520,
       "uploads_30d": 20,
-      "views_30d": 37303,
+      "views_30d": 37297,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17586,
+          "views": 17574,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 1028,
+          "views": 1034,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=En5NKsnk1Kg"
         }
       ],
-      "analyzed_at": "2026-07-03 01:39",
+      "analyzed_at": "2026-07-03 02:42",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-03 01:37"
+  "generated_at": "2026-07-03 02:40"
 };
