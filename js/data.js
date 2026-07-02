@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2405,
-      "median_views": 2042,
+      "avg_views": 2433,
+      "median_views": 2078,
       "uploads_30d": 20,
-      "views_30d": 48106,
+      "views_30d": 48661,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -43,17 +43,17 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
         },
         {
-          "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2539,
-          "date": "2026-06-22",
-          "duration": 26,
-          "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
+          "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
+          "views": 2575,
+          "date": "2026-07-02",
+          "duration": 18,
+          "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
         }
       ],
       "recent_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 2022,
+          "views": 2575,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 1788,
+          "views": 1790,
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
         }
       ],
-      "analyzed_at": "2026-07-03 00:35",
+      "analyzed_at": "2026-07-03 01:37",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1038,
+      "avg_views": 1046,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 20766,
+      "views_30d": 20924,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이 조그만 통이 얼음까지 갈아버린다고?",
-          "views": 336,
+          "views": 494,
           "date": "2026-07-02",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=iXUX5RkLHBY"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
         }
       ],
-      "analyzed_at": "2026-07-03 00:36",
+      "analyzed_at": "2026-07-03 01:38",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1289,
+      "avg_views": 1310,
       "median_views": 1336,
       "uploads_30d": 20,
-      "views_30d": 25784,
+      "views_30d": 26219,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "얼룩말 줄무늬는 위장이 아니었다, 진짜 이유가 소름",
-          "views": 489,
+          "views": 922,
           "date": "2026-07-02",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=8W9PvbPbRN0"
@@ -334,7 +334,7 @@ window.DATA = {
         },
         {
           "title": "짝짓기 도중 수컷 머리가 사라졌어요... 사마귀가 수컷을 잡아먹는 진짜 이유",
-          "views": 1471,
+          "views": 1473,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DrS3zu25BP8"
         }
       ],
-      "analyzed_at": "2026-07-03 00:36",
+      "analyzed_at": "2026-07-03 01:39",
       "subs_delta": 0
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1846,
-      "median_views": 467,
+      "avg_views": 1865,
+      "median_views": 520,
       "uploads_30d": 20,
-      "views_30d": 36921,
+      "views_30d": 37303,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17576,
+          "views": 17586,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8140,
+          "views": 8141,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -405,24 +405,24 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
         },
         {
+          "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
+          "views": 2016,
+          "date": "2026-06-29",
+          "duration": 21,
+          "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
+        },
+        {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
           "views": 1935,
           "date": "2026-06-23",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
-        },
-        {
-          "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1776,
-          "date": "2026-06-29",
-          "duration": 21,
-          "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         }
       ],
       "recent_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 97,
+          "views": 204,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 1004,
+          "views": 1028,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -457,14 +457,14 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1776,
+          "views": 2016,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8140,
+          "views": 8141,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=En5NKsnk1Kg"
         }
       ],
-      "analyzed_at": "2026-07-03 00:37",
+      "analyzed_at": "2026-07-03 01:39",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-03 00:35"
+  "generated_at": "2026-07-03 01:37"
 };
