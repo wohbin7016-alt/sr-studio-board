@@ -11,7 +11,7 @@ window.DATA = {
       "avg_views": 2394,
       "median_views": 1949,
       "uploads_30d": 20,
-      "views_30d": 47892,
+      "views_30d": 47893,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "뻑뻑한 지퍼, 연필 하나로 부드럽게 고치는 이유",
-          "views": 1477,
+          "views": 1478,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=krtqZCFL-Ms"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
         }
       ],
-      "analyzed_at": "2026-07-02 20:23",
+      "analyzed_at": "2026-07-02 21:27",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1040,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 20811,
+      "views_30d": 20816,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "물 잠긴 두부를 넣고 돌렸더니 마른 두부가 됐다고? 3만원대 짤순이 1년 쓴 후기",
-          "views": 54,
+          "views": 59,
           "date": "2026-07-01",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=RmYNrGYJahM"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
         }
       ],
-      "analyzed_at": "2026-07-02 20:24",
+      "analyzed_at": "2026-07-02 21:27",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1291,
+      "avg_views": 1292,
       "median_views": 1336,
       "uploads_30d": 20,
-      "views_30d": 25833,
+      "views_30d": 25840,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -276,7 +276,7 @@ window.DATA = {
         },
         {
           "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 1747,
+          "views": 1753,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
@@ -299,14 +299,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 1747,
+          "views": 1753,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
         },
         {
           "title": "세상에서 가장 겁 없는 동물이 코브라에 물려도 멀쩡한 이유",
-          "views": 1489,
+          "views": 1490,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=145jVCEOpMs"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=gmq-pvlL-00"
         }
       ],
-      "analyzed_at": "2026-07-02 20:25",
+      "analyzed_at": "2026-07-02 21:28",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1888,
+      "avg_views": 1889,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 37762,
+      "views_30d": 37798,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,7 +392,7 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8130,
+          "views": 8140,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -413,7 +413,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1748,
+          "views": 1776,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 989,
+          "views": 987,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -450,14 +450,14 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1748,
+          "views": 1776,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8130,
+          "views": 8140,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         }
       ],
-      "analyzed_at": "2026-07-02 20:26",
+      "analyzed_at": "2026-07-02 21:28",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-02 20:23"
+  "generated_at": "2026-07-02 21:27"
 };
