@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2393,
+      "avg_views": 2394,
       "median_views": 1949,
       "uploads_30d": 20,
-      "views_30d": 47867,
+      "views_30d": 47892,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3741,
+          "views": 3745,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "열쇠도 없이 자물쇠가 스르륵, 이 작은 공구의 정체 #생활꿀팁 #꿀팁",
-          "views": 875,
+          "views": 896,
           "date": "2026-07-02",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=9IAhdi_UIWM"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3741,
+          "views": 3745,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
         }
       ],
-      "analyzed_at": "2026-07-02 19:21",
+      "analyzed_at": "2026-07-02 20:23",
       "subs_delta": 0
     },
     {
@@ -134,12 +134,12 @@ window.DATA = {
       "avg_views": 1040,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 20814,
+      "views_30d": 20811,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1976,
+          "views": 1977,
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "물 잠긴 두부를 넣고 돌렸더니 마른 두부가 됐다고? 3만원대 짤순이 1년 쓴 후기",
-          "views": 58,
+          "views": 54,
           "date": "2026-07-01",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=RmYNrGYJahM"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
         }
       ],
-      "analyzed_at": "2026-07-02 19:22",
+      "analyzed_at": "2026-07-02 20:24",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=gmq-pvlL-00"
         }
       ],
-      "analyzed_at": "2026-07-02 19:22",
+      "analyzed_at": "2026-07-02 20:25",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1887,
+      "avg_views": 1888,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 37759,
+      "views_30d": 37762,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -429,14 +429,14 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 985,
+          "views": 989,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
         },
         {
           "title": "BMW E39 히터 바람이 한 단에서만 나올 때 진짜 원인 (송풍기 모터 아닙니다)",
-          "views": 3,
+          "views": 2,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=_cE-5Kqm7kQ"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         }
       ],
-      "analyzed_at": "2026-07-02 19:23",
+      "analyzed_at": "2026-07-02 20:26",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-02 19:21"
+  "generated_at": "2026-07-02 20:23"
 };
