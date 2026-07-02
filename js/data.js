@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2314,
-      "median_views": 1925,
+      "avg_views": 2379,
+      "median_views": 1926,
       "uploads_30d": 20,
-      "views_30d": 46291,
+      "views_30d": 47587,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 217,
+          "views": 1511,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 1788,
+          "views": 1789,
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "찌그러진 탁구공, 뜨거운 물 한 컵으로 새것처럼 살리는 방법",
-          "views": 1690,
+          "views": 1691,
           "date": "2026-06-30",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
         }
       ],
-      "analyzed_at": "2026-07-02 22:29",
+      "analyzed_at": "2026-07-02 23:32",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1041,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 20821,
+      "views_30d": 20824,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "물 잠긴 두부를 넣고 돌렸더니 마른 두부가 됐다고? 3만원대 짤순이 1년 쓴 후기",
-          "views": 59,
+          "views": 62,
           "date": "2026-07-01",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=RmYNrGYJahM"
@@ -197,14 +197,14 @@ window.DATA = {
         },
         {
           "title": "전동칫솔 비싸야 좋다고 누가 그래? / 오랄비 바이탈리티 초미세모 전동칫솔 (28,070원)",
-          "views": 378,
+          "views": 380,
           "date": "2026-06-30",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=sBO4Mqnb-Qw"
         },
         {
           "title": "이 작은 게 머리카락을 그냥 삼켜버린다고? / 홈플래닛 무선 핸디 청소기 (46,800원)",
-          "views": 302,
+          "views": 300,
           "date": "2026-06-29",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
         }
       ],
-      "analyzed_at": "2026-07-02 22:30",
+      "analyzed_at": "2026-07-02 23:33",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1292,
       "median_views": 1336,
       "uploads_30d": 20,
-      "views_30d": 25844,
+      "views_30d": 25845,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -276,7 +276,7 @@ window.DATA = {
         },
         {
           "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 1754,
+          "views": 1753,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 1754,
+          "views": 1753,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
@@ -348,7 +348,7 @@ window.DATA = {
         },
         {
           "title": "거미는 왜 자기 거미줄엔 안 붙을까",
-          "views": 830,
+          "views": 832,
           "date": "2026-06-25",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=6ptILdKLgQ0"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=gmq-pvlL-00"
         }
       ],
-      "analyzed_at": "2026-07-02 22:31",
+      "analyzed_at": "2026-07-02 23:34",
       "subs_delta": 0
     },
     {
@@ -380,7 +380,7 @@ window.DATA = {
       "avg_views": 1890,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 37818,
+      "views_30d": 37819,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         }
       ],
-      "analyzed_at": "2026-07-02 22:31",
+      "analyzed_at": "2026-07-02 23:34",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-02 22:29"
+  "generated_at": "2026-07-02 23:32"
 };
