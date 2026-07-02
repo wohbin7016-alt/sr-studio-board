@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2489,
-      "median_views": 2078,
+      "avg_views": 2363,
+      "median_views": 1949,
       "uploads_30d": 20,
-      "views_30d": 49796,
+      "views_30d": 47267,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -36,24 +36,31 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
         },
         {
-          "title": "썩은 나무 통째로 버리지 마세요… 2액형 에폭시로 새것처럼 #shorts",
-          "views": 2816,
-          "date": "2026-06-19",
-          "duration": 25,
-          "url": "https://www.youtube.com/watch?v=ipNSAptxXC0"
-        },
-        {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
           "views": 2745,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
+        },
+        {
+          "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
+          "views": 2539,
+          "date": "2026-06-22",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         }
       ],
       "recent_videos": [
         {
+          "title": "열쇠도 없이 자물쇠가 스르륵, 이 작은 공구의 정체 #생활꿀팁 #꿀팁",
+          "views": 288,
+          "date": "2026-07-02",
+          "duration": 19,
+          "url": "https://www.youtube.com/watch?v=9IAhdi_UIWM"
+        },
+        {
           "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 1777,
+          "views": 1776,
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-25",
           "duration": 17,
           "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
-        },
-        {
-          "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 2093,
-          "date": "2026-06-24",
-          "duration": 20,
-          "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
         }
       ],
-      "analyzed_at": "2026-07-02 11:01",
+      "analyzed_at": "2026-07-02 12:03",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
         }
       ],
-      "analyzed_at": "2026-07-02 11:01",
+      "analyzed_at": "2026-07-02 12:03",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1291,
+      "avg_views": 1290,
       "median_views": 1336,
       "uploads_30d": 20,
-      "views_30d": 25830,
+      "views_30d": 25819,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -306,14 +306,14 @@ window.DATA = {
         },
         {
           "title": "세상에서 가장 겁 없는 동물이 코브라에 물려도 멀쩡한 이유",
-          "views": 1491,
+          "views": 1485,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=145jVCEOpMs"
         },
         {
           "title": "물에 빠진 개미 수천 마리, 왜 한 마리도 안 죽을까",
-          "views": 1289,
+          "views": 1284,
           "date": "2026-06-30",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=obBtMfQolps"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=gmq-pvlL-00"
         }
       ],
-      "analyzed_at": "2026-07-02 11:02",
+      "analyzed_at": "2026-07-02 12:04",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1873,
+      "avg_views": 1876,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 37477,
+      "views_30d": 37530,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17534,
+          "views": 17536,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -413,7 +413,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1609,
+          "views": 1657,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 947,
+          "views": 948,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1609,
+          "views": 1657,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -485,15 +485,15 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17534,
+          "views": 17536,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         }
       ],
-      "analyzed_at": "2026-07-02 11:02",
+      "analyzed_at": "2026-07-02 12:05",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-02 11:01"
+  "generated_at": "2026-07-02 12:03"
 };
