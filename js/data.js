@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2379,
-      "median_views": 1926,
+      "avg_views": 2405,
+      "median_views": 2042,
       "uploads_30d": 20,
-      "views_30d": 47587,
+      "views_30d": 48106,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,21 +53,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 1511,
+          "views": 2022,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
         },
         {
           "title": "열쇠도 없이 자물쇠가 스르륵, 이 작은 공구의 정체 #생활꿀팁 #꿀팁",
-          "views": 900,
+          "views": 907,
           "date": "2026-07-02",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=9IAhdi_UIWM"
         },
         {
           "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 1789,
+          "views": 1788,
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "밑창 떨어진 신발 버리지 마세요 5분이면 새것 됩니다",
-          "views": 2129,
+          "views": 2131,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
         }
       ],
-      "analyzed_at": "2026-07-02 23:32",
+      "analyzed_at": "2026-07-03 00:35",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1041,
+      "avg_views": 1038,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 20824,
+      "views_30d": 20766,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -175,6 +175,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "이 조그만 통이 얼음까지 갈아버린다고?",
+          "views": 336,
+          "date": "2026-07-02",
+          "duration": 36,
+          "url": "https://www.youtube.com/watch?v=iXUX5RkLHBY"
+        },
+        {
           "title": "물 잠긴 두부를 넣고 돌렸더니 마른 두부가 됐다고? 3만원대 짤순이 1년 쓴 후기",
           "views": 62,
           "date": "2026-07-01",
@@ -183,7 +190,7 @@ window.DATA = {
         },
         {
           "title": "선 없는데 미용실 매직처럼 펴진다고? 4만원대 무선고데기",
-          "views": 660,
+          "views": 665,
           "date": "2026-07-01",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=wIioMVoVnco"
@@ -204,14 +211,14 @@ window.DATA = {
         },
         {
           "title": "이 작은 게 머리카락을 그냥 삼켜버린다고? / 홈플래닛 무선 핸디 청소기 (46,800원)",
-          "views": 300,
+          "views": 304,
           "date": "2026-06-29",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
         },
         {
           "title": "HP 오멘 MAX 16 / 액체금속 쿨링·2.5K OLED 240Hz 게이밍 (299만 원대)",
-          "views": 1506,
+          "views": 1508,
           "date": "2026-06-27",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=JcNefzghzzY"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
-        },
-        {
-          "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1514,
-          "date": "2026-06-24",
-          "duration": 31,
-          "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
         }
       ],
-      "analyzed_at": "2026-07-02 23:33",
+      "analyzed_at": "2026-07-03 00:36",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1292,
+      "avg_views": 1289,
       "median_views": 1336,
       "uploads_30d": 20,
-      "views_30d": 25845,
+      "views_30d": 25784,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -276,7 +276,7 @@ window.DATA = {
         },
         {
           "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 1753,
+          "views": 1754,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
@@ -298,8 +298,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "얼룩말 줄무늬는 위장이 아니었다, 진짜 이유가 소름",
+          "views": 489,
+          "date": "2026-07-02",
+          "duration": 31,
+          "url": "https://www.youtube.com/watch?v=8W9PvbPbRN0"
+        },
+        {
           "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 1753,
+          "views": 1754,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
@@ -313,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "물에 빠진 개미 수천 마리, 왜 한 마리도 안 죽을까",
-          "views": 1287,
+          "views": 1289,
           "date": "2026-06-30",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=obBtMfQolps"
@@ -327,7 +334,7 @@ window.DATA = {
         },
         {
           "title": "짝짓기 도중 수컷 머리가 사라졌어요... 사마귀가 수컷을 잡아먹는 진짜 이유",
-          "views": 1470,
+          "views": 1471,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-25",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=DrS3zu25BP8"
-        },
-        {
-          "title": "목에서 빨간 풍선이? 프레리치킨의 짝짓기 쇼",
-          "views": 1075,
-          "date": "2026-06-24",
-          "duration": 29,
-          "url": "https://www.youtube.com/watch?v=gmq-pvlL-00"
         }
       ],
-      "analyzed_at": "2026-07-02 23:34",
+      "analyzed_at": "2026-07-03 00:36",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1890,
-      "median_views": 853,
+      "avg_views": 1846,
+      "median_views": 467,
       "uploads_30d": 20,
-      "views_30d": 37819,
+      "views_30d": 36921,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17574,
+          "views": 17576,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -421,6 +421,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
+          "views": 97,
+          "date": "2026-07-02",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
+        },
+        {
           "title": "밟을 때마다 차가 울컥, 미션 고장인 줄 알았는데 진짜 범인은 점화코일",
           "views": 6,
           "date": "2026-07-01",
@@ -429,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 1002,
+          "views": 1004,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -482,18 +489,11 @@ window.DATA = {
           "date": "2026-06-25",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=En5NKsnk1Kg"
-        },
-        {
-          "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17574,
-          "date": "2026-06-25",
-          "duration": 26,
-          "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         }
       ],
-      "analyzed_at": "2026-07-02 23:34",
+      "analyzed_at": "2026-07-03 00:37",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-02 23:32"
+  "generated_at": "2026-07-03 00:35"
 };
