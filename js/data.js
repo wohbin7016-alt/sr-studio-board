@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2488,
+      "avg_views": 2505,
       "median_views": 2078,
       "uploads_30d": 20,
-      "views_30d": 49763,
+      "views_30d": 50106,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -29,18 +29,18 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
+          "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
+          "views": 4002,
+          "date": "2026-07-02",
+          "duration": 18,
+          "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
+        },
+        {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
           "views": 3749,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
-        },
-        {
-          "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 3664,
-          "date": "2026-07-02",
-          "duration": 18,
-          "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 3664,
+          "views": 4002,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -67,21 +67,21 @@ window.DATA = {
         },
         {
           "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 1790,
+          "views": 1792,
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
         },
         {
           "title": "서랍이 안 빠질 때 비누칠하면 큰일 나요",
-          "views": 1358,
+          "views": 1359,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=YWP5McH4IcI"
         },
         {
           "title": "밑창 떨어진 신발 버리지 마세요 5분이면 새것 됩니다",
-          "views": 2131,
+          "views": 2133,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
         }
       ],
-      "analyzed_at": "2026-07-03 03:42",
+      "analyzed_at": "2026-07-03 04:44",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
         }
       ],
-      "analyzed_at": "2026-07-03 03:42",
+      "analyzed_at": "2026-07-03 04:45",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DrS3zu25BP8"
         }
       ],
-      "analyzed_at": "2026-07-03 03:43",
+      "analyzed_at": "2026-07-03 04:45",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1864,
-      "median_views": 520,
+      "avg_views": 1887,
+      "median_views": 664,
       "uploads_30d": 20,
-      "views_30d": 37299,
+      "views_30d": 37746,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17576,
+          "views": 17586,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -398,18 +398,18 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
+          "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
+          "views": 2136,
+          "date": "2026-06-29",
+          "duration": 21,
+          "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
+        },
+        {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
           "views": 2055,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
-        },
-        {
-          "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2016,
-          "date": "2026-06-29",
-          "duration": 21,
-          "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         },
         {
           "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 204,
+          "views": 492,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 1034,
+          "views": 1063,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -457,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2016,
+          "views": 2136,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=En5NKsnk1Kg"
         }
       ],
-      "analyzed_at": "2026-07-03 03:43",
+      "analyzed_at": "2026-07-03 04:46",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-03 03:42"
+  "generated_at": "2026-07-03 04:44"
 };
