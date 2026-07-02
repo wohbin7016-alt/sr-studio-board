@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2393,
+      "avg_views": 2394,
       "median_views": 1949,
       "uploads_30d": 20,
-      "views_30d": 47866,
+      "views_30d": 47886,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "열쇠도 없이 자물쇠가 스르륵, 이 작은 공구의 정체 #생활꿀팁 #꿀팁",
-          "views": 875,
+          "views": 894,
           "date": "2026-07-02",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=9IAhdi_UIWM"
         },
         {
           "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 1785,
+          "views": 1786,
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
         }
       ],
-      "analyzed_at": "2026-07-02 17:16",
+      "analyzed_at": "2026-07-02 18:18",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1039,
+      "avg_views": 1040,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 20799,
+      "views_30d": 20800,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -153,7 +153,7 @@ window.DATA = {
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1757,
+          "views": 1758,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -232,7 +232,7 @@ window.DATA = {
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1757,
+          "views": 1758,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
         }
       ],
-      "analyzed_at": "2026-07-02 17:16",
+      "analyzed_at": "2026-07-02 18:19",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1291,
       "median_views": 1336,
       "uploads_30d": 20,
-      "views_30d": 25828,
+      "views_30d": 25829,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -334,7 +334,7 @@ window.DATA = {
         },
         {
           "title": "미어캣은 왜 혼자 꼿꼿이 서 있을까",
-          "views": 1588,
+          "views": 1589,
           "date": "2026-06-27",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=gmq-pvlL-00"
         }
       ],
-      "analyzed_at": "2026-07-02 17:17",
+      "analyzed_at": "2026-07-02 18:20",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1883,
+      "avg_views": 1887,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 37667,
+      "views_30d": 37740,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -413,7 +413,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1702,
+          "views": 1748,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 958,
+          "views": 985,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 1702,
+          "views": 1748,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         }
       ],
-      "analyzed_at": "2026-07-02 17:17",
+      "analyzed_at": "2026-07-02 18:20",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-02 17:16"
+  "generated_at": "2026-07-02 18:18"
 };
