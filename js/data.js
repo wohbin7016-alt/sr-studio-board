@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2394,
-      "median_views": 1949,
+      "avg_views": 2314,
+      "median_views": 1925,
       "uploads_30d": 20,
-      "views_30d": 47893,
+      "views_30d": 46291,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -52,22 +52,29 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
+          "views": 217,
+          "date": "2026-07-02",
+          "duration": 18,
+          "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
+        },
+        {
           "title": "열쇠도 없이 자물쇠가 스르륵, 이 작은 공구의 정체 #생활꿀팁 #꿀팁",
-          "views": 896,
+          "views": 900,
           "date": "2026-07-02",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=9IAhdi_UIWM"
         },
         {
           "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 1786,
+          "views": 1788,
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
         },
         {
           "title": "서랍이 안 빠질 때 비누칠하면 큰일 나요",
-          "views": 1357,
+          "views": 1358,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=YWP5McH4IcI"
@@ -81,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "찌그러진 탁구공, 뜨거운 물 한 컵으로 새것처럼 살리는 방법",
-          "views": 1680,
+          "views": 1690,
           "date": "2026-06-30",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-25",
           "duration": 16,
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
-        },
-        {
-          "title": "새까맣게 탄 냄비, 베이킹소다로 새것처럼 복원",
-          "views": 1411,
-          "date": "2026-06-25",
-          "duration": 17,
-          "url": "https://www.youtube.com/watch?v=HJCs0H4pC-I"
         }
       ],
-      "analyzed_at": "2026-07-02 21:27",
+      "analyzed_at": "2026-07-02 22:29",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1040,
+      "avg_views": 1041,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 20816,
+      "views_30d": 20821,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -153,7 +153,7 @@ window.DATA = {
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1758,
+          "views": 1759,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -190,21 +190,21 @@ window.DATA = {
         },
         {
           "title": "3만원짜리가 발뮤다를 이겼다고? 루메나 무선선풍기 1년 쓴 후기",
-          "views": 463,
+          "views": 464,
           "date": "2026-06-30",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=5Rbmx2pGI_4"
         },
         {
           "title": "전동칫솔 비싸야 좋다고 누가 그래? / 오랄비 바이탈리티 초미세모 전동칫솔 (28,070원)",
-          "views": 377,
+          "views": 378,
           "date": "2026-06-30",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=sBO4Mqnb-Qw"
         },
         {
           "title": "이 작은 게 머리카락을 그냥 삼켜버린다고? / 홈플래닛 무선 핸디 청소기 (46,800원)",
-          "views": 300,
+          "views": 302,
           "date": "2026-06-29",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
@@ -232,7 +232,7 @@ window.DATA = {
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1758,
+          "views": 1759,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
         }
       ],
-      "analyzed_at": "2026-07-02 21:27",
+      "analyzed_at": "2026-07-02 22:30",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1292,
       "median_views": 1336,
       "uploads_30d": 20,
-      "views_30d": 25840,
+      "views_30d": 25844,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -276,7 +276,7 @@ window.DATA = {
         },
         {
           "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 1753,
+          "views": 1754,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
@@ -299,21 +299,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 1753,
+          "views": 1754,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
         },
         {
           "title": "세상에서 가장 겁 없는 동물이 코브라에 물려도 멀쩡한 이유",
-          "views": 1490,
+          "views": 1491,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=145jVCEOpMs"
         },
         {
           "title": "물에 빠진 개미 수천 마리, 왜 한 마리도 안 죽을까",
-          "views": 1285,
+          "views": 1287,
           "date": "2026-06-30",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=obBtMfQolps"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=gmq-pvlL-00"
         }
       ],
-      "analyzed_at": "2026-07-02 21:28",
+      "analyzed_at": "2026-07-02 22:31",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1889,
+      "avg_views": 1890,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 37798,
+      "views_30d": 37818,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17571,
+          "views": 17574,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -399,7 +399,7 @@ window.DATA = {
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 2054,
+          "views": 2055,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -429,14 +429,14 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 987,
+          "views": 1002,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
         },
         {
           "title": "BMW E39 히터 바람이 한 단에서만 나올 때 진짜 원인 (송풍기 모터 아닙니다)",
-          "views": 2,
+          "views": 3,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=_cE-5Kqm7kQ"
@@ -471,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 2054,
+          "views": 2055,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
@@ -485,15 +485,15 @@ window.DATA = {
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17571,
+          "views": 17574,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         }
       ],
-      "analyzed_at": "2026-07-02 21:28",
+      "analyzed_at": "2026-07-02 22:31",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-02 21:27"
+  "generated_at": "2026-07-02 22:29"
 };
