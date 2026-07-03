@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2041,
+      "avg_views": 2053,
       "median_views": 1740,
       "uploads_30d": 20,
-      "views_30d": 40824,
+      "views_30d": 41074,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "카펫에 남은 가구 눌린 자국, 얼음 하나로 복원",
-          "views": 659,
+          "views": 882,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=FvOtN1HJc6E"
         },
         {
           "title": "화장실 실리콘 지저분한 이유, 프로는 짜기 전에 '이것'부터 합니다",
-          "views": 765,
+          "views": 792,
           "date": "2026-07-03",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=JKsEy1BWpSg"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
         }
       ],
-      "analyzed_at": "2026-07-03 21:41",
+      "analyzed_at": "2026-07-03 22:44",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 975,
-      "median_views": 950,
+      "avg_views": 1004,
+      "median_views": 1080,
       "uploads_30d": 20,
-      "views_30d": 19505,
+      "views_30d": 20091,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,14 +176,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "먹다 남은 과자 집게로 막는 거 손해, 만원대 미니 실링기",
-          "views": 428,
+          "views": 866,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
         },
         {
           "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
-          "views": 1235,
+          "views": 1379,
           "date": "2026-07-03",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
@@ -197,14 +197,14 @@ window.DATA = {
         },
         {
           "title": "물 잠긴 두부를 넣고 돌렸더니 마른 두부가 됐다고? 3만원대 짤순이 1년 쓴 후기",
-          "views": 66,
+          "views": 69,
           "date": "2026-07-01",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=RmYNrGYJahM"
         },
         {
           "title": "선 없는데 미용실 매직처럼 펴진다고? 4만원대 무선고데기",
-          "views": 666,
+          "views": 667,
           "date": "2026-07-01",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=wIioMVoVnco"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZL1usPoL7yc"
         }
       ],
-      "analyzed_at": "2026-07-03 21:42",
+      "analyzed_at": "2026-07-03 22:45",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1259,
+      "avg_views": 1285,
       "median_views": 1284,
       "uploads_30d": 20,
-      "views_30d": 25199,
+      "views_30d": 25704,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "얼어 죽은 개구리가 봄에 다시 살아나는 이유",
-          "views": 476,
+          "views": 981,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=52XtgfX8fns"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Jntz1PGag9U"
         }
       ],
-      "analyzed_at": "2026-07-03 21:43",
+      "analyzed_at": "2026-07-03 22:45",
       "subs_delta": 0
     },
     {
@@ -377,29 +377,29 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1944,
+      "avg_views": 1947,
       "median_views": 662,
       "uploads_30d": 20,
-      "views_30d": 38886,
+      "views_30d": 38951,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17624,
+          "views": 17628,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8143,
+          "views": 8144,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2399,
+          "views": 2409,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 1616,
+          "views": 1664,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 1159,
+          "views": 1161,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -471,14 +471,14 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2399,
+          "views": 2409,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8143,
+          "views": 8144,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
         }
       ],
-      "analyzed_at": "2026-07-03 21:43",
+      "analyzed_at": "2026-07-03 22:46",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-03 21:41"
+  "generated_at": "2026-07-03 22:44"
 };
