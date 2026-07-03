@@ -8,22 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2055,
-      "median_views": 1741,
+      "avg_views": 2064,
+      "median_views": 1742,
       "uploads_30d": 20,
-      "views_30d": 41106,
+      "views_30d": 41285,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 6094,
+          "views": 6262,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3753,
+          "views": 3758,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -60,35 +60,35 @@ window.DATA = {
         },
         {
           "title": "화장실 실리콘 지저분한 이유, 프로는 짜기 전에 '이것'부터 합니다",
-          "views": 795,
+          "views": 792,
           "date": "2026-07-03",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=JKsEy1BWpSg"
         },
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 6094,
+          "views": 6262,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
         },
         {
           "title": "열쇠도 없이 자물쇠가 스르륵, 이 작은 공구의 정체 #생활꿀팁 #꿀팁",
-          "views": 1006,
+          "views": 1011,
           "date": "2026-07-02",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=9IAhdi_UIWM"
         },
         {
           "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 1792,
+          "views": 1794,
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
         },
         {
           "title": "서랍이 안 빠질 때 비누칠하면 큰일 나요",
-          "views": 1361,
+          "views": 1360,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=YWP5McH4IcI"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3753,
+          "views": 3758,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
         }
       ],
-      "analyzed_at": "2026-07-03 23:47",
+      "analyzed_at": "2026-07-04 00:49",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1007,
-      "median_views": 1083,
+      "avg_views": 1012,
+      "median_views": 1119,
       "uploads_30d": 20,
-      "views_30d": 20145,
+      "views_30d": 20259,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,21 +176,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "먹다 남은 과자 집게로 막는 거 손해, 만원대 미니 실링기",
-          "views": 872,
+          "views": 945,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
         },
         {
           "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
-          "views": 1420,
+          "views": 1466,
           "date": "2026-07-03",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
         },
         {
           "title": "이 조그만 통이 얼음까지 갈아버린다고?",
-          "views": 657,
+          "views": 653,
           "date": "2026-07-02",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=iXUX5RkLHBY"
@@ -218,7 +218,7 @@ window.DATA = {
         },
         {
           "title": "전동칫솔 비싸야 좋다고 누가 그래? / 오랄비 바이탈리티 초미세모 전동칫솔 (28,070원)",
-          "views": 381,
+          "views": 380,
           "date": "2026-06-30",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=sBO4Mqnb-Qw"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZL1usPoL7yc"
         }
       ],
-      "analyzed_at": "2026-07-03 23:47",
+      "analyzed_at": "2026-07-04 00:49",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1305,
+      "avg_views": 1309,
       "median_views": 1300,
       "uploads_30d": 20,
-      "views_30d": 26116,
+      "views_30d": 26184,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -276,7 +276,7 @@ window.DATA = {
         },
         {
           "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 1763,
+          "views": 1762,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "얼어 죽은 개구리가 봄에 다시 살아나는 이유",
-          "views": 1180,
+          "views": 1249,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=52XtgfX8fns"
@@ -320,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 1763,
+          "views": 1762,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Jntz1PGag9U"
         }
       ],
-      "analyzed_at": "2026-07-03 23:48",
+      "analyzed_at": "2026-07-04 00:50",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1956,
-      "median_views": 662,
+      "avg_views": 1978,
+      "median_views": 807,
       "uploads_30d": 20,
-      "views_30d": 39133,
+      "views_30d": 39574,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,7 +392,7 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8143,
+          "views": 8144,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -412,11 +412,11 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
         },
         {
-          "title": "수산일을 돕다 미스터트롯 한 장면을 보고 가수가 된 박지현",
-          "views": 1935,
-          "date": "2026-06-23",
-          "duration": 25,
-          "url": "https://www.youtube.com/watch?v=EAgTxkVhwBk"
+          "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
+          "views": 1996,
+          "date": "2026-07-02",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         }
       ],
       "recent_videos": [
@@ -429,14 +429,14 @@ window.DATA = {
         },
         {
           "title": "차 바닥이 흥건한데 창문은 멀쩡? 진짜 범인은 여기였다",
-          "views": 455,
+          "views": 745,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=VtjFL6suLso"
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 1846,
+          "views": 1996,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8143,
+          "views": 8144,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
         }
       ],
-      "analyzed_at": "2026-07-03 23:48",
+      "analyzed_at": "2026-07-04 00:50",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-03 23:47"
+  "generated_at": "2026-07-04 00:49"
 };
