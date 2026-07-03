@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2087,
-      "median_views": 1741,
+      "avg_views": 2090,
+      "median_views": 1742,
       "uploads_30d": 20,
-      "views_30d": 41756,
+      "views_30d": 41803,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2746,
+          "views": 2748,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -60,7 +60,7 @@ window.DATA = {
         },
         {
           "title": "화장실 실리콘 지저분한 이유, 프로는 짜기 전에 '이것'부터 합니다",
-          "views": 831,
+          "views": 872,
           "date": "2026-07-03",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=JKsEy1BWpSg"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 1792,
+          "views": 1794,
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
         }
       ],
-      "analyzed_at": "2026-07-04 03:55",
+      "analyzed_at": "2026-07-04 04:58",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1034,
-      "median_views": 1227,
+      "avg_views": 1038,
+      "median_views": 1204,
       "uploads_30d": 20,
-      "views_30d": 20699,
+      "views_30d": 20763,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -145,18 +145,18 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
         },
         {
+          "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
+          "views": 1783,
+          "date": "2026-07-03",
+          "duration": 43,
+          "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
+        },
+        {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
           "views": 1761,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
-        },
-        {
-          "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
-          "views": 1675,
-          "date": "2026-07-03",
-          "duration": 43,
-          "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
         },
         {
           "title": "100만 원대 노트북이 AI를 자체적으로 돌린다고? 레노버 슬림5",
@@ -176,14 +176,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "먹다 남은 과자 집게로 막는 거 손해, 만원대 미니 실링기",
-          "views": 1160,
+          "views": 1115,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
         },
         {
           "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
-          "views": 1675,
+          "views": 1783,
           "date": "2026-07-03",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZL1usPoL7yc"
         }
       ],
-      "analyzed_at": "2026-07-04 03:56",
+      "analyzed_at": "2026-07-04 04:58",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Jntz1PGag9U"
         }
       ],
-      "analyzed_at": "2026-07-04 03:57",
+      "analyzed_at": "2026-07-04 04:59",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1983,
-      "median_views": 807,
+      "avg_views": 2013,
+      "median_views": 898,
       "uploads_30d": 20,
-      "views_30d": 39672,
+      "views_30d": 40273,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,24 +392,24 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8144,
+          "views": 8148,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
-          "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2410,
-          "date": "2026-06-29",
-          "duration": 21,
-          "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
-        },
-        {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 2073,
+          "views": 2477,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
+        },
+        {
+          "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
+          "views": 2416,
+          "date": "2026-06-29",
+          "duration": 21,
+          "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         },
         {
           "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
@@ -422,21 +422,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "엘란트라 핸들 꺾을 때만 딱딱딱, 대체 뭐가 문제일까",
-          "views": 2,
+          "views": 3,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
         },
         {
           "title": "차 바닥이 흥건한데 창문은 멀쩡? 진짜 범인은 여기였다",
-          "views": 745,
+          "views": 928,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=VtjFL6suLso"
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 2073,
+          "views": 2477,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -471,14 +471,14 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2410,
+          "views": 2416,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8144,
+          "views": 8148,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
         }
       ],
-      "analyzed_at": "2026-07-04 03:57",
+      "analyzed_at": "2026-07-04 05:00",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-04 03:55"
+  "generated_at": "2026-07-04 04:58"
 };
