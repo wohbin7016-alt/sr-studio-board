@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2252,
+      "avg_views": 2258,
       "median_views": 1926,
       "uploads_30d": 20,
-      "views_30d": 45044,
+      "views_30d": 45165,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 5993,
+          "views": 6086,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -60,14 +60,14 @@ window.DATA = {
         },
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 5993,
+          "views": 6086,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
         },
         {
           "title": "열쇠도 없이 자물쇠가 스르륵, 이 작은 공구의 정체 #생활꿀팁 #꿀팁",
-          "views": 956,
+          "views": 982,
           "date": "2026-07-02",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=9IAhdi_UIWM"
@@ -88,14 +88,14 @@ window.DATA = {
         },
         {
           "title": "밑창 떨어진 신발 버리지 마세요 5분이면 새것 됩니다",
-          "views": 2149,
+          "views": 2150,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
         },
         {
           "title": "찌그러진 탁구공, 뜨거운 물 한 컵으로 새것처럼 살리는 방법",
-          "views": 1690,
+          "views": 1691,
           "date": "2026-06-30",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zHrpxR15s2E"
         }
       ],
-      "analyzed_at": "2026-07-03 19:15",
+      "analyzed_at": "2026-07-03 20:38",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1037,
-      "median_views": 1127,
+      "avg_views": 1045,
+      "median_views": 1201,
       "uploads_30d": 20,
-      "views_30d": 20746,
+      "views_30d": 20904,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,14 +176,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
-          "views": 960,
+          "views": 1109,
           "date": "2026-07-03",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
         },
         {
           "title": "이 조그만 통이 얼음까지 갈아버린다고?",
-          "views": 646,
+          "views": 653,
           "date": "2026-07-02",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=iXUX5RkLHBY"
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "3만원짜리가 발뮤다를 이겼다고? 루메나 무선선풍기 1년 쓴 후기",
-          "views": 466,
+          "views": 468,
           "date": "2026-06-30",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=5Rbmx2pGI_4"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=P5K9KwQA6oQ"
         }
       ],
-      "analyzed_at": "2026-07-03 19:16",
+      "analyzed_at": "2026-07-03 20:39",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1293,
+      "avg_views": 1302,
       "median_views": 1313,
       "uploads_30d": 20,
-      "views_30d": 25872,
+      "views_30d": 26055,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "캥거루가 아무리 해도 뒤로는 못 걷는 진짜 이유",
-          "views": 912,
+          "views": 1094,
           "date": "2026-07-03",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=cF2thcdtYCw"
@@ -341,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "짝짓기 도중 수컷 머리가 사라졌어요... 사마귀가 수컷을 잡아먹는 진짜 이유",
-          "views": 1472,
+          "views": 1473,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=6ptILdKLgQ0"
         }
       ],
-      "analyzed_at": "2026-07-03 19:17",
+      "analyzed_at": "2026-07-03 20:40",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1970,
+      "avg_views": 1972,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 39407,
+      "views_30d": 39446,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 1518,
+          "views": 1556,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 1158,
+          "views": 1159,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
         }
       ],
-      "analyzed_at": "2026-07-03 19:17",
+      "analyzed_at": "2026-07-03 20:41",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-03 19:15"
+  "generated_at": "2026-07-03 20:38"
 };
