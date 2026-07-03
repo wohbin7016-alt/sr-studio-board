@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zHrpxR15s2E"
         }
       ],
-      "analyzed_at": "2026-07-03 15:05",
+      "analyzed_at": "2026-07-03 16:08",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1053,
-      "median_views": 1299,
+      "avg_views": 994,
+      "median_views": 980,
       "uploads_30d": 20,
-      "views_30d": 21070,
+      "views_30d": 19893,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -175,8 +175,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
+          "views": 116,
+          "date": "2026-07-03",
+          "duration": 43,
+          "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
+        },
+        {
           "title": "이 조그만 통이 얼음까지 갈아버린다고?",
-          "views": 633,
+          "views": 643,
           "date": "2026-07-02",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=iXUX5RkLHBY"
@@ -211,7 +218,7 @@ window.DATA = {
         },
         {
           "title": "이 작은 게 머리카락을 그냥 삼켜버린다고? / 홈플래닛 무선 핸디 청소기 (46,800원)",
-          "views": 303,
+          "views": 304,
           "date": "2026-06-29",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-06-25",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=P5K9KwQA6oQ"
-        },
-        {
-          "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1759,
-          "date": "2026-06-25",
-          "duration": 36,
-          "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
         }
       ],
-      "analyzed_at": "2026-07-03 15:06",
+      "analyzed_at": "2026-07-03 16:08",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1328,
-      "median_views": 1336,
+      "avg_views": 1255,
+      "median_views": 1313,
       "uploads_30d": 20,
-      "views_30d": 26576,
+      "views_30d": 25102,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -282,21 +282,28 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
         },
         {
-          "title": "에이수스_게이밍_V16",
-          "views": 1626,
-          "date": "2026-06-20",
-          "duration": 31,
-          "url": "https://www.youtube.com/watch?v=-3kFbhNvbHw"
-        },
-        {
           "title": "이 쥐는 암에 거의 안 걸린다고? 30년을 살고 늙어도 안 죽는 벌거숭이두더지쥐의 비밀",
           "views": 1589,
           "date": "2026-06-30",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
+        },
+        {
+          "title": "미어캣은 왜 혼자 꼿꼿이 서 있을까",
+          "views": 1588,
+          "date": "2026-06-27",
+          "duration": 27,
+          "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
         }
       ],
       "recent_videos": [
+        {
+          "title": "캥거루가 아무리 해도 뒤로는 못 걷는 진짜 이유",
+          "views": 152,
+          "date": "2026-07-03",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=cF2thcdtYCw"
+        },
         {
           "title": "얼룩말 줄무늬는 위장이 아니었다, 진짜 이유가 소름",
           "views": 1272,
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-25",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=6ptILdKLgQ0"
-        },
-        {
-          "title": "우파루파는 왜 평생 아기 얼굴일까",
-          "views": 1340,
-          "date": "2026-06-25",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=DrS3zu25BP8"
         }
       ],
-      "analyzed_at": "2026-07-03 15:06",
+      "analyzed_at": "2026-07-03 16:09",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1931,
+      "avg_views": 1937,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 38629,
+      "views_30d": 38759,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17604,
+          "views": 17613,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -421,8 +421,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "차 바닥이 흥건한데 창문은 멀쩡? 진짜 범인은 여기였다",
+          "views": 83,
+          "date": "2026-07-03",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=VtjFL6suLso"
+        },
+        {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 1126,
+          "views": 1142,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -436,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 1106,
+          "views": 1134,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -482,18 +489,11 @@ window.DATA = {
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
-        },
-        {
-          "title": "BMW X5 에어컨 미지근, 진짜 원인은 컴프레서",
-          "views": 20,
-          "date": "2026-06-25",
-          "duration": 28,
-          "url": "https://www.youtube.com/watch?v=En5NKsnk1Kg"
         }
       ],
-      "analyzed_at": "2026-07-03 15:07",
+      "analyzed_at": "2026-07-03 16:09",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-03 15:05"
+  "generated_at": "2026-07-03 16:08"
 };
