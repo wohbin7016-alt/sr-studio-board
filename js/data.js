@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2210,
+      "avg_views": 2226,
       "median_views": 1926,
       "uploads_30d": 20,
-      "views_30d": 44215,
+      "views_30d": 44522,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 5375,
+          "views": 5681,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3748,
+          "views": 3749,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -60,7 +60,7 @@ window.DATA = {
         },
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 5375,
+          "views": 5681,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3748,
+          "views": 3749,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zHrpxR15s2E"
         }
       ],
-      "analyzed_at": "2026-07-03 16:08",
+      "analyzed_at": "2026-07-03 17:10",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 994,
+      "avg_views": 1021,
       "median_views": 980,
       "uploads_30d": 20,
-      "views_30d": 19893,
+      "views_30d": 20427,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,14 +176,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
-          "views": 116,
+          "views": 646,
           "date": "2026-07-03",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
         },
         {
           "title": "이 조그만 통이 얼음까지 갈아버린다고?",
-          "views": 643,
+          "views": 646,
           "date": "2026-07-02",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=iXUX5RkLHBY"
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "3만원짜리가 발뮤다를 이겼다고? 루메나 무선선풍기 1년 쓴 후기",
-          "views": 465,
+          "views": 466,
           "date": "2026-06-30",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=5Rbmx2pGI_4"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=P5K9KwQA6oQ"
         }
       ],
-      "analyzed_at": "2026-07-03 16:08",
+      "analyzed_at": "2026-07-03 17:11",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1255,
+      "avg_views": 1286,
       "median_views": 1313,
       "uploads_30d": 20,
-      "views_30d": 25102,
+      "views_30d": 25728,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,14 +299,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "캥거루가 아무리 해도 뒤로는 못 걷는 진짜 이유",
-          "views": 152,
+          "views": 775,
           "date": "2026-07-03",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=cF2thcdtYCw"
         },
         {
           "title": "얼룩말 줄무늬는 위장이 아니었다, 진짜 이유가 소름",
-          "views": 1272,
+          "views": 1274,
           "date": "2026-07-02",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=8W9PvbPbRN0"
@@ -355,7 +355,7 @@ window.DATA = {
         },
         {
           "title": "죽은 척하는 이 동물, 사실 척이 아니었습니다",
-          "views": 1173,
+          "views": 1174,
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=Jntz1PGag9U"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=6ptILdKLgQ0"
         }
       ],
-      "analyzed_at": "2026-07-03 16:09",
+      "analyzed_at": "2026-07-03 17:11",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1937,
+      "avg_views": 1941,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 38759,
+      "views_30d": 38831,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -399,7 +399,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2321,
+          "views": 2308,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "차 바닥이 흥건한데 창문은 멀쩡? 진짜 범인은 여기였다",
-          "views": 83,
+          "views": 168,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=VtjFL6suLso"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2321,
+          "views": 2308,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
         }
       ],
-      "analyzed_at": "2026-07-03 16:09",
+      "analyzed_at": "2026-07-03 17:12",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-03 16:08"
+  "generated_at": "2026-07-03 17:10"
 };
