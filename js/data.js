@@ -8,22 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2561,
-      "median_views": 2078,
+      "avg_views": 2200,
+      "median_views": 1924,
       "uploads_30d": 20,
-      "views_30d": 51232,
+      "views_30d": 44005,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
-          "title": "100년 묵은 고철 자물쇠가 황금빛으로 되살아납니다",
-          "views": 7876,
-          "date": "2026-06-20",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
-        },
-        {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 5115,
+          "views": 5211,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -48,12 +41,26 @@ window.DATA = {
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
+        },
+        {
+          "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
+          "views": 2539,
+          "date": "2026-06-22",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
         }
       ],
       "recent_videos": [
         {
+          "title": "화장실 실리콘 지저분한 이유, 프로는 짜기 전에 '이것'부터 합니다",
+          "views": 552,
+          "date": "2026-07-03",
+          "duration": 21,
+          "url": "https://www.youtube.com/watch?v=JKsEy1BWpSg"
+        },
+        {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 5115,
+          "views": 5211,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -81,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "밑창 떨어진 신발 버리지 마세요 5분이면 새것 됩니다",
-          "views": 2135,
+          "views": 2136,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-26",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=zHrpxR15s2E"
-        },
-        {
-          "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 2063,
-          "date": "2026-06-25",
-          "duration": 16,
-          "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
         }
       ],
-      "analyzed_at": "2026-07-03 11:59",
+      "analyzed_at": "2026-07-03 13:01",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1053,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 21061,
+      "views_30d": 21068,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,14 +176,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이 조그만 통이 얼음까지 갈아버린다고?",
-          "views": 628,
+          "views": 633,
           "date": "2026-07-02",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=iXUX5RkLHBY"
         },
         {
           "title": "물 잠긴 두부를 넣고 돌렸더니 마른 두부가 됐다고? 3만원대 짤순이 1년 쓴 후기",
-          "views": 63,
+          "views": 65,
           "date": "2026-07-01",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=RmYNrGYJahM"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
         }
       ],
-      "analyzed_at": "2026-07-03 12:00",
+      "analyzed_at": "2026-07-03 13:02",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1328,
       "median_views": 1336,
       "uploads_30d": 20,
-      "views_30d": 26574,
+      "views_30d": 26578,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -320,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "물에 빠진 개미 수천 마리, 왜 한 마리도 안 죽을까",
-          "views": 1290,
+          "views": 1294,
           "date": "2026-06-30",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=obBtMfQolps"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DrS3zu25BP8"
         }
       ],
-      "analyzed_at": "2026-07-03 12:00",
+      "analyzed_at": "2026-07-03 13:02",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1920,
+      "avg_views": 1923,
       "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 38413,
+      "views_30d": 38461,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17597,
+          "views": 17604,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 996,
+          "views": 1037,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=En5NKsnk1Kg"
         }
       ],
-      "analyzed_at": "2026-07-03 12:01",
+      "analyzed_at": "2026-07-03 13:02",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-03 11:59"
+  "generated_at": "2026-07-03 13:01"
 };
