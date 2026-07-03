@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2069,
+      "avg_views": 2078,
       "median_views": 1741,
       "uploads_30d": 20,
-      "views_30d": 41381,
+      "views_30d": 41574,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "카펫에 남은 가구 눌린 자국, 얼음 하나로 복원",
-          "views": 932,
+          "views": 1125,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=FvOtN1HJc6E"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
         }
       ],
-      "analyzed_at": "2026-07-04 01:51",
+      "analyzed_at": "2026-07-04 02:53",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1018,
-      "median_views": 1144,
+      "avg_views": 1031,
+      "median_views": 1227,
       "uploads_30d": 20,
-      "views_30d": 20377,
+      "views_30d": 20633,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -159,31 +159,31 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
         },
         {
+          "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
+          "views": 1619,
+          "date": "2026-07-03",
+          "duration": 43,
+          "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
+        },
+        {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
           "views": 1566,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
-        },
-        {
-          "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
-          "views": 1529,
-          "date": "2026-07-03",
-          "duration": 43,
-          "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
         }
       ],
       "recent_videos": [
         {
           "title": "먹다 남은 과자 집게로 막는 거 손해, 만원대 미니 실링기",
-          "views": 995,
+          "views": 1160,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
         },
         {
           "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
-          "views": 1529,
+          "views": 1619,
           "date": "2026-07-03",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "선 없는데 미용실 매직처럼 펴진다고? 4만원대 무선고데기",
-          "views": 667,
+          "views": 668,
           "date": "2026-07-01",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=wIioMVoVnco"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZL1usPoL7yc"
         }
       ],
-      "analyzed_at": "2026-07-04 01:52",
+      "analyzed_at": "2026-07-04 02:54",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1315,
+      "avg_views": 1325,
       "median_views": 1326,
       "uploads_30d": 20,
-      "views_30d": 26314,
+      "views_30d": 26514,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "얼어 죽은 개구리가 봄에 다시 살아나는 이유",
-          "views": 1376,
+          "views": 1572,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=52XtgfX8fns"
@@ -313,7 +313,7 @@ window.DATA = {
         },
         {
           "title": "얼룩말 줄무늬는 위장이 아니었다, 진짜 이유가 소름",
-          "views": 1270,
+          "views": 1274,
           "date": "2026-07-02",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=8W9PvbPbRN0"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Jntz1PGag9U"
         }
       ],
-      "analyzed_at": "2026-07-04 01:52",
+      "analyzed_at": "2026-07-04 02:54",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1982,
+      "avg_views": 1983,
       "median_views": 807,
       "uploads_30d": 20,
-      "views_30d": 39656,
+      "views_30d": 39666,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17628,
+          "views": 17643,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 1166,
+          "views": 1161,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
         }
       ],
-      "analyzed_at": "2026-07-04 01:53",
+      "analyzed_at": "2026-07-04 02:55",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-04 01:51"
+  "generated_at": "2026-07-04 02:53"
 };
