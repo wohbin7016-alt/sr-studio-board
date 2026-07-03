@@ -8,29 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2258,
-      "median_views": 1926,
+      "avg_views": 2041,
+      "median_views": 1740,
       "uploads_30d": 20,
-      "views_30d": 45165,
+      "views_30d": 40824,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 6086,
+          "views": 6094,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
         },
         {
-          "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
-          "views": 5012,
-          "date": "2026-06-21",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=s2zar88EozY"
-        },
-        {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3749,
+          "views": 3753,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -48,9 +41,23 @@ window.DATA = {
           "date": "2026-06-22",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
+        },
+        {
+          "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
+          "views": 2513,
+          "date": "2026-06-24",
+          "duration": 26,
+          "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
         }
       ],
       "recent_videos": [
+        {
+          "title": "카펫에 남은 가구 눌린 자국, 얼음 하나로 복원",
+          "views": 659,
+          "date": "2026-07-03",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=FvOtN1HJc6E"
+        },
         {
           "title": "화장실 실리콘 지저분한 이유, 프로는 짜기 전에 '이것'부터 합니다",
           "views": 765,
@@ -60,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 6086,
+          "views": 6094,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -109,20 +116,13 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3749,
+          "views": 3753,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
-        },
-        {
-          "title": "칼자국 도마 다시 하얘진 이유 — 표백제 아니었습니다",
-          "views": 1438,
-          "date": "2026-06-26",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=zHrpxR15s2E"
         }
       ],
-      "analyzed_at": "2026-07-03 20:38",
+      "analyzed_at": "2026-07-03 21:41",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1045,
-      "median_views": 1201,
+      "avg_views": 975,
+      "median_views": 950,
       "uploads_30d": 20,
-      "views_30d": 20904,
+      "views_30d": 19505,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -143,13 +143,6 @@ window.DATA = {
           "date": "2026-06-22",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
-        },
-        {
-          "title": "에이수스 게이밍 V16 — 200만 원 안 넘는 16인치 RTX 5050 게이밍",
-          "views": 1953,
-          "date": "2026-06-20",
-          "duration": 36,
-          "url": "https://www.youtube.com/watch?v=rFSrtJPSxRg"
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
@@ -171,12 +164,26 @@ window.DATA = {
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
+        },
+        {
+          "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
+          "views": 1518,
+          "date": "2026-06-24",
+          "duration": 31,
+          "url": "https://www.youtube.com/watch?v=qQ7A7Z72HCw"
         }
       ],
       "recent_videos": [
         {
+          "title": "먹다 남은 과자 집게로 막는 거 손해, 만원대 미니 실링기",
+          "views": 428,
+          "date": "2026-07-03",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
+        },
+        {
           "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
-          "views": 1109,
+          "views": 1235,
           "date": "2026-07-03",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-06-26",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=ZL1usPoL7yc"
-        },
-        {
-          "title": "레노버 리전 5 (라이젠7·RTX5070·16GB·512GB)",
-          "views": 1450,
-          "date": "2026-06-25",
-          "duration": 38,
-          "url": "https://www.youtube.com/watch?v=P5K9KwQA6oQ"
         }
       ],
-      "analyzed_at": "2026-07-03 20:39",
+      "analyzed_at": "2026-07-03 21:42",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1302,
-      "median_views": 1313,
+      "avg_views": 1259,
+      "median_views": 1284,
       "uploads_30d": 20,
-      "views_30d": 26055,
+      "views_30d": 25199,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -297,6 +297,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "얼어 죽은 개구리가 봄에 다시 살아나는 이유",
+          "views": 476,
+          "date": "2026-07-03",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=52XtgfX8fns"
+        },
         {
           "title": "캥거루가 아무리 해도 뒤로는 못 걷는 진짜 이유",
           "views": 1094,
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-26",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=Jntz1PGag9U"
-        },
-        {
-          "title": "거미는 왜 자기 거미줄엔 안 붙을까",
-          "views": 832,
-          "date": "2026-06-25",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=6ptILdKLgQ0"
         }
       ],
-      "analyzed_at": "2026-07-03 20:40",
+      "analyzed_at": "2026-07-03 21:43",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1972,
-      "median_views": 853,
+      "avg_views": 1944,
+      "median_views": 662,
       "uploads_30d": 20,
-      "views_30d": 39446,
+      "views_30d": 38886,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -399,7 +399,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2372,
+          "views": 2399,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -421,15 +421,22 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "엘란트라 핸들 꺾을 때만 딱딱딱, 대체 뭐가 문제일까",
+          "views": 2,
+          "date": "2026-07-03",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
+        },
+        {
           "title": "차 바닥이 흥건한데 창문은 멀쩡? 진짜 범인은 여기였다",
-          "views": 267,
+          "views": 455,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=VtjFL6suLso"
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 1556,
+          "views": 1616,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -464,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2372,
+          "views": 2399,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -482,18 +489,11 @@ window.DATA = {
           "date": "2026-06-27",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
-        },
-        {
-          "title": "과속방지턱 넘을 때 \"덜컹\", 진짜 원인은 따로 있습니다",
-          "views": 2055,
-          "date": "2026-06-26",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=W6VA2WhPzFE"
         }
       ],
-      "analyzed_at": "2026-07-03 20:41",
+      "analyzed_at": "2026-07-03 21:43",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-03 20:38"
+  "generated_at": "2026-07-03 21:41"
 };
