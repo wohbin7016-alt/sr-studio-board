@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2526,
+      "avg_views": 2535,
       "median_views": 2078,
       "uploads_30d": 20,
-      "views_30d": 50538,
+      "views_30d": 50712,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 4432,
+          "views": 4606,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 4432,
+          "views": 4606,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
         }
       ],
-      "analyzed_at": "2026-07-03 08:53",
+      "analyzed_at": "2026-07-03 09:55",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1052,
+      "avg_views": 1053,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 21050,
+      "views_30d": 21063,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이 조그만 통이 얼음까지 갈아버린다고?",
-          "views": 615,
+          "views": 628,
           "date": "2026-07-02",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=iXUX5RkLHBY"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
         }
       ],
-      "analyzed_at": "2026-07-03 08:53",
+      "analyzed_at": "2026-07-03 09:55",
       "subs_delta": 0
     },
     {
@@ -276,7 +276,7 @@ window.DATA = {
         },
         {
           "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 1755,
+          "views": 1757,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
@@ -290,7 +290,7 @@ window.DATA = {
         },
         {
           "title": "이 쥐는 암에 거의 안 걸린다고? 30년을 살고 늙어도 안 죽는 벌거숭이두더지쥐의 비밀",
-          "views": 1591,
+          "views": 1589,
           "date": "2026-06-30",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
@@ -306,7 +306,7 @@ window.DATA = {
         },
         {
           "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 1755,
+          "views": 1757,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
@@ -327,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "이 쥐는 암에 거의 안 걸린다고? 30년을 살고 늙어도 안 죽는 벌거숭이두더지쥐의 비밀",
-          "views": 1591,
+          "views": 1589,
           "date": "2026-06-30",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DrS3zu25BP8"
         }
       ],
-      "analyzed_at": "2026-07-03 08:54",
+      "analyzed_at": "2026-07-03 09:56",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1904,
+      "avg_views": 1905,
       "median_views": 814,
       "uploads_30d": 20,
-      "views_30d": 38095,
+      "views_30d": 38103,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17589,
+          "views": 17597,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=En5NKsnk1Kg"
         }
       ],
-      "analyzed_at": "2026-07-03 08:54",
+      "analyzed_at": "2026-07-03 09:56",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-03 08:53"
+  "generated_at": "2026-07-03 09:55"
 };
