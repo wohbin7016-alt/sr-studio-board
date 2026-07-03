@@ -8,22 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2078,
+      "avg_views": 2087,
       "median_views": 1741,
       "uploads_30d": 20,
-      "views_30d": 41574,
+      "views_30d": 41756,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 6262,
+          "views": 6421,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3758,
+          "views": 3780,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 6262,
+          "views": 6421,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3758,
+          "views": 3780,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
         }
       ],
-      "analyzed_at": "2026-07-04 02:53",
+      "analyzed_at": "2026-07-04 03:55",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1031,
+      "avg_views": 1034,
       "median_views": 1227,
       "uploads_30d": 20,
-      "views_30d": 20633,
+      "views_30d": 20699,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -146,10 +146,17 @@ window.DATA = {
         },
         {
           "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1759,
+          "views": 1761,
           "date": "2026-06-25",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
+        },
+        {
+          "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
+          "views": 1675,
+          "date": "2026-07-03",
+          "duration": 43,
+          "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
         },
         {
           "title": "100만 원대 노트북이 AI를 자체적으로 돌린다고? 레노버 슬림5",
@@ -157,13 +164,6 @@ window.DATA = {
           "date": "2026-06-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
-        },
-        {
-          "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
-          "views": 1619,
-          "date": "2026-07-03",
-          "duration": 43,
-          "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
@@ -183,21 +183,21 @@ window.DATA = {
         },
         {
           "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
-          "views": 1619,
+          "views": 1675,
           "date": "2026-07-03",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
         },
         {
           "title": "이 조그만 통이 얼음까지 갈아버린다고?",
-          "views": 657,
+          "views": 663,
           "date": "2026-07-02",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=iXUX5RkLHBY"
         },
         {
           "title": "물 잠긴 두부를 넣고 돌렸더니 마른 두부가 됐다고? 3만원대 짤순이 1년 쓴 후기",
-          "views": 69,
+          "views": 71,
           "date": "2026-07-01",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=RmYNrGYJahM"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZL1usPoL7yc"
         }
       ],
-      "analyzed_at": "2026-07-04 02:54",
+      "analyzed_at": "2026-07-04 03:56",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1325,
+      "avg_views": 1336,
       "median_views": 1326,
       "uploads_30d": 20,
-      "views_30d": 26514,
+      "views_30d": 26731,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -266,6 +266,13 @@ window.DATA = {
           "date": "2026-06-21",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
+        },
+        {
+          "title": "얼어 죽은 개구리가 봄에 다시 살아나는 이유",
+          "views": 1792,
+          "date": "2026-07-03",
+          "duration": 22,
+          "url": "https://www.youtube.com/watch?v=52XtgfX8fns"
         },
         {
           "title": "Apple 아이패드 미니 7세대 A17 Pro / 8.3\" 컴팩트 태블릿",
@@ -287,19 +294,12 @@ window.DATA = {
           "date": "2026-06-30",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
-        },
-        {
-          "title": "미어캣은 왜 혼자 꼿꼿이 서 있을까",
-          "views": 1588,
-          "date": "2026-06-27",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
         }
       ],
       "recent_videos": [
         {
           "title": "얼어 죽은 개구리가 봄에 다시 살아나는 이유",
-          "views": 1572,
+          "views": 1792,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=52XtgfX8fns"
@@ -313,7 +313,7 @@ window.DATA = {
         },
         {
           "title": "얼룩말 줄무늬는 위장이 아니었다, 진짜 이유가 소름",
-          "views": 1274,
+          "views": 1270,
           "date": "2026-07-02",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=8W9PvbPbRN0"
@@ -334,7 +334,7 @@ window.DATA = {
         },
         {
           "title": "물에 빠진 개미 수천 마리, 왜 한 마리도 안 죽을까",
-          "views": 1294,
+          "views": 1295,
           "date": "2026-06-30",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=obBtMfQolps"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Jntz1PGag9U"
         }
       ],
-      "analyzed_at": "2026-07-04 02:54",
+      "analyzed_at": "2026-07-04 03:57",
       "subs_delta": 0
     },
     {
@@ -380,7 +380,7 @@ window.DATA = {
       "avg_views": 1983,
       "median_views": 807,
       "uploads_30d": 20,
-      "views_30d": 39666,
+      "views_30d": 39672,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -443,14 +443,14 @@ window.DATA = {
         },
         {
           "title": "밟을 때마다 차가 울컥, 미션 고장인 줄 알았는데 진짜 범인은 점화코일",
-          "views": 7,
+          "views": 8,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=VnKxOtvnEE0"
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 1161,
+          "views": 1166,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
         }
       ],
-      "analyzed_at": "2026-07-04 02:55",
+      "analyzed_at": "2026-07-04 03:57",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-04 02:53"
+  "generated_at": "2026-07-04 03:55"
 };
