@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2549,
+      "avg_views": 2561,
       "median_views": 2078,
       "uploads_30d": 20,
-      "views_30d": 50997,
+      "views_30d": 51232,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -22,6 +22,13 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=EsUui3vVRJ4"
         },
         {
+          "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
+          "views": 5115,
+          "date": "2026-07-02",
+          "duration": 18,
+          "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
+        },
+        {
           "title": "도요타 창문 안 올라감, 모터부터 갈면 손해입니다 (진짜 원인은 레귤레이터 케이블)",
           "views": 5012,
           "date": "2026-06-21",
@@ -29,15 +36,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=s2zar88EozY"
         },
         {
-          "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 4887,
-          "date": "2026-07-02",
-          "duration": 18,
-          "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
-        },
-        {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3750,
+          "views": 3748,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 4887,
+          "views": 5115,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
         },
         {
           "title": "열쇠도 없이 자물쇠가 스르륵, 이 작은 공구의 정체 #생활꿀팁 #꿀팁",
-          "views": 920,
+          "views": 927,
           "date": "2026-07-02",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=9IAhdi_UIWM"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "밑창 떨어진 신발 버리지 마세요 5분이면 새것 됩니다",
-          "views": 2133,
+          "views": 2135,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3750,
+          "views": 3748,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
         }
       ],
-      "analyzed_at": "2026-07-03 10:57",
+      "analyzed_at": "2026-07-03 11:59",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1053,
       "median_views": 1299,
       "uploads_30d": 20,
-      "views_30d": 21062,
+      "views_30d": 21061,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "이 작은 게 머리카락을 그냥 삼켜버린다고? / 홈플래닛 무선 핸디 청소기 (46,800원)",
-          "views": 304,
+          "views": 303,
           "date": "2026-06-29",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
         }
       ],
-      "analyzed_at": "2026-07-03 10:57",
+      "analyzed_at": "2026-07-03 12:00",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1328,
       "median_views": 1336,
       "uploads_30d": 20,
-      "views_30d": 26568,
+      "views_30d": 26574,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "얼룩말 줄무늬는 위장이 아니었다, 진짜 이유가 소름",
-          "views": 1266,
+          "views": 1272,
           "date": "2026-07-02",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=8W9PvbPbRN0"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DrS3zu25BP8"
         }
       ],
-      "analyzed_at": "2026-07-03 10:58",
+      "analyzed_at": "2026-07-03 12:00",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 1908,
-      "median_views": 814,
+      "avg_views": 1920,
+      "median_views": 853,
       "uploads_30d": 20,
-      "views_30d": 38175,
+      "views_30d": 38413,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 792,
+          "views": 996,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 1072,
+          "views": 1106,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=En5NKsnk1Kg"
         }
       ],
-      "analyzed_at": "2026-07-03 10:58",
+      "analyzed_at": "2026-07-03 12:01",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-03 10:57"
+  "generated_at": "2026-07-03 11:59"
 };
