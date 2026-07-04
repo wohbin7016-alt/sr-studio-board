@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2091,
+      "avg_views": 2093,
       "median_views": 1745,
       "uploads_30d": 20,
-      "views_30d": 41834,
+      "views_30d": 41873,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,14 +23,14 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 4071,
+          "views": 4102,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2817,
+          "views": 2825,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=krtqZCFL-Ms"
         }
       ],
-      "analyzed_at": "2026-07-05 06:56",
+      "analyzed_at": "2026-07-05 07:58",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1068,
+      "avg_views": 1069,
       "median_views": 1365,
       "uploads_30d": 20,
-      "views_30d": 21379,
+      "views_30d": 21381,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -160,7 +160,7 @@ window.DATA = {
         },
         {
           "title": "안경 잠깐 담갔을 뿐인데, 물이 이렇게 되는 이유",
-          "views": 1659,
+          "views": 1661,
           "date": "2026-07-04",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=qUCPoh--hXs"
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "안경 잠깐 담갔을 뿐인데, 물이 이렇게 되는 이유",
-          "views": 1659,
+          "views": 1661,
           "date": "2026-07-04",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=qUCPoh--hXs"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=JcNefzghzzY"
         }
       ],
-      "analyzed_at": "2026-07-05 06:56",
+      "analyzed_at": "2026-07-05 07:58",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
         }
       ],
-      "analyzed_at": "2026-07-05 06:57",
+      "analyzed_at": "2026-07-05 07:59",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 2678,
+      "avg_views": 2769,
       "median_views": 1129,
       "uploads_30d": 20,
-      "views_30d": 53571,
+      "views_30d": 55386,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,14 +392,14 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 13606,
+          "views": 15356,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8164,
+          "views": 8170,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -422,28 +422,28 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 1386,
+          "views": 1405,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
         },
         {
           "title": "엘란트라 핸들 꺾을 때만 딱딱딱, 대체 뭐가 문제일까",
-          "views": 20,
+          "views": 16,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
         },
         {
           "title": "차 바닥이 흥건한데 창문은 멀쩡? 진짜 범인은 여기였다",
-          "views": 1343,
+          "views": 1386,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=VtjFL6suLso"
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 13606,
+          "views": 15356,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -485,15 +485,15 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8164,
+          "views": 8170,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         }
       ],
-      "analyzed_at": "2026-07-05 06:57",
+      "analyzed_at": "2026-07-05 07:59",
       "subs_delta": 10
     }
   ],
-  "generated_at": "2026-07-05 06:56"
+  "generated_at": "2026-07-05 07:58"
 };
