@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2065,
-      "median_views": 1742,
+      "avg_views": 2068,
+      "median_views": 1744,
       "uploads_30d": 20,
-      "views_30d": 41315,
+      "views_30d": 41371,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 6617,
+          "views": 6651,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2781,
+          "views": 2790,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -74,14 +74,14 @@ window.DATA = {
         },
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 6617,
+          "views": 6651,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
         },
         {
           "title": "열쇠도 없이 자물쇠가 스르륵, 이 작은 공구의 정체 #생활꿀팁 #꿀팁",
-          "views": 1106,
+          "views": 1112,
           "date": "2026-07-02",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=9IAhdi_UIWM"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "찌그러진 탁구공, 뜨거운 물 한 컵으로 새것처럼 살리는 방법",
-          "views": 1690,
+          "views": 1693,
           "date": "2026-06-30",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=krtqZCFL-Ms"
         }
       ],
-      "analyzed_at": "2026-07-04 19:30",
+      "analyzed_at": "2026-07-04 20:33",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1046,
-      "median_views": 1253,
+      "avg_views": 1057,
+      "median_views": 1365,
       "uploads_30d": 20,
-      "views_30d": 20924,
+      "views_30d": 21157,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "안경 잠깐 담갔을 뿐인데, 물이 이렇게 되는 이유",
-          "views": 1225,
+          "views": 1458,
           "date": "2026-07-04",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=qUCPoh--hXs"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=JcNefzghzzY"
         }
       ],
-      "analyzed_at": "2026-07-04 19:31",
+      "analyzed_at": "2026-07-04 20:33",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1335,
+      "avg_views": 1349,
       "median_views": 1329,
       "uploads_30d": 20,
-      "views_30d": 26719,
+      "views_30d": 26990,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "하이에나가 실실 웃는 진짜 이유, 즐거워서가 아니었다",
-          "views": 886,
+          "views": 1157,
           "date": "2026-07-04",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=DWm8vnbBDlw"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
         }
       ],
-      "analyzed_at": "2026-07-04 19:31",
+      "analyzed_at": "2026-07-04 20:33",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 2239,
+      "avg_views": 2256,
       "median_views": 937,
       "uploads_30d": 20,
-      "views_30d": 44782,
+      "views_30d": 45136,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -399,7 +399,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 6264,
+          "views": 6612,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 6264,
+          "views": 6612,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -457,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 1182,
+          "views": 1188,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         }
       ],
-      "analyzed_at": "2026-07-04 19:32",
+      "analyzed_at": "2026-07-04 20:34",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-04 19:30"
+  "generated_at": "2026-07-04 20:33"
 };
