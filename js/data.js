@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2100,
+      "avg_views": 2102,
       "median_views": 1742,
       "uploads_30d": 20,
-      "views_30d": 42011,
+      "views_30d": 42045,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,14 +23,14 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3801,
+          "views": 3827,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2749,
+          "views": 2757,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3801,
+          "views": 3827,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
         }
       ],
-      "analyzed_at": "2026-07-04 10:09",
+      "analyzed_at": "2026-07-04 11:11",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1047,
       "median_views": 1283,
       "uploads_30d": 20,
-      "views_30d": 20951,
+      "views_30d": 20953,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "3만원짜리가 발뮤다를 이겼다고? 루메나 무선선풍기 1년 쓴 후기",
-          "views": 469,
+          "views": 471,
           "date": "2026-06-30",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=5Rbmx2pGI_4"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZL1usPoL7yc"
         }
       ],
-      "analyzed_at": "2026-07-04 10:10",
+      "analyzed_at": "2026-07-04 11:12",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1337,
       "median_views": 1327,
       "uploads_30d": 20,
-      "views_30d": 26748,
+      "views_30d": 26749,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Jntz1PGag9U"
         }
       ],
-      "analyzed_at": "2026-07-04 10:10",
+      "analyzed_at": "2026-07-04 11:12",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 2048,
-      "median_views": 914,
+      "avg_views": 2064,
+      "median_views": 936,
       "uploads_30d": 20,
-      "views_30d": 40968,
+      "views_30d": 41294,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,14 +392,14 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8150,
+          "views": 8153,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 3115,
+          "views": 3385,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -429,14 +429,14 @@ window.DATA = {
         },
         {
           "title": "차 바닥이 흥건한데 창문은 멀쩡? 진짜 범인은 여기였다",
-          "views": 959,
+          "views": 1010,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=VtjFL6suLso"
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 3115,
+          "views": 3385,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -457,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "BMW E39 히터 바람이 한 단에서만 나올 때 진짜 원인 (송풍기 모터 아닙니다)",
-          "views": 3,
+          "views": 4,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=_cE-5Kqm7kQ"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8150,
+          "views": 8153,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
         }
       ],
-      "analyzed_at": "2026-07-04 10:11",
+      "analyzed_at": "2026-07-04 11:13",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-04 10:09"
+  "generated_at": "2026-07-04 11:11"
 };
