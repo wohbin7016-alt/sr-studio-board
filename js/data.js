@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2081,
-      "median_views": 1744,
+      "avg_views": 2082,
+      "median_views": 1745,
       "uploads_30d": 20,
-      "views_30d": 41629,
+      "views_30d": 41651,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,14 +23,14 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 4004,
+          "views": 4005,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2797,
+          "views": 2804,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "식탁에 하얗게 뜬 얼룩, 다리미를 댔더니 무슨 일이",
-          "views": 494,
+          "views": 504,
           "date": "2026-07-04",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=Tfv2OTlps3A"
@@ -102,14 +102,14 @@ window.DATA = {
         },
         {
           "title": "밑창 떨어진 신발 버리지 마세요 5분이면 새것 됩니다",
-          "views": 2153,
+          "views": 2155,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
         },
         {
           "title": "찌그러진 탁구공, 뜨거운 물 한 컵으로 새것처럼 살리는 방법",
-          "views": 1693,
+          "views": 1694,
           "date": "2026-06-30",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=krtqZCFL-Ms"
         }
       ],
-      "analyzed_at": "2026-07-05 00:42",
+      "analyzed_at": "2026-07-05 01:45",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1066,
-      "median_views": 1366,
+      "avg_views": 1067,
+      "median_views": 1367,
       "uploads_30d": 20,
-      "views_30d": 21329,
+      "views_30d": 21358,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -159,31 +159,31 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
         },
         {
+          "title": "안경 잠깐 담갔을 뿐인데, 물이 이렇게 되는 이유",
+          "views": 1649,
+          "date": "2026-07-04",
+          "duration": 34,
+          "url": "https://www.youtube.com/watch?v=qUCPoh--hXs"
+        },
+        {
           "title": "100만 원대 노트북이 AI를 자체적으로 돌린다고? 레노버 슬림5",
           "views": 1626,
           "date": "2026-06-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ESxZs0RVeeE"
-        },
-        {
-          "title": "안경 잠깐 담갔을 뿐인데, 물이 이렇게 되는 이유",
-          "views": 1622,
-          "date": "2026-07-04",
-          "duration": 34,
-          "url": "https://www.youtube.com/watch?v=qUCPoh--hXs"
         }
       ],
       "recent_videos": [
         {
           "title": "안경 잠깐 담갔을 뿐인데, 물이 이렇게 되는 이유",
-          "views": 1622,
+          "views": 1649,
           "date": "2026-07-04",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=qUCPoh--hXs"
         },
         {
           "title": "먹다 남은 과자 집게로 막는 거 손해, 만원대 미니 실링기",
-          "views": 1282,
+          "views": 1283,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=JcNefzghzzY"
         }
       ],
-      "analyzed_at": "2026-07-05 00:43",
+      "analyzed_at": "2026-07-05 01:45",
       "subs_delta": 0
     },
     {
@@ -368,19 +368,19 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
         }
       ],
-      "analyzed_at": "2026-07-05 00:44",
+      "analyzed_at": "2026-07-05 01:46",
       "subs_delta": 0
     },
     {
       "url": "https://youtube.com/channel/UC29M9AGVR19NtIrAHsjx-XA",
       "name": "카픽스",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
-      "subscribers": 1150,
+      "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 2422,
+      "avg_views": 2473,
       "median_views": 937,
       "uploads_30d": 20,
-      "views_30d": 48453,
+      "views_30d": 49470,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,14 +392,14 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 9306,
+          "views": 10307,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8148,
+          "views": 8159,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "엘란트라 핸들 꺾을 때만 딱딱딱, 대체 뭐가 문제일까",
-          "views": 11,
+          "views": 15,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 9306,
+          "views": 10307,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -471,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "아큐라 TL 주행 중 웅웅 소리, 진짜 원인은 휠베어링",
-          "views": 5,
+          "views": 6,
           "date": "2026-06-30",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=C6wMt6iijDA"
@@ -485,15 +485,15 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8148,
+          "views": 8159,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         }
       ],
-      "analyzed_at": "2026-07-05 00:44",
-      "subs_delta": 0
+      "analyzed_at": "2026-07-05 01:46",
+      "subs_delta": 10
     }
   ],
-  "generated_at": "2026-07-05 00:42"
+  "generated_at": "2026-07-05 01:45"
 };
