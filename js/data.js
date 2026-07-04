@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2090,
+      "avg_views": 2091,
       "median_views": 1745,
       "uploads_30d": 20,
-      "views_30d": 41814,
+      "views_30d": 41827,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2812,
+          "views": 2825,
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "식탁에 하얗게 뜬 얼룩, 다리미를 댔더니 무슨 일이",
-          "views": 504,
+          "views": 497,
           "date": "2026-07-04",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=Tfv2OTlps3A"
         },
         {
           "title": "카펫에 남은 가구 눌린 자국, 얼음 하나로 복원",
-          "views": 1152,
+          "views": 1153,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=FvOtN1HJc6E"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=krtqZCFL-Ms"
         }
       ],
-      "analyzed_at": "2026-07-05 04:51",
+      "analyzed_at": "2026-07-05 05:53",
       "subs_delta": 0
     },
     {
@@ -132,9 +132,9 @@ window.DATA = {
       "subscribers": 72900,
       "sampled": 20,
       "avg_views": 1068,
-      "median_views": 1367,
+      "median_views": 1365,
       "uploads_30d": 20,
-      "views_30d": 21377,
+      "views_30d": 21371,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -146,7 +146,7 @@ window.DATA = {
         },
         {
           "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
-          "views": 1836,
+          "views": 1832,
           "date": "2026-07-03",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
@@ -183,14 +183,14 @@ window.DATA = {
         },
         {
           "title": "먹다 남은 과자 집게로 막는 거 손해, 만원대 미니 실링기",
-          "views": 1283,
+          "views": 1280,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
         },
         {
           "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
-          "views": 1836,
+          "views": 1832,
           "date": "2026-07-03",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
@@ -225,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "전동칫솔 비싸야 좋다고 누가 그래? / 오랄비 바이탈리티 초미세모 전동칫솔 (28,070원)",
-          "views": 382,
+          "views": 383,
           "date": "2026-06-30",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=sBO4Mqnb-Qw"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=JcNefzghzzY"
         }
       ],
-      "analyzed_at": "2026-07-05 04:52",
+      "analyzed_at": "2026-07-05 05:54",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1353,
       "median_views": 1329,
       "uploads_30d": 20,
-      "views_30d": 27076,
+      "views_30d": 27070,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "하이에나가 실실 웃는 진짜 이유, 즐거워서가 아니었다",
-          "views": 1225,
+          "views": 1219,
           "date": "2026-07-04",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=DWm8vnbBDlw"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
         }
       ],
-      "analyzed_at": "2026-07-05 04:52",
+      "analyzed_at": "2026-07-05 05:54",
       "subs_delta": 0
     },
     {
@@ -377,29 +377,29 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 2591,
+      "avg_views": 2621,
       "median_views": 1119,
       "uploads_30d": 20,
-      "views_30d": 51823,
+      "views_30d": 52421,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17752,
+          "views": 17743,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 12053,
+          "views": 12571,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8159,
+          "views": 8164,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -422,14 +422,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 1266,
+          "views": 1351,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
         },
         {
           "title": "엘란트라 핸들 꺾을 때만 딱딱딱, 대체 뭐가 문제일까",
-          "views": 16,
+          "views": 15,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 12053,
+          "views": 12571,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -485,15 +485,15 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8159,
+          "views": 8164,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         }
       ],
-      "analyzed_at": "2026-07-05 04:53",
+      "analyzed_at": "2026-07-05 05:55",
       "subs_delta": 10
     }
   ],
-  "generated_at": "2026-07-05 04:51"
+  "generated_at": "2026-07-05 05:53"
 };
