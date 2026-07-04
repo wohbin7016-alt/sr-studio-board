@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2109,
+      "avg_views": 2058,
       "median_views": 1742,
       "uploads_30d": 20,
-      "views_30d": 42185,
+      "views_30d": 41178,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -52,8 +52,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "식탁에 하얗게 뜬 얼룩, 다리미를 댔더니 무슨 일이",
+          "views": 399,
+          "date": "2026-07-04",
+          "duration": 32,
+          "url": "https://www.youtube.com/watch?v=Tfv2OTlps3A"
+        },
+        {
           "title": "카펫에 남은 가구 눌린 자국, 얼음 하나로 복원",
-          "views": 1144,
+          "views": 1147,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=FvOtN1HJc6E"
@@ -88,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "서랍이 안 빠질 때 비누칠하면 큰일 나요",
-          "views": 1355,
+          "views": 1358,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=YWP5McH4IcI"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=krtqZCFL-Ms"
-        },
-        {
-          "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 3860,
-          "date": "2026-06-27",
-          "duration": 25,
-          "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
         }
       ],
-      "analyzed_at": "2026-07-04 15:21",
+      "analyzed_at": "2026-07-04 16:23",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1048,
-      "median_views": 1284,
+      "avg_views": 1007,
+      "median_views": 972,
       "uploads_30d": 20,
-      "views_30d": 20979,
+      "views_30d": 20141,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -146,7 +146,7 @@ window.DATA = {
         },
         {
           "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
-          "views": 1831,
+          "views": 1834,
           "date": "2026-07-03",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
@@ -175,15 +175,22 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "안경 잠깐 담갔을 뿐인데, 물이 이렇게 되는 이유",
+          "views": 449,
+          "date": "2026-07-04",
+          "duration": 34,
+          "url": "https://www.youtube.com/watch?v=qUCPoh--hXs"
+        },
+        {
           "title": "먹다 남은 과자 집게로 막는 거 손해, 만원대 미니 실링기",
-          "views": 1274,
+          "views": 1278,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
         },
         {
           "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
-          "views": 1831,
+          "views": 1834,
           "date": "2026-07-03",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-06-27",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=JcNefzghzzY"
-        },
-        {
-          "title": "QHD 165Hz 게이밍을 이 가격에? 이거 빠지면 무조건 손해입니다",
-          "views": 404,
-          "date": "2026-06-26",
-          "duration": 38,
-          "url": "https://www.youtube.com/watch?v=ZL1usPoL7yc"
         }
       ],
-      "analyzed_at": "2026-07-04 15:21",
+      "analyzed_at": "2026-07-04 16:23",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1338,
+      "avg_views": 1319,
       "median_views": 1328,
       "uploads_30d": 20,
-      "views_30d": 26760,
+      "views_30d": 26394,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -269,7 +269,7 @@ window.DATA = {
         },
         {
           "title": "얼어 죽은 개구리가 봄에 다시 살아나는 이유",
-          "views": 1815,
+          "views": 1819,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=52XtgfX8fns"
@@ -298,8 +298,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "하이에나가 실실 웃는 진짜 이유, 즐거워서가 아니었다",
+          "views": 572,
+          "date": "2026-07-04",
+          "duration": 28,
+          "url": "https://www.youtube.com/watch?v=DWm8vnbBDlw"
+        },
+        {
           "title": "얼어 죽은 개구리가 봄에 다시 살아나는 이유",
-          "views": 1815,
+          "views": 1819,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=52XtgfX8fns"
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-27",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
-        },
-        {
-          "title": "죽은 척하는 이 동물, 사실 척이 아니었습니다",
-          "views": 1174,
-          "date": "2026-06-26",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=Jntz1PGag9U"
         }
       ],
-      "analyzed_at": "2026-07-04 15:22",
+      "analyzed_at": "2026-07-04 16:24",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1150,
       "sampled": 20,
-      "avg_views": 2146,
+      "avg_views": 2164,
       "median_views": 937,
       "uploads_30d": 20,
-      "views_30d": 42927,
+      "views_30d": 43284,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17672,
+          "views": 17691,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -399,14 +399,14 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 4925,
+          "views": 5106,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2446,
+          "views": 2459,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -420,6 +420,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
+          "views": 139,
+          "date": "2026-07-04",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
+        },
         {
           "title": "엘란트라 핸들 꺾을 때만 딱딱딱, 대체 뭐가 문제일까",
           "views": 6,
@@ -436,21 +443,21 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 4925,
+          "views": 5106,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "밟을 때마다 차가 울컥, 미션 고장인 줄 알았는데 진짜 범인은 점화코일",
-          "views": 10,
+          "views": 11,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=VnKxOtvnEE0"
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 1170,
+          "views": 1182,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -471,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2446,
+          "views": 2459,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -482,18 +489,11 @@ window.DATA = {
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
-        },
-        {
-          "title": "닷지 저니 끽끽거리는 소음, 진짜 원인은 세르펜타인 벨트",
-          "views": 1535,
-          "date": "2026-06-27",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=1cmGk_G1Pu0"
         }
       ],
-      "analyzed_at": "2026-07-04 15:22",
+      "analyzed_at": "2026-07-04 16:25",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-04 15:21"
+  "generated_at": "2026-07-04 16:23"
 };
