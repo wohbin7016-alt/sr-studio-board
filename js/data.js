@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2038,
+      "avg_views": 2053,
       "median_views": 1686,
       "uploads_30d": 20,
-      "views_30d": 40762,
+      "views_30d": 41061,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,7 +23,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 4297,
+          "views": 4322,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "가구에 파인 깊은 긁힘, 호두 하나 문질렀더니",
-          "views": 981,
+          "views": 1246,
           "date": "2026-07-05",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=pNbxtVfYYXM"
@@ -67,14 +67,14 @@ window.DATA = {
         },
         {
           "title": "카펫에 남은 가구 눌린 자국, 얼음 하나로 복원",
-          "views": 1155,
+          "views": 1156,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=FvOtN1HJc6E"
         },
         {
           "title": "화장실 실리콘 지저분한 이유, 프로는 짜기 전에 '이것'부터 합니다",
-          "views": 993,
+          "views": 996,
           "date": "2026-07-03",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=JKsEy1BWpSg"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "열쇠도 없이 자물쇠가 스르륵, 이 작은 공구의 정체 #생활꿀팁 #꿀팁",
-          "views": 1148,
+          "views": 1152,
           "date": "2026-07-02",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=9IAhdi_UIWM"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
         }
       ],
-      "analyzed_at": "2026-07-05 21:30",
+      "analyzed_at": "2026-07-05 22:33",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1100,
       "median_views": 1368,
       "uploads_30d": 20,
-      "views_30d": 22004,
+      "views_30d": 22008,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "마늘 한 줌 넣고 버튼만 눌렀을 뿐인데, 3초 만에 벌어진 일",
-          "views": 950,
+          "views": 954,
           "date": "2026-07-05",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=hA5YuQU_kW4"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
         }
       ],
-      "analyzed_at": "2026-07-05 21:30",
+      "analyzed_at": "2026-07-05 22:33",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
         }
       ],
-      "analyzed_at": "2026-07-05 21:31",
+      "analyzed_at": "2026-07-05 22:34",
       "subs_delta": 0
     },
     {
@@ -377,43 +377,43 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 3616,
+      "avg_views": 3697,
       "median_views": 1171,
       "uploads_30d": 20,
-      "views_30d": 72323,
+      "views_30d": 73959,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 30807,
+          "views": 32176,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17935,
+          "views": 17974,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8203,
+          "views": 8208,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 2911,
+          "views": 2986,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2613,
+          "views": 2625,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -422,42 +422,42 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
-          "views": 243,
+          "views": 348,
           "date": "2026-07-05",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 2911,
+          "views": 2986,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
         },
         {
           "title": "엘란트라 핸들 꺾을 때만 딱딱딱, 대체 뭐가 문제일까",
-          "views": 34,
+          "views": 30,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
         },
         {
           "title": "차 바닥이 흥건한데 창문은 멀쩡? 진짜 범인은 여기였다",
-          "views": 1526,
+          "views": 1552,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=VtjFL6suLso"
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 30807,
+          "views": 32176,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "밟을 때마다 차가 울컥, 미션 고장인 줄 알았는데 진짜 범인은 점화코일",
-          "views": 40,
+          "views": 47,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=VnKxOtvnEE0"
@@ -478,22 +478,22 @@ window.DATA = {
         },
         {
           "title": "아큐라 TL 주행 중 웅웅 소리, 진짜 원인은 휠베어링",
-          "views": 12,
+          "views": 13,
           "date": "2026-06-30",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=C6wMt6iijDA"
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2613,
+          "views": 2625,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         }
       ],
-      "analyzed_at": "2026-07-05 21:32",
+      "analyzed_at": "2026-07-05 22:35",
       "subs_delta": 10
     }
   ],
-  "generated_at": "2026-07-05 21:30"
+  "generated_at": "2026-07-05 22:33"
 };
