@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2067,
-      "median_views": 1686,
+      "avg_views": 2084,
+      "median_views": 1750,
       "uploads_30d": 20,
-      "views_30d": 41349,
+      "views_30d": 41688,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "가구에 파인 깊은 긁힘, 호두 하나 문질렀더니",
-          "views": 1474,
+          "views": 1805,
           "date": "2026-07-05",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=pNbxtVfYYXM"
         },
         {
           "title": "식탁에 하얗게 뜬 얼룩, 다리미를 댔더니 무슨 일이",
-          "views": 506,
+          "views": 507,
           "date": "2026-07-04",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=Tfv2OTlps3A"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 1833,
+          "views": 1834,
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
         }
       ],
-      "analyzed_at": "2026-07-05 23:36",
+      "analyzed_at": "2026-07-06 00:39",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1117,
-      "median_views": 1377,
+      "avg_views": 1120,
+      "median_views": 1403,
       "uploads_30d": 20,
-      "views_30d": 22355,
+      "views_30d": 22407,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "마늘 한 줌 넣고 버튼만 눌렀을 뿐인데, 3초 만에 벌어진 일",
-          "views": 1301,
+          "views": 1353,
           "date": "2026-07-05",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=hA5YuQU_kW4"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
         }
       ],
-      "analyzed_at": "2026-07-05 23:37",
+      "analyzed_at": "2026-07-06 00:40",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1262,
       "median_views": 1309,
       "uploads_30d": 20,
-      "views_30d": 25245,
+      "views_30d": 25244,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -306,7 +306,7 @@ window.DATA = {
         },
         {
           "title": "하이에나가 실실 웃는 진짜 이유, 즐거워서가 아니었다",
-          "views": 1221,
+          "views": 1219,
           "date": "2026-07-04",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=DWm8vnbBDlw"
@@ -362,13 +362,13 @@ window.DATA = {
         },
         {
           "title": "짝짓기 도중 수컷 머리가 사라졌어요... 사마귀가 수컷을 잡아먹는 진짜 이유",
-          "views": 1478,
+          "views": 1479,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
         }
       ],
-      "analyzed_at": "2026-07-05 23:37",
+      "analyzed_at": "2026-07-06 00:40",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 3788,
+      "avg_views": 3861,
       "median_views": 1171,
       "uploads_30d": 20,
-      "views_30d": 75765,
+      "views_30d": 77231,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 33754,
+          "views": 34816,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -406,7 +406,7 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 3100,
+          "views": 3401,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -422,21 +422,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
-          "views": 446,
+          "views": 541,
           "date": "2026-07-05",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 3100,
+          "views": 3401,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
         },
         {
           "title": "엘란트라 핸들 꺾을 때만 딱딱딱, 대체 뭐가 문제일까",
-          "views": 38,
+          "views": 41,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 33754,
+          "views": 34816,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "아큐라 TL 주행 중 웅웅 소리, 진짜 원인은 휠베어링",
-          "views": 13,
+          "views": 16,
           "date": "2026-06-30",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=C6wMt6iijDA"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         }
       ],
-      "analyzed_at": "2026-07-05 23:38",
+      "analyzed_at": "2026-07-06 00:41",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-05 23:36"
+  "generated_at": "2026-07-06 00:39"
 };
