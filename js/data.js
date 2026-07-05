@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2109,
-      "median_views": 1757,
+      "avg_views": 2000,
+      "median_views": 1686,
       "uploads_30d": 20,
-      "views_30d": 42183,
+      "views_30d": 40017,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 6835,
+          "views": 6870,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -36,21 +36,28 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
         },
         {
-          "title": "버리지 마세요 — 녹덩어리 오토바이 완전 복원",
-          "views": 2539,
-          "date": "2026-06-22",
-          "duration": 26,
-          "url": "https://www.youtube.com/watch?v=FG7FDL15P8o"
-        },
-        {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
           "views": 2513,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
+        },
+        {
+          "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
+          "views": 2209,
+          "date": "2026-06-23",
+          "duration": 20,
+          "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
         }
       ],
       "recent_videos": [
+        {
+          "title": "가구에 파인 깊은 긁힘, 호두 하나 문질렀더니",
+          "views": 330,
+          "date": "2026-07-05",
+          "duration": 27,
+          "url": "https://www.youtube.com/watch?v=pNbxtVfYYXM"
+        },
         {
           "title": "식탁에 하얗게 뜬 얼룩, 다리미를 댔더니 무슨 일이",
           "views": 504,
@@ -60,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "카펫에 남은 가구 눌린 자국, 얼음 하나로 복원",
-          "views": 1154,
+          "views": 1155,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=FvOtN1HJc6E"
@@ -74,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 6835,
+          "views": 6870,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -88,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 1819,
+          "views": 1825,
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-06-30",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
-        },
-        {
-          "title": "뻑뻑한 지퍼, 연필 하나로 부드럽게 고치는 이유",
-          "views": 1507,
-          "date": "2026-06-29",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=krtqZCFL-Ms"
         }
       ],
-      "analyzed_at": "2026-07-05 19:24",
+      "analyzed_at": "2026-07-05 20:26",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1070,
+      "avg_views": 1066,
       "median_views": 1368,
       "uploads_30d": 20,
-      "views_30d": 21408,
+      "views_30d": 21335,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -174,6 +174,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "마늘 한 줌 넣고 버튼만 눌렀을 뿐인데, 3초 만에 벌어진 일",
+          "views": 283,
+          "date": "2026-07-05",
+          "duration": 32,
+          "url": "https://www.youtube.com/watch?v=hA5YuQU_kW4"
+        },
         {
           "title": "안경 잠깐 담갔을 뿐인데, 물이 이렇게 되는 이유",
           "views": 1677,
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-06-29",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
-        },
-        {
-          "title": "HP 오멘 MAX 16 / 액체금속 쿨링·2.5K OLED 240Hz 게이밍 (299만 원대)",
-          "views": 1511,
-          "date": "2026-06-27",
-          "duration": 44,
-          "url": "https://www.youtube.com/watch?v=JcNefzghzzY"
         }
       ],
-      "analyzed_at": "2026-07-05 19:24",
+      "analyzed_at": "2026-07-05 20:27",
       "subs_delta": 0
     },
     {
@@ -254,22 +254,15 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1354,
-      "median_views": 1330,
+      "avg_views": 1328,
+      "median_views": 1319,
       "uploads_30d": 20,
-      "views_30d": 27084,
+      "views_30d": 25240,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
-          "title": "LG 그램 프로 16 / 1.3kg 16인치 초경량 프리미엄 노트북",
-          "views": 1846,
-          "date": "2026-06-21",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=84mUcPAahMc"
-        },
-        {
           "title": "얼어 죽은 개구리가 봄에 다시 살아나는 이유",
-          "views": 1834,
+          "views": 1835,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=52XtgfX8fns"
@@ -294,9 +287,23 @@ window.DATA = {
           "date": "2026-06-30",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
+        },
+        {
+          "title": "미어캣은 왜 혼자 꼿꼿이 서 있을까",
+          "views": 1588,
+          "date": "2026-06-27",
+          "duration": 27,
+          "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
         }
       ],
       "recent_videos": [
+        {
+          "title": "문어는 다리가 잘려도 멀쩡한 이유, 다리마다 이게 숨어 있다",
+          "views": 0,
+          "date": "2026-07-05",
+          "duration": 31,
+          "url": "https://www.youtube.com/watch?v=oYzmoHYqtuk"
+        },
         {
           "title": "하이에나가 실실 웃는 진짜 이유, 즐거워서가 아니었다",
           "views": 1220,
@@ -306,7 +313,7 @@ window.DATA = {
         },
         {
           "title": "얼어 죽은 개구리가 봄에 다시 살아나는 이유",
-          "views": 1834,
+          "views": 1835,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=52XtgfX8fns"
@@ -355,20 +362,13 @@ window.DATA = {
         },
         {
           "title": "짝짓기 도중 수컷 머리가 사라졌어요... 사마귀가 수컷을 잡아먹는 진짜 이유",
-          "views": 1476,
+          "views": 1477,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
-        },
-        {
-          "title": "미어캣은 왜 혼자 꼿꼿이 서 있을까",
-          "views": 1588,
-          "date": "2026-06-27",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
         }
       ],
-      "analyzed_at": "2026-07-05 19:25",
+      "analyzed_at": "2026-07-05 20:28",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 3482,
+      "avg_views": 3531,
       "median_views": 1168,
       "uploads_30d": 20,
-      "views_30d": 69642,
+      "views_30d": 70621,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 27777,
+          "views": 29384,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -406,7 +406,7 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 2683,
+          "views": 2805,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -421,8 +421,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
+          "views": 94,
+          "date": "2026-07-05",
+          "duration": 29,
+          "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
+        },
+        {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 2683,
+          "views": 2805,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -436,14 +443,14 @@ window.DATA = {
         },
         {
           "title": "차 바닥이 흥건한데 창문은 멀쩡? 진짜 범인은 여기였다",
-          "views": 1499,
+          "views": 1526,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=VtjFL6suLso"
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 27777,
+          "views": 29384,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -482,18 +489,11 @@ window.DATA = {
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
-        },
-        {
-          "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8203,
-          "date": "2026-06-28",
-          "duration": 18,
-          "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         }
       ],
-      "analyzed_at": "2026-07-05 19:25",
+      "analyzed_at": "2026-07-05 20:29",
       "subs_delta": 10
     }
   ],
-  "generated_at": "2026-07-05 19:24"
+  "generated_at": "2026-07-05 20:26"
 };
