@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2100,
+      "avg_views": 2101,
       "median_views": 1750,
       "uploads_30d": 20,
-      "views_30d": 42019,
+      "views_30d": 42030,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "열쇠도 없이 자물쇠가 스르륵, 이 작은 공구의 정체 #생활꿀팁 #꿀팁",
-          "views": 1130,
+          "views": 1133,
           "date": "2026-07-02",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=9IAhdi_UIWM"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "밑창 떨어진 신발 버리지 마세요 5분이면 새것 됩니다",
-          "views": 2155,
+          "views": 2157,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "뻑뻑한 지퍼, 연필 하나로 부드럽게 고치는 이유",
-          "views": 1488,
+          "views": 1494,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=krtqZCFL-Ms"
         }
       ],
-      "analyzed_at": "2026-07-05 15:14",
+      "analyzed_at": "2026-07-05 16:17",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=JcNefzghzzY"
         }
       ],
-      "analyzed_at": "2026-07-05 15:15",
+      "analyzed_at": "2026-07-05 16:18",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1353,
+      "avg_views": 1354,
       "median_views": 1329,
       "uploads_30d": 20,
-      "views_30d": 27079,
+      "views_30d": 27082,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -269,7 +269,7 @@ window.DATA = {
         },
         {
           "title": "얼어 죽은 개구리가 봄에 다시 살아나는 이유",
-          "views": 1830,
+          "views": 1833,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=52XtgfX8fns"
@@ -306,7 +306,7 @@ window.DATA = {
         },
         {
           "title": "얼어 죽은 개구리가 봄에 다시 살아나는 이유",
-          "views": 1830,
+          "views": 1833,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=52XtgfX8fns"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
         }
       ],
-      "analyzed_at": "2026-07-05 15:16",
+      "analyzed_at": "2026-07-05 16:18",
       "subs_delta": 0
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 3194,
+      "avg_views": 3248,
       "median_views": 1168,
       "uploads_30d": 20,
-      "views_30d": 63897,
+      "views_30d": 64966,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 22798,
+          "views": 23551,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 17854,
+          "views": 17892,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -406,14 +406,14 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2482,
+          "views": 2547,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 2193,
+          "views": 2397,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -422,14 +422,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 2193,
+          "views": 2397,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
         },
         {
           "title": "엘란트라 핸들 꺾을 때만 딱딱딱, 대체 뭐가 문제일까",
-          "views": 26,
+          "views": 27,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
@@ -443,14 +443,14 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 22798,
+          "views": 23551,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "밟을 때마다 차가 울컥, 미션 고장인 줄 알았는데 진짜 범인은 점화코일",
-          "views": 36,
+          "views": 39,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=VnKxOtvnEE0"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "BMW E39 히터 바람이 한 단에서만 나올 때 진짜 원인 (송풍기 모터 아닙니다)",
-          "views": 8,
+          "views": 9,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=_cE-5Kqm7kQ"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2482,
+          "views": 2547,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         }
       ],
-      "analyzed_at": "2026-07-05 15:16",
+      "analyzed_at": "2026-07-05 16:19",
       "subs_delta": 10
     }
   ],
-  "generated_at": "2026-07-05 15:14"
+  "generated_at": "2026-07-05 16:17"
 };
