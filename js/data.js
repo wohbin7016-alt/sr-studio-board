@@ -11,7 +11,7 @@ window.DATA = {
       "avg_views": 2097,
       "median_views": 1765,
       "uploads_30d": 20,
-      "views_30d": 41945,
+      "views_30d": 41947,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -60,7 +60,7 @@ window.DATA = {
         },
         {
           "title": "식탁에 하얗게 뜬 얼룩, 다리미를 댔더니 무슨 일이",
-          "views": 507,
+          "views": 509,
           "date": "2026-07-04",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=Tfv2OTlps3A"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
         }
       ],
-      "analyzed_at": "2026-07-06 09:59",
+      "analyzed_at": "2026-07-06 11:02",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
         }
       ],
-      "analyzed_at": "2026-07-06 10:00",
+      "analyzed_at": "2026-07-06 11:02",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1329,
       "median_views": 1329,
       "uploads_30d": 20,
-      "views_30d": 26580,
+      "views_30d": 26588,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "문어는 다리가 잘려도 멀쩡한 이유, 다리마다 이게 숨어 있다",
-          "views": 1340,
+          "views": 1348,
           "date": "2026-07-05",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=oYzmoHYqtuk"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
         }
       ],
-      "analyzed_at": "2026-07-06 10:00",
+      "analyzed_at": "2026-07-06 11:03",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 4038,
+      "avg_views": 4046,
       "median_views": 1172,
       "uploads_30d": 20,
-      "views_30d": 80762,
+      "views_30d": 80938,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 36861,
+          "views": 37005,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -406,14 +406,14 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 4117,
+          "views": 4133,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2710,
+          "views": 2723,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 4117,
+          "views": 4133,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 36861,
+          "views": 37005,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -485,15 +485,15 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2710,
+          "views": 2723,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         }
       ],
-      "analyzed_at": "2026-07-06 10:01",
+      "analyzed_at": "2026-07-06 11:04",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-06 09:59"
+  "generated_at": "2026-07-06 11:02"
 };
