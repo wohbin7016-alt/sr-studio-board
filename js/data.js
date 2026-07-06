@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2099,
+      "avg_views": 2100,
       "median_views": 1765,
       "uploads_30d": 20,
-      "views_30d": 41999,
+      "views_30d": 42007,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "가구에 파인 깊은 긁힘, 호두 하나 문질렀더니",
-          "views": 1920,
+          "views": 1926,
           "date": "2026-07-05",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=pNbxtVfYYXM"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "서랍이 안 빠질 때 비누칠하면 큰일 나요",
-          "views": 1358,
+          "views": 1359,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=YWP5McH4IcI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
         }
       ],
-      "analyzed_at": "2026-07-06 13:06",
+      "analyzed_at": "2026-07-06 14:09",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
         }
       ],
-      "analyzed_at": "2026-07-06 13:07",
+      "analyzed_at": "2026-07-06 14:09",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1329,
       "median_views": 1329,
       "uploads_30d": 20,
-      "views_30d": 26593,
+      "views_30d": 26591,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -327,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "얼룩말 줄무늬는 위장이 아니었다, 진짜 이유가 소름",
-          "views": 1270,
+          "views": 1269,
           "date": "2026-07-02",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=8W9PvbPbRN0"
@@ -348,7 +348,7 @@ window.DATA = {
         },
         {
           "title": "물에 빠진 개미 수천 마리, 왜 한 마리도 안 죽을까",
-          "views": 1299,
+          "views": 1298,
           "date": "2026-06-30",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=obBtMfQolps"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
         }
       ],
-      "analyzed_at": "2026-07-06 13:07",
+      "analyzed_at": "2026-07-06 14:10",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 4084,
+      "avg_views": 4099,
       "median_views": 1175,
       "uploads_30d": 20,
-      "views_30d": 81686,
+      "views_30d": 81984,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 37335,
+          "views": 37535,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -399,14 +399,14 @@ window.DATA = {
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8216,
+          "views": 8217,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 4261,
+          "views": 4343,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 4261,
+          "views": 4343,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 37335,
+          "views": 37535,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -471,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "BMW E39 히터 바람이 한 단에서만 나올 때 진짜 원인 (송풍기 모터 아닙니다)",
-          "views": 14,
+          "views": 16,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=_cE-5Kqm7kQ"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         }
       ],
-      "analyzed_at": "2026-07-06 13:08",
+      "analyzed_at": "2026-07-06 14:11",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-06 13:06"
+  "generated_at": "2026-07-06 14:09"
 };
