@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=W3s_7o56ZqE"
         }
       ],
-      "analyzed_at": "2026-07-06 20:24",
+      "analyzed_at": "2026-07-06 21:27",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1122,
+      "avg_views": 1123,
       "median_views": 1424,
       "uploads_30d": 20,
-      "views_30d": 22458,
+      "views_30d": 22460,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -218,7 +218,7 @@ window.DATA = {
         },
         {
           "title": "선 없는데 미용실 매직처럼 펴진다고? 4만원대 무선고데기",
-          "views": 669,
+          "views": 671,
           "date": "2026-07-01",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=wIioMVoVnco"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=rl7Q1zvitu0"
         }
       ],
-      "analyzed_at": "2026-07-06 20:25",
+      "analyzed_at": "2026-07-06 21:28",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
         }
       ],
-      "analyzed_at": "2026-07-06 20:26",
+      "analyzed_at": "2026-07-06 21:28",
       "subs_delta": 0
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 4212,
+      "avg_views": 4236,
       "median_views": 1188,
       "uploads_30d": 20,
-      "views_30d": 84250,
+      "views_30d": 84726,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 39192,
+          "views": 39567,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 18537,
+          "views": 18605,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -413,7 +413,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2778,
+          "views": 2811,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 39192,
+          "views": 39567,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -485,15 +485,15 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2778,
+          "views": 2811,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         }
       ],
-      "analyzed_at": "2026-07-06 20:26",
+      "analyzed_at": "2026-07-06 21:29",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-06 20:24"
+  "generated_at": "2026-07-06 21:27"
 };
