@@ -8,22 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2065,
+      "avg_views": 2066,
       "median_views": 1765,
       "uploads_30d": 20,
-      "views_30d": 41318,
+      "views_30d": 41332,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7121,
+          "views": 7120,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 4352,
+          "views": 4353,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 2514,
+          "views": 2518,
           "date": "2026-06-24",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "수압 약해진 진짜 이유, 수도관이 아니었어요",
-          "views": 857,
+          "views": 866,
           "date": "2026-07-06",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ZTaLdgT3DLw"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7121,
+          "views": 7120,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "밑창 떨어진 신발 버리지 마세요 5분이면 새것 됩니다",
-          "views": 2159,
+          "views": 2160,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
         }
       ],
-      "analyzed_at": "2026-07-06 23:33",
+      "analyzed_at": "2026-07-07 00:35",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1061,
       "median_views": 1342,
       "uploads_30d": 20,
-      "views_30d": 21222,
+      "views_30d": 21224,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -160,7 +160,7 @@ window.DATA = {
         },
         {
           "title": "안경 잠깐 담갔을 뿐인데, 물이 이렇게 되는 이유",
-          "views": 1677,
+          "views": 1678,
           "date": "2026-07-04",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=qUCPoh--hXs"
@@ -183,14 +183,14 @@ window.DATA = {
         },
         {
           "title": "마늘 한 줌 넣고 버튼만 눌렀을 뿐인데, 3초 만에 벌어진 일",
-          "views": 1398,
+          "views": 1399,
           "date": "2026-07-05",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=hA5YuQU_kW4"
         },
         {
           "title": "안경 잠깐 담갔을 뿐인데, 물이 이렇게 되는 이유",
-          "views": 1677,
+          "views": 1678,
           "date": "2026-07-04",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=qUCPoh--hXs"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=sBO4Mqnb-Qw"
         }
       ],
-      "analyzed_at": "2026-07-06 23:33",
+      "analyzed_at": "2026-07-07 00:36",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1329,
+      "avg_views": 1330,
       "median_views": 1330,
       "uploads_30d": 20,
-      "views_30d": 26597,
+      "views_30d": 26601,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -362,13 +362,13 @@ window.DATA = {
         },
         {
           "title": "짝짓기 도중 수컷 머리가 사라졌어요... 사마귀가 수컷을 잡아먹는 진짜 이유",
-          "views": 1479,
+          "views": 1483,
           "date": "2026-06-29",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
         }
       ],
-      "analyzed_at": "2026-07-06 23:34",
+      "analyzed_at": "2026-07-07 00:37",
       "subs_delta": 0
     },
     {
@@ -377,43 +377,43 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 4314,
-      "median_views": 1188,
+      "avg_views": 4368,
+      "median_views": 1195,
       "uploads_30d": 20,
-      "views_30d": 86293,
+      "views_30d": 87363,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 40484,
+          "views": 40863,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 18605,
+          "views": 18750,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8237,
+          "views": 8240,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 4987,
+          "views": 5447,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2822,
+          "views": 2867,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -429,14 +429,14 @@ window.DATA = {
         },
         {
           "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
-          "views": 1038,
+          "views": 1053,
           "date": "2026-07-05",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 4987,
+          "views": 5447,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -450,21 +450,21 @@ window.DATA = {
         },
         {
           "title": "차 바닥이 흥건한데 창문은 멀쩡? 진짜 범인은 여기였다",
-          "views": 1720,
+          "views": 1734,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=VtjFL6suLso"
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 40484,
+          "views": 40863,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "밟을 때마다 차가 울컥, 미션 고장인 줄 알았는데 진짜 범인은 점화코일",
-          "views": 66,
+          "views": 69,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=VnKxOtvnEE0"
@@ -478,22 +478,22 @@ window.DATA = {
         },
         {
           "title": "BMW E39 히터 바람이 한 단에서만 나올 때 진짜 원인 (송풍기 모터 아닙니다)",
-          "views": 16,
+          "views": 18,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=_cE-5Kqm7kQ"
         },
         {
           "title": "아큐라 TL 주행 중 웅웅 소리, 진짜 원인은 휠베어링",
-          "views": 19,
+          "views": 21,
           "date": "2026-06-30",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=C6wMt6iijDA"
         }
       ],
-      "analyzed_at": "2026-07-06 23:35",
+      "analyzed_at": "2026-07-07 00:38",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-06 23:33"
+  "generated_at": "2026-07-07 00:35"
 };
