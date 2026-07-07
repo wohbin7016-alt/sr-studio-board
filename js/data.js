@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2002,
+      "avg_views": 2007,
       "median_views": 1608,
       "uploads_30d": 20,
-      "views_30d": 40057,
+      "views_30d": 40153,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7146,
+          "views": 7148,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "다림질만 하면 옷에 갈색 얼룩… 다리미 고장이 아니었어요",
-          "views": 933,
+          "views": 1027,
           "date": "2026-07-07",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=2vLPpIj684Q"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7146,
+          "views": 7148,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=YWP5McH4IcI"
         }
       ],
-      "analyzed_at": "2026-07-07 15:07",
+      "analyzed_at": "2026-07-07 16:09",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1097,
+      "avg_views": 1105,
       "median_views": 1344,
       "uploads_30d": 20,
-      "views_30d": 21940,
+      "views_30d": 22108,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "매일 화장실 청소로 팔 빠지던 내가, 만원짜리 이거 하나에 수세미 버린 이유",
-          "views": 957,
+          "views": 1125,
           "date": "2026-07-07",
           "duration": 45,
           "url": "https://www.youtube.com/watch?v=kB__cVQ2P_U"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=5Rbmx2pGI_4"
         }
       ],
-      "analyzed_at": "2026-07-07 15:08",
+      "analyzed_at": "2026-07-07 16:10",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1312,
+      "avg_views": 1313,
       "median_views": 1332,
       "uploads_30d": 20,
-      "views_30d": 26242,
+      "views_30d": 26260,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "사람을 죽일 수 있는 새, 세상에서 가장 위험한 새의 정체",
-          "views": 857,
+          "views": 875,
           "date": "2026-07-07",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=af3zzEFpdWc"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
         }
       ],
-      "analyzed_at": "2026-07-07 15:08",
+      "analyzed_at": "2026-07-07 16:10",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 4565,
+      "avg_views": 4575,
       "median_views": 1187,
       "uploads_30d": 20,
-      "views_30d": 91301,
+      "views_30d": 91519,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 43966,
+          "views": 44184,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 43966,
+          "views": 44184,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=_cE-5Kqm7kQ"
         }
       ],
-      "analyzed_at": "2026-07-07 15:09",
+      "analyzed_at": "2026-07-07 16:11",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-07 15:07"
+  "generated_at": "2026-07-07 16:09"
 };
