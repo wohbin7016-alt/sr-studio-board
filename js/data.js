@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2025,
-      "median_views": 1608,
+      "avg_views": 1935,
+      "median_views": 1494,
       "uploads_30d": 20,
-      "views_30d": 40507,
+      "views_30d": 38709,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -36,31 +36,38 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
         },
         {
-          "title": "처진 문, 나사 조여도 또 덜렁? 진짜 원인은 따로 있다",
-          "views": 2209,
-          "date": "2026-06-23",
-          "duration": 20,
-          "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
-        },
-        {
           "title": "밑창 떨어진 신발 버리지 마세요 5분이면 새것 됩니다",
           "views": 2162,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
+        },
+        {
+          "title": "막힌 샤워헤드 식초로 뚫기",
+          "views": 2093,
+          "date": "2026-06-24",
+          "duration": 20,
+          "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
         }
       ],
       "recent_videos": [
         {
+          "title": "빨래에서 꿉꿉한 냄새? 세제 아무리 바꿔도 소용없던 진짜 이유",
+          "views": 383,
+          "date": "2026-07-07",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=fnxn2bm3lo8"
+        },
+        {
           "title": "다림질만 하면 옷에 갈색 얼룩… 다리미 고장이 아니었어요",
-          "views": 1351,
+          "views": 1370,
           "date": "2026-07-07",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=2vLPpIj684Q"
         },
         {
           "title": "수압 약해진 진짜 이유, 수도관이 아니었어요",
-          "views": 1458,
+          "views": 1467,
           "date": "2026-07-06",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ZTaLdgT3DLw"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-07-01",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
-        },
-        {
-          "title": "서랍이 안 빠질 때 비누칠하면 큰일 나요",
-          "views": 1359,
-          "date": "2026-07-01",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=YWP5McH4IcI"
         }
       ],
-      "analyzed_at": "2026-07-07 17:11",
+      "analyzed_at": "2026-07-07 18:14",
       "subs_delta": 0
     },
     {
@@ -131,19 +131,12 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1123,
-      "median_views": 1428,
+      "avg_views": 1052,
+      "median_views": 1344,
       "uploads_30d": 20,
-      "views_30d": 22470,
+      "views_30d": 21046,
       "shorts_ratio": 1.0,
       "top_videos": [
-        {
-          "title": "델 에일리언웨어 오로라 16 / 코어7 14세대·RTX 5050",
-          "views": 1978,
-          "date": "2026-06-22",
-          "duration": 34,
-          "url": "https://www.youtube.com/watch?v=ISsaUU-hV1Q"
-        },
         {
           "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
           "views": 1837,
@@ -166,6 +159,13 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=qUCPoh--hXs"
         },
         {
+          "title": "매일 화장실 청소로 팔 빠지던 내가, 만원짜리 이거 하나에 수세미 버린 이유",
+          "views": 1587,
+          "date": "2026-07-07",
+          "duration": 45,
+          "url": "https://www.youtube.com/watch?v=kB__cVQ2P_U"
+        },
+        {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
           "views": 1567,
           "date": "2026-06-23",
@@ -175,15 +175,22 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "자취방에 쌓이던 손빨래가 통째로 사라진 진짜 이유",
+          "views": 451,
+          "date": "2026-07-07",
+          "duration": 29,
+          "url": "https://www.youtube.com/watch?v=UbwOUwGpHBc"
+        },
+        {
           "title": "매일 화장실 청소로 팔 빠지던 내가, 만원짜리 이거 하나에 수세미 버린 이유",
-          "views": 1487,
+          "views": 1587,
           "date": "2026-07-07",
           "duration": 45,
           "url": "https://www.youtube.com/watch?v=kB__cVQ2P_U"
         },
         {
           "title": "버리려던 니트, 다시 꺼내 입게 만든 만원짜리의 정체",
-          "views": 498,
+          "views": 501,
           "date": "2026-07-06",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=lZC1kWFkN1o"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-07-01",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=wIioMVoVnco"
-        },
-        {
-          "title": "3만원짜리가 발뮤다를 이겼다고? 루메나 무선선풍기 1년 쓴 후기",
-          "views": 487,
-          "date": "2026-06-30",
-          "duration": 23,
-          "url": "https://www.youtube.com/watch?v=5Rbmx2pGI_4"
         }
       ],
-      "analyzed_at": "2026-07-07 17:12",
+      "analyzed_at": "2026-07-07 18:14",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1313,
+      "avg_views": 1332,
       "median_views": 1334,
       "uploads_30d": 20,
-      "views_30d": 26264,
+      "views_30d": 26647,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "사람을 죽일 수 있는 새, 세상에서 가장 위험한 새의 정체",
-          "views": 875,
+          "views": 1258,
           "date": "2026-07-07",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=af3zzEFpdWc"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
         }
       ],
-      "analyzed_at": "2026-07-07 17:12",
+      "analyzed_at": "2026-07-07 18:15",
       "subs_delta": 0
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 4601,
+      "avg_views": 4616,
       "median_views": 1210,
       "uploads_30d": 20,
-      "views_30d": 92022,
+      "views_30d": 92325,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 44377,
+          "views": 44526,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 18895,
+          "views": 18900,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -406,14 +406,14 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 6527,
+          "views": 6596,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 2962,
+          "views": 2980,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -421,8 +421,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "토요타 갑자기 기름 먹는 하마, 미션 아니고 진짜 원인은 카본 낀 에어플로우 센서",
+          "views": 1,
+          "date": "2026-07-07",
+          "duration": 35,
+          "url": "https://www.youtube.com/watch?v=nqfZ937zZT8"
+        },
+        {
           "title": "BMW 변속할 때 울컥 충격, 미션 갈 뻔했는데 진짜 원인은 '평생 무교환' 미션오일",
-          "views": 448,
+          "views": 534,
           "date": "2026-07-07",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=te6KfTQcCc4"
@@ -443,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 6527,
+          "views": 6596,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -464,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 44377,
+          "views": 44526,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -482,18 +489,11 @@ window.DATA = {
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
-        },
-        {
-          "title": "BMW E39 히터 바람이 한 단에서만 나올 때 진짜 원인 (송풍기 모터 아닙니다)",
-          "views": 18,
-          "date": "2026-06-30",
-          "duration": 21,
-          "url": "https://www.youtube.com/watch?v=_cE-5Kqm7kQ"
         }
       ],
-      "analyzed_at": "2026-07-07 17:13",
+      "analyzed_at": "2026-07-07 18:16",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-07 17:11"
+  "generated_at": "2026-07-07 18:14"
 };
