@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2007,
+      "avg_views": 2025,
       "median_views": 1608,
       "uploads_30d": 20,
-      "views_30d": 40153,
+      "views_30d": 40507,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7148,
+          "views": 7154,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "다림질만 하면 옷에 갈색 얼룩… 다리미 고장이 아니었어요",
-          "views": 1027,
+          "views": 1351,
           "date": "2026-07-07",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=2vLPpIj684Q"
         },
         {
           "title": "수압 약해진 진짜 이유, 수도관이 아니었어요",
-          "views": 1436,
+          "views": 1458,
           "date": "2026-07-06",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ZTaLdgT3DLw"
@@ -74,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "식탁에 하얗게 뜬 얼룩, 다리미를 댔더니 무슨 일이",
-          "views": 514,
+          "views": 516,
           "date": "2026-07-04",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=Tfv2OTlps3A"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7148,
+          "views": 7154,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=YWP5McH4IcI"
         }
       ],
-      "analyzed_at": "2026-07-07 16:09",
+      "analyzed_at": "2026-07-07 17:11",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1105,
-      "median_views": 1344,
+      "avg_views": 1123,
+      "median_views": 1428,
       "uploads_30d": 20,
-      "views_30d": 22108,
+      "views_30d": 22470,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "매일 화장실 청소로 팔 빠지던 내가, 만원짜리 이거 하나에 수세미 버린 이유",
-          "views": 1125,
+          "views": 1487,
           "date": "2026-07-07",
           "duration": 45,
           "url": "https://www.youtube.com/watch?v=kB__cVQ2P_U"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=5Rbmx2pGI_4"
         }
       ],
-      "analyzed_at": "2026-07-07 16:10",
+      "analyzed_at": "2026-07-07 17:12",
       "subs_delta": 0
     },
     {
@@ -255,9 +255,9 @@ window.DATA = {
       "subscribers": 2370,
       "sampled": 20,
       "avg_views": 1313,
-      "median_views": 1332,
+      "median_views": 1334,
       "uploads_30d": 20,
-      "views_30d": 26260,
+      "views_30d": 26264,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -327,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "캥거루가 아무리 해도 뒤로는 못 걷는 진짜 이유",
-          "views": 1324,
+          "views": 1328,
           "date": "2026-07-03",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=cF2thcdtYCw"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
         }
       ],
-      "analyzed_at": "2026-07-07 16:10",
+      "analyzed_at": "2026-07-07 17:12",
       "subs_delta": 0
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 4575,
-      "median_views": 1187,
+      "avg_views": 4601,
+      "median_views": 1210,
       "uploads_30d": 20,
-      "views_30d": 91519,
+      "views_30d": 92022,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 44184,
+          "views": 44377,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 18879,
+          "views": 18895,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -422,21 +422,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "BMW 변속할 때 울컥 충격, 미션 갈 뻔했는데 진짜 원인은 '평생 무교환' 미션오일",
-          "views": 298,
+          "views": 448,
           "date": "2026-07-07",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=te6KfTQcCc4"
         },
         {
           "title": "토요타 타코마, 브레이크만 밟으면 핸들이 부들부들… 타이어 갈아도 안 잡히는 진짜 원인",
-          "views": 1033,
+          "views": 1080,
           "date": "2026-07-06",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
         },
         {
           "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
-          "views": 1347,
+          "views": 1441,
           "date": "2026-07-05",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "엘란트라 핸들 꺾을 때만 딱딱딱, 대체 뭐가 문제일까",
-          "views": 66,
+          "views": 68,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 44184,
+          "views": 44377,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=_cE-5Kqm7kQ"
         }
       ],
-      "analyzed_at": "2026-07-07 16:11",
+      "analyzed_at": "2026-07-07 17:13",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-07 16:09"
+  "generated_at": "2026-07-07 17:11"
 };
