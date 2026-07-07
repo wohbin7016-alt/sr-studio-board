@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 1997,
-      "median_views": 1563,
+      "avg_views": 2014,
+      "median_views": 1608,
       "uploads_30d": 20,
-      "views_30d": 39944,
+      "views_30d": 40299,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,28 +53,28 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "빨래에서 꿉꿉한 냄새? 세제 아무리 바꿔도 소용없던 진짜 이유",
-          "views": 1605,
+          "views": 1938,
           "date": "2026-07-07",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fnxn2bm3lo8"
         },
         {
           "title": "다림질만 하면 옷에 갈색 얼룩… 다리미 고장이 아니었어요",
-          "views": 1370,
+          "views": 1381,
           "date": "2026-07-07",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=2vLPpIj684Q"
         },
         {
           "title": "수압 약해진 진짜 이유, 수도관이 아니었어요",
-          "views": 1467,
+          "views": 1475,
           "date": "2026-07-06",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ZTaLdgT3DLw"
         },
         {
           "title": "가구에 파인 깊은 긁힘, 호두 하나 문질렀더니",
-          "views": 1942,
+          "views": 1944,
           "date": "2026-07-05",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=pNbxtVfYYXM"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "카펫에 남은 가구 눌린 자국, 얼음 하나로 복원",
-          "views": 1161,
+          "views": 1162,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=FvOtN1HJc6E"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
         }
       ],
-      "analyzed_at": "2026-07-07 21:20",
+      "analyzed_at": "2026-07-07 22:23",
       "subs_delta": 0
     },
     {
@@ -131,12 +131,19 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1108,
+      "avg_views": 1133,
       "median_views": 1428,
       "uploads_30d": 20,
-      "views_30d": 22170,
+      "views_30d": 22662,
       "shorts_ratio": 1.0,
       "top_videos": [
+        {
+          "title": "자취방에 쌓이던 손빨래가 통째로 사라진 진짜 이유",
+          "views": 2047,
+          "date": "2026-07-07",
+          "duration": 29,
+          "url": "https://www.youtube.com/watch?v=UbwOUwGpHBc"
+        },
         {
           "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
           "views": 1837,
@@ -164,19 +171,12 @@ window.DATA = {
           "date": "2026-07-07",
           "duration": 45,
           "url": "https://www.youtube.com/watch?v=kB__cVQ2P_U"
-        },
-        {
-          "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1567,
-          "date": "2026-06-23",
-          "duration": 31,
-          "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
         }
       ],
       "recent_videos": [
         {
           "title": "자취방에 쌓이던 손빨래가 통째로 사라진 진짜 이유",
-          "views": 1557,
+          "views": 2047,
           "date": "2026-07-07",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=UbwOUwGpHBc"
@@ -190,7 +190,7 @@ window.DATA = {
         },
         {
           "title": "버리려던 니트, 다시 꺼내 입게 만든 만원짜리의 정체",
-          "views": 501,
+          "views": 502,
           "date": "2026-07-06",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=lZC1kWFkN1o"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=wIioMVoVnco"
         }
       ],
-      "analyzed_at": "2026-07-07 21:21",
+      "analyzed_at": "2026-07-07 22:24",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1332,
       "median_views": 1334,
       "uploads_30d": 20,
-      "views_30d": 26650,
+      "views_30d": 26655,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "사람을 죽일 수 있는 새, 세상에서 가장 위험한 새의 정체",
-          "views": 1258,
+          "views": 1264,
           "date": "2026-07-07",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=af3zzEFpdWc"
@@ -310,6 +310,13 @@ window.DATA = {
           "date": "2026-07-05",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=oYzmoHYqtuk"
+        },
+        {
+          "title": "하이에나가 실실 웃는 진짜 이유, 즐거워서가 아니었다",
+          "views": 1219,
+          "date": "2026-07-04",
+          "duration": 28,
+          "url": "https://www.youtube.com/watch?v=DWm8vnbBDlw"
         },
         {
           "title": "얼어 죽은 개구리가 봄에 다시 살아나는 이유",
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-30",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
-        },
-        {
-          "title": "짝짓기 도중 수컷 머리가 사라졌어요... 사마귀가 수컷을 잡아먹는 진짜 이유",
-          "views": 1484,
-          "date": "2026-06-29",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
         }
       ],
-      "analyzed_at": "2026-07-07 21:22",
+      "analyzed_at": "2026-07-07 22:24",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 4654,
+      "avg_views": 4669,
       "median_views": 1231,
       "uploads_30d": 20,
-      "views_30d": 93088,
+      "views_30d": 93383,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 44934,
+          "views": 45044,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -406,14 +406,14 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 6647,
+          "views": 6692,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 3019,
+          "views": 3027,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -422,14 +422,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "토요타 갑자기 기름 먹는 하마, 미션 아니고 진짜 원인은 카본 낀 에어플로우 센서",
-          "views": 3,
+          "views": 7,
           "date": "2026-07-07",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=nqfZ937zZT8"
         },
         {
           "title": "BMW 변속할 때 울컥 충격, 미션 갈 뻔했는데 진짜 원인은 '평생 무교환' 미션오일",
-          "views": 595,
+          "views": 719,
           "date": "2026-07-07",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=te6KfTQcCc4"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 6647,
+          "views": 6692,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -471,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 44934,
+          "views": 45044,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
         }
       ],
-      "analyzed_at": "2026-07-07 21:23",
+      "analyzed_at": "2026-07-07 22:25",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-07 21:20"
+  "generated_at": "2026-07-07 22:23"
 };
