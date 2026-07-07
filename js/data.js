@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2097,
-      "median_views": 1769,
+      "avg_views": 1954,
+      "median_views": 1608,
       "uploads_30d": 20,
-      "views_30d": 41941,
+      "views_30d": 39098,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -29,13 +29,6 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
         },
         {
-          "title": "변기 물 안 멈춤 — 부품 하나로 끝내는 법",
-          "views": 2833,
-          "date": "2026-06-23",
-          "duration": 20,
-          "url": "https://www.youtube.com/watch?v=KWYMevIa8E0"
-        },
-        {
           "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
           "views": 2519,
           "date": "2026-06-24",
@@ -48,12 +41,26 @@ window.DATA = {
           "date": "2026-06-23",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=dirPWk4FQaI"
+        },
+        {
+          "title": "밑창 떨어진 신발 버리지 마세요 5분이면 새것 됩니다",
+          "views": 2162,
+          "date": "2026-06-30",
+          "duration": 21,
+          "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
         }
       ],
       "recent_videos": [
         {
+          "title": "다림질만 하면 옷에 갈색 얼룩… 다리미 고장이 아니었어요",
+          "views": 1,
+          "date": "2026-07-07",
+          "duration": 33,
+          "url": "https://www.youtube.com/watch?v=2vLPpIj684Q"
+        },
+        {
           "title": "수압 약해진 진짜 이유, 수도관이 아니었어요",
-          "views": 1422,
+          "views": 1409,
           "date": "2026-07-06",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ZTaLdgT3DLw"
@@ -67,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "식탁에 하얗게 뜬 얼룩, 다리미를 댔더니 무슨 일이",
-          "views": 512,
+          "views": 514,
           "date": "2026-07-04",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=Tfv2OTlps3A"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=YWP5McH4IcI"
-        },
-        {
-          "title": "밑창 떨어진 신발 버리지 마세요 5분이면 새것 됩니다",
-          "views": 2162,
-          "date": "2026-06-30",
-          "duration": 21,
-          "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
         }
       ],
-      "analyzed_at": "2026-07-07 12:00",
+      "analyzed_at": "2026-07-07 13:03",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1067,
+      "avg_views": 1049,
       "median_views": 1344,
       "uploads_30d": 20,
-      "views_30d": 21345,
+      "views_30d": 20982,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "삼성 갤럭시탭 S11 울트라 — 14.6인치, 아이패드도 긴장하는 태블릿",
-          "views": 1566,
+          "views": 1567,
           "date": "2026-06-23",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=rwAaFaZ7tsY"
@@ -175,8 +175,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "매일 화장실 청소로 팔 빠지던 내가, 만원짜리 이거 하나에 수세미 버린 이유",
+          "views": 4,
+          "date": "2026-07-07",
+          "duration": 45,
+          "url": "https://www.youtube.com/watch?v=kB__cVQ2P_U"
+        },
+        {
           "title": "버리려던 니트, 다시 꺼내 입게 만든 만원짜리의 정체",
-          "views": 493,
+          "views": 495,
           "date": "2026-07-06",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=lZC1kWFkN1o"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-06-30",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=5Rbmx2pGI_4"
-        },
-        {
-          "title": "전동칫솔 비싸야 좋다고 누가 그래? / 오랄비 바이탈리티 초미세모 전동칫솔 (28,070원)",
-          "views": 384,
-          "date": "2026-06-30",
-          "duration": 29,
-          "url": "https://www.youtube.com/watch?v=sBO4Mqnb-Qw"
         }
       ],
-      "analyzed_at": "2026-07-07 12:01",
+      "analyzed_at": "2026-07-07 13:04",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1330,
+      "avg_views": 1270,
       "median_views": 1332,
       "uploads_30d": 20,
-      "views_30d": 26605,
+      "views_30d": 25406,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -297,6 +297,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "사람을 죽일 수 있는 새, 세상에서 가장 위험한 새의 정체",
+          "views": 21,
+          "date": "2026-07-07",
+          "duration": 28,
+          "url": "https://www.youtube.com/watch?v=af3zzEFpdWc"
+        },
         {
           "title": "문어는 다리가 잘려도 멀쩡한 이유, 다리마다 이게 숨어 있다",
           "views": 1352,
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-06-30",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
-        },
-        {
-          "title": "짝짓기 도중 수컷 머리가 사라졌어요... 사마귀가 수컷을 잡아먹는 진짜 이유",
-          "views": 1483,
-          "date": "2026-06-29",
-          "duration": 24,
-          "url": "https://www.youtube.com/watch?v=aSUzXjexxo4"
         }
       ],
-      "analyzed_at": "2026-07-07 12:02",
+      "analyzed_at": "2026-07-07 13:04",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 4597,
-      "median_views": 1286,
+      "avg_views": 4521,
+      "median_views": 1133,
       "uploads_30d": 20,
-      "views_30d": 91946,
+      "views_30d": 90428,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 43214,
+          "views": 43470,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -421,8 +421,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "BMW 변속할 때 울컥 충격, 미션 갈 뻔했는데 진짜 원인은 '평생 무교환' 미션오일",
+          "views": 159,
+          "date": "2026-07-07",
+          "duration": 36,
+          "url": "https://www.youtube.com/watch?v=te6KfTQcCc4"
+        },
+        {
           "title": "토요타 타코마, 브레이크만 밟으면 핸들이 부들부들… 타이어 갈아도 안 잡히는 진짜 원인",
-          "views": 1026,
+          "views": 1033,
           "date": "2026-07-06",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
@@ -457,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 43214,
+          "views": 43470,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -471,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 1339,
+          "views": 1341,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
@@ -482,18 +489,11 @@ window.DATA = {
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=_cE-5Kqm7kQ"
-        },
-        {
-          "title": "아큐라 TL 주행 중 웅웅 소리, 진짜 원인은 휠베어링",
-          "views": 21,
-          "date": "2026-06-30",
-          "duration": 20,
-          "url": "https://www.youtube.com/watch?v=C6wMt6iijDA"
         }
       ],
-      "analyzed_at": "2026-07-07 12:02",
+      "analyzed_at": "2026-07-07 13:05",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-07 12:00"
+  "generated_at": "2026-07-07 13:03"
 };
