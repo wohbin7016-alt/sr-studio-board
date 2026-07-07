@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2014,
+      "avg_views": 2030,
       "median_views": 1608,
       "uploads_30d": 20,
-      "views_30d": 40299,
+      "views_30d": 40616,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7159,
+          "views": 7161,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -36,24 +36,24 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
         },
         {
+          "title": "빨래에서 꿉꿉한 냄새? 세제 아무리 바꿔도 소용없던 진짜 이유",
+          "views": 2253,
+          "date": "2026-07-07",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=fnxn2bm3lo8"
+        },
+        {
           "title": "밑창 떨어진 신발 버리지 마세요 5분이면 새것 됩니다",
           "views": 2162,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
-        },
-        {
-          "title": "막힌 샤워헤드 식초로 뚫기",
-          "views": 2093,
-          "date": "2026-06-24",
-          "duration": 20,
-          "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
         }
       ],
       "recent_videos": [
         {
           "title": "빨래에서 꿉꿉한 냄새? 세제 아무리 바꿔도 소용없던 진짜 이유",
-          "views": 1938,
+          "views": 2253,
           "date": "2026-07-07",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fnxn2bm3lo8"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7159,
+          "views": 7161,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
         }
       ],
-      "analyzed_at": "2026-07-07 22:23",
+      "analyzed_at": "2026-07-07 23:26",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1133,
+      "avg_views": 1135,
       "median_views": 1428,
       "uploads_30d": 20,
-      "views_30d": 22662,
+      "views_30d": 22717,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "자취방에 쌓이던 손빨래가 통째로 사라진 진짜 이유",
-          "views": 2047,
+          "views": 2090,
           "date": "2026-07-07",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=UbwOUwGpHBc"
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "매일 화장실 청소로 팔 빠지던 내가, 만원짜리 이거 하나에 수세미 버린 이유",
-          "views": 1603,
+          "views": 1612,
           "date": "2026-07-07",
           "duration": 45,
           "url": "https://www.youtube.com/watch?v=kB__cVQ2P_U"
@@ -176,21 +176,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "자취방에 쌓이던 손빨래가 통째로 사라진 진짜 이유",
-          "views": 2047,
+          "views": 2090,
           "date": "2026-07-07",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=UbwOUwGpHBc"
         },
         {
           "title": "매일 화장실 청소로 팔 빠지던 내가, 만원짜리 이거 하나에 수세미 버린 이유",
-          "views": 1603,
+          "views": 1612,
           "date": "2026-07-07",
           "duration": 45,
           "url": "https://www.youtube.com/watch?v=kB__cVQ2P_U"
         },
         {
           "title": "버리려던 니트, 다시 꺼내 입게 만든 만원짜리의 정체",
-          "views": 502,
+          "views": 504,
           "date": "2026-07-06",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=lZC1kWFkN1o"
@@ -211,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "먹다 남은 과자 집게로 막는 거 손해, 만원대 미니 실링기",
-          "views": 1286,
+          "views": 1287,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=wIioMVoVnco"
         }
       ],
-      "analyzed_at": "2026-07-07 22:24",
+      "analyzed_at": "2026-07-07 23:26",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1332,
+      "avg_views": 1333,
       "median_views": 1334,
       "uploads_30d": 20,
-      "views_30d": 26655,
+      "views_30d": 26661,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -269,7 +269,7 @@ window.DATA = {
         },
         {
           "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 1779,
+          "views": 1782,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "사람을 죽일 수 있는 새, 세상에서 가장 위험한 새의 정체",
-          "views": 1264,
+          "views": 1265,
           "date": "2026-07-07",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=af3zzEFpdWc"
@@ -341,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 1779,
+          "views": 1782,
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
@@ -355,7 +355,7 @@ window.DATA = {
         },
         {
           "title": "물에 빠진 개미 수천 마리, 왜 한 마리도 안 죽을까",
-          "views": 1298,
+          "views": 1299,
           "date": "2026-06-30",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=obBtMfQolps"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
         }
       ],
-      "analyzed_at": "2026-07-07 22:24",
+      "analyzed_at": "2026-07-07 23:27",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 4669,
+      "avg_views": 4704,
       "median_views": 1231,
       "uploads_30d": 20,
-      "views_30d": 93383,
+      "views_30d": 94086,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 45044,
+          "views": 45326,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -406,7 +406,7 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 6692,
+          "views": 6817,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -422,14 +422,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "토요타 갑자기 기름 먹는 하마, 미션 아니고 진짜 원인은 카본 낀 에어플로우 센서",
-          "views": 7,
+          "views": 16,
           "date": "2026-07-07",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=nqfZ937zZT8"
         },
         {
           "title": "BMW 변속할 때 울컥 충격, 미션 갈 뻔했는데 진짜 원인은 '평생 무교환' 미션오일",
-          "views": 719,
+          "views": 741,
           "date": "2026-07-07",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=te6KfTQcCc4"
@@ -443,14 +443,14 @@ window.DATA = {
         },
         {
           "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
-          "views": 1573,
+          "views": 1835,
           "date": "2026-07-05",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 6692,
+          "views": 6817,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -471,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 45044,
+          "views": 45326,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -485,15 +485,15 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 1341,
+          "views": 1342,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
         }
       ],
-      "analyzed_at": "2026-07-07 22:25",
+      "analyzed_at": "2026-07-07 23:28",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-07 22:23"
+  "generated_at": "2026-07-07 23:26"
 };
