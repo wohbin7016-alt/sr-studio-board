@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 1962,
-      "median_views": 1558,
+      "avg_views": 1964,
+      "median_views": 1560,
       "uploads_30d": 20,
-      "views_30d": 39241,
+      "views_30d": 39295,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "수압 약해진 진짜 이유, 수도관이 아니었어요",
-          "views": 1596,
+          "views": 1600,
           "date": "2026-07-06",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ZTaLdgT3DLw"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
         }
       ],
-      "analyzed_at": "2026-07-09 03:58",
+      "analyzed_at": "2026-07-09 05:00",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1215,
       "median_views": 1430,
       "uploads_30d": 20,
-      "views_30d": 24313,
+      "views_30d": 24310,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -153,7 +153,7 @@ window.DATA = {
         },
         {
           "title": "자취방에 쌓이던 손빨래가 통째로 사라진 진짜 이유",
-          "views": 2121,
+          "views": 2114,
           "date": "2026-07-07",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=UbwOUwGpHBc"
@@ -190,7 +190,7 @@ window.DATA = {
         },
         {
           "title": "자취방에 쌓이던 손빨래가 통째로 사라진 진짜 이유",
-          "views": 2121,
+          "views": 2114,
           "date": "2026-07-07",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=UbwOUwGpHBc"
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "버리려던 니트, 다시 꺼내 입게 만든 만원짜리의 정체",
-          "views": 510,
+          "views": 512,
           "date": "2026-07-06",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=lZC1kWFkN1o"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=iXUX5RkLHBY"
         }
       ],
-      "analyzed_at": "2026-07-09 03:59",
+      "analyzed_at": "2026-07-09 05:00",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1367,
       "median_views": 1335,
       "uploads_30d": 20,
-      "views_30d": 27346,
+      "views_30d": 27347,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -290,7 +290,7 @@ window.DATA = {
         },
         {
           "title": "세상에서 가장 겁 없는 동물이 코브라에 물려도 멀쩡한 이유",
-          "views": 1508,
+          "views": 1509,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=145jVCEOpMs"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
         }
       ],
-      "analyzed_at": "2026-07-09 03:59",
+      "analyzed_at": "2026-07-09 05:00",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1170,
       "sampled": 20,
-      "avg_views": 5083,
-      "median_views": 1547,
+      "avg_views": 5089,
+      "median_views": 1585,
       "uploads_30d": 20,
-      "views_30d": 101661,
+      "views_30d": 101781,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 49341,
+          "views": 49381,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -406,7 +406,7 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 7853,
+          "views": 7861,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -422,14 +422,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "혼다 시티 신호만 걸리면 부르르 시동 꺼질 듯, 배터리 아니라 스로틀바디였다",
-          "views": 25,
+          "views": 16,
           "date": "2026-07-08",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=-4Get_WrrwI"
         },
         {
           "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
-          "views": 835,
+          "views": 830,
           "date": "2026-07-08",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
@@ -443,14 +443,14 @@ window.DATA = {
         },
         {
           "title": "BMW 변속할 때 울컥 충격, 미션 갈 뻔했는데 진짜 원인은 '평생 무교환' 미션오일",
-          "views": 1543,
+          "views": 1619,
           "date": "2026-07-07",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=te6KfTQcCc4"
         },
         {
           "title": "토요타 타코마, 브레이크만 밟으면 핸들이 부들부들… 타이어 갈아도 안 잡히는 진짜 원인",
-          "views": 1690,
+          "views": 1700,
           "date": "2026-07-06",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 7853,
+          "views": 7861,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -485,15 +485,15 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 49341,
+          "views": 49381,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         }
       ],
-      "analyzed_at": "2026-07-09 03:59",
+      "analyzed_at": "2026-07-09 05:01",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-09 03:58"
+  "generated_at": "2026-07-09 05:00"
 };
