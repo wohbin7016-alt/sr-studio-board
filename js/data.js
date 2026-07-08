@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 1904,
+      "avg_views": 1908,
       "median_views": 1489,
       "uploads_30d": 20,
-      "views_30d": 38094,
+      "views_30d": 38165,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -60,7 +60,7 @@ window.DATA = {
         },
         {
           "title": "전자레인지 찌든때, 세제로 문지르지 마세요",
-          "views": 1133,
+          "views": 1190,
           "date": "2026-07-08",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=F4RmYWBYlJk"
@@ -81,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "수압 약해진 진짜 이유, 수도관이 아니었어요",
-          "views": 1563,
+          "views": 1578,
           "date": "2026-07-06",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ZTaLdgT3DLw"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
         }
       ],
-      "analyzed_at": "2026-07-08 19:41",
+      "analyzed_at": "2026-07-08 20:43",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1158,
-      "median_views": 1429,
+      "avg_views": 1085,
+      "median_views": 1346,
       "uploads_30d": 20,
-      "views_30d": 23179,
+      "views_30d": 21700,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -174,6 +174,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "행주로 아무리 닦아도 찐득하던 가스레인지, 뿌리기만 했더니 벌어진 일",
+          "views": 2,
+          "date": "2026-07-08",
+          "duration": 32,
+          "url": "https://www.youtube.com/watch?v=s-B534b33zI"
+        },
         {
           "title": "와인 코르크 부러뜨려 창피했던 내가, 버튼 하나로 3초 만에 딴 이유",
           "views": 1982,
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-07-02",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=iXUX5RkLHBY"
-        },
-        {
-          "title": "물 잠긴 두부를 넣고 돌렸더니 마른 두부가 됐다고? 3만원대 짤순이 1년 쓴 후기",
-          "views": 72,
-          "date": "2026-07-01",
-          "duration": 44,
-          "url": "https://www.youtube.com/watch?v=RmYNrGYJahM"
         }
       ],
-      "analyzed_at": "2026-07-08 19:42",
+      "analyzed_at": "2026-07-08 20:44",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
         }
       ],
-      "analyzed_at": "2026-07-08 19:42",
+      "analyzed_at": "2026-07-08 20:44",
       "subs_delta": 0
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 4987,
+      "avg_views": 4996,
       "median_views": 1376,
       "uploads_30d": 20,
-      "views_30d": 99745,
+      "views_30d": 99921,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 48769,
+          "views": 48817,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 19083,
+          "views": 19124,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
@@ -406,14 +406,14 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 7635,
+          "views": 7643,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 3081,
+          "views": 3073,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -422,14 +422,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "혼다 시티 신호만 걸리면 부르르 시동 꺼질 듯, 배터리 아니라 스로틀바디였다",
-          "views": 6,
+          "views": 5,
           "date": "2026-07-08",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=-4Get_WrrwI"
         },
         {
           "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
-          "views": 666,
+          "views": 675,
           "date": "2026-07-08",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
@@ -457,14 +457,14 @@ window.DATA = {
         },
         {
           "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
-          "views": 2399,
+          "views": 2478,
           "date": "2026-07-05",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 7635,
+          "views": 7643,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -485,15 +485,15 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 48769,
+          "views": 48817,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         }
       ],
-      "analyzed_at": "2026-07-08 19:43",
+      "analyzed_at": "2026-07-08 20:45",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-08 19:41"
+  "generated_at": "2026-07-08 20:43"
 };
