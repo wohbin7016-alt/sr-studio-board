@@ -11,12 +11,12 @@ window.DATA = {
       "avg_views": 2034,
       "median_views": 1608,
       "uploads_30d": 20,
-      "views_30d": 40683,
+      "views_30d": 40681,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7177,
+          "views": 7171,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -60,14 +60,14 @@ window.DATA = {
         },
         {
           "title": "다림질만 하면 옷에 갈색 얼룩… 다리미 고장이 아니었어요",
-          "views": 1371,
+          "views": 1372,
           "date": "2026-07-07",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=2vLPpIj684Q"
         },
         {
           "title": "수압 약해진 진짜 이유, 수도관이 아니었어요",
-          "views": 1501,
+          "views": 1504,
           "date": "2026-07-06",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ZTaLdgT3DLw"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7177,
+          "views": 7171,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
         }
       ],
-      "analyzed_at": "2026-07-08 10:47",
+      "analyzed_at": "2026-07-08 11:49",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1136,
+      "avg_views": 1137,
       "median_views": 1429,
       "uploads_30d": 20,
-      "views_30d": 22739,
+      "views_30d": 22740,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "매일 화장실 청소로 팔 빠지던 내가, 만원짜리 이거 하나에 수세미 버린 이유",
-          "views": 1605,
+          "views": 1606,
           "date": "2026-07-07",
           "duration": 45,
           "url": "https://www.youtube.com/watch?v=kB__cVQ2P_U"
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "매일 화장실 청소로 팔 빠지던 내가, 만원짜리 이거 하나에 수세미 버린 이유",
-          "views": 1605,
+          "views": 1606,
           "date": "2026-07-07",
           "duration": 45,
           "url": "https://www.youtube.com/watch?v=kB__cVQ2P_U"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=wIioMVoVnco"
         }
       ],
-      "analyzed_at": "2026-07-08 10:47",
+      "analyzed_at": "2026-07-08 11:49",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=obBtMfQolps"
         }
       ],
-      "analyzed_at": "2026-07-08 10:48",
+      "analyzed_at": "2026-07-08 11:49",
       "subs_delta": 0
     },
     {
@@ -377,29 +377,29 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 4865,
-      "median_views": 1271,
+      "avg_views": 4883,
+      "median_views": 1285,
       "uploads_30d": 20,
-      "views_30d": 97319,
+      "views_30d": 97666,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 47132,
+          "views": 47203,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 19003,
+          "views": 19031,
           "date": "2026-06-25",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
-          "views": 8286,
+          "views": 8288,
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
@@ -429,14 +429,14 @@ window.DATA = {
         },
         {
           "title": "BMW 변속할 때 울컥 충격, 미션 갈 뻔했는데 진짜 원인은 '평생 무교환' 미션오일",
-          "views": 947,
+          "views": 1162,
           "date": "2026-07-07",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=te6KfTQcCc4"
         },
         {
           "title": "토요타 타코마, 브레이크만 밟으면 핸들이 부들부들… 타이어 갈아도 안 잡히는 진짜 원인",
-          "views": 1199,
+          "views": 1228,
           "date": "2026-07-06",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
@@ -464,14 +464,14 @@ window.DATA = {
         },
         {
           "title": "차 바닥이 흥건한데 창문은 멀쩡? 진짜 범인은 여기였다",
-          "views": 1768,
+          "views": 1770,
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=VtjFL6suLso"
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 47132,
+          "views": 47203,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
         }
       ],
-      "analyzed_at": "2026-07-08 10:48",
+      "analyzed_at": "2026-07-08 11:50",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-08 10:47"
+  "generated_at": "2026-07-08 11:49"
 };
