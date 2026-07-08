@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 2034,
-      "median_views": 1608,
+      "avg_views": 1923,
+      "median_views": 1514,
       "uploads_30d": 20,
-      "views_30d": 40681,
+      "views_30d": 38467,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7171,
+          "views": 7177,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -29,15 +29,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
         },
         {
-          "title": "다 쓴 실리콘 통이 다시 꽉 찬다고요? (버리기 전에 꼭 보세요)",
-          "views": 2521,
-          "date": "2026-06-24",
-          "duration": 26,
-          "url": "https://www.youtube.com/watch?v=F970I1T8bNg"
-        },
-        {
           "title": "빨래에서 꿉꿉한 냄새? 세제 아무리 바꿔도 소용없던 진짜 이유",
-          "views": 2282,
+          "views": 2284,
           "date": "2026-07-07",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fnxn2bm3lo8"
@@ -48,12 +41,26 @@ window.DATA = {
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
+        },
+        {
+          "title": "막힌 샤워헤드 식초로 뚫기",
+          "views": 2093,
+          "date": "2026-06-24",
+          "duration": 20,
+          "url": "https://www.youtube.com/watch?v=9zQYmauGwoM"
         }
       ],
       "recent_videos": [
         {
+          "title": "전자레인지 찌든때, 세제로 문지르지 마세요",
+          "views": 296,
+          "date": "2026-07-08",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=F4RmYWBYlJk"
+        },
+        {
           "title": "빨래에서 꿉꿉한 냄새? 세제 아무리 바꿔도 소용없던 진짜 이유",
-          "views": 2282,
+          "views": 2284,
           "date": "2026-07-07",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fnxn2bm3lo8"
@@ -67,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "수압 약해진 진짜 이유, 수도관이 아니었어요",
-          "views": 1504,
+          "views": 1507,
           "date": "2026-07-06",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ZTaLdgT3DLw"
@@ -102,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7171,
+          "views": 7177,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-07-02",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=9IAhdi_UIWM"
-        },
-        {
-          "title": "찢어진 방충망, 새로 안 사도 5분이면 직접 갈아요",
-          "views": 1842,
-          "date": "2026-07-01",
-          "duration": 28,
-          "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
         }
       ],
-      "analyzed_at": "2026-07-08 11:49",
+      "analyzed_at": "2026-07-08 12:50",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1137,
-      "median_views": 1429,
+      "avg_views": 1080,
+      "median_views": 1346,
       "uploads_30d": 20,
-      "views_30d": 22740,
+      "views_30d": 21617,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -174,6 +174,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "와인 코르크 부러뜨려 창피했던 내가, 버튼 하나로 3초 만에 딴 이유",
+          "views": 443,
+          "date": "2026-07-08",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=msWPyr9PTm4"
+        },
         {
           "title": "자취방에 쌓이던 손빨래가 통째로 사라진 진짜 이유",
           "views": 2108,
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-07-01",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=RmYNrGYJahM"
-        },
-        {
-          "title": "선 없는데 미용실 매직처럼 펴진다고? 4만원대 무선고데기",
-          "views": 673,
-          "date": "2026-07-01",
-          "duration": 32,
-          "url": "https://www.youtube.com/watch?v=wIioMVoVnco"
         }
       ],
-      "analyzed_at": "2026-07-08 11:49",
+      "analyzed_at": "2026-07-08 12:51",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1312,
+      "avg_views": 1278,
       "median_views": 1334,
       "uploads_30d": 20,
-      "views_30d": 26248,
+      "views_30d": 25574,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -298,8 +298,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "이 거미의 정체는? 새를 잡아먹는 뱀",
+          "views": 473,
+          "date": "2026-07-08",
+          "duration": 27,
+          "url": "https://www.youtube.com/watch?v=ZGhfgQ_dRzk"
+        },
+        {
           "title": "실버백 고릴라 vs 사자, 진짜 누가 이길까?",
-          "views": 1364,
+          "views": 1373,
           "date": "2026-07-07",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=xNpdHStHc_w"
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=145jVCEOpMs"
-        },
-        {
-          "title": "물에 빠진 개미 수천 마리, 왜 한 마리도 안 죽을까",
-          "views": 1300,
-          "date": "2026-06-30",
-          "duration": 22,
-          "url": "https://www.youtube.com/watch?v=obBtMfQolps"
         }
       ],
-      "analyzed_at": "2026-07-08 11:49",
+      "analyzed_at": "2026-07-08 12:51",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 4883,
+      "avg_views": 4846,
       "median_views": 1285,
       "uploads_30d": 20,
-      "views_30d": 97666,
+      "views_30d": 96929,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 47203,
+          "views": 47284,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -406,20 +406,27 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 7315,
+          "views": 7408,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 3063,
+          "views": 3069,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         }
       ],
       "recent_videos": [
+        {
+          "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
+          "views": 104,
+          "date": "2026-07-08",
+          "duration": 34,
+          "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
+        },
         {
           "title": "토요타 갑자기 기름 먹는 하마, 미션 아니고 진짜 원인은 카본 낀 에어플로우 센서",
           "views": 58,
@@ -450,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 7315,
+          "views": 7408,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -471,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 47203,
+          "views": 47284,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -482,18 +489,11 @@ window.DATA = {
           "date": "2026-07-01",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=VnKxOtvnEE0"
-        },
-        {
-          "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 1343,
-          "date": "2026-07-01",
-          "duration": 25,
-          "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
         }
       ],
-      "analyzed_at": "2026-07-08 11:50",
+      "analyzed_at": "2026-07-08 12:52",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-08 11:49"
+  "generated_at": "2026-07-08 12:50"
 };
