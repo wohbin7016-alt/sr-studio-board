@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Nuz3ybeD4FE"
         }
       ],
-      "analyzed_at": "2026-07-08 07:42",
+      "analyzed_at": "2026-07-08 08:44",
       "subs_delta": 0
     },
     {
@@ -132,9 +132,9 @@ window.DATA = {
       "subscribers": 72900,
       "sampled": 20,
       "avg_views": 1137,
-      "median_views": 1428,
+      "median_views": 1429,
       "uploads_30d": 20,
-      "views_30d": 22749,
+      "views_30d": 22747,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -190,14 +190,14 @@ window.DATA = {
         },
         {
           "title": "버리려던 니트, 다시 꺼내 입게 만든 만원짜리의 정체",
-          "views": 509,
+          "views": 507,
           "date": "2026-07-06",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=lZC1kWFkN1o"
         },
         {
           "title": "마늘 한 줌 넣고 버튼만 눌렀을 뿐인데, 3초 만에 벌어진 일",
-          "views": 1404,
+          "views": 1406,
           "date": "2026-07-05",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=hA5YuQU_kW4"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=wIioMVoVnco"
         }
       ],
-      "analyzed_at": "2026-07-08 07:43",
+      "analyzed_at": "2026-07-08 08:44",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=obBtMfQolps"
         }
       ],
-      "analyzed_at": "2026-07-08 07:43",
+      "analyzed_at": "2026-07-08 08:45",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1160,
       "sampled": 20,
-      "avg_views": 4830,
+      "avg_views": 4844,
       "median_views": 1262,
       "uploads_30d": 20,
-      "views_30d": 96615,
+      "views_30d": 96898,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 46728,
+          "views": 46929,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "BMW 변속할 때 울컥 충격, 미션 갈 뻔했는데 진짜 원인은 '평생 무교환' 미션오일",
-          "views": 866,
+          "views": 947,
           "date": "2026-07-07",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=te6KfTQcCc4"
@@ -471,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 46728,
+          "views": 46929,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -485,15 +485,15 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 한쪽만 브레이크 끌림, 패드 갈아도 또 그러면 진짜 범인은 캘리퍼",
-          "views": 1342,
+          "views": 1343,
           "date": "2026-07-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=HymYBwyv36Y"
         }
       ],
-      "analyzed_at": "2026-07-08 07:43",
+      "analyzed_at": "2026-07-08 08:45",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-08 07:42"
+  "generated_at": "2026-07-08 08:44"
 };
