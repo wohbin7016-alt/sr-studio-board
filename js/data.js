@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 1929,
+      "avg_views": 1931,
       "median_views": 1489,
       "uploads_30d": 20,
-      "views_30d": 38598,
+      "views_30d": 38632,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7241,
+          "views": 7245,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -44,7 +44,7 @@ window.DATA = {
         },
         {
           "title": "가구에 파인 깊은 긁힘, 호두 하나 문질렀더니",
-          "views": 2043,
+          "views": 2045,
           "date": "2026-07-05",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=pNbxtVfYYXM"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "천장에서 물 뚝뚝, 지붕은 멀쩡한데… 진짜 범인은 이 나사입니다",
-          "views": 1211,
+          "views": 1208,
           "date": "2026-07-08",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=LUkTQ_7HXCg"
@@ -88,41 +88,41 @@ window.DATA = {
         },
         {
           "title": "다림질만 하면 옷에 갈색 얼룩… 다리미 고장이 아니었어요",
-          "views": 1390,
+          "views": 1393,
           "date": "2026-07-07",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=2vLPpIj684Q"
         },
         {
           "title": "수압 약해진 진짜 이유, 수도관이 아니었어요",
-          "views": 1637,
+          "views": 1639,
           "date": "2026-07-06",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ZTaLdgT3DLw"
         },
         {
           "title": "가구에 파인 깊은 긁힘, 호두 하나 문질렀더니",
-          "views": 2043,
+          "views": 2045,
           "date": "2026-07-05",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=pNbxtVfYYXM"
         },
         {
           "title": "식탁에 하얗게 뜬 얼룩, 다리미를 댔더니 무슨 일이",
-          "views": 516,
+          "views": 517,
           "date": "2026-07-04",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=Tfv2OTlps3A"
         },
         {
           "title": "카펫에 남은 가구 눌린 자국, 얼음 하나로 복원",
-          "views": 1162,
+          "views": 1163,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=FvOtN1HJc6E"
         }
       ],
-      "analyzed_at": "2026-07-10 04:42",
+      "analyzed_at": "2026-07-10 05:43",
       "subs_delta": 0
     },
     {
@@ -139,7 +139,7 @@ window.DATA = {
       "top_videos": [
         {
           "title": "와인 코르크 부러뜨려 창피했던 내가, 버튼 하나로 3초 만에 딴 이유",
-          "views": 2328,
+          "views": 2326,
           "date": "2026-07-08",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=msWPyr9PTm4"
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "창밖으로 몸 안 빼도 바깥 유리가 닦인다고? 만원대 이거 하나면",
-          "views": 1707,
+          "views": 1708,
           "date": "2026-07-09",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=8HbGUqfjCuU"
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "창밖으로 몸 안 빼도 바깥 유리가 닦인다고? 만원대 이거 하나면",
-          "views": 1707,
+          "views": 1708,
           "date": "2026-07-09",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=8HbGUqfjCuU"
@@ -197,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "와인 코르크 부러뜨려 창피했던 내가, 버튼 하나로 3초 만에 딴 이유",
-          "views": 2328,
+          "views": 2326,
           "date": "2026-07-08",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=msWPyr9PTm4"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
         }
       ],
-      "analyzed_at": "2026-07-10 04:42",
+      "analyzed_at": "2026-07-10 05:44",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1368,
       "median_views": 1335,
       "uploads_30d": 20,
-      "views_30d": 27364,
+      "views_30d": 27365,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,14 +299,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "호랑이 vs 사자, 일대일로 붙으면 진짜 누가 이길까? (동물학자들의 결론)",
-          "views": 1395,
+          "views": 1399,
           "date": "2026-07-09",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=KGDGt56xdLo"
         },
         {
           "title": "방울뱀 소리가 들리면 도망칠 시간도 없다? 그 방울 소리의 진짜 의미",
-          "views": 1126,
+          "views": 1123,
           "date": "2026-07-09",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=xslKk3zdHOI"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=cF2thcdtYCw"
         }
       ],
-      "analyzed_at": "2026-07-10 04:43",
+      "analyzed_at": "2026-07-10 05:44",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1170,
       "sampled": 20,
-      "avg_views": 4466,
+      "avg_views": 4476,
       "median_views": 1462,
       "uploads_30d": 20,
-      "views_30d": 89323,
+      "views_30d": 89528,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 52094,
+          "views": 52177,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -406,14 +406,14 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 3279,
+          "views": 3280,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         },
         {
           "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
-          "views": 2770,
+          "views": 2787,
           "date": "2026-07-05",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
@@ -457,21 +457,21 @@ window.DATA = {
         },
         {
           "title": "BMW 변속할 때 울컥 충격, 미션 갈 뻔했는데 진짜 원인은 '평생 무교환' 미션오일",
-          "views": 2159,
+          "views": 2169,
           "date": "2026-07-07",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=te6KfTQcCc4"
         },
         {
           "title": "토요타 타코마, 브레이크만 밟으면 핸들이 부들부들… 타이어 갈아도 안 잡히는 진짜 원인",
-          "views": 2621,
+          "views": 2715,
           "date": "2026-07-06",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
         },
         {
           "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
-          "views": 2770,
+          "views": 2787,
           "date": "2026-07-05",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
         }
       ],
-      "analyzed_at": "2026-07-10 04:43",
+      "analyzed_at": "2026-07-10 05:45",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-10 04:42"
+  "generated_at": "2026-07-10 05:43"
 };
