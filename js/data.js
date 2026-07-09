@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 1954,
-      "median_views": 1572,
+      "avg_views": 1880,
+      "median_views": 1489,
       "uploads_30d": 20,
-      "views_30d": 39099,
+      "views_30d": 37609,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7228,
+          "views": 7233,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "빨래에서 꿉꿉한 냄새? 세제 아무리 바꿔도 소용없던 진짜 이유",
-          "views": 2285,
+          "views": 2286,
           "date": "2026-07-07",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fnxn2bm3lo8"
@@ -43,14 +43,21 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
         },
         {
-          "title": "돌처럼 굳은 페인트 붓, 식초로 복원",
-          "views": 2073,
-          "date": "2026-06-25",
-          "duration": 16,
-          "url": "https://www.youtube.com/watch?v=wFD7re2ml6U"
+          "title": "가구에 파인 깊은 긁힘, 호두 하나 문질렀더니",
+          "views": 1993,
+          "date": "2026-07-05",
+          "duration": 27,
+          "url": "https://www.youtube.com/watch?v=pNbxtVfYYXM"
         }
       ],
       "recent_videos": [
+        {
+          "title": "미국 1위 픽업 포드가, 이 각진 트럭에 뒤로 끌려갑니다 (테슬라 사이버트럭 줄다리기)",
+          "views": 574,
+          "date": "2026-07-09",
+          "duration": 19,
+          "url": "https://www.youtube.com/watch?v=IXcgi7NPV4A"
+        },
         {
           "title": "가스레인지 상판, 아무리 닦아도 안 반짝이는 진짜 이유 (문지르지 마세요)",
           "views": 947,
@@ -60,21 +67,21 @@ window.DATA = {
         },
         {
           "title": "천장에서 물 뚝뚝, 지붕은 멀쩡한데… 진짜 범인은 이 나사입니다",
-          "views": 1205,
+          "views": 1207,
           "date": "2026-07-08",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=LUkTQ_7HXCg"
         },
         {
           "title": "전자레인지 찌든때, 세제로 문지르지 마세요",
-          "views": 1802,
+          "views": 1803,
           "date": "2026-07-08",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=F4RmYWBYlJk"
         },
         {
           "title": "빨래에서 꿉꿉한 냄새? 세제 아무리 바꿔도 소용없던 진짜 이유",
-          "views": 2285,
+          "views": 2286,
           "date": "2026-07-07",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=fnxn2bm3lo8"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=FvOtN1HJc6E"
-        },
-        {
-          "title": "화장실 실리콘 지저분한 이유, 프로는 짜기 전에 '이것'부터 합니다",
-          "views": 1053,
-          "date": "2026-07-03",
-          "duration": 21,
-          "url": "https://www.youtube.com/watch?v=JKsEy1BWpSg"
         }
       ],
-      "analyzed_at": "2026-07-09 18:22",
+      "analyzed_at": "2026-07-09 19:25",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1220,
-      "median_views": 1430,
+      "avg_views": 1152,
+      "median_views": 1348,
       "uploads_30d": 20,
-      "views_30d": 24419,
+      "views_30d": 23049,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -166,14 +166,21 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
         },
         {
-          "title": "에이서 니트로 V16S AI (라이젠7·RTX5060·16\" 180Hz)",
-          "views": 1764,
-          "date": "2026-06-25",
-          "duration": 36,
-          "url": "https://www.youtube.com/watch?v=zkBDKLTw4hY"
+          "title": "안경 잠깐 담갔을 뿐인데, 물이 이렇게 되는 이유",
+          "views": 1685,
+          "date": "2026-07-04",
+          "duration": 34,
+          "url": "https://www.youtube.com/watch?v=qUCPoh--hXs"
         }
       ],
       "recent_videos": [
+        {
+          "title": "창밖으로 몸 안 빼도 바깥 유리가 닦인다고? 만원대 이거 하나면",
+          "views": 393,
+          "date": "2026-07-09",
+          "duration": 32,
+          "url": "https://www.youtube.com/watch?v=8HbGUqfjCuU"
+        },
         {
           "title": "산 지 얼마 안 된 흰 운동화가 벌써 꼬질꼬질, 세탁소 말고 이렇게 했더니",
           "views": 1633,
@@ -225,7 +232,7 @@ window.DATA = {
         },
         {
           "title": "안경 잠깐 담갔을 뿐인데, 물이 이렇게 되는 이유",
-          "views": 1684,
+          "views": 1685,
           "date": "2026-07-04",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=qUCPoh--hXs"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
-        },
-        {
-          "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
-          "views": 1840,
-          "date": "2026-07-03",
-          "duration": 43,
-          "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
         }
       ],
-      "analyzed_at": "2026-07-09 18:23",
+      "analyzed_at": "2026-07-09 19:25",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1351,
+      "avg_views": 1326,
       "median_views": 1316,
       "uploads_30d": 20,
-      "views_30d": 27026,
+      "views_30d": 26531,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -298,6 +298,13 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "호랑이 vs 사자, 일대일로 붙으면 진짜 누가 이길까? (동물학자들의 결론)",
+          "views": 581,
+          "date": "2026-07-09",
+          "duration": 38,
+          "url": "https://www.youtube.com/watch?v=KGDGt56xdLo"
+        },
+        {
           "title": "방울뱀 소리가 들리면 도망칠 시간도 없다? 그 방울 소리의 진짜 의미",
           "views": 1122,
           "date": "2026-07-09",
@@ -320,7 +327,7 @@ window.DATA = {
         },
         {
           "title": "실버백 고릴라 vs 사자, 진짜 누가 이길까?",
-          "views": 1426,
+          "views": 1425,
           "date": "2026-07-07",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=xNpdHStHc_w"
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-07-03",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=cF2thcdtYCw"
-        },
-        {
-          "title": "얼룩말 줄무늬는 위장이 아니었다, 진짜 이유가 소름",
-          "views": 1271,
-          "date": "2026-07-02",
-          "duration": 31,
-          "url": "https://www.youtube.com/watch?v=8W9PvbPbRN0"
         }
       ],
-      "analyzed_at": "2026-07-09 18:23",
+      "analyzed_at": "2026-07-09 19:26",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1170,
       "sampled": 20,
-      "avg_views": 4292,
-      "median_views": 1456,
+      "avg_views": 4530,
+      "median_views": 1552,
       "uploads_30d": 20,
-      "views_30d": 85846,
+      "views_30d": 86088,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 50183,
+          "views": 50381,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -399,7 +399,7 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 8175,
+          "views": 8230,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -420,6 +420,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "포드 익스페디션 히터 딸깍 소리·한쪽만 뜨거운 바람, 진짜 원인은 블렌드도어 액추에이터",
+          "views": 0,
+          "date": "2026-07-09",
+          "duration": 34,
+          "url": "https://www.youtube.com/watch?v=GDrFW1mZ0iY"
+        },
         {
           "title": "포드 밴 갑자기 힘 빠지고 경고등, 미션인 줄 알았는데 진짜 범인은 엔진 속 '이 벨트'",
           "views": 668,
@@ -457,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "토요타 타코마, 브레이크만 밟으면 핸들이 부들부들… 타이어 갈아도 안 잡히는 진짜 원인",
-          "views": 2108,
+          "views": 2131,
           "date": "2026-07-06",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
@@ -471,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 8175,
+          "views": 8230,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -482,18 +489,11 @@ window.DATA = {
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
-        },
-        {
-          "title": "차 바닥이 흥건한데 창문은 멀쩡? 진짜 범인은 여기였다",
-          "views": 1799,
-          "date": "2026-07-03",
-          "duration": 30,
-          "url": "https://www.youtube.com/watch?v=VtjFL6suLso"
         }
       ],
-      "analyzed_at": "2026-07-09 18:24",
+      "analyzed_at": "2026-07-09 19:26",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-09 18:22"
+  "generated_at": "2026-07-09 19:25"
 };
