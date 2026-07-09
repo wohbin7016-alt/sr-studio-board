@@ -493,6 +493,203 @@ window.DATA = {
       ],
       "analyzed_at": "2026-07-10 06:46",
       "subs_delta": 0
+    },
+    {
+      "url": "https://youtube.com/@viewpoint-q9y",
+      "name": "뷰포인트",
+      "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
+      "subscribers": 28,
+      "sampled": 4,
+      "avg_views": 2902,
+      "median_views": 2271,
+      "uploads_30d": 4,
+      "views_30d": 11611,
+      "shorts_ratio": 0.0,
+      "top_videos": [
+        {
+          "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
+          "views": 7057,
+          "date": "2026-07-05",
+          "duration": 1309,
+          "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
+        },
+        {
+          "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
+          "views": 4158,
+          "date": "2026-07-07",
+          "duration": 1248,
+          "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
+        },
+        {
+          "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
+          "views": 384,
+          "date": "2026-07-08",
+          "duration": 1039,
+          "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
+        },
+        {
+          "title": "영화 '왕과 사는 남자'(The King's Warden) — 외국인 리뷰어들이 이야기가 흘러갈수록 무너져간 순간들, 그리고 마지막 두 무덤 [이야기 순서 실시간 해외반응]",
+          "views": 12,
+          "date": "2026-07-09",
+          "duration": 1790,
+          "url": "https://www.youtube.com/watch?v=eg_lagzzcEc"
+        }
+      ],
+      "recent_videos": [
+        {
+          "title": "영화 '왕과 사는 남자'(The King's Warden) — 외국인 리뷰어들이 이야기가 흘러갈수록 무너져간 순간들, 그리고 마지막 두 무덤 [이야기 순서 실시간 해외반응]",
+          "views": 12,
+          "date": "2026-07-09",
+          "duration": 1790,
+          "url": "https://www.youtube.com/watch?v=eg_lagzzcEc"
+        },
+        {
+          "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
+          "views": 384,
+          "date": "2026-07-08",
+          "duration": 1039,
+          "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
+        },
+        {
+          "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
+          "views": 4158,
+          "date": "2026-07-07",
+          "duration": 1248,
+          "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
+        },
+        {
+          "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
+          "views": 7057,
+          "date": "2026-07-05",
+          "duration": 1309,
+          "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
+        }
+      ],
+      "analyzed_at": "2026-07-10 07:42",
+      "subs_delta": null
+    },
+    {
+      "url": "https://www.youtube.com/@해외반응픽",
+      "name": "해외반응픽",
+      "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
+      "subscribers": 22,
+      "sampled": 10,
+      "avg_views": 864,
+      "median_views": 470,
+      "uploads_30d": 10,
+      "views_30d": 8645,
+      "shorts_ratio": 0.0,
+      "top_videos": [
+        {
+          "title": "「한국이 또 사고 쳤다」 공개 2화 만에 8개국 1위 찍은 '김부장'에 외국인들이 뒤집힌 이유",
+          "views": 3796,
+          "date": "2026-07-01",
+          "duration": 197,
+          "url": "https://www.youtube.com/watch?v=0kRbNkq52gw"
+        },
+        {
+          "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
+          "views": 1633,
+          "date": "2026-07-07",
+          "duration": 604,
+          "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
+        },
+        {
+          "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
+          "views": 817,
+          "date": "2026-07-06",
+          "duration": 539,
+          "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
+        },
+        {
+          "title": "넷플릭스 전 세계 1위 '참교육'— 외국인들이 충격받은 이유",
+          "views": 651,
+          "date": "2026-06-25",
+          "duration": 456,
+          "url": "https://www.youtube.com/watch?v=nAQjrAbdMHs"
+        },
+        {
+          "title": "아빠 이종범을 넘었다고? 미국이 이정후에게 놀란 진짜 이유",
+          "views": 480,
+          "date": "2026-06-26",
+          "duration": 529,
+          "url": "https://www.youtube.com/watch?v=OxRTk6powEY"
+        }
+      ],
+      "recent_videos": [
+        {
+          "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
+          "views": 460,
+          "date": "2026-07-09",
+          "duration": 1852,
+          "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
+        },
+        {
+          "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
+          "views": 1633,
+          "date": "2026-07-07",
+          "duration": 604,
+          "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
+        },
+        {
+          "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
+          "views": 817,
+          "date": "2026-07-06",
+          "duration": 539,
+          "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
+        },
+        {
+          "title": "방탄 콘서트에서 외국인 8만 명이 갑자기 한국 '민요'를 떼창한 이유",
+          "views": 274,
+          "date": "2026-07-04",
+          "duration": 77,
+          "url": "https://www.youtube.com/watch?v=Y-8z1_qauzE"
+        },
+        {
+          "title": "스페인이 \"최악의 실수\" 인정하고 다시 데려가는 한국 선수",
+          "views": 54,
+          "date": "2026-07-03",
+          "duration": 144,
+          "url": "https://www.youtube.com/watch?v=wPX4coMWHIY"
+        },
+        {
+          "title": "예고편 딱 39초 풀었을 뿐인데, 해외가 벌써 난리 난 이유",
+          "views": 336,
+          "date": "2026-07-02",
+          "duration": 147,
+          "url": "https://www.youtube.com/watch?v=Mg4J7Y0RHpE"
+        },
+        {
+          "title": "「한국이 또 사고 쳤다」 공개 2화 만에 8개국 1위 찍은 '김부장'에 외국인들이 뒤집힌 이유",
+          "views": 3796,
+          "date": "2026-07-01",
+          "duration": 197,
+          "url": "https://www.youtube.com/watch?v=0kRbNkq52gw"
+        },
+        {
+          "title": "홍명보 사퇴…일본이 갑자기 꺼낸 의외의 한마디",
+          "views": 144,
+          "date": "2026-06-30",
+          "duration": 136,
+          "url": "https://www.youtube.com/watch?v=TISSoRXU0A4"
+        },
+        {
+          "title": "아빠 이종범을 넘었다고? 미국이 이정후에게 놀란 진짜 이유",
+          "views": 480,
+          "date": "2026-06-26",
+          "duration": 529,
+          "url": "https://www.youtube.com/watch?v=OxRTk6powEY"
+        },
+        {
+          "title": "넷플릭스 전 세계 1위 '참교육'— 외국인들이 충격받은 이유",
+          "views": 651,
+          "date": "2026-06-25",
+          "duration": 456,
+          "url": "https://www.youtube.com/watch?v=nAQjrAbdMHs"
+        }
+      ],
+      "analyzed_at": "2026-07-10 07:42",
+      "subs_delta": null
     }
   ],
   "generated_at": "2026-07-10 06:45"
