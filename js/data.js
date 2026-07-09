@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 1903,
+      "avg_views": 1916,
       "median_views": 1489,
       "uploads_30d": 20,
-      "views_30d": 38074,
+      "views_30d": 38328,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -23,7 +23,7 @@ window.DATA = {
         },
         {
           "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
-          "views": 4361,
+          "views": 4360,
           "date": "2026-06-27",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "미국 1위 픽업 포드가, 이 각진 트럭에 뒤로 끌려갑니다 (테슬라 사이버트럭 줄다리기)",
-          "views": 994,
+          "views": 1249,
           "date": "2026-07-09",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IXcgi7NPV4A"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FvOtN1HJc6E"
         }
       ],
-      "analyzed_at": "2026-07-09 21:29",
+      "analyzed_at": "2026-07-09 22:31",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1190,
+      "avg_views": 1192,
       "median_views": 1348,
       "uploads_30d": 20,
-      "views_30d": 23802,
+      "views_30d": 23851,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,14 +176,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "창밖으로 몸 안 빼도 바깥 유리가 닦인다고? 만원대 이거 하나면",
-          "views": 1138,
+          "views": 1155,
           "date": "2026-07-09",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=8HbGUqfjCuU"
         },
         {
           "title": "산 지 얼마 안 된 흰 운동화가 벌써 꼬질꼬질, 세탁소 말고 이렇게 했더니",
-          "views": 1633,
+          "views": 1665,
           "date": "2026-07-09",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=ezaNvYARCLU"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
         }
       ],
-      "analyzed_at": "2026-07-09 21:30",
+      "analyzed_at": "2026-07-09 22:32",
       "subs_delta": 0
     },
     {
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1349,
-      "median_views": 1316,
+      "avg_views": 1365,
+      "median_views": 1335,
       "uploads_30d": 20,
-      "views_30d": 26982,
+      "views_30d": 27301,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "얼어 죽은 개구리가 봄에 다시 살아나는 이유",
-          "views": 1837,
+          "views": 1838,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=52XtgfX8fns"
@@ -299,21 +299,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "호랑이 vs 사자, 일대일로 붙으면 진짜 누가 이길까? (동물학자들의 결론)",
-          "views": 1028,
+          "views": 1340,
           "date": "2026-07-09",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=KGDGt56xdLo"
         },
         {
           "title": "방울뱀 소리가 들리면 도망칠 시간도 없다? 그 방울 소리의 진짜 의미",
-          "views": 1122,
+          "views": 1125,
           "date": "2026-07-09",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=xslKk3zdHOI"
         },
         {
           "title": "곰도 사냥해 잡아먹는 이 동물의 정체는?",
-          "views": 1286,
+          "views": 1287,
           "date": "2026-07-08",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=iza1oSpwYvM"
@@ -355,7 +355,7 @@ window.DATA = {
         },
         {
           "title": "얼어 죽은 개구리가 봄에 다시 살아나는 이유",
-          "views": 1837,
+          "views": 1838,
           "date": "2026-07-03",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=52XtgfX8fns"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=cF2thcdtYCw"
         }
       ],
-      "analyzed_at": "2026-07-09 21:30",
+      "analyzed_at": "2026-07-09 22:32",
       "subs_delta": 0
     },
     {
@@ -377,18 +377,25 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1170,
       "sampled": 20,
-      "avg_views": 4327,
+      "avg_views": 4359,
       "median_views": 1464,
       "uploads_30d": 20,
-      "views_30d": 86543,
+      "views_30d": 87190,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 50582,
+          "views": 50679,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
+        },
+        {
+          "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
+          "views": 8355,
+          "date": "2026-07-04",
+          "duration": 30,
+          "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
@@ -396,13 +403,6 @@ window.DATA = {
           "date": "2026-06-28",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
-        },
-        {
-          "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 8230,
-          "date": "2026-07-04",
-          "duration": 30,
-          "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "포드 밴 갑자기 힘 빠지고 경고등, 미션인 줄 알았는데 진짜 범인은 엔진 속 '이 벨트'",
-          "views": 668,
+          "views": 861,
           "date": "2026-07-09",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=rs5wMEuZQEs"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "토요타 갑자기 기름 먹는 하마, 미션 아니고 진짜 원인은 카본 낀 에어플로우 센서",
-          "views": 160,
+          "views": 168,
           "date": "2026-07-07",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=nqfZ937zZT8"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "토요타 타코마, 브레이크만 밟으면 핸들이 부들부들… 타이어 갈아도 안 잡히는 진짜 원인",
-          "views": 2131,
+          "views": 2355,
           "date": "2026-07-06",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 8230,
+          "views": 8355,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
         }
       ],
-      "analyzed_at": "2026-07-09 21:31",
+      "analyzed_at": "2026-07-09 22:33",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-09 21:29"
+  "generated_at": "2026-07-09 22:31"
 };
