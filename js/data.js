@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 1921,
+      "avg_views": 1927,
       "median_views": 1489,
       "uploads_30d": 20,
-      "views_30d": 38434,
+      "views_30d": 38540,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "미국 1위 픽업 포드가, 이 각진 트럭에 뒤로 끌려갑니다 (테슬라 사이버트럭 줄다리기)",
-          "views": 1285,
+          "views": 1384,
           "date": "2026-07-09",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IXcgi7NPV4A"
@@ -74,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "전자레인지 찌든때, 세제로 문지르지 마세요",
-          "views": 1816,
+          "views": 1822,
           "date": "2026-07-08",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=F4RmYWBYlJk"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "수압 약해진 진짜 이유, 수도관이 아니었어요",
-          "views": 1635,
+          "views": 1636,
           "date": "2026-07-06",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=ZTaLdgT3DLw"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FvOtN1HJc6E"
         }
       ],
-      "analyzed_at": "2026-07-10 02:39",
+      "analyzed_at": "2026-07-10 03:40",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1218,
       "median_views": 1430,
       "uploads_30d": 20,
-      "views_30d": 24377,
+      "views_30d": 24362,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -146,7 +146,7 @@ window.DATA = {
         },
         {
           "title": "행주로 아무리 닦아도 찐득하던 가스레인지, 뿌리기만 했더니 벌어진 일",
-          "views": 2248,
+          "views": 2233,
           "date": "2026-07-08",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=s-B534b33zI"
@@ -190,7 +190,7 @@ window.DATA = {
         },
         {
           "title": "행주로 아무리 닦아도 찐득하던 가스레인지, 뿌리기만 했더니 벌어진 일",
-          "views": 2248,
+          "views": 2233,
           "date": "2026-07-08",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=s-B534b33zI"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
         }
       ],
-      "analyzed_at": "2026-07-10 02:39",
+      "analyzed_at": "2026-07-10 03:41",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1366,
+      "avg_views": 1368,
       "median_views": 1335,
       "uploads_30d": 20,
-      "views_30d": 27339,
+      "views_30d": 27360,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -290,7 +290,7 @@ window.DATA = {
         },
         {
           "title": "세상에서 가장 겁 없는 동물이 코브라에 물려도 멀쩡한 이유",
-          "views": 1509,
+          "views": 1511,
           "date": "2026-07-01",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=145jVCEOpMs"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "호랑이 vs 사자, 일대일로 붙으면 진짜 누가 이길까? (동물학자들의 결론)",
-          "views": 1379,
+          "views": 1395,
           "date": "2026-07-09",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=KGDGt56xdLo"
@@ -320,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "이 거미의 정체는? 새를 잡아먹는 뱀",
-          "views": 1233,
+          "views": 1236,
           "date": "2026-07-08",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=ZGhfgQ_dRzk"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=cF2thcdtYCw"
         }
       ],
-      "analyzed_at": "2026-07-10 02:40",
+      "analyzed_at": "2026-07-10 03:41",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1170,
       "sampled": 20,
-      "avg_views": 4441,
-      "median_views": 1466,
+      "avg_views": 4456,
+      "median_views": 1462,
       "uploads_30d": 20,
-      "views_30d": 88825,
+      "views_30d": 89123,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 51640,
+          "views": 51953,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -406,14 +406,14 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 3278,
+          "views": 3263,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         },
         {
           "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
-          "views": 2752,
+          "views": 2760,
           "date": "2026-07-05",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
-          "views": 1381,
+          "views": 1373,
           "date": "2026-07-08",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
@@ -471,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
-          "views": 2752,
+          "views": 2760,
           "date": "2026-07-05",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
@@ -491,9 +491,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
         }
       ],
-      "analyzed_at": "2026-07-10 02:40",
+      "analyzed_at": "2026-07-10 03:42",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-10 02:39"
+  "generated_at": "2026-07-10 03:40"
 };
