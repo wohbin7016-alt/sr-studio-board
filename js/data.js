@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 1971,
+      "avg_views": 1900,
       "median_views": 1566,
       "uploads_30d": 20,
-      "views_30d": 39427,
+      "views_30d": 38019,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "밑창 떨어진 신발 버리지 마세요 5분이면 새것 됩니다",
-          "views": 2192,
+          "views": 2193,
           "date": "2026-06-30",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
@@ -51,6 +51,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "가스레인지 상판, 아무리 닦아도 안 반짝이는 진짜 이유 (문지르지 마세요)",
+          "views": 7,
+          "date": "2026-07-09",
+          "duration": 31,
+          "url": "https://www.youtube.com/watch?v=oF2fXLdXnX0"
+        },
         {
           "title": "천장에서 물 뚝뚝, 지붕은 멀쩡한데… 진짜 범인은 이 나사입니다",
           "views": 1191,
@@ -74,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "다림질만 하면 옷에 갈색 얼룩… 다리미 고장이 아니었어요",
-          "views": 1387,
+          "views": 1389,
           "date": "2026-07-07",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=2vLPpIj684Q"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-07-03",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=JKsEy1BWpSg"
-        },
-        {
-          "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7213,
-          "date": "2026-07-02",
-          "duration": 18,
-          "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
         }
       ],
-      "analyzed_at": "2026-07-09 11:09",
+      "analyzed_at": "2026-07-09 12:11",
       "subs_delta": 0
     },
     {
@@ -134,12 +134,12 @@ window.DATA = {
       "avg_views": 1214,
       "median_views": 1430,
       "uploads_30d": 20,
-      "views_30d": 24289,
+      "views_30d": 24290,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "와인 코르크 부러뜨려 창피했던 내가, 버튼 하나로 3초 만에 딴 이유",
-          "views": 2315,
+          "views": 2316,
           "date": "2026-07-08",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=msWPyr9PTm4"
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "와인 코르크 부러뜨려 창피했던 내가, 버튼 하나로 3초 만에 딴 이유",
-          "views": 2315,
+          "views": 2316,
           "date": "2026-07-08",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=msWPyr9PTm4"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=iXUX5RkLHBY"
         }
       ],
-      "analyzed_at": "2026-07-09 11:10",
+      "analyzed_at": "2026-07-09 12:11",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1367,
-      "median_views": 1335,
+      "avg_views": 1362,
+      "median_views": 1331,
       "uploads_30d": 20,
-      "views_30d": 27355,
+      "views_30d": 25888,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -297,6 +297,13 @@ window.DATA = {
         }
       ],
       "recent_videos": [
+        {
+          "title": "방울뱀 소리가 들리면 도망칠 시간도 없다? 그 방울 소리의 진짜 의미",
+          "views": 0,
+          "date": "2026-07-09",
+          "duration": 24,
+          "url": "https://www.youtube.com/watch?v=xslKk3zdHOI"
+        },
         {
           "title": "곰도 사냥해 잡아먹는 이 동물의 정체는?",
           "views": 1286,
@@ -359,16 +366,9 @@ window.DATA = {
           "date": "2026-07-02",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=8W9PvbPbRN0"
-        },
-        {
-          "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
-          "views": 1783,
-          "date": "2026-07-01",
-          "duration": 26,
-          "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
         }
       ],
-      "analyzed_at": "2026-07-09 11:10",
+      "analyzed_at": "2026-07-09 12:12",
       "subs_delta": 0
     },
     {
@@ -377,25 +377,18 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1170,
       "sampled": 20,
-      "avg_views": 5143,
-      "median_views": 1635,
+      "avg_views": 4189,
+      "median_views": 1447,
       "uploads_30d": 20,
-      "views_30d": 102865,
+      "views_30d": 83787,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 49744,
+          "views": 49828,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
-        },
-        {
-          "title": "현대 i10 시동 약함, 진짜 원인은 발전기(알터네이터)",
-          "views": 19263,
-          "date": "2026-06-25",
-          "duration": 26,
-          "url": "https://www.youtube.com/watch?v=NqLSWQtSIRE"
         },
         {
           "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
@@ -417,9 +410,23 @@ window.DATA = {
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
+        },
+        {
+          "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
+          "views": 2603,
+          "date": "2026-07-05",
+          "duration": 29,
+          "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
         }
       ],
       "recent_videos": [
+        {
+          "title": "포드 밴 갑자기 힘 빠지고 경고등, 미션인 줄 알았는데 진짜 범인은 엔진 속 '이 벨트'",
+          "views": 101,
+          "date": "2026-07-09",
+          "duration": 25,
+          "url": "https://www.youtube.com/watch?v=rs5wMEuZQEs"
+        },
         {
           "title": "혼다 시티 신호만 걸리면 부르르 시동 꺼질 듯, 배터리 아니라 스로틀바디였다",
           "views": 39,
@@ -482,18 +489,11 @@ window.DATA = {
           "date": "2026-07-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=VtjFL6suLso"
-        },
-        {
-          "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 49744,
-          "date": "2026-07-02",
-          "duration": 26,
-          "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         }
       ],
-      "analyzed_at": "2026-07-09 11:10",
+      "analyzed_at": "2026-07-09 12:12",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-09 11:09"
+  "generated_at": "2026-07-09 12:11"
 };
