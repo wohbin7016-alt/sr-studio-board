@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 1930,
+      "avg_views": 1931,
       "median_views": 1489,
       "uploads_30d": 20,
-      "views_30d": 38617,
+      "views_30d": 38620,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FvOtN1HJc6E"
         }
       ],
-      "analyzed_at": "2026-07-10 06:45",
+      "analyzed_at": "2026-07-10 07:47",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1219,
       "median_views": 1430,
       "uploads_30d": 20,
-      "views_30d": 24389,
+      "views_30d": 24391,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
         }
       ],
-      "analyzed_at": "2026-07-10 06:45",
+      "analyzed_at": "2026-07-10 07:47",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1368,
       "median_views": 1335,
       "uploads_30d": 20,
-      "views_30d": 27362,
+      "views_30d": 27366,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -320,14 +320,14 @@ window.DATA = {
         },
         {
           "title": "이 거미의 정체는? 새를 잡아먹는 뱀",
-          "views": 1233,
+          "views": 1234,
           "date": "2026-07-08",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=ZGhfgQ_dRzk"
         },
         {
           "title": "실버백 고릴라 vs 사자, 진짜 누가 이길까?",
-          "views": 1433,
+          "views": 1432,
           "date": "2026-07-07",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=xNpdHStHc_w"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=cF2thcdtYCw"
         }
       ],
-      "analyzed_at": "2026-07-10 06:46",
+      "analyzed_at": "2026-07-10 07:47",
       "subs_delta": 0
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1170,
       "sampled": 20,
-      "avg_views": 4478,
-      "median_views": 1462,
+      "avg_views": 4499,
+      "median_views": 1466,
       "uploads_30d": 20,
-      "views_30d": 89571,
+      "views_30d": 89984,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 52242,
+          "views": 52369,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 8511,
+          "views": 8566,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -406,7 +406,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 3279,
+          "views": 3280,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -429,21 +429,21 @@ window.DATA = {
         },
         {
           "title": "포드 밴 갑자기 힘 빠지고 경고등, 미션인 줄 알았는데 진짜 범인은 엔진 속 '이 벨트'",
-          "views": 948,
+          "views": 1091,
           "date": "2026-07-09",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=rs5wMEuZQEs"
         },
         {
           "title": "혼다 시티 신호만 걸리면 부르르 시동 꺼질 듯, 배터리 아니라 스로틀바디였다",
-          "views": 92,
+          "views": 93,
           "date": "2026-07-08",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=-4Get_WrrwI"
         },
         {
           "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
-          "views": 1373,
+          "views": 1380,
           "date": "2026-07-08",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
@@ -457,14 +457,14 @@ window.DATA = {
         },
         {
           "title": "BMW 변속할 때 울컥 충격, 미션 갈 뻔했는데 진짜 원인은 '평생 무교환' 미션오일",
-          "views": 2169,
+          "views": 2183,
           "date": "2026-07-07",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=te6KfTQcCc4"
         },
         {
           "title": "토요타 타코마, 브레이크만 밟으면 핸들이 부들부들… 타이어 갈아도 안 잡히는 진짜 원인",
-          "views": 2690,
+          "views": 2755,
           "date": "2026-07-06",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 8511,
+          "views": 8566,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
         }
       ],
-      "analyzed_at": "2026-07-10 06:46",
+      "analyzed_at": "2026-07-10 07:48",
       "subs_delta": 0
     },
     {
@@ -500,22 +500,22 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 28,
       "sampled": 4,
-      "avg_views": 2902,
-      "median_views": 2271,
+      "avg_views": 2908,
+      "median_views": 2269,
       "uploads_30d": 4,
-      "views_30d": 11611,
+      "views_30d": 11634,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-          "views": 7057,
+          "views": 7083,
           "date": "2026-07-05",
           "duration": 1309,
           "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 4158,
+          "views": 4155,
           "date": "2026-07-07",
           "duration": 1248,
           "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
@@ -552,20 +552,20 @@ window.DATA = {
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 4158,
+          "views": 4155,
           "date": "2026-07-07",
           "duration": 1248,
           "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
         },
         {
           "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-          "views": 7057,
+          "views": 7083,
           "date": "2026-07-05",
           "duration": 1309,
           "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
         }
       ],
-      "analyzed_at": "2026-07-10 07:42",
+      "analyzed_at": "2026-07-10 07:48",
       "subs_delta": null
     },
     {
@@ -574,10 +574,10 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 22,
       "sampled": 10,
-      "avg_views": 864,
-      "median_views": 470,
+      "avg_views": 865,
+      "median_views": 472,
       "uploads_30d": 10,
-      "views_30d": 8645,
+      "views_30d": 8651,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -589,7 +589,7 @@ window.DATA = {
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 1633,
+          "views": 1631,
           "date": "2026-07-07",
           "duration": 604,
           "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
@@ -619,14 +619,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-          "views": 460,
+          "views": 464,
           "date": "2026-07-09",
           "duration": 1852,
           "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 1633,
+          "views": 1631,
           "date": "2026-07-07",
           "duration": 604,
           "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
@@ -654,7 +654,7 @@ window.DATA = {
         },
         {
           "title": "예고편 딱 39초 풀었을 뿐인데, 해외가 벌써 난리 난 이유",
-          "views": 336,
+          "views": 340,
           "date": "2026-07-02",
           "duration": 147,
           "url": "https://www.youtube.com/watch?v=Mg4J7Y0RHpE"
@@ -688,9 +688,9 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nAQjrAbdMHs"
         }
       ],
-      "analyzed_at": "2026-07-10 07:42",
+      "analyzed_at": "2026-07-10 07:48",
       "subs_delta": null
     }
   ],
-  "generated_at": "2026-07-10 06:45"
+  "generated_at": "2026-07-10 07:47"
 };
