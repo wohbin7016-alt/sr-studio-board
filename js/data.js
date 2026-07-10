@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 1934,
+      "avg_views": 1933,
       "median_views": 1489,
       "uploads_30d": 20,
-      "views_30d": 38682,
+      "views_30d": 38675,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -44,7 +44,7 @@ window.DATA = {
         },
         {
           "title": "가구에 파인 깊은 긁힘, 호두 하나 문질렀더니",
-          "views": 2046,
+          "views": 2047,
           "date": "2026-07-05",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=pNbxtVfYYXM"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "미국 1위 픽업 포드가, 이 각진 트럭에 뒤로 끌려갑니다 (테슬라 사이버트럭 줄다리기)",
-          "views": 1431,
+          "views": 1420,
           "date": "2026-07-09",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IXcgi7NPV4A"
         },
         {
           "title": "가스레인지 상판, 아무리 닦아도 안 반짝이는 진짜 이유 (문지르지 마세요)",
-          "views": 948,
+          "views": 951,
           "date": "2026-07-09",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=oF2fXLdXnX0"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "가구에 파인 깊은 긁힘, 호두 하나 문질렀더니",
-          "views": 2046,
+          "views": 2047,
           "date": "2026-07-05",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=pNbxtVfYYXM"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FvOtN1HJc6E"
         }
       ],
-      "analyzed_at": "2026-07-10 09:51",
+      "analyzed_at": "2026-07-10 10:53",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
         }
       ],
-      "analyzed_at": "2026-07-10 09:51",
+      "analyzed_at": "2026-07-10 10:53",
       "subs_delta": 0
     },
     {
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=cF2thcdtYCw"
         }
       ],
-      "analyzed_at": "2026-07-10 09:52",
+      "analyzed_at": "2026-07-10 10:54",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1170,
       "sampled": 20,
-      "avg_views": 4517,
+      "avg_views": 4530,
       "median_views": 1470,
       "uploads_30d": 20,
-      "views_30d": 90354,
+      "views_30d": 90600,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 52648,
+          "views": 52867,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -406,7 +406,7 @@ window.DATA = {
         },
         {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-          "views": 3280,
+          "views": 3281,
           "date": "2026-06-29",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
@@ -422,21 +422,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "포드 익스페디션 히터 딸깍 소리·한쪽만 뜨거운 바람, 진짜 원인은 블렌드도어 액추에이터",
-          "views": 17,
+          "views": 13,
           "date": "2026-07-09",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=GDrFW1mZ0iY"
         },
         {
           "title": "포드 밴 갑자기 힘 빠지고 경고등, 미션인 줄 알았는데 진짜 범인은 엔진 속 '이 벨트'",
-          "views": 1091,
+          "views": 1115,
           "date": "2026-07-09",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=rs5wMEuZQEs"
         },
         {
           "title": "혼다 시티 신호만 걸리면 부르르 시동 꺼질 듯, 배터리 아니라 스로틀바디였다",
-          "views": 93,
+          "views": 96,
           "date": "2026-07-08",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=-4Get_WrrwI"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "토요타 갑자기 기름 먹는 하마, 미션 아니고 진짜 원인은 카본 낀 에어플로우 센서",
-          "views": 166,
+          "views": 169,
           "date": "2026-07-07",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=nqfZ937zZT8"
@@ -491,38 +491,38 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
         }
       ],
-      "analyzed_at": "2026-07-10 09:52",
+      "analyzed_at": "2026-07-10 10:54",
       "subs_delta": 0
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
       "name": "뷰포인트",
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
-      "subscribers": 29,
+      "subscribers": 30,
       "sampled": 3,
-      "avg_views": 3972,
-      "median_views": 4158,
+      "avg_views": 4023,
+      "median_views": 4207,
       "uploads_30d": 3,
-      "views_30d": 11916,
+      "views_30d": 12070,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-          "views": 7374,
+          "views": 7473,
           "date": "2026-07-05",
           "duration": 1309,
           "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 4158,
+          "views": 4207,
           "date": "2026-07-07",
           "duration": 1248,
           "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
         },
         {
           "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-          "views": 384,
+          "views": 390,
           "date": "2026-07-08",
           "duration": 1039,
           "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
@@ -531,27 +531,27 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-          "views": 384,
+          "views": 390,
           "date": "2026-07-08",
           "duration": 1039,
           "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 4158,
+          "views": 4207,
           "date": "2026-07-07",
           "duration": 1248,
           "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
         },
         {
           "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-          "views": 7374,
+          "views": 7473,
           "date": "2026-07-05",
           "duration": 1309,
           "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
         }
       ],
-      "analyzed_at": "2026-07-10 09:52",
+      "analyzed_at": "2026-07-10 10:54",
       "subs_delta": null
     },
     {
@@ -560,10 +560,10 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 22,
       "sampled": 10,
-      "avg_views": 867,
-      "median_views": 475,
+      "avg_views": 878,
+      "median_views": 514,
       "uploads_30d": 10,
-      "views_30d": 8673,
+      "views_30d": 8783,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -575,14 +575,14 @@ window.DATA = {
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 1640,
+          "views": 1665,
           "date": "2026-07-07",
           "duration": 604,
           "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
         },
         {
           "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-          "views": 817,
+          "views": 824,
           "date": "2026-07-06",
           "duration": 539,
           "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
@@ -595,31 +595,31 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nAQjrAbdMHs"
         },
         {
-          "title": "아빠 이종범을 넘었다고? 미국이 이정후에게 놀란 진짜 이유",
-          "views": 481,
-          "date": "2026-06-26",
-          "duration": 529,
-          "url": "https://www.youtube.com/watch?v=OxRTk6powEY"
+          "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
+          "views": 547,
+          "date": "2026-07-09",
+          "duration": 1852,
+          "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
         }
       ],
       "recent_videos": [
         {
           "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-          "views": 469,
+          "views": 547,
           "date": "2026-07-09",
           "duration": 1852,
           "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 1640,
+          "views": 1665,
           "date": "2026-07-07",
           "duration": 604,
           "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
         },
         {
           "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-          "views": 817,
+          "views": 824,
           "date": "2026-07-06",
           "duration": 539,
           "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
@@ -674,11 +674,11 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nAQjrAbdMHs"
         }
       ],
-      "analyzed_at": "2026-07-10 09:53",
+      "analyzed_at": "2026-07-10 10:54",
       "subs_delta": null
     }
   ],
-  "generated_at": "2026-07-10 09:51",
+  "generated_at": "2026-07-10 10:53",
   "videos": [
     {
       "date": "2026-07-02",
@@ -712,21 +712,21 @@ window.DATA = {
       "date": "2026-07-05",
       "channel": "숏츠시작",
       "title": "가구에 파인 깊은 긁힘, 호두 하나 문질렀더니",
-      "views": 2046,
+      "views": 2047,
       "url": "https://www.youtube.com/watch?v=pNbxtVfYYXM"
     },
     {
       "date": "2026-07-09",
       "channel": "숏츠시작",
       "title": "미국 1위 픽업 포드가, 이 각진 트럭에 뒤로 끌려갑니다 (테슬라 사이버트럭 줄다리기)",
-      "views": 1431,
+      "views": 1420,
       "url": "https://www.youtube.com/watch?v=IXcgi7NPV4A"
     },
     {
       "date": "2026-07-09",
       "channel": "숏츠시작",
       "title": "가스레인지 상판, 아무리 닦아도 안 반짝이는 진짜 이유 (문지르지 마세요)",
-      "views": 948,
+      "views": 951,
       "url": "https://www.youtube.com/watch?v=oF2fXLdXnX0"
     },
     {
@@ -950,7 +950,7 @@ window.DATA = {
       "date": "2026-07-02",
       "channel": "카픽스",
       "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-      "views": 52648,
+      "views": 52867,
       "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
     },
     {
@@ -971,7 +971,7 @@ window.DATA = {
       "date": "2026-06-29",
       "channel": "카픽스",
       "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
-      "views": 3280,
+      "views": 3281,
       "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
     },
     {
@@ -985,21 +985,21 @@ window.DATA = {
       "date": "2026-07-09",
       "channel": "카픽스",
       "title": "포드 익스페디션 히터 딸깍 소리·한쪽만 뜨거운 바람, 진짜 원인은 블렌드도어 액추에이터",
-      "views": 17,
+      "views": 13,
       "url": "https://www.youtube.com/watch?v=GDrFW1mZ0iY"
     },
     {
       "date": "2026-07-09",
       "channel": "카픽스",
       "title": "포드 밴 갑자기 힘 빠지고 경고등, 미션인 줄 알았는데 진짜 범인은 엔진 속 '이 벨트'",
-      "views": 1091,
+      "views": 1115,
       "url": "https://www.youtube.com/watch?v=rs5wMEuZQEs"
     },
     {
       "date": "2026-07-08",
       "channel": "카픽스",
       "title": "혼다 시티 신호만 걸리면 부르르 시동 꺼질 듯, 배터리 아니라 스로틀바디였다",
-      "views": 93,
+      "views": 96,
       "url": "https://www.youtube.com/watch?v=-4Get_WrrwI"
     },
     {
@@ -1013,7 +1013,7 @@ window.DATA = {
       "date": "2026-07-07",
       "channel": "카픽스",
       "title": "토요타 갑자기 기름 먹는 하마, 미션 아니고 진짜 원인은 카본 낀 에어플로우 센서",
-      "views": 166,
+      "views": 169,
       "url": "https://www.youtube.com/watch?v=nqfZ937zZT8"
     },
     {
@@ -1041,21 +1041,21 @@ window.DATA = {
       "date": "2026-07-05",
       "channel": "뷰포인트",
       "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-      "views": 7374,
+      "views": 7473,
       "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
     },
     {
       "date": "2026-07-07",
       "channel": "뷰포인트",
       "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-      "views": 4158,
+      "views": 4207,
       "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
     },
     {
       "date": "2026-07-08",
       "channel": "뷰포인트",
       "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-      "views": 384,
+      "views": 390,
       "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
     },
     {
@@ -1069,14 +1069,14 @@ window.DATA = {
       "date": "2026-07-07",
       "channel": "해외반응픽",
       "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-      "views": 1640,
+      "views": 1665,
       "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
     },
     {
       "date": "2026-07-06",
       "channel": "해외반응픽",
       "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-      "views": 817,
+      "views": 824,
       "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
     },
     {
@@ -1087,17 +1087,10 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=nAQjrAbdMHs"
     },
     {
-      "date": "2026-06-26",
-      "channel": "해외반응픽",
-      "title": "아빠 이종범을 넘었다고? 미국이 이정후에게 놀란 진짜 이유",
-      "views": 481,
-      "url": "https://www.youtube.com/watch?v=OxRTk6powEY"
-    },
-    {
       "date": "2026-07-09",
       "channel": "해외반응픽",
       "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-      "views": 469,
+      "views": 547,
       "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
     },
     {
@@ -1127,6 +1120,13 @@ window.DATA = {
       "title": "홍명보 사퇴…일본이 갑자기 꺼낸 의외의 한마디",
       "views": 144,
       "url": "https://www.youtube.com/watch?v=TISSoRXU0A4"
+    },
+    {
+      "date": "2026-06-26",
+      "channel": "해외반응픽",
+      "title": "아빠 이종범을 넘었다고? 미국이 이정후에게 놀란 진짜 이유",
+      "views": 481,
+      "url": "https://www.youtube.com/watch?v=OxRTk6powEY"
     }
   ],
   "made": {
