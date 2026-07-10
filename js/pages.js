@@ -559,12 +559,175 @@
       'AI 분석 생성 시각: ' + (A.generated_at || '-') + ' · 데이터 갱신 시 자동 재분석'));
   }
 
+  // ============ CALENDAR (달력) ============
+  var calState = { year: null, month: null }; // month: 0-11
+
+  function calVideosByDay() {
+    var map = {};
+    ((window.DATA && window.DATA.videos) || []).forEach(function (v) {
+      if (!v.date) return;
+      (map[v.date] = map[v.date] || []).push(v);
+    });
+    return map;
+  }
+
+  function calMade() {
+    return (window.DATA && window.DATA.made) || {};
+  }
+
+  function ymd(y, m, d) {
+    function p2(n) { return n < 10 ? '0' + n : '' + n; }
+    return y + '-' + p2(m + 1) + '-' + p2(d);
+  }
+
+  function calendar(root) {
+    root.innerHTML = '';
+    var today = new Date();
+    if (calState.year == null) {
+      calState.year = today.getFullYear();
+      calState.month = today.getMonth();
+    }
+    var todayKey = ymd(today.getFullYear(), today.getMonth(), today.getDate());
+
+    var videosByDay = calVideosByDay();
+    var made = calMade();
+
+    var wrap = el('div', 'cal-wrap');
+
+    // ---- 헤더: ◀ 2026년 7월 ▶ ----
+    var head = el('div', 'cal-head');
+    var prev = el('button', 'cal-nav', '◀');
+    var titleEl = el('div', 'cal-title', calState.year + '년 ' + (calState.month + 1) + '월');
+    var next = el('button', 'cal-nav', '▶');
+    prev.addEventListener('click', function () {
+      calState.month--;
+      if (calState.month < 0) { calState.month = 11; calState.year--; }
+      calendar(root);
+    });
+    next.addEventListener('click', function () {
+      calState.month++;
+      if (calState.month > 11) { calState.month = 0; calState.year++; }
+      calendar(root);
+    });
+    head.appendChild(prev);
+    head.appendChild(titleEl);
+    head.appendChild(next);
+    wrap.appendChild(head);
+
+    // ---- 요일 헤더 ----
+    var dow = el('div', 'cal-grid cal-dow');
+    ['일', '월', '화', '수', '목', '금', '토'].forEach(function (d, i) {
+      var c = el('div', 'cal-dowcell', d);
+      if (i === 0) c.classList.add('sun');
+      if (i === 6) c.classList.add('sat');
+      dow.appendChild(c);
+    });
+    wrap.appendChild(dow);
+
+    // ---- 날짜 셀 ----
+    var grid = el('div', 'cal-grid cal-days');
+    var first = new Date(calState.year, calState.month, 1);
+    var startDow = first.getDay();
+    var daysInMonth = new Date(calState.year, calState.month + 1, 0).getDate();
+
+    for (var b = 0; b < startDow; b++) {
+      grid.appendChild(el('div', 'cal-cell empty'));
+    }
+
+    var detail = el('div', 'cal-detail');
+
+    function madeTotal(key) {
+      var m = made[key];
+      if (!m) return 0;
+      var t = 0;
+      Object.keys(m).forEach(function (k) { t += num(m[k]); });
+      return t;
+    }
+
+    function showDetail(key) {
+      detail.innerHTML = '';
+      var vids = (videosByDay[key] || []).slice().sort(function (a, b) { return num(b.views) - num(a.views); });
+      var m = made[key] || {};
+      var mKeys = Object.keys(m);
+
+      var h = el('h3', 'cal-detail-title', '📅 ' + key);
+      detail.appendChild(h);
+
+      // 제작 요약
+      if (mKeys.length) {
+        var mline = el('div', 'cal-made-summary');
+        mline.appendChild(el('span', 'cal-made-label', '제작 ' + madeTotal(key) + '건'));
+        mKeys.forEach(function (k) {
+          mline.appendChild(UI.badge(k + ' ' + num(m[k]), 'neutral'));
+        });
+        detail.appendChild(mline);
+      }
+
+      // 업로드 영상 목록
+      if (vids.length) {
+        var rows = vids.map(function (v) {
+          return [UI.badge(v.channel, 'neutral'), linkEl(v.title, v.url), num(v.views)];
+        });
+        detail.appendChild(el('div', 'cal-detail-sub', '업로드 ' + vids.length + '개'));
+        detail.appendChild(UI.table(['채널', '제목', '조회수|num'], rows));
+      }
+
+      if (!mKeys.length && !vids.length) {
+        detail.appendChild(el('p', 'muted', '이 날은 제작/업로드 기록이 없습니다.'));
+      }
+    }
+
+    var selectedKey = null;
+    for (var day = 1; day <= daysInMonth; day++) {
+      (function (day) {
+        var key = ymd(calState.year, calState.month, day);
+        var cell = el('div', 'cal-cell');
+        if (key === todayKey) cell.classList.add('today');
+        var wd = new Date(calState.year, calState.month, day).getDay();
+        if (wd === 0) cell.classList.add('sun');
+        if (wd === 6) cell.classList.add('sat');
+
+        cell.appendChild(el('div', 'cal-daynum', String(day)));
+
+        var mTot = madeTotal(key);
+        var upCnt = (videosByDay[key] || []).length;
+        if (mTot || upCnt) {
+          var badgeWrap = el('div', 'cal-badges');
+          if (mTot) badgeWrap.appendChild(el('span', 'cal-b cal-b-made', '제작 ' + mTot));
+          if (upCnt) badgeWrap.appendChild(el('span', 'cal-b cal-b-up', '업로드 ' + upCnt));
+          cell.appendChild(badgeWrap);
+        }
+
+        cell.addEventListener('click', function () {
+          var sel = grid.querySelector('.cal-cell.selected');
+          if (sel) sel.classList.remove('selected');
+          cell.classList.add('selected');
+          selectedKey = key;
+          showDetail(key);
+        });
+        grid.appendChild(cell);
+      })(day);
+    }
+    wrap.appendChild(grid);
+    root.appendChild(wrap);
+
+    // 초기 상세: 오늘(이번 달이면) 또는 안내
+    root.appendChild(detail);
+    if (calState.year === today.getFullYear() && calState.month === today.getMonth()) {
+      var tc = grid.querySelector('.cal-cell.today');
+      if (tc) { tc.classList.add('selected'); showDetail(todayKey); }
+    } else {
+      detail.appendChild(el('p', 'muted', '날짜를 눌러 그날의 제작·업로드 내역을 확인하세요.'));
+    }
+  }
+
   window.PAGES = {
     ops: ops,
     dashboard: dashboard,
     channels: channels_page,
     videos: videos,
     growth: growth,
+    calendar: calendar,
     advice: advice,
     settings: settings
   };

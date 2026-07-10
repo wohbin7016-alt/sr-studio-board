@@ -678,5 +678,675 @@ window.DATA = {
       "subs_delta": null
     }
   ],
-  "generated_at": "2026-07-10 08:48"
+  "generated_at": "2026-07-10 08:48",
+  "videos": [
+    {
+      "date": "2026-07-02",
+      "channel": "숏츠시작",
+      "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
+      "views": 7245,
+      "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
+    },
+    {
+      "date": "2026-06-27",
+      "channel": "숏츠시작",
+      "title": "테슬라는 좋은데 이것만큼은 못 참겠습니다",
+      "views": 4361,
+      "url": "https://www.youtube.com/watch?v=1WGgcg34gUI"
+    },
+    {
+      "date": "2026-07-07",
+      "channel": "숏츠시작",
+      "title": "빨래에서 꿉꿉한 냄새? 세제 아무리 바꿔도 소용없던 진짜 이유",
+      "views": 2287,
+      "url": "https://www.youtube.com/watch?v=fnxn2bm3lo8"
+    },
+    {
+      "date": "2026-06-30",
+      "channel": "숏츠시작",
+      "title": "밑창 떨어진 신발 버리지 마세요 5분이면 새것 됩니다",
+      "views": 2194,
+      "url": "https://www.youtube.com/watch?v=AvA8_H-lyUk"
+    },
+    {
+      "date": "2026-07-05",
+      "channel": "숏츠시작",
+      "title": "가구에 파인 깊은 긁힘, 호두 하나 문질렀더니",
+      "views": 2046,
+      "url": "https://www.youtube.com/watch?v=pNbxtVfYYXM"
+    },
+    {
+      "date": "2026-07-09",
+      "channel": "숏츠시작",
+      "title": "미국 1위 픽업 포드가, 이 각진 트럭에 뒤로 끌려갑니다 (테슬라 사이버트럭 줄다리기)",
+      "views": 1431,
+      "url": "https://www.youtube.com/watch?v=IXcgi7NPV4A"
+    },
+    {
+      "date": "2026-07-09",
+      "channel": "숏츠시작",
+      "title": "가스레인지 상판, 아무리 닦아도 안 반짝이는 진짜 이유 (문지르지 마세요)",
+      "views": 948,
+      "url": "https://www.youtube.com/watch?v=oF2fXLdXnX0"
+    },
+    {
+      "date": "2026-07-08",
+      "channel": "숏츠시작",
+      "title": "천장에서 물 뚝뚝, 지붕은 멀쩡한데… 진짜 범인은 이 나사입니다",
+      "views": 1208,
+      "url": "https://www.youtube.com/watch?v=LUkTQ_7HXCg"
+    },
+    {
+      "date": "2026-07-08",
+      "channel": "숏츠시작",
+      "title": "전자레인지 찌든때, 세제로 문지르지 마세요",
+      "views": 1838,
+      "url": "https://www.youtube.com/watch?v=F4RmYWBYlJk"
+    },
+    {
+      "date": "2026-07-07",
+      "channel": "숏츠시작",
+      "title": "다림질만 하면 옷에 갈색 얼룩… 다리미 고장이 아니었어요",
+      "views": 1393,
+      "url": "https://www.youtube.com/watch?v=2vLPpIj684Q"
+    },
+    {
+      "date": "2026-07-06",
+      "channel": "숏츠시작",
+      "title": "수압 약해진 진짜 이유, 수도관이 아니었어요",
+      "views": 1639,
+      "url": "https://www.youtube.com/watch?v=ZTaLdgT3DLw"
+    },
+    {
+      "date": "2026-07-04",
+      "channel": "숏츠시작",
+      "title": "식탁에 하얗게 뜬 얼룩, 다리미를 댔더니 무슨 일이",
+      "views": 517,
+      "url": "https://www.youtube.com/watch?v=Tfv2OTlps3A"
+    },
+    {
+      "date": "2026-07-03",
+      "channel": "숏츠시작",
+      "title": "카펫에 남은 가구 눌린 자국, 얼음 하나로 복원",
+      "views": 1163,
+      "url": "https://www.youtube.com/watch?v=FvOtN1HJc6E"
+    },
+    {
+      "date": "2026-07-08",
+      "channel": "놓치면손해템",
+      "title": "와인 코르크 부러뜨려 창피했던 내가, 버튼 하나로 3초 만에 딴 이유",
+      "views": 2326,
+      "url": "https://www.youtube.com/watch?v=msWPyr9PTm4"
+    },
+    {
+      "date": "2026-07-08",
+      "channel": "놓치면손해템",
+      "title": "행주로 아무리 닦아도 찐득하던 가스레인지, 뿌리기만 했더니 벌어진 일",
+      "views": 2233,
+      "url": "https://www.youtube.com/watch?v=s-B534b33zI"
+    },
+    {
+      "date": "2026-07-07",
+      "channel": "놓치면손해템",
+      "title": "자취방에 쌓이던 손빨래가 통째로 사라진 진짜 이유",
+      "views": 2118,
+      "url": "https://www.youtube.com/watch?v=UbwOUwGpHBc"
+    },
+    {
+      "date": "2026-07-03",
+      "channel": "놓치면손해템",
+      "title": "발뒤꿈치에 대기만 했는데 굳은살이 우수수, 만원대 이거",
+      "views": 1840,
+      "url": "https://www.youtube.com/watch?v=mwW7lKcWCfc"
+    },
+    {
+      "date": "2026-07-09",
+      "channel": "놓치면손해템",
+      "title": "창밖으로 몸 안 빼도 바깥 유리가 닦인다고? 만원대 이거 하나면",
+      "views": 1708,
+      "url": "https://www.youtube.com/watch?v=8HbGUqfjCuU"
+    },
+    {
+      "date": "2026-07-09",
+      "channel": "놓치면손해템",
+      "title": "산 지 얼마 안 된 흰 운동화가 벌써 꼬질꼬질, 세탁소 말고 이렇게 했더니",
+      "views": 1663,
+      "url": "https://www.youtube.com/watch?v=ezaNvYARCLU"
+    },
+    {
+      "date": "2026-07-07",
+      "channel": "놓치면손해템",
+      "title": "매일 화장실 청소로 팔 빠지던 내가, 만원짜리 이거 하나에 수세미 버린 이유",
+      "views": 1616,
+      "url": "https://www.youtube.com/watch?v=kB__cVQ2P_U"
+    },
+    {
+      "date": "2026-07-06",
+      "channel": "놓치면손해템",
+      "title": "버리려던 니트, 다시 꺼내 입게 만든 만원짜리의 정체",
+      "views": 516,
+      "url": "https://www.youtube.com/watch?v=lZC1kWFkN1o"
+    },
+    {
+      "date": "2026-07-05",
+      "channel": "놓치면손해템",
+      "title": "마늘 한 줌 넣고 버튼만 눌렀을 뿐인데, 3초 만에 벌어진 일",
+      "views": 1408,
+      "url": "https://www.youtube.com/watch?v=hA5YuQU_kW4"
+    },
+    {
+      "date": "2026-07-04",
+      "channel": "놓치면손해템",
+      "title": "안경 잠깐 담갔을 뿐인데, 물이 이렇게 되는 이유",
+      "views": 1685,
+      "url": "https://www.youtube.com/watch?v=qUCPoh--hXs"
+    },
+    {
+      "date": "2026-07-03",
+      "channel": "놓치면손해템",
+      "title": "먹다 남은 과자 집게로 막는 거 손해, 만원대 미니 실링기",
+      "views": 1290,
+      "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
+    },
+    {
+      "date": "2026-07-03",
+      "channel": "왜그럴까",
+      "title": "얼어 죽은 개구리가 봄에 다시 살아나는 이유",
+      "views": 1838,
+      "url": "https://www.youtube.com/watch?v=52XtgfX8fns"
+    },
+    {
+      "date": "2026-07-01",
+      "channel": "왜그럴까",
+      "title": "늙으면 아기로 되돌아가는 동물, 죽지 않는 해파리의 비밀",
+      "views": 1784,
+      "url": "https://www.youtube.com/watch?v=bLxhd7IQfCo"
+    },
+    {
+      "date": "2026-06-30",
+      "channel": "왜그럴까",
+      "title": "이 쥐는 암에 거의 안 걸린다고? 30년을 살고 늙어도 안 죽는 벌거숭이두더지쥐의 비밀",
+      "views": 1591,
+      "url": "https://www.youtube.com/watch?v=zWYb798q00Q"
+    },
+    {
+      "date": "2026-06-27",
+      "channel": "왜그럴까",
+      "title": "미어캣은 왜 혼자 꼿꼿이 서 있을까",
+      "views": 1588,
+      "url": "https://www.youtube.com/watch?v=oxbbaUNJRKE"
+    },
+    {
+      "date": "2026-07-01",
+      "channel": "왜그럴까",
+      "title": "세상에서 가장 겁 없는 동물이 코브라에 물려도 멀쩡한 이유",
+      "views": 1511,
+      "url": "https://www.youtube.com/watch?v=145jVCEOpMs"
+    },
+    {
+      "date": "2026-07-09",
+      "channel": "왜그럴까",
+      "title": "호랑이 vs 사자, 일대일로 붙으면 진짜 누가 이길까? (동물학자들의 결론)",
+      "views": 1408,
+      "url": "https://www.youtube.com/watch?v=KGDGt56xdLo"
+    },
+    {
+      "date": "2026-07-09",
+      "channel": "왜그럴까",
+      "title": "방울뱀 소리가 들리면 도망칠 시간도 없다? 그 방울 소리의 진짜 의미",
+      "views": 1123,
+      "url": "https://www.youtube.com/watch?v=xslKk3zdHOI"
+    },
+    {
+      "date": "2026-07-08",
+      "channel": "왜그럴까",
+      "title": "곰도 사냥해 잡아먹는 이 동물의 정체는?",
+      "views": 1282,
+      "url": "https://www.youtube.com/watch?v=iza1oSpwYvM"
+    },
+    {
+      "date": "2026-07-08",
+      "channel": "왜그럴까",
+      "title": "이 거미의 정체는? 새를 잡아먹는 뱀",
+      "views": 1234,
+      "url": "https://www.youtube.com/watch?v=ZGhfgQ_dRzk"
+    },
+    {
+      "date": "2026-07-07",
+      "channel": "왜그럴까",
+      "title": "실버백 고릴라 vs 사자, 진짜 누가 이길까?",
+      "views": 1433,
+      "url": "https://www.youtube.com/watch?v=xNpdHStHc_w"
+    },
+    {
+      "date": "2026-07-07",
+      "channel": "왜그럴까",
+      "title": "사람을 죽일 수 있는 새, 세상에서 가장 위험한 새의 정체",
+      "views": 1260,
+      "url": "https://www.youtube.com/watch?v=af3zzEFpdWc"
+    },
+    {
+      "date": "2026-07-05",
+      "channel": "왜그럴까",
+      "title": "문어는 다리가 잘려도 멀쩡한 이유, 다리마다 이게 숨어 있다",
+      "views": 1357,
+      "url": "https://www.youtube.com/watch?v=oYzmoHYqtuk"
+    },
+    {
+      "date": "2026-07-04",
+      "channel": "왜그럴까",
+      "title": "하이에나가 실실 웃는 진짜 이유, 즐거워서가 아니었다",
+      "views": 1221,
+      "url": "https://www.youtube.com/watch?v=DWm8vnbBDlw"
+    },
+    {
+      "date": "2026-07-03",
+      "channel": "왜그럴까",
+      "title": "캥거루가 아무리 해도 뒤로는 못 걷는 진짜 이유",
+      "views": 1331,
+      "url": "https://www.youtube.com/watch?v=cF2thcdtYCw"
+    },
+    {
+      "date": "2026-07-02",
+      "channel": "카픽스",
+      "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
+      "views": 52477,
+      "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
+    },
+    {
+      "date": "2026-07-04",
+      "channel": "카픽스",
+      "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
+      "views": 8566,
+      "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
+    },
+    {
+      "date": "2026-06-28",
+      "channel": "카픽스",
+      "title": "아우디 RS Q8 엠블럼, 드라이버로 뜯으면 망합니다",
+      "views": 8320,
+      "url": "https://www.youtube.com/watch?v=gtCZEXllbRQ"
+    },
+    {
+      "date": "2026-06-29",
+      "channel": "카픽스",
+      "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
+      "views": 3280,
+      "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
+    },
+    {
+      "date": "2026-07-05",
+      "channel": "카픽스",
+      "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
+      "views": 2798,
+      "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
+    },
+    {
+      "date": "2026-07-09",
+      "channel": "카픽스",
+      "title": "포드 익스페디션 히터 딸깍 소리·한쪽만 뜨거운 바람, 진짜 원인은 블렌드도어 액추에이터",
+      "views": 13,
+      "url": "https://www.youtube.com/watch?v=GDrFW1mZ0iY"
+    },
+    {
+      "date": "2026-07-09",
+      "channel": "카픽스",
+      "title": "포드 밴 갑자기 힘 빠지고 경고등, 미션인 줄 알았는데 진짜 범인은 엔진 속 '이 벨트'",
+      "views": 1091,
+      "url": "https://www.youtube.com/watch?v=rs5wMEuZQEs"
+    },
+    {
+      "date": "2026-07-08",
+      "channel": "카픽스",
+      "title": "혼다 시티 신호만 걸리면 부르르 시동 꺼질 듯, 배터리 아니라 스로틀바디였다",
+      "views": 93,
+      "url": "https://www.youtube.com/watch?v=-4Get_WrrwI"
+    },
+    {
+      "date": "2026-07-08",
+      "channel": "카픽스",
+      "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
+      "views": 1380,
+      "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
+    },
+    {
+      "date": "2026-07-07",
+      "channel": "카픽스",
+      "title": "토요타 갑자기 기름 먹는 하마, 미션 아니고 진짜 원인은 카본 낀 에어플로우 센서",
+      "views": 166,
+      "url": "https://www.youtube.com/watch?v=nqfZ937zZT8"
+    },
+    {
+      "date": "2026-07-07",
+      "channel": "카픽스",
+      "title": "BMW 변속할 때 울컥 충격, 미션 갈 뻔했는데 진짜 원인은 '평생 무교환' 미션오일",
+      "views": 2188,
+      "url": "https://www.youtube.com/watch?v=te6KfTQcCc4"
+    },
+    {
+      "date": "2026-07-06",
+      "channel": "카픽스",
+      "title": "토요타 타코마, 브레이크만 밟으면 핸들이 부들부들… 타이어 갈아도 안 잡히는 진짜 원인",
+      "views": 2752,
+      "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
+    },
+    {
+      "date": "2026-07-03",
+      "channel": "카픽스",
+      "title": "엘란트라 핸들 꺾을 때만 딱딱딱, 대체 뭐가 문제일까",
+      "views": 84,
+      "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
+    },
+    {
+      "date": "2026-07-05",
+      "channel": "뷰포인트",
+      "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
+      "views": 7227,
+      "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
+    },
+    {
+      "date": "2026-07-07",
+      "channel": "뷰포인트",
+      "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
+      "views": 4158,
+      "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
+    },
+    {
+      "date": "2026-07-08",
+      "channel": "뷰포인트",
+      "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
+      "views": 390,
+      "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
+    },
+    {
+      "date": "2026-07-01",
+      "channel": "해외반응픽",
+      "title": "「한국이 또 사고 쳤다」 공개 2화 만에 8개국 1위 찍은 '김부장'에 외국인들이 뒤집힌 이유",
+      "views": 3803,
+      "url": "https://www.youtube.com/watch?v=0kRbNkq52gw"
+    },
+    {
+      "date": "2026-07-07",
+      "channel": "해외반응픽",
+      "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
+      "views": 1631,
+      "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
+    },
+    {
+      "date": "2026-07-06",
+      "channel": "해외반응픽",
+      "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
+      "views": 822,
+      "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
+    },
+    {
+      "date": "2026-06-25",
+      "channel": "해외반응픽",
+      "title": "넷플릭스 전 세계 1위 '참교육'— 외국인들이 충격받은 이유",
+      "views": 651,
+      "url": "https://www.youtube.com/watch?v=nAQjrAbdMHs"
+    },
+    {
+      "date": "2026-06-26",
+      "channel": "해외반응픽",
+      "title": "아빠 이종범을 넘었다고? 미국이 이정후에게 놀란 진짜 이유",
+      "views": 480,
+      "url": "https://www.youtube.com/watch?v=OxRTk6powEY"
+    },
+    {
+      "date": "2026-07-09",
+      "channel": "해외반응픽",
+      "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
+      "views": 469,
+      "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
+    },
+    {
+      "date": "2026-07-04",
+      "channel": "해외반응픽",
+      "title": "방탄 콘서트에서 외국인 8만 명이 갑자기 한국 '민요'를 떼창한 이유",
+      "views": 274,
+      "url": "https://www.youtube.com/watch?v=Y-8z1_qauzE"
+    },
+    {
+      "date": "2026-07-03",
+      "channel": "해외반응픽",
+      "title": "스페인이 \"최악의 실수\" 인정하고 다시 데려가는 한국 선수",
+      "views": 54,
+      "url": "https://www.youtube.com/watch?v=wPX4coMWHIY"
+    },
+    {
+      "date": "2026-07-02",
+      "channel": "해외반응픽",
+      "title": "예고편 딱 39초 풀었을 뿐인데, 해외가 벌써 난리 난 이유",
+      "views": 340,
+      "url": "https://www.youtube.com/watch?v=Mg4J7Y0RHpE"
+    },
+    {
+      "date": "2026-06-30",
+      "channel": "해외반응픽",
+      "title": "홍명보 사퇴…일본이 갑자기 꺼낸 의외의 한마디",
+      "views": 144,
+      "url": "https://www.youtube.com/watch?v=TISSoRXU0A4"
+    }
+  ],
+  "made": {
+    "2026-07-09": {
+      "숏츠시작": 3,
+      "놓치면손해템": 1,
+      "카픽스": 2,
+      "뷰포인트": 2,
+      "해외쇼츠": 2,
+      "해외반응": 1,
+      "왜그럴까": 2
+    },
+    "2026-05-31": {
+      "놓치면손해템": 1
+    },
+    "2026-06-01": {
+      "놓치면손해템": 7
+    },
+    "2026-06-02": {
+      "놓치면손해템": 2,
+      "왜그럴까": 2
+    },
+    "2026-06-03": {
+      "놓치면손해템": 6
+    },
+    "2026-06-04": {
+      "놓치면손해템": 5
+    },
+    "2026-06-05": {
+      "놓치면손해템": 2,
+      "해외쇼츠": 62,
+      "신이슈TV": 1
+    },
+    "2026-06-06": {
+      "놓치면손해템": 3,
+      "해외쇼츠": 8,
+      "왜그럴까": 3
+    },
+    "2026-06-07": {
+      "놓치면손해템": 1,
+      "해외쇼츠": 3,
+      "왜그럴까": 1
+    },
+    "2026-06-08": {
+      "놓치면손해템": 5,
+      "해외쇼츠": 4,
+      "왜그럴까": 3,
+      "신이슈TV": 2
+    },
+    "2026-06-09": {
+      "놓치면손해템": 5,
+      "해외쇼츠": 8,
+      "왜그럴까": 3
+    },
+    "2026-06-10": {
+      "놓치면손해템": 5,
+      "해외쇼츠": 10,
+      "왜그럴까": 3,
+      "신이슈TV": 1
+    },
+    "2026-06-11": {
+      "놓치면손해템": 5,
+      "해외쇼츠": 5,
+      "왜그럴까": 2
+    },
+    "2026-06-12": {
+      "놓치면손해템": 3,
+      "해외쇼츠": 5,
+      "왜그럴까": 2,
+      "신이슈TV": 1
+    },
+    "2026-06-13": {
+      "놓치면손해템": 3,
+      "해외쇼츠": 7,
+      "왜그럴까": 1,
+      "신이슈TV": 1
+    },
+    "2026-06-14": {
+      "놓치면손해템": 12,
+      "해외쇼츠": 7,
+      "왜그럴까": 5
+    },
+    "2026-06-15": {
+      "놓치면손해템": 3,
+      "해외쇼츠": 7,
+      "왜그럴까": 3
+    },
+    "2026-06-16": {
+      "놓치면손해템": 3,
+      "해외쇼츠": 6,
+      "왜그럴까": 4,
+      "신이슈TV": 1
+    },
+    "2026-06-17": {
+      "놓치면손해템": 4,
+      "해외쇼츠": 5,
+      "왜그럴까": 2
+    },
+    "2026-06-18": {
+      "놓치면손해템": 2,
+      "해외쇼츠": 2,
+      "왜그럴까": 1
+    },
+    "2026-06-19": {
+      "놓치면손해템": 9,
+      "해외쇼츠": 5,
+      "왜그럴까": 5
+    },
+    "2026-06-20": {
+      "놓치면손해템": 5,
+      "해외쇼츠": 2,
+      "왜그럴까": 6,
+      "신이슈TV": 1
+    },
+    "2026-06-21": {
+      "놓치면손해템": 8,
+      "해외쇼츠": 3,
+      "왜그럴까": 4
+    },
+    "2026-06-22": {
+      "놓치면손해템": 4,
+      "해외쇼츠": 10,
+      "왜그럴까": 3
+    },
+    "2026-06-23": {
+      "놓치면손해템": 4,
+      "해외쇼츠": 4,
+      "왜그럴까": 2
+    },
+    "2026-06-24": {
+      "놓치면손해템": 3,
+      "카픽스": 2,
+      "해외쇼츠": 3,
+      "해외반응": 2,
+      "왜그럴까": 1
+    },
+    "2026-06-25": {
+      "놓치면손해템": 2,
+      "카픽스": 2,
+      "해외쇼츠": 2,
+      "해외반응": 2,
+      "왜그럴까": 2
+    },
+    "2026-06-26": {
+      "놓치면손해템": 2,
+      "카픽스": 1,
+      "왜그럴까": 1
+    },
+    "2026-06-29": {
+      "놓치면손해템": 2,
+      "카픽스": 3,
+      "해외쇼츠": 4,
+      "왜그럴까": 2
+    },
+    "2026-06-30": {
+      "놓치면손해템": 2,
+      "카픽스": 3,
+      "해외쇼츠": 4,
+      "해외반응": 1,
+      "왜그럴까": 2
+    },
+    "2026-07-01": {
+      "놓치면손해템": 2,
+      "카픽스": 2,
+      "해외쇼츠": 3,
+      "왜그럴까": 1
+    },
+    "2026-07-02": {
+      "놓치면손해템": 1,
+      "카픽스": 1,
+      "해외쇼츠": 4,
+      "해외반응": 2,
+      "왜그럴까": 2
+    },
+    "2026-07-03": {
+      "놓치면손해템": 2,
+      "카픽스": 1,
+      "해외쇼츠": 2,
+      "해외반응": 1,
+      "왜그럴까": 1
+    },
+    "2026-07-04": {
+      "놓치면손해템": 1,
+      "카픽스": 1,
+      "해외쇼츠": 1,
+      "해외반응": 3,
+      "왜그럴까": 1
+    },
+    "2026-07-05": {
+      "놓치면손해템": 3,
+      "카픽스": 2,
+      "뷰포인트": 1,
+      "해외쇼츠": 1,
+      "해외반응": 3,
+      "왜그럴까": 2
+    },
+    "2026-07-07": {
+      "놓치면손해템": 2,
+      "카픽스": 2,
+      "뷰포인트": 1,
+      "해외쇼츠": 3,
+      "왜그럴까": 1
+    },
+    "2026-07-08": {
+      "놓치면손해템": 1,
+      "카픽스": 1,
+      "뷰포인트": 1,
+      "해외쇼츠": 2,
+      "왜그럴까": 3
+    },
+    "2026-06-27": {
+      "해외쇼츠": 4
+    },
+    "2026-06-28": {
+      "해외쇼츠": 2
+    },
+    "2026-07-06": {
+      "해외쇼츠": 2,
+      "해외반응": 1,
+      "왜그럴까": 2
+    }
+  }
 };
