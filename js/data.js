@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 1933,
+      "avg_views": 1934,
       "median_views": 1489,
       "uploads_30d": 20,
-      "views_30d": 38675,
+      "views_30d": 38691,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7245,
+          "views": 7250,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "미국 1위 픽업 포드가, 이 각진 트럭에 뒤로 끌려갑니다 (테슬라 사이버트럭 줄다리기)",
-          "views": 1420,
+          "views": 1431,
           "date": "2026-07-09",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IXcgi7NPV4A"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FvOtN1HJc6E"
         }
       ],
-      "analyzed_at": "2026-07-10 10:53",
+      "analyzed_at": "2026-07-10 11:55",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1219,
       "median_views": 1430,
       "uploads_30d": 20,
-      "views_30d": 24392,
+      "views_30d": 24394,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "창밖으로 몸 안 빼도 바깥 유리가 닦인다고? 만원대 이거 하나면",
-          "views": 1708,
+          "views": 1710,
           "date": "2026-07-09",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=8HbGUqfjCuU"
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "창밖으로 몸 안 빼도 바깥 유리가 닦인다고? 만원대 이거 하나면",
-          "views": 1708,
+          "views": 1710,
           "date": "2026-07-09",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=8HbGUqfjCuU"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nyS68-Rg-K8"
         }
       ],
-      "analyzed_at": "2026-07-10 10:53",
+      "analyzed_at": "2026-07-10 11:55",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1369,
       "median_views": 1335,
       "uploads_30d": 20,
-      "views_30d": 27380,
+      "views_30d": 27385,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "호랑이 vs 사자, 일대일로 붙으면 진짜 누가 이길까? (동물학자들의 결론)",
-          "views": 1408,
+          "views": 1413,
           "date": "2026-07-09",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=KGDGt56xdLo"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=cF2thcdtYCw"
         }
       ],
-      "analyzed_at": "2026-07-10 10:54",
+      "analyzed_at": "2026-07-10 11:56",
       "subs_delta": 0
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1170,
       "sampled": 20,
-      "avg_views": 4530,
+      "avg_views": 4541,
       "median_views": 1470,
       "uploads_30d": 20,
-      "views_30d": 90600,
+      "views_30d": 90832,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 52867,
+          "views": 53214,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 8566,
+          "views": 8576,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -412,31 +412,31 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
         },
         {
-          "title": "토요타 타코마, 브레이크만 밟으면 핸들이 부들부들… 타이어 갈아도 안 잡히는 진짜 원인",
-          "views": 2817,
-          "date": "2026-07-06",
-          "duration": 26,
-          "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
+          "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
+          "views": 2822,
+          "date": "2026-07-05",
+          "duration": 29,
+          "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
         }
       ],
       "recent_videos": [
         {
           "title": "포드 익스페디션 히터 딸깍 소리·한쪽만 뜨거운 바람, 진짜 원인은 블렌드도어 액추에이터",
-          "views": 13,
+          "views": 14,
           "date": "2026-07-09",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=GDrFW1mZ0iY"
         },
         {
           "title": "포드 밴 갑자기 힘 빠지고 경고등, 미션인 줄 알았는데 진짜 범인은 엔진 속 '이 벨트'",
-          "views": 1115,
+          "views": 1091,
           "date": "2026-07-09",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=rs5wMEuZQEs"
         },
         {
           "title": "혼다 시티 신호만 걸리면 부르르 시동 꺼질 듯, 배터리 아니라 스로틀바디였다",
-          "views": 96,
+          "views": 97,
           "date": "2026-07-08",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=-4Get_WrrwI"
@@ -464,21 +464,21 @@ window.DATA = {
         },
         {
           "title": "토요타 타코마, 브레이크만 밟으면 핸들이 부들부들… 타이어 갈아도 안 잡히는 진짜 원인",
-          "views": 2817,
+          "views": 2690,
           "date": "2026-07-06",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
         },
         {
           "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
-          "views": 2798,
+          "views": 2822,
           "date": "2026-07-05",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 8566,
+          "views": 8576,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
@@ -491,31 +491,31 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nCoLYWlwAtQ"
         }
       ],
-      "analyzed_at": "2026-07-10 10:54",
+      "analyzed_at": "2026-07-10 11:56",
       "subs_delta": 0
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
       "name": "뷰포인트",
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
-      "subscribers": 30,
+      "subscribers": 31,
       "sampled": 3,
-      "avg_views": 4023,
-      "median_views": 4207,
+      "avg_views": 4088,
+      "median_views": 4231,
       "uploads_30d": 3,
-      "views_30d": 12070,
+      "views_30d": 12265,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-          "views": 7473,
+          "views": 7644,
           "date": "2026-07-05",
           "duration": 1309,
           "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 4207,
+          "views": 4231,
           "date": "2026-07-07",
           "duration": 1248,
           "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
@@ -538,20 +538,20 @@ window.DATA = {
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 4207,
+          "views": 4231,
           "date": "2026-07-07",
           "duration": 1248,
           "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
         },
         {
           "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-          "views": 7473,
+          "views": 7644,
           "date": "2026-07-05",
           "duration": 1309,
           "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
         }
       ],
-      "analyzed_at": "2026-07-10 10:54",
+      "analyzed_at": "2026-07-10 11:56",
       "subs_delta": null
     },
     {
@@ -560,10 +560,10 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 22,
       "sampled": 10,
-      "avg_views": 878,
+      "avg_views": 879,
       "median_views": 514,
       "uploads_30d": 10,
-      "views_30d": 8783,
+      "views_30d": 8790,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -640,7 +640,7 @@ window.DATA = {
         },
         {
           "title": "예고편 딱 39초 풀었을 뿐인데, 해외가 벌써 난리 난 이유",
-          "views": 340,
+          "views": 346,
           "date": "2026-07-02",
           "duration": 147,
           "url": "https://www.youtube.com/watch?v=Mg4J7Y0RHpE"
@@ -654,7 +654,7 @@ window.DATA = {
         },
         {
           "title": "홍명보 사퇴…일본이 갑자기 꺼낸 의외의 한마디",
-          "views": 144,
+          "views": 145,
           "date": "2026-06-30",
           "duration": 136,
           "url": "https://www.youtube.com/watch?v=TISSoRXU0A4"
@@ -674,17 +674,17 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nAQjrAbdMHs"
         }
       ],
-      "analyzed_at": "2026-07-10 10:54",
+      "analyzed_at": "2026-07-10 11:56",
       "subs_delta": null
     }
   ],
-  "generated_at": "2026-07-10 10:53",
+  "generated_at": "2026-07-10 11:55",
   "videos": [
     {
       "date": "2026-07-02",
       "channel": "숏츠시작",
       "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-      "views": 7245,
+      "views": 7250,
       "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
     },
     {
@@ -719,7 +719,7 @@ window.DATA = {
       "date": "2026-07-09",
       "channel": "숏츠시작",
       "title": "미국 1위 픽업 포드가, 이 각진 트럭에 뒤로 끌려갑니다 (테슬라 사이버트럭 줄다리기)",
-      "views": 1420,
+      "views": 1431,
       "url": "https://www.youtube.com/watch?v=IXcgi7NPV4A"
     },
     {
@@ -803,7 +803,7 @@ window.DATA = {
       "date": "2026-07-09",
       "channel": "놓치면손해템",
       "title": "창밖으로 몸 안 빼도 바깥 유리가 닦인다고? 만원대 이거 하나면",
-      "views": 1708,
+      "views": 1710,
       "url": "https://www.youtube.com/watch?v=8HbGUqfjCuU"
     },
     {
@@ -887,7 +887,7 @@ window.DATA = {
       "date": "2026-07-09",
       "channel": "왜그럴까",
       "title": "호랑이 vs 사자, 일대일로 붙으면 진짜 누가 이길까? (동물학자들의 결론)",
-      "views": 1408,
+      "views": 1413,
       "url": "https://www.youtube.com/watch?v=KGDGt56xdLo"
     },
     {
@@ -950,14 +950,14 @@ window.DATA = {
       "date": "2026-07-02",
       "channel": "카픽스",
       "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-      "views": 52867,
+      "views": 53214,
       "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
     },
     {
       "date": "2026-07-04",
       "channel": "카픽스",
       "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-      "views": 8566,
+      "views": 8576,
       "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
     },
     {
@@ -975,31 +975,31 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=RmXO-tBVOjo"
     },
     {
-      "date": "2026-07-06",
+      "date": "2026-07-05",
       "channel": "카픽스",
-      "title": "토요타 타코마, 브레이크만 밟으면 핸들이 부들부들… 타이어 갈아도 안 잡히는 진짜 원인",
-      "views": 2817,
-      "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
+      "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
+      "views": 2822,
+      "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
     },
     {
       "date": "2026-07-09",
       "channel": "카픽스",
       "title": "포드 익스페디션 히터 딸깍 소리·한쪽만 뜨거운 바람, 진짜 원인은 블렌드도어 액추에이터",
-      "views": 13,
+      "views": 14,
       "url": "https://www.youtube.com/watch?v=GDrFW1mZ0iY"
     },
     {
       "date": "2026-07-09",
       "channel": "카픽스",
       "title": "포드 밴 갑자기 힘 빠지고 경고등, 미션인 줄 알았는데 진짜 범인은 엔진 속 '이 벨트'",
-      "views": 1115,
+      "views": 1091,
       "url": "https://www.youtube.com/watch?v=rs5wMEuZQEs"
     },
     {
       "date": "2026-07-08",
       "channel": "카픽스",
       "title": "혼다 시티 신호만 걸리면 부르르 시동 꺼질 듯, 배터리 아니라 스로틀바디였다",
-      "views": 96,
+      "views": 97,
       "url": "https://www.youtube.com/watch?v=-4Get_WrrwI"
     },
     {
@@ -1024,11 +1024,11 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=te6KfTQcCc4"
     },
     {
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "channel": "카픽스",
-      "title": "폭스바겐 골프 뒷브레이크, 그냥 밀어넣으면 캘리퍼 망가집니다",
-      "views": 2798,
-      "url": "https://www.youtube.com/watch?v=KKiYhFhEQzE"
+      "title": "토요타 타코마, 브레이크만 밟으면 핸들이 부들부들… 타이어 갈아도 안 잡히는 진짜 원인",
+      "views": 2690,
+      "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
     },
     {
       "date": "2026-07-03",
@@ -1041,14 +1041,14 @@ window.DATA = {
       "date": "2026-07-05",
       "channel": "뷰포인트",
       "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-      "views": 7473,
+      "views": 7644,
       "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
     },
     {
       "date": "2026-07-07",
       "channel": "뷰포인트",
       "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-      "views": 4207,
+      "views": 4231,
       "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
     },
     {
@@ -1111,14 +1111,14 @@ window.DATA = {
       "date": "2026-07-02",
       "channel": "해외반응픽",
       "title": "예고편 딱 39초 풀었을 뿐인데, 해외가 벌써 난리 난 이유",
-      "views": 340,
+      "views": 346,
       "url": "https://www.youtube.com/watch?v=Mg4J7Y0RHpE"
     },
     {
       "date": "2026-06-30",
       "channel": "해외반응픽",
       "title": "홍명보 사퇴…일본이 갑자기 꺼낸 의외의 한마디",
-      "views": 144,
+      "views": 145,
       "url": "https://www.youtube.com/watch?v=TISSoRXU0A4"
     },
     {
