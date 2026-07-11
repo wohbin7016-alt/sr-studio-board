@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 1822,
+      "avg_views": 1823,
       "median_views": 1586,
       "uploads_30d": 20,
-      "views_30d": 36457,
+      "views_30d": 36460,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-          "views": 7264,
+          "views": 7267,
           "date": "2026-07-02",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZTaLdgT3DLw"
         }
       ],
-      "analyzed_at": "2026-07-12 01:12",
+      "analyzed_at": "2026-07-12 02:14",
       "subs_delta": 0
     },
     {
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=lZC1kWFkN1o"
         }
       ],
-      "analyzed_at": "2026-07-12 01:13",
+      "analyzed_at": "2026-07-12 02:15",
       "subs_delta": 0
     },
     {
@@ -255,9 +255,9 @@ window.DATA = {
       "subscribers": 2370,
       "sampled": 20,
       "avg_views": 1420,
-      "median_views": 1400,
+      "median_views": 1401,
       "uploads_30d": 20,
-      "views_30d": 28413,
+      "views_30d": 28414,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -306,7 +306,7 @@ window.DATA = {
         },
         {
           "title": "벌집 하나를 통째로 몰살시키는 곤충의 정체",
-          "views": 1444,
+          "views": 1445,
           "date": "2026-07-10",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RnPC6CNo8ZA"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DWm8vnbBDlw"
         }
       ],
-      "analyzed_at": "2026-07-12 01:13",
+      "analyzed_at": "2026-07-12 02:15",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1170,
       "sampled": 20,
-      "avg_views": 4551,
+      "avg_views": 4571,
       "median_views": 1470,
       "uploads_30d": 20,
-      "views_30d": 91024,
+      "views_30d": 91436,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -398,6 +398,13 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
         },
         {
+          "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
+          "views": 3535,
+          "date": "2026-07-08",
+          "duration": 34,
+          "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
+        },
+        {
           "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
           "views": 3315,
           "date": "2026-06-29",
@@ -410,19 +417,12 @@ window.DATA = {
           "date": "2026-07-06",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
-        },
-        {
-          "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
-          "views": 3235,
-          "date": "2026-07-08",
-          "duration": 34,
-          "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
         }
       ],
       "recent_videos": [
         {
           "title": "혼다 CR-V 시동 걸 때 딱 소리만 나고 안 걸리면, 진짜 원인은 스타터 모터",
-          "views": 569,
+          "views": 646,
           "date": "2026-07-11",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=L9zrNbhJbr8"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
-          "views": 3235,
+          "views": 3535,
           "date": "2026-07-08",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "BMW 변속할 때 울컥 충격, 미션 갈 뻔했는데 진짜 원인은 '평생 무교환' 미션오일",
-          "views": 2511,
+          "views": 2536,
           "date": "2026-07-07",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=te6KfTQcCc4"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
         }
       ],
-      "analyzed_at": "2026-07-12 01:14",
+      "analyzed_at": "2026-07-12 02:16",
       "subs_delta": 0
     },
     {
@@ -500,29 +500,29 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 53,
       "sampled": 5,
-      "avg_views": 5294,
-      "median_views": 931,
+      "avg_views": 5432,
+      "median_views": 1081,
       "uploads_30d": 5,
-      "views_30d": 26473,
+      "views_30d": 27163,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-          "views": 13769,
+          "views": 13939,
           "date": "2026-07-05",
           "duration": 1309,
           "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 11283,
+          "views": 11653,
           "date": "2026-07-07",
           "duration": 1248,
           "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
         },
         {
           "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-          "views": 931,
+          "views": 1081,
           "date": "2026-07-11",
           "duration": 1687,
           "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-          "views": 931,
+          "views": 1081,
           "date": "2026-07-11",
           "duration": 1687,
           "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
@@ -566,20 +566,20 @@ window.DATA = {
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 11283,
+          "views": 11653,
           "date": "2026-07-07",
           "duration": 1248,
           "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
         },
         {
           "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-          "views": 13769,
+          "views": 13939,
           "date": "2026-07-05",
           "duration": 1309,
           "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
         }
       ],
-      "analyzed_at": "2026-07-12 01:14",
+      "analyzed_at": "2026-07-12 02:16",
       "subs_delta": 0
     },
     {
@@ -588,22 +588,22 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 43,
       "sampled": 11,
-      "avg_views": 1683,
+      "avg_views": 1724,
       "median_views": 676,
       "uploads_30d": 11,
-      "views_30d": 18521,
+      "views_30d": 18969,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-          "views": 7912,
+          "views": 8345,
           "date": "2026-07-09",
           "duration": 1852,
           "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
         },
         {
           "title": "「한국이 또 사고 쳤다」 공개 2화 만에 8개국 1위 찍은 '김부장'에 외국인들이 뒤집힌 이유",
-          "views": 3938,
+          "views": 3944,
           "date": "2026-07-01",
           "duration": 197,
           "url": "https://www.youtube.com/watch?v=0kRbNkq52gw"
@@ -640,7 +640,7 @@ window.DATA = {
         },
         {
           "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-          "views": 7912,
+          "views": 8345,
           "date": "2026-07-09",
           "duration": 1852,
           "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
@@ -661,7 +661,7 @@ window.DATA = {
         },
         {
           "title": "방탄 콘서트에서 외국인 8만 명이 갑자기 한국 '민요'를 떼창한 이유",
-          "views": 289,
+          "views": 297,
           "date": "2026-07-04",
           "duration": 77,
           "url": "https://www.youtube.com/watch?v=Y-8z1_qauzE"
@@ -675,14 +675,14 @@ window.DATA = {
         },
         {
           "title": "예고편 딱 39초 풀었을 뿐인데, 해외가 벌써 난리 난 이유",
-          "views": 405,
+          "views": 406,
           "date": "2026-07-02",
           "duration": 147,
           "url": "https://www.youtube.com/watch?v=Mg4J7Y0RHpE"
         },
         {
           "title": "「한국이 또 사고 쳤다」 공개 2화 만에 8개국 1위 찍은 '김부장'에 외국인들이 뒤집힌 이유",
-          "views": 3938,
+          "views": 3944,
           "date": "2026-07-01",
           "duration": 197,
           "url": "https://www.youtube.com/watch?v=0kRbNkq52gw"
@@ -702,17 +702,17 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=OxRTk6powEY"
         }
       ],
-      "analyzed_at": "2026-07-12 01:14",
+      "analyzed_at": "2026-07-12 02:16",
       "subs_delta": 2
     }
   ],
-  "generated_at": "2026-07-12 01:12",
+  "generated_at": "2026-07-12 02:14",
   "videos": [
     {
       "date": "2026-07-02",
       "channel": "숏츠시작",
       "title": "발만 넣으면 3초, 신발에 무슨 일이 벌어질까",
-      "views": 7264,
+      "views": 7267,
       "url": "https://www.youtube.com/watch?v=4wsATmn3iCI"
     },
     {
@@ -915,7 +915,7 @@ window.DATA = {
       "date": "2026-07-10",
       "channel": "왜그럴까",
       "title": "벌집 하나를 통째로 몰살시키는 곤충의 정체",
-      "views": 1444,
+      "views": 1445,
       "url": "https://www.youtube.com/watch?v=RnPC6CNo8ZA"
     },
     {
@@ -989,6 +989,13 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
     },
     {
+      "date": "2026-07-08",
+      "channel": "카픽스",
+      "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
+      "views": 3535,
+      "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
+    },
+    {
       "date": "2026-06-29",
       "channel": "카픽스",
       "title": "BMW E90 주차하면 타는 냄새, 진짜 원인은 밸브커버 가스켓",
@@ -1003,17 +1010,10 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
     },
     {
-      "date": "2026-07-08",
-      "channel": "카픽스",
-      "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
-      "views": 3235,
-      "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
-    },
-    {
       "date": "2026-07-11",
       "channel": "카픽스",
       "title": "혼다 CR-V 시동 걸 때 딱 소리만 나고 안 걸리면, 진짜 원인은 스타터 모터",
-      "views": 569,
+      "views": 646,
       "url": "https://www.youtube.com/watch?v=L9zrNbhJbr8"
     },
     {
@@ -1062,28 +1062,28 @@ window.DATA = {
       "date": "2026-07-07",
       "channel": "카픽스",
       "title": "BMW 변속할 때 울컥 충격, 미션 갈 뻔했는데 진짜 원인은 '평생 무교환' 미션오일",
-      "views": 2511,
+      "views": 2536,
       "url": "https://www.youtube.com/watch?v=te6KfTQcCc4"
     },
     {
       "date": "2026-07-05",
       "channel": "뷰포인트",
       "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-      "views": 13769,
+      "views": 13939,
       "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
     },
     {
       "date": "2026-07-07",
       "channel": "뷰포인트",
       "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-      "views": 11283,
+      "views": 11653,
       "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
     },
     {
       "date": "2026-07-11",
       "channel": "뷰포인트",
       "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-      "views": 931,
+      "views": 1081,
       "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
     },
     {
@@ -1104,14 +1104,14 @@ window.DATA = {
       "date": "2026-07-09",
       "channel": "해외반응픽",
       "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-      "views": 7912,
+      "views": 8345,
       "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
     },
     {
       "date": "2026-07-01",
       "channel": "해외반응픽",
       "title": "「한국이 또 사고 쳤다」 공개 2화 만에 8개국 1위 찍은 '김부장'에 외국인들이 뒤집힌 이유",
-      "views": 3938,
+      "views": 3944,
       "url": "https://www.youtube.com/watch?v=0kRbNkq52gw"
     },
     {
@@ -1139,7 +1139,7 @@ window.DATA = {
       "date": "2026-07-04",
       "channel": "해외반응픽",
       "title": "방탄 콘서트에서 외국인 8만 명이 갑자기 한국 '민요'를 떼창한 이유",
-      "views": 289,
+      "views": 297,
       "url": "https://www.youtube.com/watch?v=Y-8z1_qauzE"
     },
     {
@@ -1153,7 +1153,7 @@ window.DATA = {
       "date": "2026-07-02",
       "channel": "해외반응픽",
       "title": "예고편 딱 39초 풀었을 뿐인데, 해외가 벌써 난리 난 이유",
-      "views": 405,
+      "views": 406,
       "url": "https://www.youtube.com/watch?v=Mg4J7Y0RHpE"
     },
     {
