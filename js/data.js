@@ -8,10 +8,10 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 1760,
-      "median_views": 1501,
+      "avg_views": 1797,
+      "median_views": 1509,
       "uploads_30d": 20,
-      "views_30d": 35202,
+      "views_30d": 35950,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -44,7 +44,7 @@ window.DATA = {
         },
         {
           "title": "전자레인지 찌든때, 세제로 문지르지 마세요",
-          "views": 1918,
+          "views": 1922,
           "date": "2026-07-08",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=F4RmYWBYlJk"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "시커멓게 변한 은목걸이, 호일에 담갔더니 무슨 일이",
-          "views": 417,
+          "views": 1090,
           "date": "2026-07-11",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=onEfVhol8s4"
@@ -67,14 +67,14 @@ window.DATA = {
         },
         {
           "title": "3억짜리 슈퍼카가, 전기차한테 발렸습니다",
-          "views": 1741,
+          "views": 1795,
           "date": "2026-07-10",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=Kq_o1qoM61A"
         },
         {
           "title": "미국 1위 픽업 포드가, 이 각진 트럭에 뒤로 끌려갑니다 (테슬라 사이버트럭 줄다리기)",
-          "views": 1594,
+          "views": 1606,
           "date": "2026-07-09",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=IXcgi7NPV4A"
@@ -88,14 +88,14 @@ window.DATA = {
         },
         {
           "title": "천장에서 물 뚝뚝, 지붕은 멀쩡한데… 진짜 범인은 이 나사입니다",
-          "views": 1237,
+          "views": 1238,
           "date": "2026-07-08",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=LUkTQ_7HXCg"
         },
         {
           "title": "전자레인지 찌든때, 세제로 문지르지 마세요",
-          "views": 1918,
+          "views": 1922,
           "date": "2026-07-08",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=F4RmYWBYlJk"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "다림질만 하면 옷에 갈색 얼룩… 다리미 고장이 아니었어요",
-          "views": 1408,
+          "views": 1412,
           "date": "2026-07-07",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=2vLPpIj684Q"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZTaLdgT3DLw"
         }
       ],
-      "analyzed_at": "2026-07-11 21:03",
+      "analyzed_at": "2026-07-11 22:06",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72900,
       "sampled": 20,
-      "avg_views": 1133,
+      "avg_views": 1134,
       "median_views": 1349,
       "uploads_30d": 20,
-      "views_30d": 22677,
+      "views_30d": 22681,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "오븐 유리에 낀 누런 그을음, 유리가 상한 줄 알았는데 아니었습니다",
-          "views": 57,
+          "views": 61,
           "date": "2026-07-10",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=Uj1e8JqjVKM"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=lZC1kWFkN1o"
         }
       ],
-      "analyzed_at": "2026-07-11 21:04",
+      "analyzed_at": "2026-07-11 22:06",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1418,
-      "median_views": 1396,
+      "avg_views": 1419,
+      "median_views": 1399,
       "uploads_30d": 20,
-      "views_30d": 28368,
+      "views_30d": 28380,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -306,14 +306,14 @@ window.DATA = {
         },
         {
           "title": "벌집 하나를 통째로 몰살시키는 곤충의 정체",
-          "views": 1435,
+          "views": 1442,
           "date": "2026-07-10",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=RnPC6CNo8ZA"
         },
         {
           "title": "호랑이 vs 사자, 일대일로 붙으면 진짜 누가 이길까? (동물학자들의 결론)",
-          "views": 1537,
+          "views": 1540,
           "date": "2026-07-09",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=KGDGt56xdLo"
@@ -327,14 +327,14 @@ window.DATA = {
         },
         {
           "title": "곰도 사냥해 잡아먹는 이 동물의 정체는?",
-          "views": 1287,
+          "views": 1288,
           "date": "2026-07-08",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=iza1oSpwYvM"
         },
         {
           "title": "이 거미의 정체는? 새를 잡아먹는 뱀",
-          "views": 1238,
+          "views": 1239,
           "date": "2026-07-08",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=ZGhfgQ_dRzk"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DWm8vnbBDlw"
         }
       ],
-      "analyzed_at": "2026-07-11 21:04",
+      "analyzed_at": "2026-07-11 22:07",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1170,
       "sampled": 20,
-      "avg_views": 4474,
+      "avg_views": 4493,
       "median_views": 1442,
       "uploads_30d": 20,
-      "views_30d": 89492,
+      "views_30d": 89875,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 58372,
+          "views": 58647,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "혼다 CR-V 시동 걸 때 딱 소리만 나고 안 걸리면, 진짜 원인은 스타터 모터",
-          "views": 206,
+          "views": 300,
           "date": "2026-07-11",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=L9zrNbhJbr8"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
-          "views": 2888,
+          "views": 2902,
           "date": "2026-07-08",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
@@ -491,38 +491,38 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=AUBA1SyV4Os"
         }
       ],
-      "analyzed_at": "2026-07-11 21:05",
+      "analyzed_at": "2026-07-11 22:07",
       "subs_delta": 0
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
       "name": "뷰포인트",
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
-      "subscribers": 48,
+      "subscribers": 50,
       "sampled": 5,
-      "avg_views": 4826,
-      "median_views": 518,
+      "avg_views": 4947,
+      "median_views": 618,
       "uploads_30d": 5,
-      "views_30d": 24134,
+      "views_30d": 24738,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-          "views": 13180,
+          "views": 13363,
           "date": "2026-07-05",
           "duration": 1309,
           "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 9954,
+          "views": 10275,
           "date": "2026-07-07",
           "duration": 1248,
           "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
         },
         {
           "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-          "views": 518,
+          "views": 618,
           "date": "2026-07-11",
           "duration": 1687,
           "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-          "views": 518,
+          "views": 618,
           "date": "2026-07-11",
           "duration": 1687,
           "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
@@ -566,21 +566,21 @@ window.DATA = {
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 9954,
+          "views": 10275,
           "date": "2026-07-07",
           "duration": 1248,
           "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
         },
         {
           "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-          "views": 13180,
+          "views": 13363,
           "date": "2026-07-05",
           "duration": 1309,
           "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
         }
       ],
-      "analyzed_at": "2026-07-11 21:05",
-      "subs_delta": 7
+      "analyzed_at": "2026-07-11 22:07",
+      "subs_delta": 9
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
@@ -588,15 +588,15 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 39,
       "sampled": 11,
-      "avg_views": 1511,
+      "avg_views": 1565,
       "median_views": 672,
       "uploads_30d": 11,
-      "views_30d": 16625,
+      "views_30d": 17217,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-          "views": 6234,
+          "views": 6774,
           "date": "2026-07-09",
           "duration": 1852,
           "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
@@ -610,14 +610,14 @@ window.DATA = {
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 2489,
+          "views": 2544,
           "date": "2026-07-07",
           "duration": 604,
           "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
         },
         {
           "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-          "views": 1249,
+          "views": 1242,
           "date": "2026-07-06",
           "duration": 539,
           "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
@@ -640,21 +640,21 @@ window.DATA = {
         },
         {
           "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-          "views": 6234,
+          "views": 6774,
           "date": "2026-07-09",
           "duration": 1852,
           "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 2489,
+          "views": 2544,
           "date": "2026-07-07",
           "duration": 604,
           "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
         },
         {
           "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-          "views": 1249,
+          "views": 1242,
           "date": "2026-07-06",
           "duration": 539,
           "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
@@ -675,7 +675,7 @@ window.DATA = {
         },
         {
           "title": "예고편 딱 39초 풀었을 뿐인데, 해외가 벌써 난리 난 이유",
-          "views": 399,
+          "views": 403,
           "date": "2026-07-02",
           "duration": 147,
           "url": "https://www.youtube.com/watch?v=Mg4J7Y0RHpE"
@@ -702,11 +702,11 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=OxRTk6powEY"
         }
       ],
-      "analyzed_at": "2026-07-11 21:05",
+      "analyzed_at": "2026-07-11 22:07",
       "subs_delta": 14
     }
   ],
-  "generated_at": "2026-07-11 21:03",
+  "generated_at": "2026-07-11 22:06",
   "videos": [
     {
       "date": "2026-07-02",
@@ -740,14 +740,14 @@ window.DATA = {
       "date": "2026-07-08",
       "channel": "숏츠시작",
       "title": "전자레인지 찌든때, 세제로 문지르지 마세요",
-      "views": 1918,
+      "views": 1922,
       "url": "https://www.youtube.com/watch?v=F4RmYWBYlJk"
     },
     {
       "date": "2026-07-11",
       "channel": "숏츠시작",
       "title": "시커멓게 변한 은목걸이, 호일에 담갔더니 무슨 일이",
-      "views": 417,
+      "views": 1090,
       "url": "https://www.youtube.com/watch?v=onEfVhol8s4"
     },
     {
@@ -761,14 +761,14 @@ window.DATA = {
       "date": "2026-07-10",
       "channel": "숏츠시작",
       "title": "3억짜리 슈퍼카가, 전기차한테 발렸습니다",
-      "views": 1741,
+      "views": 1795,
       "url": "https://www.youtube.com/watch?v=Kq_o1qoM61A"
     },
     {
       "date": "2026-07-09",
       "channel": "숏츠시작",
       "title": "미국 1위 픽업 포드가, 이 각진 트럭에 뒤로 끌려갑니다 (테슬라 사이버트럭 줄다리기)",
-      "views": 1594,
+      "views": 1606,
       "url": "https://www.youtube.com/watch?v=IXcgi7NPV4A"
     },
     {
@@ -782,14 +782,14 @@ window.DATA = {
       "date": "2026-07-08",
       "channel": "숏츠시작",
       "title": "천장에서 물 뚝뚝, 지붕은 멀쩡한데… 진짜 범인은 이 나사입니다",
-      "views": 1237,
+      "views": 1238,
       "url": "https://www.youtube.com/watch?v=LUkTQ_7HXCg"
     },
     {
       "date": "2026-07-07",
       "channel": "숏츠시작",
       "title": "다림질만 하면 옷에 갈색 얼룩… 다리미 고장이 아니었어요",
-      "views": 1408,
+      "views": 1412,
       "url": "https://www.youtube.com/watch?v=2vLPpIj684Q"
     },
     {
@@ -845,7 +845,7 @@ window.DATA = {
       "date": "2026-07-10",
       "channel": "놓치면손해템",
       "title": "오븐 유리에 낀 누런 그을음, 유리가 상한 줄 알았는데 아니었습니다",
-      "views": 57,
+      "views": 61,
       "url": "https://www.youtube.com/watch?v=Uj1e8JqjVKM"
     },
     {
@@ -915,14 +915,14 @@ window.DATA = {
       "date": "2026-07-10",
       "channel": "왜그럴까",
       "title": "벌집 하나를 통째로 몰살시키는 곤충의 정체",
-      "views": 1435,
+      "views": 1442,
       "url": "https://www.youtube.com/watch?v=RnPC6CNo8ZA"
     },
     {
       "date": "2026-07-09",
       "channel": "왜그럴까",
       "title": "호랑이 vs 사자, 일대일로 붙으면 진짜 누가 이길까? (동물학자들의 결론)",
-      "views": 1537,
+      "views": 1540,
       "url": "https://www.youtube.com/watch?v=KGDGt56xdLo"
     },
     {
@@ -936,14 +936,14 @@ window.DATA = {
       "date": "2026-07-08",
       "channel": "왜그럴까",
       "title": "곰도 사냥해 잡아먹는 이 동물의 정체는?",
-      "views": 1287,
+      "views": 1288,
       "url": "https://www.youtube.com/watch?v=iza1oSpwYvM"
     },
     {
       "date": "2026-07-08",
       "channel": "왜그럴까",
       "title": "이 거미의 정체는? 새를 잡아먹는 뱀",
-      "views": 1238,
+      "views": 1239,
       "url": "https://www.youtube.com/watch?v=ZGhfgQ_dRzk"
     },
     {
@@ -978,7 +978,7 @@ window.DATA = {
       "date": "2026-07-02",
       "channel": "카픽스",
       "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-      "views": 58372,
+      "views": 58647,
       "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
     },
     {
@@ -1013,7 +1013,7 @@ window.DATA = {
       "date": "2026-07-11",
       "channel": "카픽스",
       "title": "혼다 CR-V 시동 걸 때 딱 소리만 나고 안 걸리면, 진짜 원인은 스타터 모터",
-      "views": 206,
+      "views": 300,
       "url": "https://www.youtube.com/watch?v=L9zrNbhJbr8"
     },
     {
@@ -1055,7 +1055,7 @@ window.DATA = {
       "date": "2026-07-08",
       "channel": "카픽스",
       "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
-      "views": 2888,
+      "views": 2902,
       "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
     },
     {
@@ -1076,21 +1076,21 @@ window.DATA = {
       "date": "2026-07-05",
       "channel": "뷰포인트",
       "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-      "views": 13180,
+      "views": 13363,
       "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
     },
     {
       "date": "2026-07-07",
       "channel": "뷰포인트",
       "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-      "views": 9954,
+      "views": 10275,
       "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
     },
     {
       "date": "2026-07-11",
       "channel": "뷰포인트",
       "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-      "views": 518,
+      "views": 618,
       "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
     },
     {
@@ -1111,7 +1111,7 @@ window.DATA = {
       "date": "2026-07-09",
       "channel": "해외반응픽",
       "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-      "views": 6234,
+      "views": 6774,
       "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
     },
     {
@@ -1125,14 +1125,14 @@ window.DATA = {
       "date": "2026-07-07",
       "channel": "해외반응픽",
       "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-      "views": 2489,
+      "views": 2544,
       "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
     },
     {
       "date": "2026-07-06",
       "channel": "해외반응픽",
       "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-      "views": 1249,
+      "views": 1242,
       "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
     },
     {
@@ -1167,7 +1167,7 @@ window.DATA = {
       "date": "2026-07-02",
       "channel": "해외반응픽",
       "title": "예고편 딱 39초 풀었을 뿐인데, 해외가 벌써 난리 난 이유",
-      "views": 399,
+      "views": 403,
       "url": "https://www.youtube.com/watch?v=Mg4J7Y0RHpE"
     },
     {
