@@ -580,7 +580,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-07-11 23:09",
-      "subs_delta": 12
+      "subs_delta": 0
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
@@ -703,7 +703,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-07-11 23:10",
-      "subs_delta": 16
+      "subs_delta": 0
     }
   ],
   "generated_at": "2026-07-11 23:08",
