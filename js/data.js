@@ -11,7 +11,7 @@ window.DATA = {
       "avg_views": 1736,
       "median_views": 1412,
       "uploads_30d": 20,
-      "views_30d": 34738,
+      "views_30d": 34737,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -44,7 +44,7 @@ window.DATA = {
         },
         {
           "title": "3억짜리 슈퍼카가, 전기차한테 발렸습니다",
-          "views": 2045,
+          "views": 2047,
           "date": "2026-07-10",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=Kq_o1qoM61A"
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "거뭇하게 변색된 구리 그릇, 문질러 봐야 소용없다고요?",
-          "views": 1164,
+          "views": 1161,
           "date": "2026-07-12",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=ppd90IkJxOk"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "3억짜리 슈퍼카가, 전기차한테 발렸습니다",
-          "views": 2045,
+          "views": 2047,
           "date": "2026-07-10",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=Kq_o1qoM61A"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=LUkTQ_7HXCg"
         }
       ],
-      "analyzed_at": "2026-07-14 02:58",
+      "analyzed_at": "2026-07-14 04:00",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1055,
       "median_views": 1350,
       "uploads_30d": 20,
-      "views_30d": 21100,
+      "views_30d": 21110,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -176,14 +176,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "게임 켰는데 화면이 왜 이렇게 부드럽지 했더니 180Hz였던 에이서 니트로 V16S",
-          "views": 24,
+          "views": 39,
           "date": "2026-07-13",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=_mXp4Nk3o94"
         },
         {
           "title": "게이밍 노트북 결국 발열이 문제잖아요, 근데 이건 좀 다르더라고요",
-          "views": 49,
+          "views": 47,
           "date": "2026-07-13",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=7HJ6FE7LHTo"
@@ -197,7 +197,7 @@ window.DATA = {
         },
         {
           "title": "칼로 채썰 때마다 손끝 아찔했는데, 알고 보니 칼이 문제가 아니었습니다",
-          "views": 42,
+          "views": 40,
           "date": "2026-07-12",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=G8G1T4g4onI"
@@ -232,7 +232,7 @@ window.DATA = {
         },
         {
           "title": "산 지 얼마 안 된 흰 운동화가 벌써 꼬질꼬질, 세탁소 말고 이렇게 했더니",
-          "views": 1685,
+          "views": 1684,
           "date": "2026-07-09",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=ezaNvYARCLU"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=s-B534b33zI"
         }
       ],
-      "analyzed_at": "2026-07-14 02:58",
+      "analyzed_at": "2026-07-14 04:00",
       "subs_delta": 0
     },
     {
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCC7ZtDMOdJU80HF30wMWM3Q",
       "subscribers": 2370,
       "sampled": 20,
-      "avg_views": 1449,
+      "avg_views": 1448,
       "median_views": 1411,
       "uploads_30d": 20,
-      "views_30d": 28980,
+      "views_30d": 28976,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "호랑이 vs 사자, 일대일로 붙으면 진짜 누가 이길까? (동물학자들의 결론)",
-          "views": 1869,
+          "views": 1868,
           "date": "2026-07-09",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=KGDGt56xdLo"
@@ -283,7 +283,7 @@ window.DATA = {
         },
         {
           "title": "악어도 통째로 삼키는 조임뱀의 정체",
-          "views": 1685,
+          "views": 1682,
           "date": "2026-07-10",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=nG5Dmyx_aA0"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "악어도 통째로 삼키는 조임뱀의 정체",
-          "views": 1685,
+          "views": 1682,
           "date": "2026-07-10",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=nG5Dmyx_aA0"
@@ -313,7 +313,7 @@ window.DATA = {
         },
         {
           "title": "호랑이 vs 사자, 일대일로 붙으면 진짜 누가 이길까? (동물학자들의 결론)",
-          "views": 1869,
+          "views": 1868,
           "date": "2026-07-09",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=KGDGt56xdLo"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DWm8vnbBDlw"
         }
       ],
-      "analyzed_at": "2026-07-14 02:59",
+      "analyzed_at": "2026-07-14 04:01",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1180,
       "sampled": 20,
-      "avg_views": 5512,
+      "avg_views": 5533,
       "median_views": 1521,
       "uploads_30d": 20,
-      "views_30d": 110259,
+      "views_30d": 110662,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 70062,
+          "views": 70114,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -399,14 +399,14 @@ window.DATA = {
         },
         {
           "title": "브레이크 밟았는데 페달이 바닥까지 푹 꺼지면, 진짜 원인은 마스터실린더",
-          "views": 5449,
+          "views": 5635,
           "date": "2026-07-12",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=twpECifFcWs"
         },
         {
           "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
-          "views": 4438,
+          "views": 4476,
           "date": "2026-07-08",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
@@ -429,21 +429,21 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 신호만 서면 부르르 떨림, 진짜 원인은 점화플러그",
-          "views": 1207,
+          "views": 1191,
           "date": "2026-07-13",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=FihVzG7mHYU"
         },
         {
           "title": "토요타 시동만 걸면 부르르 떨림·체크등, 미션인 줄 알았는데 진짜 범인은 이 센서였다",
-          "views": 392,
+          "views": 510,
           "date": "2026-07-12",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=To0U0mSsTok"
         },
         {
           "title": "브레이크 밟았는데 페달이 바닥까지 푹 꺼지면, 진짜 원인은 마스터실린더",
-          "views": 5449,
+          "views": 5635,
           "date": "2026-07-12",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=twpECifFcWs"
@@ -457,14 +457,14 @@ window.DATA = {
         },
         {
           "title": "토요타 캠리 주행 중 웅웅 소리 점점 커지면, 진짜 원인은 앞 휠베어링",
-          "views": 280,
+          "views": 285,
           "date": "2026-07-10",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=qADfBAyjFa8"
         },
         {
           "title": "현대 쏘나타 방지턱만 넘으면 뒤에서 덜컹덜컹, 진짜 원인은 로어 컨트롤암 부싱",
-          "views": 2335,
+          "views": 2346,
           "date": "2026-07-10",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=5bF19p5O-5I"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=-4Get_WrrwI"
         }
       ],
-      "analyzed_at": "2026-07-14 02:59",
+      "analyzed_at": "2026-07-14 04:01",
       "subs_delta": 0
     },
     {
@@ -499,101 +499,15 @@ window.DATA = {
       "name": "뷰포인트",
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 60,
-      "sampled": 7,
-      "avg_views": 5158,
-      "median_views": 746,
-      "uploads_30d": 7,
-      "views_30d": 36112,
-      "shorts_ratio": 0.0,
-      "top_videos": [
-        {
-          "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 16123,
-          "date": "2026-07-07",
-          "duration": 1248,
-          "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
-        },
-        {
-          "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-          "views": 15947,
-          "date": "2026-07-05",
-          "duration": 1309,
-          "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
-        },
-        {
-          "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-          "views": 3170,
-          "date": "2026-07-11",
-          "duration": 1687,
-          "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
-        },
-        {
-          "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-          "views": 746,
-          "date": "2026-07-08",
-          "duration": 1039,
-          "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
-        },
-        {
-          "title": "소지섭 '김부장' 1~6화 몰아보기… 외국인들이 6화 마지막에서 결국 무너졌다 [실시간 해외반응]",
-          "views": 106,
-          "date": "2026-07-12",
-          "duration": 1278,
-          "url": "https://www.youtube.com/watch?v=yYAgENws9Kg"
-        }
-      ],
-      "recent_videos": [
-        {
-          "title": "[해외반응] 나혼자만 레벨업 1~2화 — 외국인들이 성진우 '이중던전 각성' 장면에서 결국 폭발한 순간들 [스토리 순서 실시간 해외반응]",
-          "views": 4,
-          "date": "2026-07-13",
-          "duration": 1045,
-          "url": "https://www.youtube.com/watch?v=BurgAnYRo-o"
-        },
-        {
-          "title": "소지섭 '김부장' 1~6화 몰아보기… 외국인들이 6화 마지막에서 결국 무너졌다 [실시간 해외반응]",
-          "views": 106,
-          "date": "2026-07-12",
-          "duration": 1278,
-          "url": "https://www.youtube.com/watch?v=yYAgENws9Kg"
-        },
-        {
-          "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-          "views": 3170,
-          "date": "2026-07-11",
-          "duration": 1687,
-          "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
-        },
-        {
-          "title": "무빙2 공개 전 다시 보는 1화, 외국인 리뷰어들이 \"슈퍼히어로 K드라마 맞아?!\" 외친 그 첫 각성 순간",
-          "views": 16,
-          "date": "2026-07-10",
-          "duration": 1268,
-          "url": "https://www.youtube.com/watch?v=xXl3EGJL2O4"
-        },
-        {
-          "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-          "views": 746,
-          "date": "2026-07-08",
-          "duration": 1039,
-          "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
-        },
-        {
-          "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 16123,
-          "date": "2026-07-07",
-          "duration": 1248,
-          "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
-        },
-        {
-          "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-          "views": 15947,
-          "date": "2026-07-05",
-          "duration": 1309,
-          "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
-        }
-      ],
-      "analyzed_at": "2026-07-14 02:59",
+      "sampled": 0,
+      "avg_views": 0,
+      "median_views": 0,
+      "uploads_30d": 0,
+      "views_30d": 0,
+      "shorts_ratio": 0,
+      "top_videos": [],
+      "recent_videos": [],
+      "analyzed_at": "2026-07-14 04:01",
       "subs_delta": 2
     },
     {
@@ -602,15 +516,15 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 55,
       "sampled": 12,
-      "avg_views": 2369,
-      "median_views": 591,
+      "avg_views": 2382,
+      "median_views": 594,
       "uploads_30d": 12,
-      "views_30d": 28439,
+      "views_30d": 28591,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-          "views": 14145,
+          "views": 14283,
           "date": "2026-07-09",
           "duration": 1852,
           "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
@@ -638,7 +552,7 @@ window.DATA = {
         },
         {
           "title": "타짜4 개봉 전 다시 보는 원작, 일본·미국·우크라이나 리뷰어들이 '밑장 빼기'에서 무너진 순간들 [이야기 순서 실시간 해외반응]",
-          "views": 2068,
+          "views": 2067,
           "date": "2026-07-10",
           "duration": 887,
           "url": "https://www.youtube.com/watch?v=XT4k2TLKC70"
@@ -647,21 +561,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "영화 '타짜2: 신의 손' — 타짜4 개봉 전 다시 보는 그 속편, 해외 리뷰어들이 '다 벗고 치는 마지막 승부'에서 결국 무너진 순간들 [이야기 순서 실시간 해외반응]",
-          "views": 70,
+          "views": 79,
           "date": "2026-07-12",
           "duration": 1665,
           "url": "https://www.youtube.com/watch?v=lfpVrPwZ3HY"
         },
         {
           "title": "타짜4 개봉 전 다시 보는 원작, 일본·미국·우크라이나 리뷰어들이 '밑장 빼기'에서 무너진 순간들 [이야기 순서 실시간 해외반응]",
-          "views": 2068,
+          "views": 2067,
           "date": "2026-07-10",
           "duration": 887,
           "url": "https://www.youtube.com/watch?v=XT4k2TLKC70"
         },
         {
           "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-          "views": 14145,
+          "views": 14283,
           "date": "2026-07-09",
           "duration": 1852,
           "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
@@ -716,11 +630,11 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=TISSoRXU0A4"
         }
       ],
-      "analyzed_at": "2026-07-14 02:59",
+      "analyzed_at": "2026-07-14 04:01",
       "subs_delta": -1
     }
   ],
-  "generated_at": "2026-07-14 02:58",
+  "generated_at": "2026-07-14 04:00",
   "videos": [
     {
       "date": "2026-07-02",
@@ -754,7 +668,7 @@ window.DATA = {
       "date": "2026-07-10",
       "channel": "숏츠시작",
       "title": "3억짜리 슈퍼카가, 전기차한테 발렸습니다",
-      "views": 2045,
+      "views": 2047,
       "url": "https://www.youtube.com/watch?v=Kq_o1qoM61A"
     },
     {
@@ -768,7 +682,7 @@ window.DATA = {
       "date": "2026-07-12",
       "channel": "숏츠시작",
       "title": "거뭇하게 변색된 구리 그릇, 문질러 봐야 소용없다고요?",
-      "views": 1164,
+      "views": 1161,
       "url": "https://www.youtube.com/watch?v=ppd90IkJxOk"
     },
     {
@@ -852,14 +766,14 @@ window.DATA = {
       "date": "2026-07-13",
       "channel": "놓치면손해템",
       "title": "게임 켰는데 화면이 왜 이렇게 부드럽지 했더니 180Hz였던 에이서 니트로 V16S",
-      "views": 24,
+      "views": 39,
       "url": "https://www.youtube.com/watch?v=_mXp4Nk3o94"
     },
     {
       "date": "2026-07-13",
       "channel": "놓치면손해템",
       "title": "게이밍 노트북 결국 발열이 문제잖아요, 근데 이건 좀 다르더라고요",
-      "views": 49,
+      "views": 47,
       "url": "https://www.youtube.com/watch?v=7HJ6FE7LHTo"
     },
     {
@@ -873,7 +787,7 @@ window.DATA = {
       "date": "2026-07-12",
       "channel": "놓치면손해템",
       "title": "칼로 채썰 때마다 손끝 아찔했는데, 알고 보니 칼이 문제가 아니었습니다",
-      "views": 42,
+      "views": 40,
       "url": "https://www.youtube.com/watch?v=G8G1T4g4onI"
     },
     {
@@ -901,14 +815,14 @@ window.DATA = {
       "date": "2026-07-09",
       "channel": "놓치면손해템",
       "title": "산 지 얼마 안 된 흰 운동화가 벌써 꼬질꼬질, 세탁소 말고 이렇게 했더니",
-      "views": 1685,
+      "views": 1684,
       "url": "https://www.youtube.com/watch?v=ezaNvYARCLU"
     },
     {
       "date": "2026-07-09",
       "channel": "왜그럴까",
       "title": "호랑이 vs 사자, 일대일로 붙으면 진짜 누가 이길까? (동물학자들의 결론)",
-      "views": 1869,
+      "views": 1868,
       "url": "https://www.youtube.com/watch?v=KGDGt56xdLo"
     },
     {
@@ -929,7 +843,7 @@ window.DATA = {
       "date": "2026-07-10",
       "channel": "왜그럴까",
       "title": "악어도 통째로 삼키는 조임뱀의 정체",
-      "views": 1685,
+      "views": 1682,
       "url": "https://www.youtube.com/watch?v=nG5Dmyx_aA0"
     },
     {
@@ -999,7 +913,7 @@ window.DATA = {
       "date": "2026-07-02",
       "channel": "카픽스",
       "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-      "views": 70062,
+      "views": 70114,
       "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
     },
     {
@@ -1013,14 +927,14 @@ window.DATA = {
       "date": "2026-07-12",
       "channel": "카픽스",
       "title": "브레이크 밟았는데 페달이 바닥까지 푹 꺼지면, 진짜 원인은 마스터실린더",
-      "views": 5449,
+      "views": 5635,
       "url": "https://www.youtube.com/watch?v=twpECifFcWs"
     },
     {
       "date": "2026-07-08",
       "channel": "카픽스",
       "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
-      "views": 4438,
+      "views": 4476,
       "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
     },
     {
@@ -1041,14 +955,14 @@ window.DATA = {
       "date": "2026-07-13",
       "channel": "카픽스",
       "title": "혼다 시빅 신호만 서면 부르르 떨림, 진짜 원인은 점화플러그",
-      "views": 1207,
+      "views": 1191,
       "url": "https://www.youtube.com/watch?v=FihVzG7mHYU"
     },
     {
       "date": "2026-07-12",
       "channel": "카픽스",
       "title": "토요타 시동만 걸면 부르르 떨림·체크등, 미션인 줄 알았는데 진짜 범인은 이 센서였다",
-      "views": 392,
+      "views": 510,
       "url": "https://www.youtube.com/watch?v=To0U0mSsTok"
     },
     {
@@ -1062,14 +976,14 @@ window.DATA = {
       "date": "2026-07-10",
       "channel": "카픽스",
       "title": "토요타 캠리 주행 중 웅웅 소리 점점 커지면, 진짜 원인은 앞 휠베어링",
-      "views": 280,
+      "views": 285,
       "url": "https://www.youtube.com/watch?v=qADfBAyjFa8"
     },
     {
       "date": "2026-07-10",
       "channel": "카픽스",
       "title": "현대 쏘나타 방지턱만 넘으면 뒤에서 덜컹덜컹, 진짜 원인은 로어 컨트롤암 부싱",
-      "views": 2335,
+      "views": 2346,
       "url": "https://www.youtube.com/watch?v=5bF19p5O-5I"
     },
     {
@@ -1087,59 +1001,10 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=-4Get_WrrwI"
     },
     {
-      "date": "2026-07-07",
-      "channel": "뷰포인트",
-      "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-      "views": 16123,
-      "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
-    },
-    {
-      "date": "2026-07-05",
-      "channel": "뷰포인트",
-      "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-      "views": 15947,
-      "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
-    },
-    {
-      "date": "2026-07-11",
-      "channel": "뷰포인트",
-      "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-      "views": 3170,
-      "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
-    },
-    {
-      "date": "2026-07-08",
-      "channel": "뷰포인트",
-      "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-      "views": 746,
-      "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
-    },
-    {
-      "date": "2026-07-12",
-      "channel": "뷰포인트",
-      "title": "소지섭 '김부장' 1~6화 몰아보기… 외국인들이 6화 마지막에서 결국 무너졌다 [실시간 해외반응]",
-      "views": 106,
-      "url": "https://www.youtube.com/watch?v=yYAgENws9Kg"
-    },
-    {
-      "date": "2026-07-13",
-      "channel": "뷰포인트",
-      "title": "[해외반응] 나혼자만 레벨업 1~2화 — 외국인들이 성진우 '이중던전 각성' 장면에서 결국 폭발한 순간들 [스토리 순서 실시간 해외반응]",
-      "views": 4,
-      "url": "https://www.youtube.com/watch?v=BurgAnYRo-o"
-    },
-    {
-      "date": "2026-07-10",
-      "channel": "뷰포인트",
-      "title": "무빙2 공개 전 다시 보는 1화, 외국인 리뷰어들이 \"슈퍼히어로 K드라마 맞아?!\" 외친 그 첫 각성 순간",
-      "views": 16,
-      "url": "https://www.youtube.com/watch?v=xXl3EGJL2O4"
-    },
-    {
       "date": "2026-07-09",
       "channel": "해외반응픽",
       "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-      "views": 14145,
+      "views": 14283,
       "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
     },
     {
@@ -1167,14 +1032,14 @@ window.DATA = {
       "date": "2026-07-10",
       "channel": "해외반응픽",
       "title": "타짜4 개봉 전 다시 보는 원작, 일본·미국·우크라이나 리뷰어들이 '밑장 빼기'에서 무너진 순간들 [이야기 순서 실시간 해외반응]",
-      "views": 2068,
+      "views": 2067,
       "url": "https://www.youtube.com/watch?v=XT4k2TLKC70"
     },
     {
       "date": "2026-07-12",
       "channel": "해외반응픽",
       "title": "영화 '타짜2: 신의 손' — 타짜4 개봉 전 다시 보는 그 속편, 해외 리뷰어들이 '다 벗고 치는 마지막 승부'에서 결국 무너진 순간들 [이야기 순서 실시간 해외반응]",
-      "views": 70,
+      "views": 79,
       "url": "https://www.youtube.com/watch?v=lfpVrPwZ3HY"
     },
     {
