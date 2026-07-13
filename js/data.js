@@ -11,7 +11,7 @@ window.DATA = {
       "avg_views": 1785,
       "median_views": 1517,
       "uploads_30d": 20,
-      "views_30d": 35710,
+      "views_30d": 35714,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -67,7 +67,7 @@ window.DATA = {
         },
         {
           "title": "누렇게 찌든 흰 운동화, 화장실에 있는 걸로 새것처럼 살렸습니다",
-          "views": 569,
+          "views": 572,
           "date": "2026-07-12",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=4IXAa4xD3Hw"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "천장에서 물 뚝뚝, 지붕은 멀쩡한데… 진짜 범인은 이 나사입니다",
-          "views": 1254,
+          "views": 1255,
           "date": "2026-07-08",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=LUkTQ_7HXCg"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=F4RmYWBYlJk"
         }
       ],
-      "analyzed_at": "2026-07-13 17:36",
+      "analyzed_at": "2026-07-13 18:38",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1085,
       "median_views": 1350,
       "uploads_30d": 20,
-      "views_30d": 21708,
+      "views_30d": 21710,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -225,7 +225,7 @@ window.DATA = {
         },
         {
           "title": "산 지 얼마 안 된 흰 운동화가 벌써 꼬질꼬질, 세탁소 말고 이렇게 했더니",
-          "views": 1683,
+          "views": 1685,
           "date": "2026-07-09",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=ezaNvYARCLU"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=msWPyr9PTm4"
         }
       ],
-      "analyzed_at": "2026-07-13 17:36",
+      "analyzed_at": "2026-07-13 18:39",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1445,
       "median_views": 1411,
       "uploads_30d": 20,
-      "views_30d": 28912,
+      "views_30d": 28913,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -348,7 +348,7 @@ window.DATA = {
         },
         {
           "title": "사람을 죽일 수 있는 새, 세상에서 가장 위험한 새의 정체",
-          "views": 1261,
+          "views": 1262,
           "date": "2026-07-07",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=af3zzEFpdWc"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DWm8vnbBDlw"
         }
       ],
-      "analyzed_at": "2026-07-13 17:37",
+      "analyzed_at": "2026-07-13 18:40",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1180,
       "sampled": 20,
-      "avg_views": 5273,
+      "avg_views": 5299,
       "median_views": 1576,
       "uploads_30d": 20,
-      "views_30d": 105477,
+      "views_30d": 105994,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 68308,
+          "views": 68576,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "혼다 시빅 신호만 서면 부르르 떨림, 진짜 원인은 점화플러그",
-          "views": 517,
+          "views": 620,
           "date": "2026-07-13",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=FihVzG7mHYU"
@@ -436,7 +436,7 @@ window.DATA = {
         },
         {
           "title": "브레이크 밟았는데 페달이 바닥까지 푹 꺼지면, 진짜 원인은 마스터실린더",
-          "views": 2378,
+          "views": 2524,
           "date": "2026-07-12",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=twpECifFcWs"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
         }
       ],
-      "analyzed_at": "2026-07-13 17:37",
+      "analyzed_at": "2026-07-13 18:41",
       "subs_delta": 10
     },
     {
@@ -500,15 +500,15 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 57,
       "sampled": 6,
-      "avg_views": 5814,
-      "median_views": 1752,
+      "avg_views": 5829,
+      "median_views": 1773,
       "uploads_30d": 6,
-      "views_30d": 34884,
+      "views_30d": 34979,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 15669,
+          "views": 15721,
           "date": "2026-07-07",
           "duration": 1248,
           "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
@@ -522,14 +522,14 @@ window.DATA = {
         },
         {
           "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-          "views": 2848,
+          "views": 2869,
           "date": "2026-07-11",
           "duration": 1687,
           "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
         },
         {
           "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-          "views": 656,
+          "views": 678,
           "date": "2026-07-08",
           "duration": 1039,
           "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
@@ -552,7 +552,7 @@ window.DATA = {
         },
         {
           "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-          "views": 2848,
+          "views": 2869,
           "date": "2026-07-11",
           "duration": 1687,
           "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
@@ -566,14 +566,14 @@ window.DATA = {
         },
         {
           "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-          "views": 656,
+          "views": 678,
           "date": "2026-07-08",
           "duration": 1039,
           "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 15669,
+          "views": 15721,
           "date": "2026-07-07",
           "duration": 1248,
           "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
@@ -586,7 +586,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
         }
       ],
-      "analyzed_at": "2026-07-13 17:37",
+      "analyzed_at": "2026-07-13 18:41",
       "subs_delta": 0
     },
     {
@@ -595,15 +595,15 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 53,
       "sampled": 12,
-      "avg_views": 2129,
+      "avg_views": 2158,
       "median_views": 588,
       "uploads_30d": 12,
-      "views_30d": 25556,
+      "views_30d": 25897,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-          "views": 12219,
+          "views": 12309,
           "date": "2026-07-09",
           "duration": 1852,
           "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
@@ -617,10 +617,17 @@ window.DATA = {
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 3446,
+          "views": 3498,
           "date": "2026-07-07",
           "duration": 604,
           "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
+        },
+        {
+          "title": "타짜4 개봉 전 다시 보는 원작, 일본·미국·우크라이나 리뷰어들이 '밑장 빼기'에서 무너진 순간들 [이야기 순서 실시간 해외반응]",
+          "views": 1942,
+          "date": "2026-07-10",
+          "duration": 887,
+          "url": "https://www.youtube.com/watch?v=XT4k2TLKC70"
         },
         {
           "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
@@ -628,40 +635,33 @@ window.DATA = {
           "date": "2026-07-06",
           "duration": 539,
           "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
-        },
-        {
-          "title": "타짜4 개봉 전 다시 보는 원작, 일본·미국·우크라이나 리뷰어들이 '밑장 빼기'에서 무너진 순간들 [이야기 순서 실시간 해외반응]",
-          "views": 1749,
-          "date": "2026-07-10",
-          "duration": 887,
-          "url": "https://www.youtube.com/watch?v=XT4k2TLKC70"
         }
       ],
       "recent_videos": [
         {
           "title": "영화 '타짜2: 신의 손' — 타짜4 개봉 전 다시 보는 그 속편, 해외 리뷰어들이 '다 벗고 치는 마지막 승부'에서 결국 무너진 순간들 [이야기 순서 실시간 해외반응]",
-          "views": 46,
+          "views": 50,
           "date": "2026-07-12",
           "duration": 1665,
           "url": "https://www.youtube.com/watch?v=lfpVrPwZ3HY"
         },
         {
           "title": "타짜4 개봉 전 다시 보는 원작, 일본·미국·우크라이나 리뷰어들이 '밑장 빼기'에서 무너진 순간들 [이야기 순서 실시간 해외반응]",
-          "views": 1749,
+          "views": 1942,
           "date": "2026-07-10",
           "duration": 887,
           "url": "https://www.youtube.com/watch?v=XT4k2TLKC70"
         },
         {
           "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-          "views": 12219,
+          "views": 12309,
           "date": "2026-07-09",
           "duration": 1852,
           "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 3446,
+          "views": 3498,
           "date": "2026-07-07",
           "duration": 604,
           "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
@@ -675,7 +675,7 @@ window.DATA = {
         },
         {
           "title": "방탄 콘서트에서 외국인 8만 명이 갑자기 한국 '민요'를 떼창한 이유",
-          "views": 322,
+          "views": 324,
           "date": "2026-07-04",
           "duration": 77,
           "url": "https://www.youtube.com/watch?v=Y-8z1_qauzE"
@@ -709,11 +709,11 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=TISSoRXU0A4"
         }
       ],
-      "analyzed_at": "2026-07-13 17:38",
+      "analyzed_at": "2026-07-13 18:41",
       "subs_delta": 3
     }
   ],
-  "generated_at": "2026-07-13 17:36",
+  "generated_at": "2026-07-13 18:38",
   "videos": [
     {
       "date": "2026-07-02",
@@ -761,7 +761,7 @@ window.DATA = {
       "date": "2026-07-12",
       "channel": "숏츠시작",
       "title": "누렇게 찌든 흰 운동화, 화장실에 있는 걸로 새것처럼 살렸습니다",
-      "views": 569,
+      "views": 572,
       "url": "https://www.youtube.com/watch?v=4IXAa4xD3Hw"
     },
     {
@@ -796,7 +796,7 @@ window.DATA = {
       "date": "2026-07-08",
       "channel": "숏츠시작",
       "title": "천장에서 물 뚝뚝, 지붕은 멀쩡한데… 진짜 범인은 이 나사입니다",
-      "views": 1254,
+      "views": 1255,
       "url": "https://www.youtube.com/watch?v=LUkTQ_7HXCg"
     },
     {
@@ -887,7 +887,7 @@ window.DATA = {
       "date": "2026-07-09",
       "channel": "놓치면손해템",
       "title": "산 지 얼마 안 된 흰 운동화가 벌써 꼬질꼬질, 세탁소 말고 이렇게 했더니",
-      "views": 1683,
+      "views": 1685,
       "url": "https://www.youtube.com/watch?v=ezaNvYARCLU"
     },
     {
@@ -964,7 +964,7 @@ window.DATA = {
       "date": "2026-07-07",
       "channel": "왜그럴까",
       "title": "사람을 죽일 수 있는 새, 세상에서 가장 위험한 새의 정체",
-      "views": 1261,
+      "views": 1262,
       "url": "https://www.youtube.com/watch?v=af3zzEFpdWc"
     },
     {
@@ -985,7 +985,7 @@ window.DATA = {
       "date": "2026-07-02",
       "channel": "카픽스",
       "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-      "views": 68308,
+      "views": 68576,
       "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
     },
     {
@@ -1020,7 +1020,7 @@ window.DATA = {
       "date": "2026-07-13",
       "channel": "카픽스",
       "title": "혼다 시빅 신호만 서면 부르르 떨림, 진짜 원인은 점화플러그",
-      "views": 517,
+      "views": 620,
       "url": "https://www.youtube.com/watch?v=FihVzG7mHYU"
     },
     {
@@ -1034,7 +1034,7 @@ window.DATA = {
       "date": "2026-07-12",
       "channel": "카픽스",
       "title": "브레이크 밟았는데 페달이 바닥까지 푹 꺼지면, 진짜 원인은 마스터실린더",
-      "views": 2378,
+      "views": 2524,
       "url": "https://www.youtube.com/watch?v=twpECifFcWs"
     },
     {
@@ -1076,7 +1076,7 @@ window.DATA = {
       "date": "2026-07-07",
       "channel": "뷰포인트",
       "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-      "views": 15669,
+      "views": 15721,
       "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
     },
     {
@@ -1090,14 +1090,14 @@ window.DATA = {
       "date": "2026-07-11",
       "channel": "뷰포인트",
       "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-      "views": 2848,
+      "views": 2869,
       "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
     },
     {
       "date": "2026-07-08",
       "channel": "뷰포인트",
       "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-      "views": 656,
+      "views": 678,
       "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
     },
     {
@@ -1118,7 +1118,7 @@ window.DATA = {
       "date": "2026-07-09",
       "channel": "해외반응픽",
       "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-      "views": 12219,
+      "views": 12309,
       "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
     },
     {
@@ -1132,8 +1132,15 @@ window.DATA = {
       "date": "2026-07-07",
       "channel": "해외반응픽",
       "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-      "views": 3446,
+      "views": 3498,
       "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
+    },
+    {
+      "date": "2026-07-10",
+      "channel": "해외반응픽",
+      "title": "타짜4 개봉 전 다시 보는 원작, 일본·미국·우크라이나 리뷰어들이 '밑장 빼기'에서 무너진 순간들 [이야기 순서 실시간 해외반응]",
+      "views": 1942,
+      "url": "https://www.youtube.com/watch?v=XT4k2TLKC70"
     },
     {
       "date": "2026-07-06",
@@ -1143,24 +1150,17 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
     },
     {
-      "date": "2026-07-10",
-      "channel": "해외반응픽",
-      "title": "타짜4 개봉 전 다시 보는 원작, 일본·미국·우크라이나 리뷰어들이 '밑장 빼기'에서 무너진 순간들 [이야기 순서 실시간 해외반응]",
-      "views": 1749,
-      "url": "https://www.youtube.com/watch?v=XT4k2TLKC70"
-    },
-    {
       "date": "2026-07-12",
       "channel": "해외반응픽",
       "title": "영화 '타짜2: 신의 손' — 타짜4 개봉 전 다시 보는 그 속편, 해외 리뷰어들이 '다 벗고 치는 마지막 승부'에서 결국 무너진 순간들 [이야기 순서 실시간 해외반응]",
-      "views": 46,
+      "views": 50,
       "url": "https://www.youtube.com/watch?v=lfpVrPwZ3HY"
     },
     {
       "date": "2026-07-04",
       "channel": "해외반응픽",
       "title": "방탄 콘서트에서 외국인 8만 명이 갑자기 한국 '민요'를 떼창한 이유",
-      "views": 322,
+      "views": 324,
       "url": "https://www.youtube.com/watch?v=Y-8z1_qauzE"
     },
     {
