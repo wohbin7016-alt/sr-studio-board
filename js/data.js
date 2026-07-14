@@ -11,7 +11,7 @@ window.DATA = {
       "avg_views": 1736,
       "median_views": 1412,
       "uploads_30d": 20,
-      "views_30d": 34736,
+      "views_30d": 34738,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -44,7 +44,7 @@ window.DATA = {
         },
         {
           "title": "3억짜리 슈퍼카가, 전기차한테 발렸습니다",
-          "views": 2047,
+          "views": 2049,
           "date": "2026-07-10",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=Kq_o1qoM61A"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "고물상 갈 뻔한 녹슨 펜치, 이거 뿌렸더니 새 강철이 됐어요",
-          "views": 894,
+          "views": 893,
           "date": "2026-07-13",
           "duration": 22,
           "url": "https://www.youtube.com/watch?v=bUW7LciyYKU"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "3억짜리 슈퍼카가, 전기차한테 발렸습니다",
-          "views": 2047,
+          "views": 2049,
           "date": "2026-07-10",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=Kq_o1qoM61A"
@@ -109,20 +109,20 @@ window.DATA = {
         },
         {
           "title": "가스레인지 상판, 아무리 닦아도 안 반짝이는 진짜 이유 (문지르지 마세요)",
-          "views": 988,
+          "views": 989,
           "date": "2026-07-09",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=oF2fXLdXnX0"
         },
         {
           "title": "천장에서 물 뚝뚝, 지붕은 멀쩡한데… 진짜 범인은 이 나사입니다",
-          "views": 1256,
+          "views": 1255,
           "date": "2026-07-08",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=LUkTQ_7HXCg"
         }
       ],
-      "analyzed_at": "2026-07-14 08:08",
+      "analyzed_at": "2026-07-14 09:10",
       "subs_delta": 0
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 1056,
       "median_views": 1350,
       "uploads_30d": 20,
-      "views_30d": 21134,
+      "views_30d": 21135,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -190,7 +190,7 @@ window.DATA = {
         },
         {
           "title": "옷 하나 다리겠다고 다림판 펴는 그 5분, 이거 쓰고 없앴습니다",
-          "views": 87,
+          "views": 88,
           "date": "2026-07-12",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=7U6IrR6Ais8"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=s-B534b33zI"
         }
       ],
-      "analyzed_at": "2026-07-14 08:08",
+      "analyzed_at": "2026-07-14 09:10",
       "subs_delta": 0
     },
     {
@@ -257,7 +257,7 @@ window.DATA = {
       "avg_views": 1449,
       "median_views": 1410,
       "uploads_30d": 20,
-      "views_30d": 28980,
+      "views_30d": 28981,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -320,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "방울뱀 소리가 들리면 도망칠 시간도 없다? 그 방울 소리의 진짜 의미",
-          "views": 1155,
+          "views": 1156,
           "date": "2026-07-09",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=xslKk3zdHOI"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DWm8vnbBDlw"
         }
       ],
-      "analyzed_at": "2026-07-14 08:08",
+      "analyzed_at": "2026-07-14 09:10",
       "subs_delta": 0
     },
     {
@@ -377,29 +377,29 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1180,
       "sampled": 20,
-      "avg_views": 5604,
-      "median_views": 1537,
+      "avg_views": 5648,
+      "median_views": 1553,
       "uploads_30d": 20,
-      "views_30d": 112086,
+      "views_30d": 112965,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-          "views": 70509,
+          "views": 70709,
           "date": "2026-07-02",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
         },
         {
           "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-          "views": 9269,
+          "views": 9276,
           "date": "2026-07-04",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
         },
         {
           "title": "브레이크 밟았는데 페달이 바닥까지 푹 꺼지면, 진짜 원인은 마스터실린더",
-          "views": 6455,
+          "views": 7053,
           "date": "2026-07-12",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=twpECifFcWs"
@@ -429,28 +429,28 @@ window.DATA = {
         },
         {
           "title": "혼다 시빅 신호만 서면 부르르 떨림, 진짜 원인은 점화플러그",
-          "views": 1239,
+          "views": 1258,
           "date": "2026-07-13",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=FihVzG7mHYU"
         },
         {
           "title": "토요타 시동만 걸면 부르르 떨림·체크등, 미션인 줄 알았는데 진짜 범인은 이 센서였다",
-          "views": 545,
+          "views": 568,
           "date": "2026-07-12",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=To0U0mSsTok"
         },
         {
           "title": "브레이크 밟았는데 페달이 바닥까지 푹 꺼지면, 진짜 원인은 마스터실린더",
-          "views": 6455,
+          "views": 7053,
           "date": "2026-07-12",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=twpECifFcWs"
         },
         {
           "title": "혼다 CR-V 시동 걸 때 딱 소리만 나고 안 걸리면, 진짜 원인은 스타터 모터",
-          "views": 1268,
+          "views": 1300,
           "date": "2026-07-11",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=L9zrNbhJbr8"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=-4Get_WrrwI"
         }
       ],
-      "analyzed_at": "2026-07-14 08:09",
+      "analyzed_at": "2026-07-14 09:11",
       "subs_delta": 0
     },
     {
@@ -500,15 +500,15 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 60,
       "sampled": 7,
-      "avg_views": 5197,
+      "avg_views": 5206,
       "median_views": 792,
       "uploads_30d": 7,
-      "views_30d": 36384,
+      "views_30d": 36448,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 16188,
+          "views": 16234,
           "date": "2026-07-07",
           "duration": 1248,
           "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
@@ -536,7 +536,7 @@ window.DATA = {
         },
         {
           "title": "소지섭 '김부장' 1~6화 몰아보기… 외국인들이 6화 마지막에서 결국 무너졌다 [실시간 해외반응]",
-          "views": 107,
+          "views": 125,
           "date": "2026-07-12",
           "duration": 1278,
           "url": "https://www.youtube.com/watch?v=yYAgENws9Kg"
@@ -552,7 +552,7 @@ window.DATA = {
         },
         {
           "title": "소지섭 '김부장' 1~6화 몰아보기… 외국인들이 6화 마지막에서 결국 무너졌다 [실시간 해외반응]",
-          "views": 107,
+          "views": 125,
           "date": "2026-07-12",
           "duration": 1278,
           "url": "https://www.youtube.com/watch?v=yYAgENws9Kg"
@@ -580,7 +580,7 @@ window.DATA = {
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 16188,
+          "views": 16234,
           "date": "2026-07-07",
           "duration": 1248,
           "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
@@ -593,7 +593,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
         }
       ],
-      "analyzed_at": "2026-07-14 08:09",
+      "analyzed_at": "2026-07-14 09:11",
       "subs_delta": 2
     },
     {
@@ -602,15 +602,15 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 57,
       "sampled": 12,
-      "avg_views": 2407,
+      "avg_views": 2411,
       "median_views": 595,
       "uploads_30d": 12,
-      "views_30d": 28884,
+      "views_30d": 28935,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-          "views": 14478,
+          "views": 14516,
           "date": "2026-07-09",
           "duration": 1852,
           "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
@@ -631,14 +631,14 @@ window.DATA = {
         },
         {
           "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-          "views": 2234,
+          "views": 2249,
           "date": "2026-07-06",
           "duration": 539,
           "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
         },
         {
           "title": "타짜4 개봉 전 다시 보는 원작, 일본·미국·우크라이나 리뷰어들이 '밑장 빼기'에서 무너진 순간들 [이야기 순서 실시간 해외반응]",
-          "views": 2078,
+          "views": 2076,
           "date": "2026-07-10",
           "duration": 887,
           "url": "https://www.youtube.com/watch?v=XT4k2TLKC70"
@@ -654,14 +654,14 @@ window.DATA = {
         },
         {
           "title": "타짜4 개봉 전 다시 보는 원작, 일본·미국·우크라이나 리뷰어들이 '밑장 빼기'에서 무너진 순간들 [이야기 순서 실시간 해외반응]",
-          "views": 2078,
+          "views": 2076,
           "date": "2026-07-10",
           "duration": 887,
           "url": "https://www.youtube.com/watch?v=XT4k2TLKC70"
         },
         {
           "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-          "views": 14478,
+          "views": 14516,
           "date": "2026-07-09",
           "duration": 1852,
           "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
@@ -675,7 +675,7 @@ window.DATA = {
         },
         {
           "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-          "views": 2234,
+          "views": 2249,
           "date": "2026-07-06",
           "duration": 539,
           "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
@@ -716,11 +716,11 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=TISSoRXU0A4"
         }
       ],
-      "analyzed_at": "2026-07-14 08:09",
+      "analyzed_at": "2026-07-14 09:11",
       "subs_delta": 1
     }
   ],
-  "generated_at": "2026-07-14 08:08",
+  "generated_at": "2026-07-14 09:10",
   "videos": [
     {
       "date": "2026-07-02",
@@ -754,14 +754,14 @@ window.DATA = {
       "date": "2026-07-10",
       "channel": "숏츠시작",
       "title": "3억짜리 슈퍼카가, 전기차한테 발렸습니다",
-      "views": 2047,
+      "views": 2049,
       "url": "https://www.youtube.com/watch?v=Kq_o1qoM61A"
     },
     {
       "date": "2026-07-13",
       "channel": "숏츠시작",
       "title": "고물상 갈 뻔한 녹슨 펜치, 이거 뿌렸더니 새 강철이 됐어요",
-      "views": 894,
+      "views": 893,
       "url": "https://www.youtube.com/watch?v=bUW7LciyYKU"
     },
     {
@@ -803,14 +803,14 @@ window.DATA = {
       "date": "2026-07-09",
       "channel": "숏츠시작",
       "title": "가스레인지 상판, 아무리 닦아도 안 반짝이는 진짜 이유 (문지르지 마세요)",
-      "views": 988,
+      "views": 989,
       "url": "https://www.youtube.com/watch?v=oF2fXLdXnX0"
     },
     {
       "date": "2026-07-08",
       "channel": "숏츠시작",
       "title": "천장에서 물 뚝뚝, 지붕은 멀쩡한데… 진짜 범인은 이 나사입니다",
-      "views": 1256,
+      "views": 1255,
       "url": "https://www.youtube.com/watch?v=LUkTQ_7HXCg"
     },
     {
@@ -866,7 +866,7 @@ window.DATA = {
       "date": "2026-07-12",
       "channel": "놓치면손해템",
       "title": "옷 하나 다리겠다고 다림판 펴는 그 5분, 이거 쓰고 없앴습니다",
-      "views": 87,
+      "views": 88,
       "url": "https://www.youtube.com/watch?v=7U6IrR6Ais8"
     },
     {
@@ -950,7 +950,7 @@ window.DATA = {
       "date": "2026-07-09",
       "channel": "왜그럴까",
       "title": "방울뱀 소리가 들리면 도망칠 시간도 없다? 그 방울 소리의 진짜 의미",
-      "views": 1155,
+      "views": 1156,
       "url": "https://www.youtube.com/watch?v=xslKk3zdHOI"
     },
     {
@@ -999,21 +999,21 @@ window.DATA = {
       "date": "2026-07-02",
       "channel": "카픽스",
       "title": "혼다 시티 방지턱만 넘으면 통통 튀는 진짜 원인은 앞쇼바",
-      "views": 70509,
+      "views": 70709,
       "url": "https://www.youtube.com/watch?v=rL9baE8p6kA"
     },
     {
       "date": "2026-07-04",
       "channel": "카픽스",
       "title": "냉각수 아무리 채워도 온도가 계속 레드존, 진짜 원인은?",
-      "views": 9269,
+      "views": 9276,
       "url": "https://www.youtube.com/watch?v=lwAcmZSoGPU"
     },
     {
       "date": "2026-07-12",
       "channel": "카픽스",
       "title": "브레이크 밟았는데 페달이 바닥까지 푹 꺼지면, 진짜 원인은 마스터실린더",
-      "views": 6455,
+      "views": 7053,
       "url": "https://www.youtube.com/watch?v=twpECifFcWs"
     },
     {
@@ -1041,21 +1041,21 @@ window.DATA = {
       "date": "2026-07-13",
       "channel": "카픽스",
       "title": "혼다 시빅 신호만 서면 부르르 떨림, 진짜 원인은 점화플러그",
-      "views": 1239,
+      "views": 1258,
       "url": "https://www.youtube.com/watch?v=FihVzG7mHYU"
     },
     {
       "date": "2026-07-12",
       "channel": "카픽스",
       "title": "토요타 시동만 걸면 부르르 떨림·체크등, 미션인 줄 알았는데 진짜 범인은 이 센서였다",
-      "views": 545,
+      "views": 568,
       "url": "https://www.youtube.com/watch?v=To0U0mSsTok"
     },
     {
       "date": "2026-07-11",
       "channel": "카픽스",
       "title": "혼다 CR-V 시동 걸 때 딱 소리만 나고 안 걸리면, 진짜 원인은 스타터 모터",
-      "views": 1268,
+      "views": 1300,
       "url": "https://www.youtube.com/watch?v=L9zrNbhJbr8"
     },
     {
@@ -1090,7 +1090,7 @@ window.DATA = {
       "date": "2026-07-07",
       "channel": "뷰포인트",
       "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-      "views": 16188,
+      "views": 16234,
       "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
     },
     {
@@ -1118,7 +1118,7 @@ window.DATA = {
       "date": "2026-07-12",
       "channel": "뷰포인트",
       "title": "소지섭 '김부장' 1~6화 몰아보기… 외국인들이 6화 마지막에서 결국 무너졌다 [실시간 해외반응]",
-      "views": 107,
+      "views": 125,
       "url": "https://www.youtube.com/watch?v=yYAgENws9Kg"
     },
     {
@@ -1139,7 +1139,7 @@ window.DATA = {
       "date": "2026-07-09",
       "channel": "해외반응픽",
       "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-      "views": 14478,
+      "views": 14516,
       "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
     },
     {
@@ -1160,14 +1160,14 @@ window.DATA = {
       "date": "2026-07-06",
       "channel": "해외반응픽",
       "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-      "views": 2234,
+      "views": 2249,
       "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
     },
     {
       "date": "2026-07-10",
       "channel": "해외반응픽",
       "title": "타짜4 개봉 전 다시 보는 원작, 일본·미국·우크라이나 리뷰어들이 '밑장 빼기'에서 무너진 순간들 [이야기 순서 실시간 해외반응]",
-      "views": 2078,
+      "views": 2076,
       "url": "https://www.youtube.com/watch?v=XT4k2TLKC70"
     },
     {
