@@ -718,6 +718,31 @@ window.DATA = {
       ],
       "analyzed_at": "2026-07-14 11:16",
       "subs_delta": 1
+    },
+    {
+      "url": "https://www.youtube.com/channel/UChq2TqKlpNlWpHpDRMwyCeQ",
+      "name": "코리아리뷰 (외국인 드라마 리뷰)",
+      "handle": "@korealog-t9l",
+      "channel_id": "UChq2TqKlpNlWpHpDRMwyCeQ",
+      "type": "롱폼(외국인 드라마 리뷰·로맨스)",
+      "subscribers": 1,
+      "sampled": 1,
+      "avg_views": 0,
+      "median_views": 0,
+      "uploads_30d": 1,
+      "views_30d": 0,
+      "shorts_ratio": 0.0,
+      "note": "2026-07-14 방향전환: 코리아로그→코리아리뷰. 외국인 드라마 리뷰 채널(로맨스 특화). 뷰포인트 엔진 재활용. (편의점편은 초기 실생활편)",
+      "top_videos": [
+        {
+          "title": "외국인들이 한국 편의점에서 라면 한 입 먹고 양말이 벗겨졌다며 폭발한 이유",
+          "views": 0,
+          "date": "2026-07-13",
+          "duration": 800,
+          "url": "https://www.youtube.com/watch?v=uh5iYKL1QyA"
+        }
+      ],
+      "subs_delta": null
     }
   ],
   "generated_at": "2026-07-14 11:14",
@@ -1204,6 +1229,13 @@ window.DATA = {
       "title": "홍명보 사퇴…일본이 갑자기 꺼낸 의외의 한마디",
       "views": 153,
       "url": "https://www.youtube.com/watch?v=TISSoRXU0A4"
+    },
+    {
+      "date": "2026-07-13",
+      "channel": "코리아리뷰 (외국인 드라마 리뷰)",
+      "title": "외국인들이 한국 편의점에서 라면 한 입 먹고 양말이 벗겨졌다며 폭발한 이유",
+      "views": 0,
+      "url": "https://www.youtube.com/watch?v=uh5iYKL1QyA"
     }
   ],
   "made": {
