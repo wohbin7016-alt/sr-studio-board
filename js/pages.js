@@ -499,7 +499,7 @@
   function ops(root) {
     root.innerHTML = '';
     var frame = el('iframe', 'ops-frame');
-    frame.src = 'ops.html';
+    frame.src = 'ops.html?cb=' + Date.now();
     frame.setAttribute('title', '에스알스튜디오 운영현황');
     frame.onerror = function () {
       root.innerHTML = '';
