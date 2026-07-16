@@ -8,22 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 31700,
       "sampled": 20,
-      "avg_views": 1991,
-      "median_views": 1540,
+      "avg_views": 2051,
+      "median_views": 1437,
       "uploads_30d": 20,
-      "views_30d": 39833,
-      "shorts_ratio": 0.75,
+      "views_30d": 38984,
+      "shorts_ratio": 0.7,
       "top_videos": [
         {
           "title": "노래 한 곡에 수십억… 트로트 가수 재산 TOP7, 1위는 은퇴한 그 가수였습니다",
-          "views": 8069,
+          "views": 9172,
           "date": "2026-07-14",
           "duration": 108,
           "url": "https://www.youtube.com/watch?v=UDVWDEQ6vA4"
         },
         {
           "title": "한 채에 수백억… 억 소리 나는 집에 사는 유명인 TOP7, 1위는 4년 연속 전국 1등이었습니다",
-          "views": 4220,
+          "views": 4331,
           "date": "2026-07-14",
           "duration": 94,
           "url": "https://www.youtube.com/watch?v=3o1DYivFY9A"
@@ -43,24 +43,31 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=fnxn2bm3lo8"
         },
         {
-          "title": "가구에 파인 깊은 긁힘, 호두 하나 문질렀더니",
-          "views": 2084,
-          "date": "2026-07-05",
-          "duration": 27,
-          "url": "https://www.youtube.com/watch?v=pNbxtVfYYXM"
+          "title": "3억짜리 슈퍼카가, 전기차한테 발렸습니다",
+          "views": 2077,
+          "date": "2026-07-10",
+          "duration": 29,
+          "url": "https://www.youtube.com/watch?v=Kq_o1qoM61A"
         }
       ],
       "recent_videos": [
         {
+          "title": "평범한 아이돌인 줄 알았는데 데뷔 전부터 유명했던 TOP7",
+          "views": 0,
+          "date": "2026-07-16",
+          "duration": 90,
+          "url": "https://www.youtube.com/watch?v=HPk32i2eMAY"
+        },
+        {
           "title": "부르는 게 값… 트로트 행사비 TOP7, 1위는 부르고 싶어도 못 부르는 그 가수였습니다",
-          "views": 1330,
+          "views": 1337,
           "date": "2026-07-16",
           "duration": 89,
           "url": "https://www.youtube.com/watch?v=FP_jINqRffk"
         },
         {
           "title": "비닐하우스에서 수백억까지… 흙수저 반전 부자 스포츠 스타 TOP7, 1위는 '조선의 4번 타자'",
-          "views": 1236,
+          "views": 1245,
           "date": "2026-07-15",
           "duration": 108,
           "url": "https://www.youtube.com/watch?v=_OaM8N5HE0g"
@@ -74,14 +81,14 @@ window.DATA = {
         },
         {
           "title": "노래 한 곡에 수십억… 트로트 가수 재산 TOP7, 1위는 은퇴한 그 가수였습니다",
-          "views": 8069,
+          "views": 9172,
           "date": "2026-07-14",
           "duration": 108,
           "url": "https://www.youtube.com/watch?v=UDVWDEQ6vA4"
         },
         {
           "title": "한 채에 수백억… 억 소리 나는 집에 사는 유명인 TOP7, 1위는 4년 연속 전국 1등이었습니다",
-          "views": 4220,
+          "views": 4331,
           "date": "2026-07-14",
           "duration": 94,
           "url": "https://www.youtube.com/watch?v=3o1DYivFY9A"
@@ -113,16 +120,9 @@ window.DATA = {
           "date": "2026-07-12",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=4IXAa4xD3Hw"
-        },
-        {
-          "title": "시커멓게 변한 은목걸이, 호일에 담갔더니 무슨 일이",
-          "views": 1643,
-          "date": "2026-07-11",
-          "duration": 32,
-          "url": "https://www.youtube.com/watch?v=onEfVhol8s4"
         }
       ],
-      "analyzed_at": "2026-07-16 18:58",
+      "analyzed_at": "2026-07-16 20:01",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72800,
       "sampled": 20,
-      "avg_views": 883,
-      "median_views": 306,
+      "avg_views": 842,
+      "median_views": 97,
       "uploads_30d": 20,
-      "views_30d": 17674,
+      "views_30d": 16008,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "산 지 얼마 안 된 흰 운동화가 벌써 꼬질꼬질, 세탁소 말고 이렇게 했더니",
-          "views": 1723,
+          "views": 1729,
           "date": "2026-07-09",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=ezaNvYARCLU"
@@ -175,15 +175,22 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "16인치인데 어깨가 안 아파요, 이게 반칙인 이유 (에이수스 젠북 S16)",
+          "views": 0,
+          "date": "2026-07-16",
+          "duration": 37,
+          "url": "https://www.youtube.com/watch?v=vIt1E9lx1v4"
+        },
+        {
           "title": "300만원대 게이밍인데 스펙 보고 조용히 입 다물었습니다 (에이서 프레데터 헬리오스 네오 16 AI)",
-          "views": 64,
+          "views": 74,
           "date": "2026-07-16",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=pio-Et3_sgs"
         },
         {
           "title": "게이밍 노트북은 다 200만 원 넘는 줄 알았는데, 이건 RTX 4050에 180만 원대더라고요",
-          "views": 67,
+          "views": 71,
           "date": "2026-07-15",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=OwOyhwa8suU"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-07-11",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=YGbjDC2phSM"
-        },
-        {
-          "title": "오븐 유리에 낀 누런 그을음, 유리가 상한 줄 알았는데 아니었습니다",
-          "views": 71,
-          "date": "2026-07-10",
-          "duration": 34,
-          "url": "https://www.youtube.com/watch?v=Uj1e8JqjVKM"
         }
       ],
-      "analyzed_at": "2026-07-16 18:59",
+      "analyzed_at": "2026-07-16 20:02",
       "subs_delta": 0
     },
     {
@@ -368,19 +368,19 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DWm8vnbBDlw"
         }
       ],
-      "analyzed_at": "2026-07-16 18:59",
+      "analyzed_at": "2026-07-16 20:02",
       "subs_delta": 0
     },
     {
       "url": "https://youtube.com/channel/UC29M9AGVR19NtIrAHsjx-XA",
       "name": "카픽스",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
-      "subscribers": 1190,
+      "subscribers": 1200,
       "sampled": 20,
-      "avg_views": 3624,
-      "median_views": 2182,
+      "avg_views": 3659,
+      "median_views": 2223,
       "uploads_30d": 20,
-      "views_30d": 72493,
+      "views_30d": 73184,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -392,14 +392,14 @@ window.DATA = {
         },
         {
           "title": "BMW 냉각수 아무리 채워도 온도게이지 레드존, 진짜 범인은 워터펌프였습니다",
-          "views": 16761,
+          "views": 17114,
           "date": "2026-07-14",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=hkvd781ICTU"
         },
         {
           "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
-          "views": 5094,
+          "views": 5166,
           "date": "2026-07-08",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "폭스바겐 티구안 가속하면 부르르, RPM은 멀쩡한데 진짜 원인은 점화코일",
-          "views": 702,
+          "views": 811,
           "date": "2026-07-16",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=2tk2cmIuIGs"
@@ -436,21 +436,21 @@ window.DATA = {
         },
         {
           "title": "혼다 HR-V 에어컨 아무리 틀어도 미지근, 진짜 원인은 콘덴서",
-          "views": 2901,
+          "views": 2975,
           "date": "2026-07-15",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=rNLjQflBBbE"
         },
         {
           "title": "혼다 시동 걸 때마다 나는 휘발유 냄새, 진짜 범인은 인젝터 고무 오링이었습니다",
-          "views": 2196,
+          "views": 2279,
           "date": "2026-07-14",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=SmnevQqUQ08"
         },
         {
           "title": "BMW 냉각수 아무리 채워도 온도게이지 레드존, 진짜 범인은 워터펌프였습니다",
-          "views": 16761,
+          "views": 17114,
           "date": "2026-07-14",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=hkvd781ICTU"
@@ -491,8 +491,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=L9zrNbhJbr8"
         }
       ],
-      "analyzed_at": "2026-07-16 19:00",
-      "subs_delta": 0
+      "analyzed_at": "2026-07-16 20:02",
+      "subs_delta": 10
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 68,
       "sampled": 9,
-      "avg_views": 4962,
+      "avg_views": 4979,
       "median_views": 313,
       "uploads_30d": 9,
-      "views_30d": 44659,
+      "views_30d": 44813,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -522,7 +522,7 @@ window.DATA = {
         },
         {
           "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-          "views": 8620,
+          "views": 8773,
           "date": "2026-07-11",
           "duration": 1687,
           "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
@@ -552,7 +552,7 @@ window.DATA = {
         },
         {
           "title": "소지섭이 전기톱을 든 순간… 외국인들이 결국 소리 질렀다｜김부장 4~6화 실시간 해외반응",
-          "views": 99,
+          "views": 100,
           "date": "2026-07-14",
           "duration": 1278,
           "url": "https://www.youtube.com/watch?v=ygRVZtWflmU"
@@ -573,7 +573,7 @@ window.DATA = {
         },
         {
           "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-          "views": 8620,
+          "views": 8773,
           "date": "2026-07-11",
           "duration": 1687,
           "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
@@ -607,19 +607,19 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
         }
       ],
-      "analyzed_at": "2026-07-16 19:00",
+      "analyzed_at": "2026-07-16 20:03",
       "subs_delta": 4
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
       "name": "해외반응픽",
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
-      "subscribers": 82,
+      "subscribers": 83,
       "sampled": 13,
-      "avg_views": 3083,
+      "avg_views": 3106,
       "median_views": 734,
       "uploads_30d": 13,
-      "views_30d": 40080,
+      "views_30d": 40388,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -631,28 +631,28 @@ window.DATA = {
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 4626,
+          "views": 4638,
           "date": "2026-07-07",
           "duration": 604,
           "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
         },
         {
           "title": "「한국이 또 사고 쳤다」 공개 2화 만에 8개국 1위 찍은 '김부장'에 외국인들이 뒤집힌 이유",
-          "views": 4173,
+          "views": 4175,
           "date": "2026-07-01",
           "duration": 197,
           "url": "https://www.youtube.com/watch?v=0kRbNkq52gw"
         },
         {
           "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-          "views": 3160,
+          "views": 3202,
           "date": "2026-07-06",
           "duration": 539,
           "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
         },
         {
           "title": "12척으로 330척을 막았다는 말에 외국인들이 소름 돋은 순간 — 영화 명량 해외 리뷰어 실시간 반응",
-          "views": 2656,
+          "views": 2908,
           "date": "2026-07-15",
           "duration": 1585,
           "url": "https://www.youtube.com/watch?v=tE80jFMi8Oc"
@@ -661,7 +661,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "12척으로 330척을 막았다는 말에 외국인들이 소름 돋은 순간 — 영화 명량 해외 리뷰어 실시간 반응",
-          "views": 2656,
+          "views": 2908,
           "date": "2026-07-15",
           "duration": 1585,
           "url": "https://www.youtube.com/watch?v=tE80jFMi8Oc"
@@ -689,14 +689,14 @@ window.DATA = {
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 4626,
+          "views": 4638,
           "date": "2026-07-07",
           "duration": 604,
           "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
         },
         {
           "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-          "views": 3160,
+          "views": 3202,
           "date": "2026-07-06",
           "duration": 539,
           "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
@@ -724,14 +724,14 @@ window.DATA = {
         },
         {
           "title": "「한국이 또 사고 쳤다」 공개 2화 만에 8개국 1위 찍은 '김부장'에 외국인들이 뒤집힌 이유",
-          "views": 4173,
+          "views": 4175,
           "date": "2026-07-01",
           "duration": 197,
           "url": "https://www.youtube.com/watch?v=0kRbNkq52gw"
         }
       ],
-      "analyzed_at": "2026-07-16 19:01",
-      "subs_delta": 10
+      "analyzed_at": "2026-07-16 20:03",
+      "subs_delta": 11
     },
     {
       "url": "https://www.youtube.com/channel/UChq2TqKlpNlWpHpDRMwyCeQ",
@@ -739,15 +739,15 @@ window.DATA = {
       "channel_id": "UChq2TqKlpNlWpHpDRMwyCeQ",
       "subscribers": 3,
       "sampled": 2,
-      "avg_views": 132,
-      "median_views": 132,
+      "avg_views": 145,
+      "median_views": 145,
       "uploads_30d": 2,
-      "views_30d": 264,
+      "views_30d": 290,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "손예진이 파라글라이딩하다 북한에 떨어졌다 — 첫 화부터 이 남자를 본 외국인들 반응 [사랑의 불시착 1·2화 실시간 리뷰]",
-          "views": 174,
+          "views": 200,
           "date": "2026-07-14",
           "duration": 2235,
           "url": "https://www.youtube.com/watch?v=zXjhmKz_FDE"
@@ -770,30 +770,30 @@ window.DATA = {
         },
         {
           "title": "손예진이 파라글라이딩하다 북한에 떨어졌다 — 첫 화부터 이 남자를 본 외국인들 반응 [사랑의 불시착 1·2화 실시간 리뷰]",
-          "views": 174,
+          "views": 200,
           "date": "2026-07-14",
           "duration": 2235,
           "url": "https://www.youtube.com/watch?v=zXjhmKz_FDE"
         }
       ],
-      "analyzed_at": "2026-07-16 19:01",
+      "analyzed_at": "2026-07-16 20:03",
       "subs_delta": null
     }
   ],
-  "generated_at": "2026-07-16 18:58",
+  "generated_at": "2026-07-16 20:01",
   "videos": [
     {
       "date": "2026-07-14",
       "channel": "숏츠시작",
       "title": "노래 한 곡에 수십억… 트로트 가수 재산 TOP7, 1위는 은퇴한 그 가수였습니다",
-      "views": 8069,
+      "views": 9172,
       "url": "https://www.youtube.com/watch?v=UDVWDEQ6vA4"
     },
     {
       "date": "2026-07-14",
       "channel": "숏츠시작",
       "title": "한 채에 수백억… 억 소리 나는 집에 사는 유명인 TOP7, 1위는 4년 연속 전국 1등이었습니다",
-      "views": 4220,
+      "views": 4331,
       "url": "https://www.youtube.com/watch?v=3o1DYivFY9A"
     },
     {
@@ -811,24 +811,31 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=fnxn2bm3lo8"
     },
     {
-      "date": "2026-07-05",
+      "date": "2026-07-10",
       "channel": "숏츠시작",
-      "title": "가구에 파인 깊은 긁힘, 호두 하나 문질렀더니",
-      "views": 2084,
-      "url": "https://www.youtube.com/watch?v=pNbxtVfYYXM"
+      "title": "3억짜리 슈퍼카가, 전기차한테 발렸습니다",
+      "views": 2077,
+      "url": "https://www.youtube.com/watch?v=Kq_o1qoM61A"
+    },
+    {
+      "date": "2026-07-16",
+      "channel": "숏츠시작",
+      "title": "평범한 아이돌인 줄 알았는데 데뷔 전부터 유명했던 TOP7",
+      "views": 0,
+      "url": "https://www.youtube.com/watch?v=HPk32i2eMAY"
     },
     {
       "date": "2026-07-16",
       "channel": "숏츠시작",
       "title": "부르는 게 값… 트로트 행사비 TOP7, 1위는 부르고 싶어도 못 부르는 그 가수였습니다",
-      "views": 1330,
+      "views": 1337,
       "url": "https://www.youtube.com/watch?v=FP_jINqRffk"
     },
     {
       "date": "2026-07-15",
       "channel": "숏츠시작",
       "title": "비닐하우스에서 수백억까지… 흙수저 반전 부자 스포츠 스타 TOP7, 1위는 '조선의 4번 타자'",
-      "views": 1236,
+      "views": 1245,
       "url": "https://www.youtube.com/watch?v=_OaM8N5HE0g"
     },
     {
@@ -858,13 +865,6 @@ window.DATA = {
       "title": "누렇게 찌든 흰 운동화, 화장실에 있는 걸로 새것처럼 살렸습니다",
       "views": 578,
       "url": "https://www.youtube.com/watch?v=4IXAa4xD3Hw"
-    },
-    {
-      "date": "2026-07-11",
-      "channel": "숏츠시작",
-      "title": "시커멓게 변한 은목걸이, 호일에 담갔더니 무슨 일이",
-      "views": 1643,
-      "url": "https://www.youtube.com/watch?v=onEfVhol8s4"
     },
     {
       "date": "2026-07-08",
@@ -898,21 +898,28 @@ window.DATA = {
       "date": "2026-07-09",
       "channel": "놓치면손해템",
       "title": "산 지 얼마 안 된 흰 운동화가 벌써 꼬질꼬질, 세탁소 말고 이렇게 했더니",
-      "views": 1723,
+      "views": 1729,
       "url": "https://www.youtube.com/watch?v=ezaNvYARCLU"
     },
     {
       "date": "2026-07-16",
       "channel": "놓치면손해템",
+      "title": "16인치인데 어깨가 안 아파요, 이게 반칙인 이유 (에이수스 젠북 S16)",
+      "views": 0,
+      "url": "https://www.youtube.com/watch?v=vIt1E9lx1v4"
+    },
+    {
+      "date": "2026-07-16",
+      "channel": "놓치면손해템",
       "title": "300만원대 게이밍인데 스펙 보고 조용히 입 다물었습니다 (에이서 프레데터 헬리오스 네오 16 AI)",
-      "views": 64,
+      "views": 74,
       "url": "https://www.youtube.com/watch?v=pio-Et3_sgs"
     },
     {
       "date": "2026-07-15",
       "channel": "놓치면손해템",
       "title": "게이밍 노트북은 다 200만 원 넘는 줄 알았는데, 이건 RTX 4050에 180만 원대더라고요",
-      "views": 67,
+      "views": 71,
       "url": "https://www.youtube.com/watch?v=OwOyhwa8suU"
     },
     {
@@ -963,13 +970,6 @@ window.DATA = {
       "title": "차 송풍구 틈새 먼지, 면봉으로 파도 안 나오던데 이걸로 눌렀더니",
       "views": 51,
       "url": "https://www.youtube.com/watch?v=YGbjDC2phSM"
-    },
-    {
-      "date": "2026-07-10",
-      "channel": "놓치면손해템",
-      "title": "오븐 유리에 낀 누런 그을음, 유리가 상한 줄 알았는데 아니었습니다",
-      "views": 71,
-      "url": "https://www.youtube.com/watch?v=Uj1e8JqjVKM"
     },
     {
       "date": "2026-07-09",
@@ -1073,14 +1073,14 @@ window.DATA = {
       "date": "2026-07-14",
       "channel": "카픽스",
       "title": "BMW 냉각수 아무리 채워도 온도게이지 레드존, 진짜 범인은 워터펌프였습니다",
-      "views": 16761,
+      "views": 17114,
       "url": "https://www.youtube.com/watch?v=hkvd781ICTU"
     },
     {
       "date": "2026-07-08",
       "channel": "카픽스",
       "title": "BMW 변속할 때 울컥울컥, 미션 고장인 줄 알았는데 진짜 원인은",
-      "views": 5094,
+      "views": 5166,
       "url": "https://www.youtube.com/watch?v=bcDYD4Pymy0"
     },
     {
@@ -1101,7 +1101,7 @@ window.DATA = {
       "date": "2026-07-16",
       "channel": "카픽스",
       "title": "폭스바겐 티구안 가속하면 부르르, RPM은 멀쩡한데 진짜 원인은 점화코일",
-      "views": 702,
+      "views": 811,
       "url": "https://www.youtube.com/watch?v=2tk2cmIuIGs"
     },
     {
@@ -1115,14 +1115,14 @@ window.DATA = {
       "date": "2026-07-15",
       "channel": "카픽스",
       "title": "혼다 HR-V 에어컨 아무리 틀어도 미지근, 진짜 원인은 콘덴서",
-      "views": 2901,
+      "views": 2975,
       "url": "https://www.youtube.com/watch?v=rNLjQflBBbE"
     },
     {
       "date": "2026-07-14",
       "channel": "카픽스",
       "title": "혼다 시동 걸 때마다 나는 휘발유 냄새, 진짜 범인은 인젝터 고무 오링이었습니다",
-      "views": 2196,
+      "views": 2279,
       "url": "https://www.youtube.com/watch?v=SmnevQqUQ08"
     },
     {
@@ -1171,7 +1171,7 @@ window.DATA = {
       "date": "2026-07-11",
       "channel": "뷰포인트",
       "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-      "views": 8620,
+      "views": 8773,
       "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
     },
     {
@@ -1199,7 +1199,7 @@ window.DATA = {
       "date": "2026-07-14",
       "channel": "뷰포인트",
       "title": "소지섭이 전기톱을 든 순간… 외국인들이 결국 소리 질렀다｜김부장 4~6화 실시간 해외반응",
-      "views": 99,
+      "views": 100,
       "url": "https://www.youtube.com/watch?v=ygRVZtWflmU"
     },
     {
@@ -1227,28 +1227,28 @@ window.DATA = {
       "date": "2026-07-07",
       "channel": "해외반응픽",
       "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-      "views": 4626,
+      "views": 4638,
       "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
     },
     {
       "date": "2026-07-01",
       "channel": "해외반응픽",
       "title": "「한국이 또 사고 쳤다」 공개 2화 만에 8개국 1위 찍은 '김부장'에 외국인들이 뒤집힌 이유",
-      "views": 4173,
+      "views": 4175,
       "url": "https://www.youtube.com/watch?v=0kRbNkq52gw"
     },
     {
       "date": "2026-07-06",
       "channel": "해외반응픽",
       "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-      "views": 3160,
+      "views": 3202,
       "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
     },
     {
       "date": "2026-07-15",
       "channel": "해외반응픽",
       "title": "12척으로 330척을 막았다는 말에 외국인들이 소름 돋은 순간 — 영화 명량 해외 리뷰어 실시간 반응",
-      "views": 2656,
+      "views": 2908,
       "url": "https://www.youtube.com/watch?v=tE80jFMi8Oc"
     },
     {
@@ -1290,7 +1290,7 @@ window.DATA = {
       "date": "2026-07-14",
       "channel": "코리아리뷰",
       "title": "손예진이 파라글라이딩하다 북한에 떨어졌다 — 첫 화부터 이 남자를 본 외국인들 반응 [사랑의 불시착 1·2화 실시간 리뷰]",
-      "views": 174,
+      "views": 200,
       "url": "https://www.youtube.com/watch?v=zXjhmKz_FDE"
     },
     {
