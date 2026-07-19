@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 32500,
       "sampled": 20,
-      "avg_views": 14519,
+      "avg_views": 14586,
       "median_views": 2286,
       "uploads_30d": 20,
-      "views_30d": 290387,
+      "views_30d": 291729,
       "shorts_ratio": 0.45,
       "top_videos": [
         {
           "title": "노래 한 곡에 수십억… 트로트 가수 재산 TOP7, 1위는 은퇴한 그 가수였습니다",
-          "views": 187413,
+          "views": 187950,
           "date": "2026-07-14",
           "duration": 108,
           "url": "https://www.youtube.com/watch?v=UDVWDEQ6vA4"
@@ -29,22 +29,22 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=HPk32i2eMAY"
         },
         {
-          "title": "한 채에 수백억… 억 소리 나는 집에 사는 유명인 TOP7, 1위는 4년 연속 전국 1등이었습니다",
-          "views": 13800,
-          "date": "2026-07-14",
-          "duration": 94,
-          "url": "https://www.youtube.com/watch?v=3o1DYivFY9A"
-        },
-        {
           "title": "남편 재산이 미쳐버린 여자 스타 TOP7, 1위는 남편 재산이 2조인 그 국민배우였습니다",
-          "views": 13780,
+          "views": 13920,
           "date": "2026-07-17",
           "duration": 86,
           "url": "https://www.youtube.com/watch?v=_N7tca_xAuU"
         },
         {
+          "title": "한 채에 수백억… 억 소리 나는 집에 사는 유명인 TOP7, 1위는 4년 연속 전국 1등이었습니다",
+          "views": 13872,
+          "date": "2026-07-14",
+          "duration": 94,
+          "url": "https://www.youtube.com/watch?v=3o1DYivFY9A"
+        },
+        {
           "title": "알고보니 친형제자매였던 스타 TOP7 — 1위는 이름만 봐서는 절대 모릅니다",
-          "views": 12770,
+          "views": 12907,
           "date": "2026-07-18",
           "duration": 67,
           "url": "https://www.youtube.com/watch?v=GyNTP4rqu8w"
@@ -53,35 +53,35 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "해외에서 난리 난 트로트 가수 TOP7",
-          "views": 1968,
+          "views": 2036,
           "date": "2026-07-19",
           "duration": 87,
           "url": "https://www.youtube.com/watch?v=AqTwwmmlfSo"
         },
         {
           "title": "성격 좋기로 소문난 트로트 가수 TOP7",
-          "views": 8671,
+          "views": 8943,
           "date": "2026-07-19",
           "duration": 95,
           "url": "https://www.youtube.com/watch?v=Vory0kOADYQ"
         },
         {
           "title": "결혼식 축가로 모시고 싶은 트로트 가수 TOP7",
-          "views": 2587,
+          "views": 2616,
           "date": "2026-07-18",
           "duration": 95,
           "url": "https://www.youtube.com/watch?v=yXY8JgJNra8"
         },
         {
           "title": "알고보니 친형제자매였던 스타 TOP7 — 1위는 이름만 봐서는 절대 모릅니다",
-          "views": 12770,
+          "views": 12907,
           "date": "2026-07-18",
           "duration": 67,
           "url": "https://www.youtube.com/watch?v=GyNTP4rqu8w"
         },
         {
           "title": "남편 재산이 미쳐버린 여자 스타 TOP7, 1위는 남편 재산이 2조인 그 국민배우였습니다",
-          "views": 13780,
+          "views": 13920,
           "date": "2026-07-17",
           "duration": 86,
           "url": "https://www.youtube.com/watch?v=_N7tca_xAuU"
@@ -95,7 +95,7 @@ window.DATA = {
         },
         {
           "title": "부르는 게 값… 트로트 행사비 TOP7, 1위는 부르고 싶어도 못 부르는 그 가수였습니다",
-          "views": 9047,
+          "views": 9134,
           "date": "2026-07-16",
           "duration": 89,
           "url": "https://www.youtube.com/watch?v=FP_jINqRffk"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "노래 한 곡에 수십억… 트로트 가수 재산 TOP7, 1위는 은퇴한 그 가수였습니다",
-          "views": 187413,
+          "views": 187950,
           "date": "2026-07-14",
           "duration": 108,
           "url": "https://www.youtube.com/watch?v=UDVWDEQ6vA4"
         }
       ],
-      "analyzed_at": "2026-07-20 05:24",
+      "analyzed_at": "2026-07-20 06:27",
       "subs_delta": 100
     },
     {
@@ -134,7 +134,7 @@ window.DATA = {
       "avg_views": 721,
       "median_views": 98,
       "uploads_30d": 20,
-      "views_30d": 14427,
+      "views_30d": 14429,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -160,7 +160,7 @@ window.DATA = {
         },
         {
           "title": "산 지 얼마 안 된 흰 운동화가 벌써 꼬질꼬질, 세탁소 말고 이렇게 했더니",
-          "views": 1744,
+          "views": 1746,
           "date": "2026-07-09",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=ezaNvYARCLU"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=7U6IrR6Ais8"
         }
       ],
-      "analyzed_at": "2026-07-20 05:25",
+      "analyzed_at": "2026-07-20 06:27",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1210,
       "sampled": 20,
-      "avg_views": 4764,
-      "median_views": 1475,
+      "avg_views": 4769,
+      "median_views": 1477,
       "uploads_30d": 20,
-      "views_30d": 95283,
+      "views_30d": 95383,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -269,14 +269,14 @@ window.DATA = {
         },
         {
           "title": "브레이크 밟았는데 페달이 바닥까지 푹 꺼지면, 진짜 원인은 마스터실린더",
-          "views": 25485,
+          "views": 25492,
           "date": "2026-07-12",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=twpECifFcWs"
         },
         {
           "title": "혼다 HR-V 에어컨 아무리 틀어도 미지근, 진짜 원인은 콘덴서",
-          "views": 12827,
+          "views": 12867,
           "date": "2026-07-15",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=rNLjQflBBbE"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "타이어에 못 박혔을 때, 견인차 부르기 전에 이것부터",
-          "views": 55,
+          "views": 54,
           "date": "2026-07-19",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=It8caSeZvE0"
@@ -313,21 +313,21 @@ window.DATA = {
         },
         {
           "title": "싼타페 세워두면 방전, 배터리 아니라 블랙박스부터 보세요",
-          "views": 39,
+          "views": 40,
           "date": "2026-07-18",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=qOXkVhx3JqI"
         },
         {
           "title": "BMW 비 온 뒤 브레이크 끼익, 고장 아니라 녹막입니다",
-          "views": 2902,
+          "views": 2951,
           "date": "2026-07-18",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=Hbeqs6KOgxI"
         },
         {
           "title": "닛산 히터 바람 한 점 안 나올 때, 컴퓨터 아니라 블로워 모터부터 보세요",
-          "views": 1091,
+          "views": 1090,
           "date": "2026-07-17",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=PRLOpa0A10o"
@@ -341,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "폭스바겐 티구안 가속하면 부르르, RPM은 멀쩡한데 진짜 원인은 점화코일",
-          "views": 1378,
+          "views": 1383,
           "date": "2026-07-16",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=2tk2cmIuIGs"
@@ -355,7 +355,7 @@ window.DATA = {
         },
         {
           "title": "혼다 HR-V 에어컨 아무리 틀어도 미지근, 진짜 원인은 콘덴서",
-          "views": 12827,
+          "views": 12867,
           "date": "2026-07-15",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=rNLjQflBBbE"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=SmnevQqUQ08"
         }
       ],
-      "analyzed_at": "2026-07-20 05:26",
+      "analyzed_at": "2026-07-20 06:28",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 71,
       "sampled": 11,
-      "avg_views": 4535,
+      "avg_views": 4536,
       "median_views": 149,
       "uploads_30d": 11,
-      "views_30d": 49894,
+      "views_30d": 49901,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -406,14 +406,14 @@ window.DATA = {
         },
         {
           "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-          "views": 984,
+          "views": 987,
           "date": "2026-07-08",
           "duration": 1039,
           "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
         },
         {
           "title": "소지섭 '김부장' 1~6화 몰아보기… 외국인들이 6화 마지막에서 결국 무너졌다 [실시간 해외반응]",
-          "views": 678,
+          "views": 680,
           "date": "2026-07-12",
           "duration": 1278,
           "url": "https://www.youtube.com/watch?v=yYAgENws9Kg"
@@ -429,7 +429,7 @@ window.DATA = {
         },
         {
           "title": "그 평범한 아빠가 각성한 순간, 외국인들이 숨을 멈췄다 | 김부장 5·6화 해외 리액션",
-          "views": 79,
+          "views": 81,
           "date": "2026-07-17",
           "duration": 644,
           "url": "https://www.youtube.com/watch?v=eo6I33-mbW0"
@@ -457,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "소지섭 '김부장' 1~6화 몰아보기… 외국인들이 6화 마지막에서 결국 무너졌다 [실시간 해외반응]",
-          "views": 678,
+          "views": 680,
           "date": "2026-07-12",
           "duration": 1278,
           "url": "https://www.youtube.com/watch?v=yYAgENws9Kg"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-          "views": 984,
+          "views": 987,
           "date": "2026-07-08",
           "duration": 1039,
           "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
@@ -491,19 +491,19 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
         }
       ],
-      "analyzed_at": "2026-07-20 05:26",
+      "analyzed_at": "2026-07-20 06:28",
       "subs_delta": 0
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
       "name": "해외반응픽",
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
-      "subscribers": 115,
+      "subscribers": 114,
       "sampled": 16,
-      "avg_views": 3686,
+      "avg_views": 3693,
       "median_views": 678,
       "uploads_30d": 16,
-      "views_30d": 58982,
+      "views_30d": 59096,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -515,14 +515,14 @@ window.DATA = {
         },
         {
           "title": "12척으로 330척을 막았다는 말에 외국인들이 소름 돋은 순간 — 영화 명량 해외 리뷰어 실시간 반응",
-          "views": 14073,
+          "views": 14126,
           "date": "2026-07-15",
           "duration": 1585,
           "url": "https://www.youtube.com/watch?v=tE80jFMi8Oc"
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 5361,
+          "views": 5402,
           "date": "2026-07-07",
           "duration": 604,
           "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
@@ -559,21 +559,21 @@ window.DATA = {
         },
         {
           "title": "\"관을 열지 말았어야 했다\"… 외국인 6명이 파묘를 보고 마지막에 남긴 한마디",
-          "views": 1278,
+          "views": 1295,
           "date": "2026-07-17",
           "duration": 1820,
           "url": "https://www.youtube.com/watch?v=VANRJLTVGJc"
         },
         {
           "title": "12척으로 330척을 막았다는 말에 외국인들이 소름 돋은 순간 — 영화 명량 해외 리뷰어 실시간 반응",
-          "views": 14073,
+          "views": 14126,
           "date": "2026-07-15",
           "duration": 1585,
           "url": "https://www.youtube.com/watch?v=tE80jFMi8Oc"
         },
         {
           "title": "영화 '타짜2: 신의 손' — 타짜4 개봉 전 다시 보는 그 속편, 해외 리뷰어들이 '다 벗고 치는 마지막 승부'에서 결국 무너진 순간들 [이야기 순서 실시간 해외반응]",
-          "views": 265,
+          "views": 268,
           "date": "2026-07-12",
           "duration": 1665,
           "url": "https://www.youtube.com/watch?v=lfpVrPwZ3HY"
@@ -594,7 +594,7 @@ window.DATA = {
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 5361,
+          "views": 5402,
           "date": "2026-07-07",
           "duration": 604,
           "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
@@ -614,8 +614,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Y-8z1_qauzE"
         }
       ],
-      "analyzed_at": "2026-07-20 05:26",
-      "subs_delta": 3
+      "analyzed_at": "2026-07-20 06:28",
+      "subs_delta": 2
     },
     {
       "url": "https://www.youtube.com/channel/UChq2TqKlpNlWpHpDRMwyCeQ",
@@ -623,15 +623,15 @@ window.DATA = {
       "channel_id": "UChq2TqKlpNlWpHpDRMwyCeQ",
       "subscribers": 8,
       "sampled": 4,
-      "avg_views": 319,
+      "avg_views": 320,
       "median_views": 189,
       "uploads_30d": 4,
-      "views_30d": 1279,
+      "views_30d": 1282,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "손예진이 파라글라이딩하다 북한에 떨어졌다 — 첫 화부터 이 남자를 본 외국인들 반응 [사랑의 불시착 1·2화 실시간 리뷰]",
-          "views": 828,
+          "views": 831,
           "date": "2026-07-14",
           "duration": 2235,
           "url": "https://www.youtube.com/watch?v=zXjhmKz_FDE"
@@ -682,23 +682,23 @@ window.DATA = {
         },
         {
           "title": "손예진이 파라글라이딩하다 북한에 떨어졌다 — 첫 화부터 이 남자를 본 외국인들 반응 [사랑의 불시착 1·2화 실시간 리뷰]",
-          "views": 828,
+          "views": 831,
           "date": "2026-07-14",
           "duration": 2235,
           "url": "https://www.youtube.com/watch?v=zXjhmKz_FDE"
         }
       ],
-      "analyzed_at": "2026-07-20 05:26",
+      "analyzed_at": "2026-07-20 06:28",
       "subs_delta": 1
     }
   ],
-  "generated_at": "2026-07-20 05:24",
+  "generated_at": "2026-07-20 06:27",
   "videos": [
     {
       "date": "2026-07-14",
       "channel": "숏츠시작",
       "title": "노래 한 곡에 수십억… 트로트 가수 재산 TOP7, 1위는 은퇴한 그 가수였습니다",
-      "views": 187413,
+      "views": 187950,
       "url": "https://www.youtube.com/watch?v=UDVWDEQ6vA4"
     },
     {
@@ -709,52 +709,52 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=HPk32i2eMAY"
     },
     {
-      "date": "2026-07-14",
-      "channel": "숏츠시작",
-      "title": "한 채에 수백억… 억 소리 나는 집에 사는 유명인 TOP7, 1위는 4년 연속 전국 1등이었습니다",
-      "views": 13800,
-      "url": "https://www.youtube.com/watch?v=3o1DYivFY9A"
-    },
-    {
       "date": "2026-07-17",
       "channel": "숏츠시작",
       "title": "남편 재산이 미쳐버린 여자 스타 TOP7, 1위는 남편 재산이 2조인 그 국민배우였습니다",
-      "views": 13780,
+      "views": 13920,
       "url": "https://www.youtube.com/watch?v=_N7tca_xAuU"
+    },
+    {
+      "date": "2026-07-14",
+      "channel": "숏츠시작",
+      "title": "한 채에 수백억… 억 소리 나는 집에 사는 유명인 TOP7, 1위는 4년 연속 전국 1등이었습니다",
+      "views": 13872,
+      "url": "https://www.youtube.com/watch?v=3o1DYivFY9A"
     },
     {
       "date": "2026-07-18",
       "channel": "숏츠시작",
       "title": "알고보니 친형제자매였던 스타 TOP7 — 1위는 이름만 봐서는 절대 모릅니다",
-      "views": 12770,
+      "views": 12907,
       "url": "https://www.youtube.com/watch?v=GyNTP4rqu8w"
     },
     {
       "date": "2026-07-19",
       "channel": "숏츠시작",
       "title": "해외에서 난리 난 트로트 가수 TOP7",
-      "views": 1968,
+      "views": 2036,
       "url": "https://www.youtube.com/watch?v=AqTwwmmlfSo"
     },
     {
       "date": "2026-07-19",
       "channel": "숏츠시작",
       "title": "성격 좋기로 소문난 트로트 가수 TOP7",
-      "views": 8671,
+      "views": 8943,
       "url": "https://www.youtube.com/watch?v=Vory0kOADYQ"
     },
     {
       "date": "2026-07-18",
       "channel": "숏츠시작",
       "title": "결혼식 축가로 모시고 싶은 트로트 가수 TOP7",
-      "views": 2587,
+      "views": 2616,
       "url": "https://www.youtube.com/watch?v=yXY8JgJNra8"
     },
     {
       "date": "2026-07-16",
       "channel": "숏츠시작",
       "title": "부르는 게 값… 트로트 행사비 TOP7, 1위는 부르고 싶어도 못 부르는 그 가수였습니다",
-      "views": 9047,
+      "views": 9134,
       "url": "https://www.youtube.com/watch?v=FP_jINqRffk"
     },
     {
@@ -796,7 +796,7 @@ window.DATA = {
       "date": "2026-07-09",
       "channel": "놓치면손해템",
       "title": "산 지 얼마 안 된 흰 운동화가 벌써 꼬질꼬질, 세탁소 말고 이렇게 했더니",
-      "views": 1744,
+      "views": 1746,
       "url": "https://www.youtube.com/watch?v=ezaNvYARCLU"
     },
     {
@@ -887,14 +887,14 @@ window.DATA = {
       "date": "2026-07-12",
       "channel": "카픽스",
       "title": "브레이크 밟았는데 페달이 바닥까지 푹 꺼지면, 진짜 원인은 마스터실린더",
-      "views": 25485,
+      "views": 25492,
       "url": "https://www.youtube.com/watch?v=twpECifFcWs"
     },
     {
       "date": "2026-07-15",
       "channel": "카픽스",
       "title": "혼다 HR-V 에어컨 아무리 틀어도 미지근, 진짜 원인은 콘덴서",
-      "views": 12827,
+      "views": 12867,
       "url": "https://www.youtube.com/watch?v=rNLjQflBBbE"
     },
     {
@@ -915,7 +915,7 @@ window.DATA = {
       "date": "2026-07-19",
       "channel": "카픽스",
       "title": "타이어에 못 박혔을 때, 견인차 부르기 전에 이것부터",
-      "views": 55,
+      "views": 54,
       "url": "https://www.youtube.com/watch?v=It8caSeZvE0"
     },
     {
@@ -929,21 +929,21 @@ window.DATA = {
       "date": "2026-07-18",
       "channel": "카픽스",
       "title": "싼타페 세워두면 방전, 배터리 아니라 블랙박스부터 보세요",
-      "views": 39,
+      "views": 40,
       "url": "https://www.youtube.com/watch?v=qOXkVhx3JqI"
     },
     {
       "date": "2026-07-18",
       "channel": "카픽스",
       "title": "BMW 비 온 뒤 브레이크 끼익, 고장 아니라 녹막입니다",
-      "views": 2902,
+      "views": 2951,
       "url": "https://www.youtube.com/watch?v=Hbeqs6KOgxI"
     },
     {
       "date": "2026-07-17",
       "channel": "카픽스",
       "title": "닛산 히터 바람 한 점 안 나올 때, 컴퓨터 아니라 블로워 모터부터 보세요",
-      "views": 1091,
+      "views": 1090,
       "url": "https://www.youtube.com/watch?v=PRLOpa0A10o"
     },
     {
@@ -957,7 +957,7 @@ window.DATA = {
       "date": "2026-07-16",
       "channel": "카픽스",
       "title": "폭스바겐 티구안 가속하면 부르르, RPM은 멀쩡한데 진짜 원인은 점화코일",
-      "views": 1378,
+      "views": 1383,
       "url": "https://www.youtube.com/watch?v=2tk2cmIuIGs"
     },
     {
@@ -992,14 +992,14 @@ window.DATA = {
       "date": "2026-07-08",
       "channel": "뷰포인트",
       "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-      "views": 984,
+      "views": 987,
       "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
     },
     {
       "date": "2026-07-12",
       "channel": "뷰포인트",
       "title": "소지섭 '김부장' 1~6화 몰아보기… 외국인들이 6화 마지막에서 결국 무너졌다 [실시간 해외반응]",
-      "views": 678,
+      "views": 680,
       "url": "https://www.youtube.com/watch?v=yYAgENws9Kg"
     },
     {
@@ -1013,7 +1013,7 @@ window.DATA = {
       "date": "2026-07-17",
       "channel": "뷰포인트",
       "title": "그 평범한 아빠가 각성한 순간, 외국인들이 숨을 멈췄다 | 김부장 5·6화 해외 리액션",
-      "views": 79,
+      "views": 81,
       "url": "https://www.youtube.com/watch?v=eo6I33-mbW0"
     },
     {
@@ -1055,14 +1055,14 @@ window.DATA = {
       "date": "2026-07-15",
       "channel": "해외반응픽",
       "title": "12척으로 330척을 막았다는 말에 외국인들이 소름 돋은 순간 — 영화 명량 해외 리뷰어 실시간 반응",
-      "views": 14073,
+      "views": 14126,
       "url": "https://www.youtube.com/watch?v=tE80jFMi8Oc"
     },
     {
       "date": "2026-07-07",
       "channel": "해외반응픽",
       "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-      "views": 5361,
+      "views": 5402,
       "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
     },
     {
@@ -1097,14 +1097,14 @@ window.DATA = {
       "date": "2026-07-17",
       "channel": "해외반응픽",
       "title": "\"관을 열지 말았어야 했다\"… 외국인 6명이 파묘를 보고 마지막에 남긴 한마디",
-      "views": 1278,
+      "views": 1295,
       "url": "https://www.youtube.com/watch?v=VANRJLTVGJc"
     },
     {
       "date": "2026-07-12",
       "channel": "해외반응픽",
       "title": "영화 '타짜2: 신의 손' — 타짜4 개봉 전 다시 보는 그 속편, 해외 리뷰어들이 '다 벗고 치는 마지막 승부'에서 결국 무너진 순간들 [이야기 순서 실시간 해외반응]",
-      "views": 265,
+      "views": 268,
       "url": "https://www.youtube.com/watch?v=lfpVrPwZ3HY"
     },
     {
@@ -1125,7 +1125,7 @@ window.DATA = {
       "date": "2026-07-14",
       "channel": "코리아리뷰",
       "title": "손예진이 파라글라이딩하다 북한에 떨어졌다 — 첫 화부터 이 남자를 본 외국인들 반응 [사랑의 불시착 1·2화 실시간 리뷰]",
-      "views": 828,
+      "views": 831,
       "url": "https://www.youtube.com/watch?v=zXjhmKz_FDE"
     },
     {
