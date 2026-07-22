@@ -123,7 +123,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-07-22 23:10",
-      "subs_delta": 400
+      "subs_delta": 0
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -492,7 +492,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-07-22 23:12",
-      "subs_delta": 1
+      "subs_delta": 0
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
@@ -615,7 +615,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-07-22 23:12",
-      "subs_delta": 2
+      "subs_delta": 0
     },
     {
       "url": "https://www.youtube.com/channel/UChq2TqKlpNlWpHpDRMwyCeQ",
@@ -689,7 +689,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-07-22 23:13",
-      "subs_delta": 1
+      "subs_delta": 0
     }
   ],
   "generated_at": "2026-07-22 23:10",
