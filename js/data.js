@@ -8,43 +8,43 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 35200,
       "sampled": 20,
-      "avg_views": 33319,
-      "median_views": 21481,
+      "avg_views": 33466,
+      "median_views": 21483,
       "uploads_30d": 20,
-      "views_30d": 666383,
+      "views_30d": 669325,
       "shorts_ratio": 0.4,
       "top_videos": [
         {
           "title": "집이 미쳐버린 스타 대저택 TOP7, 1위는 800평 호수뷰의 그 배우였습니다",
-          "views": 132137,
+          "views": 133243,
           "date": "2026-07-24",
           "duration": 69,
           "url": "https://www.youtube.com/watch?v=Tk_L76beRus"
         },
         {
           "title": "오디션으로 인생 뒤집은 트롯 스타 TOP7 — 1위 상금 5억",
-          "views": 97128,
+          "views": 97895,
           "date": "2026-07-24",
           "duration": 71,
           "url": "https://www.youtube.com/watch?v=kGEk6qpYXmw"
         },
         {
           "title": "학벌에 다들 놀란 트로트 가수 TOP7",
-          "views": 78659,
+          "views": 78660,
           "date": "2026-07-20",
           "duration": 85,
           "url": "https://www.youtube.com/watch?v=baPnrBOfEuk"
         },
         {
           "title": "미스터트롯 콘서트 티켓파워 TOP7, 1위는 9만 석을 매진시켰습니다",
-          "views": 74341,
+          "views": 74552,
           "date": "2026-07-23",
           "duration": 81,
           "url": "https://www.youtube.com/watch?v=jmbwu8C49tU"
         },
         {
           "title": "성격 좋기로 소문난 트로트 가수 TOP7",
-          "views": 38826,
+          "views": 38917,
           "date": "2026-07-19",
           "duration": 95,
           "url": "https://www.youtube.com/watch?v=Vory0kOADYQ"
@@ -53,21 +53,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "개그맨 출신 영화배우 TOP7",
-          "views": 1701,
+          "views": 1743,
           "date": "2026-07-26",
           "duration": 47,
           "url": "https://www.youtube.com/watch?v=qem-4gOxNoQ"
         },
         {
           "title": "공식 홍보대사로 발탁된 트롯 스타 TOP7",
-          "views": 7583,
+          "views": 8140,
           "date": "2026-07-26",
           "duration": 45,
           "url": "https://www.youtube.com/watch?v=Bm9TcPoRHNg"
         },
         {
           "title": "미스터트롯3 결승 최종 순위 TOP7",
-          "views": 4664,
+          "views": 4725,
           "date": "2026-07-25",
           "duration": 56,
           "url": "https://www.youtube.com/watch?v=Qxft0eOnspA"
@@ -81,21 +81,21 @@ window.DATA = {
         },
         {
           "title": "집이 미쳐버린 스타 대저택 TOP7, 1위는 800평 호수뷰의 그 배우였습니다",
-          "views": 132137,
+          "views": 133243,
           "date": "2026-07-24",
           "duration": 69,
           "url": "https://www.youtube.com/watch?v=Tk_L76beRus"
         },
         {
           "title": "오디션으로 인생 뒤집은 트롯 스타 TOP7 — 1위 상금 5억",
-          "views": 97128,
+          "views": 97895,
           "date": "2026-07-24",
           "duration": 71,
           "url": "https://www.youtube.com/watch?v=kGEk6qpYXmw"
         },
         {
           "title": "미스터트롯 콘서트 티켓파워 TOP7, 1위는 9만 석을 매진시켰습니다",
-          "views": 74341,
+          "views": 74552,
           "date": "2026-07-23",
           "duration": 81,
           "url": "https://www.youtube.com/watch?v=jmbwu8C49tU"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "일흔인데 마흔 얼굴… 나이를 거꾸로 먹는 동안 스타 TOP7, 1위는 60대에 리즈를 갱신한 그 배우였습니다",
-          "views": 23811,
+          "views": 23883,
           "date": "2026-07-22",
           "duration": 57,
           "url": "https://www.youtube.com/watch?v=JsaB_yHGmO8"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=75PLC1k7yZM"
         }
       ],
-      "analyzed_at": "2026-07-27 03:10",
+      "analyzed_at": "2026-07-27 04:12",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72800,
       "sampled": 20,
-      "avg_views": 580,
+      "avg_views": 578,
       "median_views": 121,
       "uploads_30d": 20,
-      "views_30d": 11601,
+      "views_30d": 11577,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
@@ -153,21 +153,21 @@ window.DATA = {
         },
         {
           "title": "안정된 직장 사표 던지고 대박 난 스타 TOP7",
-          "views": 1511,
+          "views": 1510,
           "date": "2026-07-25",
           "duration": 46,
           "url": "https://www.youtube.com/watch?v=QftnVSpjRpo"
         },
         {
           "title": "트로트의 여왕 이미자, 당신이 몰랐던 사실 3가지",
-          "views": 1437,
+          "views": 1436,
           "date": "2026-07-24",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=LTIoj6EpWrg"
         },
         {
           "title": "아역 꼬리표 떼고 성인 주연 된 스타 TOP7",
-          "views": 1281,
+          "views": 1279,
           "date": "2026-07-26",
           "duration": 49,
           "url": "https://www.youtube.com/watch?v=bS65MSKZL74"
@@ -176,35 +176,35 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "미스코리아 출신 스타 TOP7",
-          "views": 1261,
+          "views": 1239,
           "date": "2026-07-26",
           "duration": 46,
           "url": "https://www.youtube.com/watch?v=dOnRAP3zGvM"
         },
         {
           "title": "아역 꼬리표 떼고 성인 주연 된 스타 TOP7",
-          "views": 1281,
+          "views": 1279,
           "date": "2026-07-26",
           "duration": 49,
           "url": "https://www.youtube.com/watch?v=bS65MSKZL74"
         },
         {
           "title": "본명 들으면 못 알아보는 예명 스타 TOP7",
-          "views": 1236,
+          "views": 1238,
           "date": "2026-07-25",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=tXoMXYOwNjg"
         },
         {
           "title": "안정된 직장 사표 던지고 대박 난 스타 TOP7",
-          "views": 1511,
+          "views": 1510,
           "date": "2026-07-25",
           "duration": 46,
           "url": "https://www.youtube.com/watch?v=QftnVSpjRpo"
         },
         {
           "title": "트로트의 여왕 이미자, 당신이 몰랐던 사실 3가지",
-          "views": 1437,
+          "views": 1436,
           "date": "2026-07-24",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=LTIoj6EpWrg"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=5hFDYEnZomU"
         }
       ],
-      "analyzed_at": "2026-07-27 03:10",
+      "analyzed_at": "2026-07-27 04:12",
       "subs_delta": 0
     },
     {
@@ -254,29 +254,29 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1410,
       "sampled": 20,
-      "avg_views": 4391,
+      "avg_views": 4427,
       "median_views": 1324,
       "uploads_30d": 20,
-      "views_30d": 87834,
+      "views_30d": 88547,
       "shorts_ratio": 0.8,
       "top_videos": [
         {
           "title": "오디션으로 인생 뒤집은 트롯 스타 TOP7 — 1위 상금 5억",
-          "views": 30439,
+          "views": 30694,
           "date": "2026-07-24",
           "duration": 77,
           "url": "https://www.youtube.com/watch?v=U385LkKE1Fs"
         },
         {
           "title": "위기의 순간 용기 낸 의인 스타 TOP7, 1위는 동료를 살린 그 두 사람이었습니다",
-          "views": 27510,
+          "views": 27623,
           "date": "2026-07-23",
           "duration": 74,
           "url": "https://www.youtube.com/watch?v=Rlh6mwCn-f4"
         },
         {
           "title": "무명 끝에 인생 뒤집은 배우 TOP7",
-          "views": 6549,
+          "views": 6742,
           "date": "2026-07-25",
           "duration": 45,
           "url": "https://www.youtube.com/watch?v=MA0mHRqGVEM"
@@ -306,28 +306,28 @@ window.DATA = {
         },
         {
           "title": "대한민국 문화훈장 받은 레전드 스타 TOP7",
-          "views": 1610,
+          "views": 1764,
           "date": "2026-07-26",
           "duration": 51,
           "url": "https://www.youtube.com/watch?v=JlTSw07x3EU"
         },
         {
           "title": "국회의원 배지 단 연예인 TOP7",
-          "views": 41,
+          "views": 44,
           "date": "2026-07-25",
           "duration": 49,
           "url": "https://www.youtube.com/watch?v=s7lW1Ipw1kw"
         },
         {
           "title": "무명 끝에 인생 뒤집은 배우 TOP7",
-          "views": 6549,
+          "views": 6742,
           "date": "2026-07-25",
           "duration": 45,
           "url": "https://www.youtube.com/watch?v=MA0mHRqGVEM"
         },
         {
           "title": "오디션으로 인생 뒤집은 트롯 스타 TOP7 — 1위 상금 5억",
-          "views": 30439,
+          "views": 30694,
           "date": "2026-07-24",
           "duration": 77,
           "url": "https://www.youtube.com/watch?v=U385LkKE1Fs"
@@ -341,7 +341,7 @@ window.DATA = {
         },
         {
           "title": "위기의 순간 용기 낸 의인 스타 TOP7, 1위는 동료를 살린 그 두 사람이었습니다",
-          "views": 27510,
+          "views": 27623,
           "date": "2026-07-23",
           "duration": 74,
           "url": "https://www.youtube.com/watch?v=Rlh6mwCn-f4"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=GJoeznlLbAU"
         }
       ],
-      "analyzed_at": "2026-07-27 03:11",
+      "analyzed_at": "2026-07-27 04:13",
       "subs_delta": 10
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 74,
       "sampled": 12,
-      "avg_views": 4364,
+      "avg_views": 4365,
       "median_views": 171,
       "uploads_30d": 12,
-      "views_30d": 52370,
+      "views_30d": 52387,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -399,14 +399,14 @@ window.DATA = {
         },
         {
           "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-          "views": 11137,
+          "views": 11149,
           "date": "2026-07-11",
           "duration": 1687,
           "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
         },
         {
           "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-          "views": 1116,
+          "views": 1121,
           "date": "2026-07-08",
           "duration": 1039,
           "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
@@ -471,7 +471,7 @@ window.DATA = {
         },
         {
           "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-          "views": 11137,
+          "views": 11149,
           "date": "2026-07-11",
           "duration": 1687,
           "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
@@ -485,13 +485,13 @@ window.DATA = {
         },
         {
           "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-          "views": 1116,
+          "views": 1121,
           "date": "2026-07-08",
           "duration": 1039,
           "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
         }
       ],
-      "analyzed_at": "2026-07-27 03:11",
+      "analyzed_at": "2026-07-27 04:13",
       "subs_delta": 0
     },
     {
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 4700,
       "median_views": 1762,
       "uploads_30d": 15,
-      "views_30d": 78544,
+      "views_30d": 78545,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -552,7 +552,7 @@ window.DATA = {
         },
         {
           "title": "8년 만에 돌아온 나홍진… 'HOPE' 예고편만 본 외국인들이 충격받은 이유 | 해외반응",
-          "views": 687,
+          "views": 688,
           "date": "2026-07-19",
           "duration": 2367,
           "url": "https://www.youtube.com/watch?v=1QcDCgniKmA"
@@ -614,7 +614,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
         }
       ],
-      "analyzed_at": "2026-07-27 03:12",
+      "analyzed_at": "2026-07-27 04:14",
       "subs_delta": 1
     },
     {
@@ -623,10 +623,10 @@ window.DATA = {
       "channel_id": "UChq2TqKlpNlWpHpDRMwyCeQ",
       "subscribers": 8,
       "sampled": 4,
-      "avg_views": 446,
-      "median_views": 269,
+      "avg_views": 448,
+      "median_views": 272,
       "uploads_30d": 4,
-      "views_30d": 1784,
+      "views_30d": 1792,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -638,7 +638,7 @@ window.DATA = {
         },
         {
           "title": "손예진·현빈 '사랑의 불시착', 외국인들이 이 장면에서 진짜 무너진 이유는? | 5·6화 해외 리액션",
-          "views": 354,
+          "views": 361,
           "date": "2026-07-17",
           "duration": 2157,
           "url": "https://www.youtube.com/watch?v=qkYKIXGc77Q"
@@ -652,7 +652,7 @@ window.DATA = {
         },
         {
           "title": "비 오는 날 키스까지 했는데… 8화 마지막 총성에 외국인들이 결국 무너졌다 | 사랑의 불시착 7·8화 해외반응",
-          "views": 158,
+          "views": 159,
           "date": "2026-07-18",
           "duration": 2526,
           "url": "https://www.youtube.com/watch?v=f7UlInRS4gk"
@@ -661,14 +661,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "비 오는 날 키스까지 했는데… 8화 마지막 총성에 외국인들이 결국 무너졌다 | 사랑의 불시착 7·8화 해외반응",
-          "views": 158,
+          "views": 159,
           "date": "2026-07-18",
           "duration": 2526,
           "url": "https://www.youtube.com/watch?v=f7UlInRS4gk"
         },
         {
           "title": "손예진·현빈 '사랑의 불시착', 외국인들이 이 장면에서 진짜 무너진 이유는? | 5·6화 해외 리액션",
-          "views": 354,
+          "views": 361,
           "date": "2026-07-17",
           "duration": 2157,
           "url": "https://www.youtube.com/watch?v=qkYKIXGc77Q"
@@ -688,66 +688,66 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zXjhmKz_FDE"
         }
       ],
-      "analyzed_at": "2026-07-27 03:12",
+      "analyzed_at": "2026-07-27 04:14",
       "subs_delta": 1
     }
   ],
-  "generated_at": "2026-07-27 03:10",
+  "generated_at": "2026-07-27 04:12",
   "videos": [
     {
       "date": "2026-07-24",
       "channel": "숏츠시작",
       "title": "집이 미쳐버린 스타 대저택 TOP7, 1위는 800평 호수뷰의 그 배우였습니다",
-      "views": 132137,
+      "views": 133243,
       "url": "https://www.youtube.com/watch?v=Tk_L76beRus"
     },
     {
       "date": "2026-07-24",
       "channel": "숏츠시작",
       "title": "오디션으로 인생 뒤집은 트롯 스타 TOP7 — 1위 상금 5억",
-      "views": 97128,
+      "views": 97895,
       "url": "https://www.youtube.com/watch?v=kGEk6qpYXmw"
     },
     {
       "date": "2026-07-20",
       "channel": "숏츠시작",
       "title": "학벌에 다들 놀란 트로트 가수 TOP7",
-      "views": 78659,
+      "views": 78660,
       "url": "https://www.youtube.com/watch?v=baPnrBOfEuk"
     },
     {
       "date": "2026-07-23",
       "channel": "숏츠시작",
       "title": "미스터트롯 콘서트 티켓파워 TOP7, 1위는 9만 석을 매진시켰습니다",
-      "views": 74341,
+      "views": 74552,
       "url": "https://www.youtube.com/watch?v=jmbwu8C49tU"
     },
     {
       "date": "2026-07-19",
       "channel": "숏츠시작",
       "title": "성격 좋기로 소문난 트로트 가수 TOP7",
-      "views": 38826,
+      "views": 38917,
       "url": "https://www.youtube.com/watch?v=Vory0kOADYQ"
     },
     {
       "date": "2026-07-26",
       "channel": "숏츠시작",
       "title": "개그맨 출신 영화배우 TOP7",
-      "views": 1701,
+      "views": 1743,
       "url": "https://www.youtube.com/watch?v=qem-4gOxNoQ"
     },
     {
       "date": "2026-07-26",
       "channel": "숏츠시작",
       "title": "공식 홍보대사로 발탁된 트롯 스타 TOP7",
-      "views": 7583,
+      "views": 8140,
       "url": "https://www.youtube.com/watch?v=Bm9TcPoRHNg"
     },
     {
       "date": "2026-07-25",
       "channel": "숏츠시작",
       "title": "미스터트롯3 결승 최종 순위 TOP7",
-      "views": 4664,
+      "views": 4725,
       "url": "https://www.youtube.com/watch?v=Qxft0eOnspA"
     },
     {
@@ -768,7 +768,7 @@ window.DATA = {
       "date": "2026-07-22",
       "channel": "숏츠시작",
       "title": "일흔인데 마흔 얼굴… 나이를 거꾸로 먹는 동안 스타 TOP7, 1위는 60대에 리즈를 갱신한 그 배우였습니다",
-      "views": 23811,
+      "views": 23883,
       "url": "https://www.youtube.com/watch?v=JsaB_yHGmO8"
     },
     {
@@ -796,35 +796,35 @@ window.DATA = {
       "date": "2026-07-25",
       "channel": "연예소식통",
       "title": "안정된 직장 사표 던지고 대박 난 스타 TOP7",
-      "views": 1511,
+      "views": 1510,
       "url": "https://www.youtube.com/watch?v=QftnVSpjRpo"
     },
     {
       "date": "2026-07-24",
       "channel": "연예소식통",
       "title": "트로트의 여왕 이미자, 당신이 몰랐던 사실 3가지",
-      "views": 1437,
+      "views": 1436,
       "url": "https://www.youtube.com/watch?v=LTIoj6EpWrg"
     },
     {
       "date": "2026-07-26",
       "channel": "연예소식통",
       "title": "아역 꼬리표 떼고 성인 주연 된 스타 TOP7",
-      "views": 1281,
+      "views": 1279,
       "url": "https://www.youtube.com/watch?v=bS65MSKZL74"
     },
     {
       "date": "2026-07-26",
       "channel": "연예소식통",
       "title": "미스코리아 출신 스타 TOP7",
-      "views": 1261,
+      "views": 1239,
       "url": "https://www.youtube.com/watch?v=dOnRAP3zGvM"
     },
     {
       "date": "2026-07-25",
       "channel": "연예소식통",
       "title": "본명 들으면 못 알아보는 예명 스타 TOP7",
-      "views": 1236,
+      "views": 1238,
       "url": "https://www.youtube.com/watch?v=tXoMXYOwNjg"
     },
     {
@@ -852,21 +852,21 @@ window.DATA = {
       "date": "2026-07-24",
       "channel": "이슈브리핑",
       "title": "오디션으로 인생 뒤집은 트롯 스타 TOP7 — 1위 상금 5억",
-      "views": 30439,
+      "views": 30694,
       "url": "https://www.youtube.com/watch?v=U385LkKE1Fs"
     },
     {
       "date": "2026-07-23",
       "channel": "이슈브리핑",
       "title": "위기의 순간 용기 낸 의인 스타 TOP7, 1위는 동료를 살린 그 두 사람이었습니다",
-      "views": 27510,
+      "views": 27623,
       "url": "https://www.youtube.com/watch?v=Rlh6mwCn-f4"
     },
     {
       "date": "2026-07-25",
       "channel": "이슈브리핑",
       "title": "무명 끝에 인생 뒤집은 배우 TOP7",
-      "views": 6549,
+      "views": 6742,
       "url": "https://www.youtube.com/watch?v=MA0mHRqGVEM"
     },
     {
@@ -894,14 +894,14 @@ window.DATA = {
       "date": "2026-07-26",
       "channel": "이슈브리핑",
       "title": "대한민국 문화훈장 받은 레전드 스타 TOP7",
-      "views": 1610,
+      "views": 1764,
       "url": "https://www.youtube.com/watch?v=JlTSw07x3EU"
     },
     {
       "date": "2026-07-25",
       "channel": "이슈브리핑",
       "title": "국회의원 배지 단 연예인 TOP7",
-      "views": 41,
+      "views": 44,
       "url": "https://www.youtube.com/watch?v=s7lW1Ipw1kw"
     },
     {
@@ -943,14 +943,14 @@ window.DATA = {
       "date": "2026-07-11",
       "channel": "뷰포인트",
       "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-      "views": 11137,
+      "views": 11149,
       "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
     },
     {
       "date": "2026-07-08",
       "channel": "뷰포인트",
       "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-      "views": 1116,
+      "views": 1121,
       "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
     },
     {
@@ -1055,7 +1055,7 @@ window.DATA = {
       "date": "2026-07-19",
       "channel": "해외반응픽",
       "title": "8년 만에 돌아온 나홍진… 'HOPE' 예고편만 본 외국인들이 충격받은 이유 | 해외반응",
-      "views": 687,
+      "views": 688,
       "url": "https://www.youtube.com/watch?v=1QcDCgniKmA"
     },
     {
@@ -1090,7 +1090,7 @@ window.DATA = {
       "date": "2026-07-17",
       "channel": "코리아리뷰",
       "title": "손예진·현빈 '사랑의 불시착', 외국인들이 이 장면에서 진짜 무너진 이유는? | 5·6화 해외 리액션",
-      "views": 354,
+      "views": 361,
       "url": "https://www.youtube.com/watch?v=qkYKIXGc77Q"
     },
     {
@@ -1104,7 +1104,7 @@ window.DATA = {
       "date": "2026-07-18",
       "channel": "코리아리뷰",
       "title": "비 오는 날 키스까지 했는데… 8화 마지막 총성에 외국인들이 결국 무너졌다 | 사랑의 불시착 7·8화 해외반응",
-      "views": 158,
+      "views": 159,
       "url": "https://www.youtube.com/watch?v=f7UlInRS4gk"
     }
   ],
