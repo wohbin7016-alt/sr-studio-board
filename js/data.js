@@ -123,7 +123,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-07-26 23:00",
-      "subs_delta": 400
+      "subs_delta": 0
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -369,7 +369,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-07-26 23:01",
-      "subs_delta": 140
+      "subs_delta": 0
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
@@ -689,7 +689,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-07-26 23:02",
-      "subs_delta": -1
+      "subs_delta": 0
     }
   ],
   "generated_at": "2026-07-26 23:00",
