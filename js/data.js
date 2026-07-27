@@ -7,15 +7,122 @@ window.DATA = {
       "name": "숏츠시작",
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 35500,
-      "sampled": 0,
-      "avg_views": 0,
-      "median_views": 0,
-      "uploads_30d": 0,
-      "views_30d": 0,
-      "shorts_ratio": 0,
-      "top_videos": [],
-      "recent_videos": [],
-      "analyzed_at": "2026-07-27 20:56",
+      "sampled": 20,
+      "avg_views": 39270,
+      "median_views": 21664,
+      "uploads_30d": 20,
+      "views_30d": 785409,
+      "shorts_ratio": 0.4,
+      "top_videos": [
+        {
+          "title": "집이 미쳐버린 스타 대저택 TOP7, 1위는 800평 호수뷰의 그 배우였습니다",
+          "views": 215370,
+          "date": "2026-07-24",
+          "duration": 69,
+          "url": "https://www.youtube.com/watch?v=Tk_L76beRus"
+        },
+        {
+          "title": "오디션으로 인생 뒤집은 트롯 스타 TOP7 — 1위 상금 5억",
+          "views": 118537,
+          "date": "2026-07-24",
+          "duration": 71,
+          "url": "https://www.youtube.com/watch?v=kGEk6qpYXmw"
+        },
+        {
+          "title": "학벌에 다들 놀란 트로트 가수 TOP7",
+          "views": 79701,
+          "date": "2026-07-20",
+          "duration": 85,
+          "url": "https://www.youtube.com/watch?v=baPnrBOfEuk"
+        },
+        {
+          "title": "미스터트롯 콘서트 티켓파워 TOP7, 1위는 9만 석을 매진시켰습니다",
+          "views": 78638,
+          "date": "2026-07-23",
+          "duration": 81,
+          "url": "https://www.youtube.com/watch?v=jmbwu8C49tU"
+        },
+        {
+          "title": "성격 좋기로 소문난 트로트 가수 TOP7",
+          "views": 39499,
+          "date": "2026-07-19",
+          "duration": 95,
+          "url": "https://www.youtube.com/watch?v=Vory0kOADYQ"
+        }
+      ],
+      "recent_videos": [
+        {
+          "title": "왕년 톱스타의 깜짝 근황 TOP7, 1위는 명품 핸드백 디자이너가 됐습니다",
+          "views": 657,
+          "date": "2026-07-27",
+          "duration": 77,
+          "url": "https://www.youtube.com/watch?v=LscnOpUIfmg"
+        },
+        {
+          "title": "개그맨 출신 영화배우 TOP7",
+          "views": 7496,
+          "date": "2026-07-26",
+          "duration": 47,
+          "url": "https://www.youtube.com/watch?v=qem-4gOxNoQ"
+        },
+        {
+          "title": "공식 홍보대사로 발탁된 트롯 스타 TOP7",
+          "views": 18162,
+          "date": "2026-07-26",
+          "duration": 45,
+          "url": "https://www.youtube.com/watch?v=Bm9TcPoRHNg"
+        },
+        {
+          "title": "미스터트롯3 결승 최종 순위 TOP7",
+          "views": 6879,
+          "date": "2026-07-25",
+          "duration": 56,
+          "url": "https://www.youtube.com/watch?v=Qxft0eOnspA"
+        },
+        {
+          "title": "재난 때 먼저 나선 미스터트롯 스타 TOP7",
+          "views": 1677,
+          "date": "2026-07-25",
+          "duration": 46,
+          "url": "https://www.youtube.com/watch?v=Ekr_Kq-20B0"
+        },
+        {
+          "title": "집이 미쳐버린 스타 대저택 TOP7, 1위는 800평 호수뷰의 그 배우였습니다",
+          "views": 215370,
+          "date": "2026-07-24",
+          "duration": 69,
+          "url": "https://www.youtube.com/watch?v=Tk_L76beRus"
+        },
+        {
+          "title": "오디션으로 인생 뒤집은 트롯 스타 TOP7 — 1위 상금 5억",
+          "views": 118537,
+          "date": "2026-07-24",
+          "duration": 71,
+          "url": "https://www.youtube.com/watch?v=kGEk6qpYXmw"
+        },
+        {
+          "title": "미스터트롯 콘서트 티켓파워 TOP7, 1위는 9만 석을 매진시켰습니다",
+          "views": 78638,
+          "date": "2026-07-23",
+          "duration": 81,
+          "url": "https://www.youtube.com/watch?v=jmbwu8C49tU"
+        },
+        {
+          "title": "미스터트롯 스타들의 놀라운 근황 TOP7, 1위는 해병대에 입대했습니다",
+          "views": 33485,
+          "date": "2026-07-23",
+          "duration": 66,
+          "url": "https://www.youtube.com/watch?v=qBWNzkJOE9U"
+        },
+        {
+          "title": "일흔인데 마흔 얼굴… 나이를 거꾸로 먹는 동안 스타 TOP7, 1위는 60대에 리즈를 갱신한 그 배우였습니다",
+          "views": 24100,
+          "date": "2026-07-22",
+          "duration": 57,
+          "url": "https://www.youtube.com/watch?v=JsaB_yHGmO8"
+        }
+      ],
+      "analyzed_at": "2026-07-27 22:03",
       "subs_delta": 300
     },
     {
@@ -24,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72800,
       "sampled": 20,
-      "avg_views": 611,
+      "avg_views": 622,
       "median_views": 214,
       "uploads_30d": 20,
-      "views_30d": 12224,
+      "views_30d": 12454,
       "shorts_ratio": 0.95,
       "top_videos": [
         {
@@ -39,7 +146,7 @@ window.DATA = {
         },
         {
           "title": "트로트 가수 설운도, 당신이 몰랐던 사실 3가지",
-          "views": 1615,
+          "views": 1616,
           "date": "2026-07-23",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=K-YTEcfOWHY"
@@ -69,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "가왕 조용필, 당신이 몰랐던 사실 3가지",
-          "views": 639,
+          "views": 867,
           "date": "2026-07-27",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=mePvKkhEZuw"
@@ -118,14 +225,14 @@ window.DATA = {
         },
         {
           "title": "트로트 가수 설운도, 당신이 몰랐던 사실 3가지",
-          "views": 1615,
+          "views": 1616,
           "date": "2026-07-23",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=K-YTEcfOWHY"
         },
         {
           "title": "미스터트롯 진 임영웅, 당신이 몰랐던 사실 3가지",
-          "views": 74,
+          "views": 75,
           "date": "2026-07-23",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=xwSA2xRQR9A"
@@ -138,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=J2J9geuTGmQ"
         }
       ],
-      "analyzed_at": "2026-07-27 20:58",
+      "analyzed_at": "2026-07-27 22:04",
       "subs_delta": 0
     },
     {
@@ -147,15 +254,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1470,
       "sampled": 20,
-      "avg_views": 5259,
-      "median_views": 1006,
+      "avg_views": 5305,
+      "median_views": 1010,
       "uploads_30d": 20,
-      "views_30d": 105187,
+      "views_30d": 106114,
       "shorts_ratio": 0.8,
       "top_videos": [
         {
           "title": "오디션으로 인생 뒤집은 트롯 스타 TOP7 — 1위 상금 5억",
-          "views": 42887,
+          "views": 43498,
           "date": "2026-07-24",
           "duration": 77,
           "url": "https://www.youtube.com/watch?v=U385LkKE1Fs"
@@ -176,7 +283,7 @@ window.DATA = {
         },
         {
           "title": "부모 위해 헌신한 소문난 효자효녀 스타 TOP7, 1위는 부모님께 3층 집을 지어드린 그 가수였습니다",
-          "views": 5004,
+          "views": 5006,
           "date": "2026-07-22",
           "duration": 53,
           "url": "https://www.youtube.com/watch?v=6ectWQLGlTY"
@@ -206,7 +313,7 @@ window.DATA = {
         },
         {
           "title": "대한민국 문화훈장 받은 레전드 스타 TOP7",
-          "views": 3621,
+          "views": 3924,
           "date": "2026-07-26",
           "duration": 51,
           "url": "https://www.youtube.com/watch?v=JlTSw07x3EU"
@@ -227,7 +334,7 @@ window.DATA = {
         },
         {
           "title": "오디션으로 인생 뒤집은 트롯 스타 TOP7 — 1위 상금 5억",
-          "views": 42887,
+          "views": 43498,
           "date": "2026-07-24",
           "duration": 77,
           "url": "https://www.youtube.com/watch?v=U385LkKE1Fs"
@@ -255,13 +362,13 @@ window.DATA = {
         },
         {
           "title": "부모 위해 헌신한 소문난 효자효녀 스타 TOP7, 1위는 부모님께 3층 집을 지어드린 그 가수였습니다",
-          "views": 5004,
+          "views": 5006,
           "date": "2026-07-22",
           "duration": 53,
           "url": "https://www.youtube.com/watch?v=6ectWQLGlTY"
         }
       ],
-      "analyzed_at": "2026-07-27 21:01",
+      "analyzed_at": "2026-07-27 22:06",
       "subs_delta": 70
     },
     {
@@ -270,43 +377,43 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 75,
       "sampled": 13,
-      "avg_views": 4049,
-      "median_views": 170,
+      "avg_views": 4058,
+      "median_views": 179,
       "uploads_30d": 13,
-      "views_30d": 52637,
+      "views_30d": 52757,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-          "views": 20196,
+          "views": 20199,
           "date": "2026-07-05",
           "duration": 1309,
           "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 18698,
+          "views": 18707,
           "date": "2026-07-07",
           "duration": 1248,
           "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
         },
         {
           "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-          "views": 11164,
+          "views": 11168,
           "date": "2026-07-11",
           "duration": 1687,
           "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
         },
         {
           "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-          "views": 1129,
+          "views": 1132,
           "date": "2026-07-08",
           "duration": 1039,
           "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
         },
         {
           "title": "소지섭 '김부장' 1~6화 몰아보기… 외국인들이 6화 마지막에서 결국 무너졌다 [실시간 해외반응]",
-          "views": 765,
+          "views": 769,
           "date": "2026-07-12",
           "duration": 1278,
           "url": "https://www.youtube.com/watch?v=yYAgENws9Kg"
@@ -315,14 +422,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "무대 밖에선 딴사람, 다국어 능통 스타 TOP7",
-          "views": 110,
+          "views": 205,
           "date": "2026-07-27",
           "duration": 87,
           "url": "https://www.youtube.com/watch?v=JZrM1qHS0_Q"
         },
         {
           "title": "남주혁이 등장하자 외국인들이 \"데몬 슬레이어!\"를 외친 이유 | 동궁(The East Palace) 1화 해외반응",
-          "views": 99,
+          "views": 101,
           "date": "2026-07-22",
           "duration": 1199,
           "url": "https://www.youtube.com/watch?v=Iftxg3QlboI"
@@ -364,14 +471,14 @@ window.DATA = {
         },
         {
           "title": "소지섭 '김부장' 1~6화 몰아보기… 외국인들이 6화 마지막에서 결국 무너졌다 [실시간 해외반응]",
-          "views": 765,
+          "views": 769,
           "date": "2026-07-12",
           "duration": 1278,
           "url": "https://www.youtube.com/watch?v=yYAgENws9Kg"
         },
         {
           "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-          "views": 11164,
+          "views": 11168,
           "date": "2026-07-11",
           "duration": 1687,
           "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
@@ -384,19 +491,19 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=xXl3EGJL2O4"
         }
       ],
-      "analyzed_at": "2026-07-27 21:01",
+      "analyzed_at": "2026-07-27 22:06",
       "subs_delta": 1
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
       "name": "해외반응픽",
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
-      "subscribers": 138,
+      "subscribers": 139,
       "sampled": 17,
-      "avg_views": 4743,
-      "median_views": 1770,
+      "avg_views": 4751,
+      "median_views": 1772,
       "uploads_30d": 15,
-      "views_30d": 79274,
+      "views_30d": 79412,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -415,21 +522,21 @@ window.DATA = {
         },
         {
           "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-          "views": 6703,
+          "views": 6712,
           "date": "2026-07-06",
           "duration": 539,
           "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 6553,
+          "views": 6564,
           "date": "2026-07-07",
           "duration": 604,
           "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
         },
         {
           "title": "이순신 3부작 완주한 외국인들… 마지막 북소리에 결국 말을 잃었다",
-          "views": 5412,
+          "views": 5457,
           "date": "2026-07-18",
           "duration": 1757,
           "url": "https://www.youtube.com/watch?v=pkKZKPZy0TQ"
@@ -438,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "\"좀비 영화인 줄 알았는데…\" 부산행 마지막 10분에 외국인들이 오열한 이유 | 해외반응",
-          "views": 2730,
+          "views": 2799,
           "date": "2026-07-21",
           "duration": 987,
           "url": "https://www.youtube.com/watch?v=qu9a6ras9XA"
@@ -452,14 +559,14 @@ window.DATA = {
         },
         {
           "title": "이순신 3부작 완주한 외국인들… 마지막 북소리에 결국 말을 잃었다",
-          "views": 5412,
+          "views": 5457,
           "date": "2026-07-18",
           "duration": 1757,
           "url": "https://www.youtube.com/watch?v=pkKZKPZy0TQ"
         },
         {
           "title": "\"관을 열지 말았어야 했다\"… 외국인 6명이 파묘를 보고 마지막에 남긴 한마디",
-          "views": 1770,
+          "views": 1772,
           "date": "2026-07-17",
           "duration": 1820,
           "url": "https://www.youtube.com/watch?v=VANRJLTVGJc"
@@ -480,7 +587,7 @@ window.DATA = {
         },
         {
           "title": "타짜4 개봉 전 다시 보는 원작, 일본·미국·우크라이나 리뷰어들이 '밑장 빼기'에서 무너진 순간들 [이야기 순서 실시간 해외반응]",
-          "views": 2691,
+          "views": 2693,
           "date": "2026-07-10",
           "duration": 887,
           "url": "https://www.youtube.com/watch?v=XT4k2TLKC70"
@@ -494,21 +601,21 @@ window.DATA = {
         },
         {
           "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-          "views": 6553,
+          "views": 6564,
           "date": "2026-07-07",
           "duration": 604,
           "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
         },
         {
           "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-          "views": 6703,
+          "views": 6712,
           "date": "2026-07-06",
           "duration": 539,
           "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
         }
       ],
-      "analyzed_at": "2026-07-27 21:02",
-      "subs_delta": 3
+      "analyzed_at": "2026-07-27 22:06",
+      "subs_delta": 4
     },
     {
       "url": "https://www.youtube.com/channel/UChq2TqKlpNlWpHpDRMwyCeQ",
@@ -519,12 +626,12 @@ window.DATA = {
       "avg_views": 464,
       "median_views": 288,
       "uploads_30d": 4,
-      "views_30d": 1856,
+      "views_30d": 1859,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "손예진이 파라글라이딩하다 북한에 떨어졌다 — 첫 화부터 이 남자를 본 외국인들 반응 [사랑의 불시착 1·2화 실시간 리뷰]",
-          "views": 1117,
+          "views": 1120,
           "date": "2026-07-14",
           "duration": 2235,
           "url": "https://www.youtube.com/watch?v=zXjhmKz_FDE"
@@ -575,18 +682,102 @@ window.DATA = {
         },
         {
           "title": "손예진이 파라글라이딩하다 북한에 떨어졌다 — 첫 화부터 이 남자를 본 외국인들 반응 [사랑의 불시착 1·2화 실시간 리뷰]",
-          "views": 1117,
+          "views": 1120,
           "date": "2026-07-14",
           "duration": 2235,
           "url": "https://www.youtube.com/watch?v=zXjhmKz_FDE"
         }
       ],
-      "analyzed_at": "2026-07-27 21:02",
+      "analyzed_at": "2026-07-27 22:06",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-07-27 20:56",
+  "generated_at": "2026-07-27 22:03",
   "videos": [
+    {
+      "date": "2026-07-24",
+      "channel": "숏츠시작",
+      "title": "집이 미쳐버린 스타 대저택 TOP7, 1위는 800평 호수뷰의 그 배우였습니다",
+      "views": 215370,
+      "url": "https://www.youtube.com/watch?v=Tk_L76beRus"
+    },
+    {
+      "date": "2026-07-24",
+      "channel": "숏츠시작",
+      "title": "오디션으로 인생 뒤집은 트롯 스타 TOP7 — 1위 상금 5억",
+      "views": 118537,
+      "url": "https://www.youtube.com/watch?v=kGEk6qpYXmw"
+    },
+    {
+      "date": "2026-07-20",
+      "channel": "숏츠시작",
+      "title": "학벌에 다들 놀란 트로트 가수 TOP7",
+      "views": 79701,
+      "url": "https://www.youtube.com/watch?v=baPnrBOfEuk"
+    },
+    {
+      "date": "2026-07-23",
+      "channel": "숏츠시작",
+      "title": "미스터트롯 콘서트 티켓파워 TOP7, 1위는 9만 석을 매진시켰습니다",
+      "views": 78638,
+      "url": "https://www.youtube.com/watch?v=jmbwu8C49tU"
+    },
+    {
+      "date": "2026-07-19",
+      "channel": "숏츠시작",
+      "title": "성격 좋기로 소문난 트로트 가수 TOP7",
+      "views": 39499,
+      "url": "https://www.youtube.com/watch?v=Vory0kOADYQ"
+    },
+    {
+      "date": "2026-07-27",
+      "channel": "숏츠시작",
+      "title": "왕년 톱스타의 깜짝 근황 TOP7, 1위는 명품 핸드백 디자이너가 됐습니다",
+      "views": 657,
+      "url": "https://www.youtube.com/watch?v=LscnOpUIfmg"
+    },
+    {
+      "date": "2026-07-26",
+      "channel": "숏츠시작",
+      "title": "개그맨 출신 영화배우 TOP7",
+      "views": 7496,
+      "url": "https://www.youtube.com/watch?v=qem-4gOxNoQ"
+    },
+    {
+      "date": "2026-07-26",
+      "channel": "숏츠시작",
+      "title": "공식 홍보대사로 발탁된 트롯 스타 TOP7",
+      "views": 18162,
+      "url": "https://www.youtube.com/watch?v=Bm9TcPoRHNg"
+    },
+    {
+      "date": "2026-07-25",
+      "channel": "숏츠시작",
+      "title": "미스터트롯3 결승 최종 순위 TOP7",
+      "views": 6879,
+      "url": "https://www.youtube.com/watch?v=Qxft0eOnspA"
+    },
+    {
+      "date": "2026-07-25",
+      "channel": "숏츠시작",
+      "title": "재난 때 먼저 나선 미스터트롯 스타 TOP7",
+      "views": 1677,
+      "url": "https://www.youtube.com/watch?v=Ekr_Kq-20B0"
+    },
+    {
+      "date": "2026-07-23",
+      "channel": "숏츠시작",
+      "title": "미스터트롯 스타들의 놀라운 근황 TOP7, 1위는 해병대에 입대했습니다",
+      "views": 33485,
+      "url": "https://www.youtube.com/watch?v=qBWNzkJOE9U"
+    },
+    {
+      "date": "2026-07-22",
+      "channel": "숏츠시작",
+      "title": "일흔인데 마흔 얼굴… 나이를 거꾸로 먹는 동안 스타 TOP7, 1위는 60대에 리즈를 갱신한 그 배우였습니다",
+      "views": 24100,
+      "url": "https://www.youtube.com/watch?v=JsaB_yHGmO8"
+    },
     {
       "date": "2026-07-24",
       "channel": "연예소식통",
@@ -598,7 +789,7 @@ window.DATA = {
       "date": "2026-07-23",
       "channel": "연예소식통",
       "title": "트로트 가수 설운도, 당신이 몰랐던 사실 3가지",
-      "views": 1615,
+      "views": 1616,
       "url": "https://www.youtube.com/watch?v=K-YTEcfOWHY"
     },
     {
@@ -626,7 +817,7 @@ window.DATA = {
       "date": "2026-07-27",
       "channel": "연예소식통",
       "title": "가왕 조용필, 당신이 몰랐던 사실 3가지",
-      "views": 639,
+      "views": 867,
       "url": "https://www.youtube.com/watch?v=mePvKkhEZuw"
     },
     {
@@ -647,7 +838,7 @@ window.DATA = {
       "date": "2026-07-23",
       "channel": "연예소식통",
       "title": "미스터트롯 진 임영웅, 당신이 몰랐던 사실 3가지",
-      "views": 74,
+      "views": 75,
       "url": "https://www.youtube.com/watch?v=xwSA2xRQR9A"
     },
     {
@@ -661,7 +852,7 @@ window.DATA = {
       "date": "2026-07-24",
       "channel": "이슈브리핑",
       "title": "오디션으로 인생 뒤집은 트롯 스타 TOP7 — 1위 상금 5억",
-      "views": 42887,
+      "views": 43498,
       "url": "https://www.youtube.com/watch?v=U385LkKE1Fs"
     },
     {
@@ -682,7 +873,7 @@ window.DATA = {
       "date": "2026-07-22",
       "channel": "이슈브리핑",
       "title": "부모 위해 헌신한 소문난 효자효녀 스타 TOP7, 1위는 부모님께 3층 집을 지어드린 그 가수였습니다",
-      "views": 5004,
+      "views": 5006,
       "url": "https://www.youtube.com/watch?v=6ectWQLGlTY"
     },
     {
@@ -710,7 +901,7 @@ window.DATA = {
       "date": "2026-07-26",
       "channel": "이슈브리핑",
       "title": "대한민국 문화훈장 받은 레전드 스타 TOP7",
-      "views": 3621,
+      "views": 3924,
       "url": "https://www.youtube.com/watch?v=JlTSw07x3EU"
     },
     {
@@ -738,49 +929,49 @@ window.DATA = {
       "date": "2026-07-05",
       "channel": "뷰포인트",
       "title": "총 든 조직을 맨손으로... 소지섭 '김부장'에 외국인 리뷰어 4명이 21분 내내 소리 지른 이유",
-      "views": 20196,
+      "views": 20199,
       "url": "https://www.youtube.com/watch?v=JHjaFfGiELE"
     },
     {
       "date": "2026-07-07",
       "channel": "뷰포인트",
       "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-      "views": 18698,
+      "views": 18707,
       "url": "https://www.youtube.com/watch?v=_ncb3Ou-r3c"
     },
     {
       "date": "2026-07-11",
       "channel": "뷰포인트",
       "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-      "views": 11164,
+      "views": 11168,
       "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
     },
     {
       "date": "2026-07-08",
       "channel": "뷰포인트",
       "title": "소지섭 '김부장' 3화｜외국인 리뷰어들이 같은 장면에서 동시에 터진 순간 [장면별 실시간 해외반응]",
-      "views": 1129,
+      "views": 1132,
       "url": "https://www.youtube.com/watch?v=xKb9-T8qXsI"
     },
     {
       "date": "2026-07-12",
       "channel": "뷰포인트",
       "title": "소지섭 '김부장' 1~6화 몰아보기… 외국인들이 6화 마지막에서 결국 무너졌다 [실시간 해외반응]",
-      "views": 765,
+      "views": 769,
       "url": "https://www.youtube.com/watch?v=yYAgENws9Kg"
     },
     {
       "date": "2026-07-27",
       "channel": "뷰포인트",
       "title": "무대 밖에선 딴사람, 다국어 능통 스타 TOP7",
-      "views": 110,
+      "views": 205,
       "url": "https://www.youtube.com/watch?v=JZrM1qHS0_Q"
     },
     {
       "date": "2026-07-22",
       "channel": "뷰포인트",
       "title": "남주혁이 등장하자 외국인들이 \"데몬 슬레이어!\"를 외친 이유 | 동궁(The East Palace) 1화 해외반응",
-      "views": 99,
+      "views": 101,
       "url": "https://www.youtube.com/watch?v=Iftxg3QlboI"
     },
     {
@@ -843,28 +1034,28 @@ window.DATA = {
       "date": "2026-07-06",
       "channel": "해외반응픽",
       "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-      "views": 6703,
+      "views": 6712,
       "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
     },
     {
       "date": "2026-07-07",
       "channel": "해외반응픽",
       "title": "\"이건 사람이 아니다…\" 소지섭 '김부장' 4화 본 외국인들 충격에 말 잃은 이유 (실시간 해외반응)",
-      "views": 6553,
+      "views": 6564,
       "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
     },
     {
       "date": "2026-07-18",
       "channel": "해외반응픽",
       "title": "이순신 3부작 완주한 외국인들… 마지막 북소리에 결국 말을 잃었다",
-      "views": 5412,
+      "views": 5457,
       "url": "https://www.youtube.com/watch?v=pkKZKPZy0TQ"
     },
     {
       "date": "2026-07-21",
       "channel": "해외반응픽",
       "title": "\"좀비 영화인 줄 알았는데…\" 부산행 마지막 10분에 외국인들이 오열한 이유 | 해외반응",
-      "views": 2730,
+      "views": 2799,
       "url": "https://www.youtube.com/watch?v=qu9a6ras9XA"
     },
     {
@@ -878,7 +1069,7 @@ window.DATA = {
       "date": "2026-07-17",
       "channel": "해외반응픽",
       "title": "\"관을 열지 말았어야 했다\"… 외국인 6명이 파묘를 보고 마지막에 남긴 한마디",
-      "views": 1770,
+      "views": 1772,
       "url": "https://www.youtube.com/watch?v=VANRJLTVGJc"
     },
     {
@@ -892,14 +1083,14 @@ window.DATA = {
       "date": "2026-07-10",
       "channel": "해외반응픽",
       "title": "타짜4 개봉 전 다시 보는 원작, 일본·미국·우크라이나 리뷰어들이 '밑장 빼기'에서 무너진 순간들 [이야기 순서 실시간 해외반응]",
-      "views": 2691,
+      "views": 2693,
       "url": "https://www.youtube.com/watch?v=XT4k2TLKC70"
     },
     {
       "date": "2026-07-14",
       "channel": "코리아리뷰",
       "title": "손예진이 파라글라이딩하다 북한에 떨어졌다 — 첫 화부터 이 남자를 본 외국인들 반응 [사랑의 불시착 1·2화 실시간 리뷰]",
-      "views": 1117,
+      "views": 1120,
       "url": "https://www.youtube.com/watch?v=zXjhmKz_FDE"
     },
     {
