@@ -8,49 +8,56 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 38000,
       "sampled": 20,
-      "avg_views": 40932,
-      "median_views": 25411,
+      "avg_views": 40716,
+      "median_views": 25570,
       "uploads_30d": 20,
-      "views_30d": 818658,
-      "shorts_ratio": 0.2,
+      "views_30d": 814333,
+      "shorts_ratio": 0.15,
       "top_videos": [
         {
           "title": "우린 은퇴할 나이인데 무대 위 원로가수 TOP7",
-          "views": 129281,
+          "views": 129336,
           "date": "2026-07-28",
           "duration": 70,
           "url": "https://www.youtube.com/watch?v=pghaeNG2wJ8"
         },
         {
           "title": "요즘 1년이면 바뀌는데… 최장수 MC TOP7",
-          "views": 111507,
+          "views": 111560,
           "date": "2026-07-30",
           "duration": 65,
           "url": "https://www.youtube.com/watch?v=tyRZjcPTiSU"
         },
         {
           "title": "부모님 용돈도 빠듯한데 90억 집 사드린 효도스타 TOP7",
-          "views": 104948,
+          "views": 107131,
           "date": "2026-08-01",
           "duration": 86,
           "url": "https://www.youtube.com/watch?v=ZEsZeEsNcRE"
         },
         {
           "title": "미스터트롯 스타들의 반전 과거 TOP7, 1위는 격투기 챔피언이었습니다",
-          "views": 90258,
+          "views": 92022,
           "date": "2026-08-01",
           "duration": 76,
           "url": "https://www.youtube.com/watch?v=Cjdv0t7uvVo"
         },
         {
           "title": "평생 만질까 말까 한 돈, 노래 한 곡에 받은 트로트 우승 상금 TOP7",
-          "views": 88318,
+          "views": 88827,
           "date": "2026-07-29",
           "duration": 96,
           "url": "https://www.youtube.com/watch?v=jEAHk96yTgw"
         }
       ],
       "recent_videos": [
+        {
+          "title": "평범한 집 한 채 값을 행사 며칠에 장윤정 돈 기록 TOP7",
+          "views": 842,
+          "date": "2026-08-04",
+          "duration": 84,
+          "url": "https://www.youtube.com/watch?v=T9YvH9JuEdw"
+        },
         {
           "title": "현금으로 질렀다는 빌딩값이 미쳐버린 스타 TOP7",
           "views": 1490,
@@ -74,7 +81,7 @@ window.DATA = {
         },
         {
           "title": "알고보니 부모가 왕년스타… 유명 2세 TOP7, 1위는 국민배우의 아버지였습니다",
-          "views": 5709,
+          "views": 5793,
           "date": "2026-08-03",
           "duration": 79,
           "url": "https://www.youtube.com/watch?v=t8qrpLipP-0"
@@ -88,41 +95,34 @@ window.DATA = {
         },
         {
           "title": "우린 평생 전세인데 방송서 집 자랑한 스타 TOP7",
-          "views": 30496,
+          "views": 30814,
           "date": "2026-08-02",
           "duration": 79,
           "url": "https://www.youtube.com/watch?v=e341GFYUJEU"
         },
         {
           "title": "미스터트롯 스타들의 반전 과거 TOP7, 1위는 격투기 챔피언이었습니다",
-          "views": 90258,
+          "views": 92022,
           "date": "2026-08-01",
           "duration": 76,
           "url": "https://www.youtube.com/watch?v=Cjdv0t7uvVo"
         },
         {
           "title": "부모님 용돈도 빠듯한데 90억 집 사드린 효도스타 TOP7",
-          "views": 104948,
+          "views": 107131,
           "date": "2026-08-01",
           "duration": 86,
           "url": "https://www.youtube.com/watch?v=ZEsZeEsNcRE"
         },
         {
           "title": "서민은 CD 한 장도 못 파는데 음반으로 억 소리 낸 트로트 가수 TOP7",
-          "views": 40164,
+          "views": 40468,
           "date": "2026-07-31",
           "duration": 96,
           "url": "https://www.youtube.com/watch?v=U_U1N5DYEhU"
-        },
-        {
-          "title": "노래방을 접수한 미스터트롯 애창곡 TOP7, 1위는 1억 뷰 그 노래였습니다",
-          "views": 66027,
-          "date": "2026-07-31",
-          "duration": 79,
-          "url": "https://www.youtube.com/watch?v=aNWF70jUGS0"
         }
       ],
-      "analyzed_at": "2026-08-04 19:50",
+      "analyzed_at": "2026-08-04 20:53",
       "subs_delta": 400
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 72800,
       "sampled": 20,
-      "avg_views": 1365,
-      "median_views": 1289,
+      "avg_views": 1317,
+      "median_views": 1268,
       "uploads_30d": 20,
-      "views_30d": 27308,
-      "shorts_ratio": 0.45,
+      "views_30d": 26351,
+      "shorts_ratio": 0.4,
       "top_videos": [
         {
           "title": "1년에 딱 한 명 가수왕… 싹쓸이한 원로 TOP7",
-          "views": 3530,
+          "views": 3563,
           "date": "2026-08-02",
           "duration": 107,
           "url": "https://www.youtube.com/watch?v=0eOPRBl_oCw"
@@ -150,13 +150,6 @@ window.DATA = {
           "date": "2026-07-24",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=EwE2vqDgI50"
-        },
-        {
-          "title": "트로트 가수 설운도, 당신이 몰랐던 사실 3가지",
-          "views": 1619,
-          "date": "2026-07-23",
-          "duration": 32,
-          "url": "https://www.youtube.com/watch?v=K-YTEcfOWHY"
         },
         {
           "title": "시상식 휩쓴 연기대상 최다 수상 배우 TOP7",
@@ -171,9 +164,23 @@ window.DATA = {
           "date": "2026-07-25",
           "duration": 46,
           "url": "https://www.youtube.com/watch?v=QftnVSpjRpo"
+        },
+        {
+          "title": "트로트의 여왕 이미자, 당신이 몰랐던 사실 3가지",
+          "views": 1458,
+          "date": "2026-07-24",
+          "duration": 33,
+          "url": "https://www.youtube.com/watch?v=LTIoj6EpWrg"
         }
       ],
       "recent_videos": [
+        {
+          "title": "한 시대를 주름잡은 원로 남가수 TOP7",
+          "views": 627,
+          "date": "2026-08-04",
+          "duration": 97,
+          "url": "https://www.youtube.com/watch?v=sS6W9GRf3fs"
+        },
         {
           "title": "한 시대를 주름잡은 원로 여가수 TOP7",
           "views": 999,
@@ -183,7 +190,7 @@ window.DATA = {
         },
         {
           "title": "1년에 딱 한 명 가수왕… 싹쓸이한 원로 TOP7",
-          "views": 3530,
+          "views": 3563,
           "date": "2026-08-02",
           "duration": 107,
           "url": "https://www.youtube.com/watch?v=0eOPRBl_oCw"
@@ -204,7 +211,7 @@ window.DATA = {
         },
         {
           "title": "자식 직업 미쳐버린 원로 스타 TOP7",
-          "views": 1109,
+          "views": 1111,
           "date": "2026-08-01",
           "duration": 88,
           "url": "https://www.youtube.com/watch?v=tLSfBW0UtWc"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-07-29",
           "duration": 101,
           "url": "https://www.youtube.com/watch?v=-lmzYmCJ518"
-        },
-        {
-          "title": "박봉 아나운서에서 대박 몸값 폭등 방송인 TOP7",
-          "views": 1162,
-          "date": "2026-07-29",
-          "duration": 90,
-          "url": "https://www.youtube.com/watch?v=IaPt58Bi5x0"
         }
       ],
-      "analyzed_at": "2026-08-04 19:50",
+      "analyzed_at": "2026-08-04 20:53",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 1940,
       "sampled": 20,
-      "avg_views": 14312,
-      "median_views": 1132,
+      "avg_views": 12885,
+      "median_views": 964,
       "uploads_30d": 20,
-      "views_30d": 286247,
+      "views_30d": 257717,
       "shorts_ratio": 0.35,
       "top_videos": [
         {
@@ -276,27 +276,34 @@ window.DATA = {
         },
         {
           "title": "K-팝은 안 통한다더니… 빌보드 뚫은 K-팝 TOP7",
-          "views": 39164,
+          "views": 39459,
           "date": "2026-08-02",
           "duration": 85,
           "url": "https://www.youtube.com/watch?v=UDKsu2gHkN8"
         },
         {
-          "title": "위기의 순간 용기 낸 의인 스타 TOP7, 1위는 동료를 살린 그 두 사람이었습니다",
-          "views": 29672,
-          "date": "2026-07-23",
-          "duration": 74,
-          "url": "https://www.youtube.com/watch?v=Rlh6mwCn-f4"
-        },
-        {
           "title": "하루아침에 뜬 게 아니다, 무명 세월 오래 버틴 트롯가수 TOP7",
-          "views": 22174,
+          "views": 22384,
           "date": "2026-07-30",
           "duration": 92,
           "url": "https://www.youtube.com/watch?v=4rojZjDFNQY"
+        },
+        {
+          "title": "무명 끝에 인생 뒤집은 배우 TOP7",
+          "views": 18959,
+          "date": "2026-07-25",
+          "duration": 45,
+          "url": "https://www.youtube.com/watch?v=MA0mHRqGVEM"
         }
       ],
       "recent_videos": [
+        {
+          "title": "세계가 무릎꿇은 한국 감독 TOP7",
+          "views": 551,
+          "date": "2026-08-04",
+          "duration": 103,
+          "url": "https://www.youtube.com/watch?v=ZL6ED4nm8qQ"
+        },
         {
           "title": "세계가 무릎꿇은 한국 배우 TOP7",
           "views": 781,
@@ -306,14 +313,14 @@ window.DATA = {
         },
         {
           "title": "야구장 들썩이게 한 KBO 통산 홈런 TOP7",
-          "views": 1106,
+          "views": 1148,
           "date": "2026-08-02",
           "duration": 97,
           "url": "https://www.youtube.com/watch?v=8f7ht5soSEg"
         },
         {
           "title": "K-팝은 안 통한다더니… 빌보드 뚫은 K-팝 TOP7",
-          "views": 39164,
+          "views": 39459,
           "date": "2026-08-02",
           "duration": 85,
           "url": "https://www.youtube.com/watch?v=UDKsu2gHkN8"
@@ -327,7 +334,7 @@ window.DATA = {
         },
         {
           "title": "거리가 텅 비던 그 시절… 국민 드라마 TOP7",
-          "views": 6062,
+          "views": 6104,
           "date": "2026-08-01",
           "duration": 102,
           "url": "https://www.youtube.com/watch?v=9ISqpVBxwYs"
@@ -341,7 +348,7 @@ window.DATA = {
         },
         {
           "title": "투표 너머 진짜 점수, 미스터트롯2 결승 최종점수 TOP7",
-          "views": 1159,
+          "views": 1161,
           "date": "2026-07-31",
           "duration": 95,
           "url": "https://www.youtube.com/watch?v=ingwzBKchPk"
@@ -355,37 +362,30 @@ window.DATA = {
         },
         {
           "title": "하루아침에 뜬 게 아니다, 무명 세월 오래 버틴 트롯가수 TOP7",
-          "views": 22174,
+          "views": 22384,
           "date": "2026-07-30",
           "duration": 92,
           "url": "https://www.youtube.com/watch?v=4rojZjDFNQY"
-        },
-        {
-          "title": "유튜브 개그맨 TOP7",
-          "views": 2500,
-          "date": "2026-07-29",
-          "duration": 75,
-          "url": "https://www.youtube.com/watch?v=uma-qdn4hgw"
         }
       ],
-      "analyzed_at": "2026-08-04 19:51",
+      "analyzed_at": "2026-08-04 20:54",
       "subs_delta": 20
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
       "name": "뷰포인트",
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
-      "subscribers": 128,
+      "subscribers": 130,
       "sampled": 20,
-      "avg_views": 4315,
+      "avg_views": 3809,
       "median_views": 204,
       "uploads_30d": 20,
-      "views_30d": 86315,
+      "views_30d": 76189,
       "shorts_ratio": 0.1,
       "top_videos": [
         {
           "title": "해체한 줄 알았는데 지금도 돈방석에 앉은 1세대 아이돌 TOP7",
-          "views": 34249,
+          "views": 34279,
           "date": "2026-07-29",
           "duration": 90,
           "url": "https://www.youtube.com/watch?v=9VooeMttndw"
@@ -398,13 +398,6 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=JZrM1qHS0_Q"
         },
         {
-          "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-          "views": 11258,
-          "date": "2026-07-11",
-          "duration": 1687,
-          "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
-        },
-        {
           "title": "본업보다 사업으로 더 대박 난 스타 TOP7 (1위는 반전)",
           "views": 9433,
           "date": "2026-07-28",
@@ -413,16 +406,30 @@ window.DATA = {
         },
         {
           "title": "TV보다 유튜브가 더 난리, 미스터트롯 무대 조회수 TOP7",
-          "views": 6294,
+          "views": 6330,
           "date": "2026-07-31",
           "duration": 92,
           "url": "https://www.youtube.com/watch?v=uXkCx5yepw4"
+        },
+        {
+          "title": "월급쟁이는 평생 못 벌 건물 팔아 돈벼락 스타 TOP7",
+          "views": 3348,
+          "date": "2026-08-04",
+          "duration": 114,
+          "url": "https://www.youtube.com/watch?v=9NkTIcyN40M"
         }
       ],
       "recent_videos": [
         {
+          "title": "직장인은 평생 못 버는 임영웅 돈벼락 기록 TOP7",
+          "views": 732,
+          "date": "2026-08-04",
+          "duration": 88,
+          "url": "https://www.youtube.com/watch?v=zPDh8jOLPaI"
+        },
+        {
           "title": "월급쟁이는 평생 못 벌 건물 팔아 돈벼락 스타 TOP7",
-          "views": 3018,
+          "views": 3348,
           "date": "2026-08-04",
           "duration": 114,
           "url": "https://www.youtube.com/watch?v=9NkTIcyN40M"
@@ -443,21 +450,21 @@ window.DATA = {
         },
         {
           "title": "골프채 한번 못 쥐는데… 수백억 번 여자골퍼 TOP7",
-          "views": 30,
+          "views": 31,
           "date": "2026-07-31",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=Fo2jtqLFgJE"
         },
         {
           "title": "TV보다 유튜브가 더 난리, 미스터트롯 무대 조회수 TOP7",
-          "views": 6294,
+          "views": 6330,
           "date": "2026-07-31",
           "duration": 92,
           "url": "https://www.youtube.com/watch?v=uXkCx5yepw4"
         },
         {
           "title": "월급쟁이 평생 못 벌 돈… 해외 축구스타 TOP7",
-          "views": 30,
+          "views": 31,
           "date": "2026-07-30",
           "duration": 65,
           "url": "https://www.youtube.com/watch?v=bpJByoILXSE"
@@ -471,39 +478,32 @@ window.DATA = {
         },
         {
           "title": "만점에 딱 10점 모자랐다, 미스터트롯3 결승 종합점수 TOP7",
-          "views": 33,
+          "views": 34,
           "date": "2026-07-29",
           "duration": 96,
           "url": "https://www.youtube.com/watch?v=v6qafZ2wYmY"
         },
         {
           "title": "해체한 줄 알았는데 지금도 돈방석에 앉은 1세대 아이돌 TOP7",
-          "views": 34249,
+          "views": 34279,
           "date": "2026-07-29",
           "duration": 90,
           "url": "https://www.youtube.com/watch?v=9VooeMttndw"
-        },
-        {
-          "title": "월급으론 못 사는 슈퍼카 오너 TOP7",
-          "views": 31,
-          "date": "2026-07-28",
-          "duration": 73,
-          "url": "https://www.youtube.com/watch?v=Y9lmQYIpyXU"
         }
       ],
-      "analyzed_at": "2026-08-04 19:52",
-      "subs_delta": 13
+      "analyzed_at": "2026-08-04 20:55",
+      "subs_delta": 15
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
       "name": "해외반응픽",
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
-      "subscribers": 159,
+      "subscribers": 160,
       "sampled": 18,
-      "avg_views": 5245,
+      "avg_views": 5246,
       "median_views": 2399,
       "uploads_30d": 11,
-      "views_30d": 87436,
+      "views_30d": 87445,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -515,14 +515,14 @@ window.DATA = {
         },
         {
           "title": "12척으로 330척을 막았다는 말에 외국인들이 소름 돋은 순간 — 영화 명량 해외 리뷰어 실시간 반응",
-          "views": 20398,
+          "views": 20404,
           "date": "2026-07-15",
           "duration": 1585,
           "url": "https://www.youtube.com/watch?v=tE80jFMi8Oc"
         },
         {
           "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-          "views": 7099,
+          "views": 7102,
           "date": "2026-07-06",
           "duration": 539,
           "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
@@ -580,7 +580,7 @@ window.DATA = {
         },
         {
           "title": "12척으로 330척을 막았다는 말에 외국인들이 소름 돋은 순간 — 영화 명량 해외 리뷰어 실시간 반응",
-          "views": 20398,
+          "views": 20404,
           "date": "2026-07-15",
           "duration": 1585,
           "url": "https://www.youtube.com/watch?v=tE80jFMi8Oc"
@@ -614,8 +614,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Su7H-rgpnK4"
         }
       ],
-      "analyzed_at": "2026-08-04 19:52",
-      "subs_delta": 0
+      "analyzed_at": "2026-08-04 20:56",
+      "subs_delta": 1
     },
     {
       "url": "https://www.youtube.com/channel/UChq2TqKlpNlWpHpDRMwyCeQ",
@@ -623,15 +623,15 @@ window.DATA = {
       "channel_id": "UChq2TqKlpNlWpHpDRMwyCeQ",
       "subscribers": 7,
       "sampled": 4,
-      "avg_views": 675,
+      "avg_views": 676,
       "median_views": 428,
       "uploads_30d": 4,
-      "views_30d": 2702,
+      "views_30d": 2707,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "손예진이 파라글라이딩하다 북한에 떨어졌다 — 첫 화부터 이 남자를 본 외국인들 반응 [사랑의 불시착 1·2화 실시간 리뷰]",
-          "views": 1641,
+          "views": 1646,
           "date": "2026-07-14",
           "duration": 2235,
           "url": "https://www.youtube.com/watch?v=zXjhmKz_FDE"
@@ -682,52 +682,59 @@ window.DATA = {
         },
         {
           "title": "손예진이 파라글라이딩하다 북한에 떨어졌다 — 첫 화부터 이 남자를 본 외국인들 반응 [사랑의 불시착 1·2화 실시간 리뷰]",
-          "views": 1641,
+          "views": 1646,
           "date": "2026-07-14",
           "duration": 2235,
           "url": "https://www.youtube.com/watch?v=zXjhmKz_FDE"
         }
       ],
-      "analyzed_at": "2026-08-04 19:52",
+      "analyzed_at": "2026-08-04 20:56",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-08-04 19:50",
+  "generated_at": "2026-08-04 20:53",
   "videos": [
     {
       "date": "2026-07-28",
       "channel": "숏츠시작",
       "title": "우린 은퇴할 나이인데 무대 위 원로가수 TOP7",
-      "views": 129281,
+      "views": 129336,
       "url": "https://www.youtube.com/watch?v=pghaeNG2wJ8"
     },
     {
       "date": "2026-07-30",
       "channel": "숏츠시작",
       "title": "요즘 1년이면 바뀌는데… 최장수 MC TOP7",
-      "views": 111507,
+      "views": 111560,
       "url": "https://www.youtube.com/watch?v=tyRZjcPTiSU"
     },
     {
       "date": "2026-08-01",
       "channel": "숏츠시작",
       "title": "부모님 용돈도 빠듯한데 90억 집 사드린 효도스타 TOP7",
-      "views": 104948,
+      "views": 107131,
       "url": "https://www.youtube.com/watch?v=ZEsZeEsNcRE"
     },
     {
       "date": "2026-08-01",
       "channel": "숏츠시작",
       "title": "미스터트롯 스타들의 반전 과거 TOP7, 1위는 격투기 챔피언이었습니다",
-      "views": 90258,
+      "views": 92022,
       "url": "https://www.youtube.com/watch?v=Cjdv0t7uvVo"
     },
     {
       "date": "2026-07-29",
       "channel": "숏츠시작",
       "title": "평생 만질까 말까 한 돈, 노래 한 곡에 받은 트로트 우승 상금 TOP7",
-      "views": 88318,
+      "views": 88827,
       "url": "https://www.youtube.com/watch?v=jEAHk96yTgw"
+    },
+    {
+      "date": "2026-08-04",
+      "channel": "숏츠시작",
+      "title": "평범한 집 한 채 값을 행사 며칠에 장윤정 돈 기록 TOP7",
+      "views": 842,
+      "url": "https://www.youtube.com/watch?v=T9YvH9JuEdw"
     },
     {
       "date": "2026-08-04",
@@ -754,7 +761,7 @@ window.DATA = {
       "date": "2026-08-03",
       "channel": "숏츠시작",
       "title": "알고보니 부모가 왕년스타… 유명 2세 TOP7, 1위는 국민배우의 아버지였습니다",
-      "views": 5709,
+      "views": 5793,
       "url": "https://www.youtube.com/watch?v=t8qrpLipP-0"
     },
     {
@@ -768,28 +775,21 @@ window.DATA = {
       "date": "2026-08-02",
       "channel": "숏츠시작",
       "title": "우린 평생 전세인데 방송서 집 자랑한 스타 TOP7",
-      "views": 30496,
+      "views": 30814,
       "url": "https://www.youtube.com/watch?v=e341GFYUJEU"
     },
     {
       "date": "2026-07-31",
       "channel": "숏츠시작",
       "title": "서민은 CD 한 장도 못 파는데 음반으로 억 소리 낸 트로트 가수 TOP7",
-      "views": 40164,
+      "views": 40468,
       "url": "https://www.youtube.com/watch?v=U_U1N5DYEhU"
-    },
-    {
-      "date": "2026-07-31",
-      "channel": "숏츠시작",
-      "title": "노래방을 접수한 미스터트롯 애창곡 TOP7, 1위는 1억 뷰 그 노래였습니다",
-      "views": 66027,
-      "url": "https://www.youtube.com/watch?v=aNWF70jUGS0"
     },
     {
       "date": "2026-08-02",
       "channel": "연예소식통",
       "title": "1년에 딱 한 명 가수왕… 싹쓸이한 원로 TOP7",
-      "views": 3530,
+      "views": 3563,
       "url": "https://www.youtube.com/watch?v=0eOPRBl_oCw"
     },
     {
@@ -798,13 +798,6 @@ window.DATA = {
       "title": "진해성, 당신이 몰랐던 돈과 반전 사실 3가지",
       "views": 1688,
       "url": "https://www.youtube.com/watch?v=EwE2vqDgI50"
-    },
-    {
-      "date": "2026-07-23",
-      "channel": "연예소식통",
-      "title": "트로트 가수 설운도, 당신이 몰랐던 사실 3가지",
-      "views": 1619,
-      "url": "https://www.youtube.com/watch?v=K-YTEcfOWHY"
     },
     {
       "date": "2026-07-28",
@@ -819,6 +812,20 @@ window.DATA = {
       "title": "안정된 직장 사표 던지고 대박 난 스타 TOP7",
       "views": 1511,
       "url": "https://www.youtube.com/watch?v=QftnVSpjRpo"
+    },
+    {
+      "date": "2026-07-24",
+      "channel": "연예소식통",
+      "title": "트로트의 여왕 이미자, 당신이 몰랐던 사실 3가지",
+      "views": 1458,
+      "url": "https://www.youtube.com/watch?v=LTIoj6EpWrg"
+    },
+    {
+      "date": "2026-08-04",
+      "channel": "연예소식통",
+      "title": "한 시대를 주름잡은 원로 남가수 TOP7",
+      "views": 627,
+      "url": "https://www.youtube.com/watch?v=sS6W9GRf3fs"
     },
     {
       "date": "2026-08-04",
@@ -845,7 +852,7 @@ window.DATA = {
       "date": "2026-08-01",
       "channel": "연예소식통",
       "title": "자식 직업 미쳐버린 원로 스타 TOP7",
-      "views": 1109,
+      "views": 1111,
       "url": "https://www.youtube.com/watch?v=tLSfBW0UtWc"
     },
     {
@@ -877,13 +884,6 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=-lmzYmCJ518"
     },
     {
-      "date": "2026-07-29",
-      "channel": "연예소식통",
-      "title": "박봉 아나운서에서 대박 몸값 폭등 방송인 TOP7",
-      "views": 1162,
-      "url": "https://www.youtube.com/watch?v=IaPt58Bi5x0"
-    },
-    {
       "date": "2026-07-24",
       "channel": "이슈브리핑",
       "title": "오디션으로 인생 뒤집은 트롯 스타 TOP7 — 1위 상금 5억",
@@ -901,22 +901,29 @@ window.DATA = {
       "date": "2026-08-02",
       "channel": "이슈브리핑",
       "title": "K-팝은 안 통한다더니… 빌보드 뚫은 K-팝 TOP7",
-      "views": 39164,
+      "views": 39459,
       "url": "https://www.youtube.com/watch?v=UDKsu2gHkN8"
-    },
-    {
-      "date": "2026-07-23",
-      "channel": "이슈브리핑",
-      "title": "위기의 순간 용기 낸 의인 스타 TOP7, 1위는 동료를 살린 그 두 사람이었습니다",
-      "views": 29672,
-      "url": "https://www.youtube.com/watch?v=Rlh6mwCn-f4"
     },
     {
       "date": "2026-07-30",
       "channel": "이슈브리핑",
       "title": "하루아침에 뜬 게 아니다, 무명 세월 오래 버틴 트롯가수 TOP7",
-      "views": 22174,
+      "views": 22384,
       "url": "https://www.youtube.com/watch?v=4rojZjDFNQY"
+    },
+    {
+      "date": "2026-07-25",
+      "channel": "이슈브리핑",
+      "title": "무명 끝에 인생 뒤집은 배우 TOP7",
+      "views": 18959,
+      "url": "https://www.youtube.com/watch?v=MA0mHRqGVEM"
+    },
+    {
+      "date": "2026-08-04",
+      "channel": "이슈브리핑",
+      "title": "세계가 무릎꿇은 한국 감독 TOP7",
+      "views": 551,
+      "url": "https://www.youtube.com/watch?v=ZL6ED4nm8qQ"
     },
     {
       "date": "2026-08-04",
@@ -929,7 +936,7 @@ window.DATA = {
       "date": "2026-08-02",
       "channel": "이슈브리핑",
       "title": "야구장 들썩이게 한 KBO 통산 홈런 TOP7",
-      "views": 1106,
+      "views": 1148,
       "url": "https://www.youtube.com/watch?v=8f7ht5soSEg"
     },
     {
@@ -943,7 +950,7 @@ window.DATA = {
       "date": "2026-08-01",
       "channel": "이슈브리핑",
       "title": "거리가 텅 비던 그 시절… 국민 드라마 TOP7",
-      "views": 6062,
+      "views": 6104,
       "url": "https://www.youtube.com/watch?v=9ISqpVBxwYs"
     },
     {
@@ -957,7 +964,7 @@ window.DATA = {
       "date": "2026-07-31",
       "channel": "이슈브리핑",
       "title": "투표 너머 진짜 점수, 미스터트롯2 결승 최종점수 TOP7",
-      "views": 1159,
+      "views": 1161,
       "url": "https://www.youtube.com/watch?v=ingwzBKchPk"
     },
     {
@@ -969,16 +976,9 @@ window.DATA = {
     },
     {
       "date": "2026-07-29",
-      "channel": "이슈브리핑",
-      "title": "유튜브 개그맨 TOP7",
-      "views": 2500,
-      "url": "https://www.youtube.com/watch?v=uma-qdn4hgw"
-    },
-    {
-      "date": "2026-07-29",
       "channel": "뷰포인트",
       "title": "해체한 줄 알았는데 지금도 돈방석에 앉은 1세대 아이돌 TOP7",
-      "views": 34249,
+      "views": 34279,
       "url": "https://www.youtube.com/watch?v=9VooeMttndw"
     },
     {
@@ -987,13 +987,6 @@ window.DATA = {
       "title": "무대 밖에선 딴사람, 다국어 능통 스타 TOP7",
       "views": 16801,
       "url": "https://www.youtube.com/watch?v=JZrM1qHS0_Q"
-    },
-    {
-      "date": "2026-07-11",
-      "channel": "뷰포인트",
-      "title": "소지섭 액션 미쳤다는데… 외국인이 '김부장' 1~5화 몰아보다 결국 5화에서 무너졌다 [스토리 순서 실시간 해외반응]",
-      "views": 11258,
-      "url": "https://www.youtube.com/watch?v=LxzfMyMLnYc"
     },
     {
       "date": "2026-07-28",
@@ -1006,15 +999,22 @@ window.DATA = {
       "date": "2026-07-31",
       "channel": "뷰포인트",
       "title": "TV보다 유튜브가 더 난리, 미스터트롯 무대 조회수 TOP7",
-      "views": 6294,
+      "views": 6330,
       "url": "https://www.youtube.com/watch?v=uXkCx5yepw4"
     },
     {
       "date": "2026-08-04",
       "channel": "뷰포인트",
       "title": "월급쟁이는 평생 못 벌 건물 팔아 돈벼락 스타 TOP7",
-      "views": 3018,
+      "views": 3348,
       "url": "https://www.youtube.com/watch?v=9NkTIcyN40M"
+    },
+    {
+      "date": "2026-08-04",
+      "channel": "뷰포인트",
+      "title": "직장인은 평생 못 버는 임영웅 돈벼락 기록 TOP7",
+      "views": 732,
+      "url": "https://www.youtube.com/watch?v=zPDh8jOLPaI"
     },
     {
       "date": "2026-08-01",
@@ -1034,14 +1034,14 @@ window.DATA = {
       "date": "2026-07-31",
       "channel": "뷰포인트",
       "title": "골프채 한번 못 쥐는데… 수백억 번 여자골퍼 TOP7",
-      "views": 30,
+      "views": 31,
       "url": "https://www.youtube.com/watch?v=Fo2jtqLFgJE"
     },
     {
       "date": "2026-07-30",
       "channel": "뷰포인트",
       "title": "월급쟁이 평생 못 벌 돈… 해외 축구스타 TOP7",
-      "views": 30,
+      "views": 31,
       "url": "https://www.youtube.com/watch?v=bpJByoILXSE"
     },
     {
@@ -1055,15 +1055,8 @@ window.DATA = {
       "date": "2026-07-29",
       "channel": "뷰포인트",
       "title": "만점에 딱 10점 모자랐다, 미스터트롯3 결승 종합점수 TOP7",
-      "views": 33,
+      "views": 34,
       "url": "https://www.youtube.com/watch?v=v6qafZ2wYmY"
-    },
-    {
-      "date": "2026-07-28",
-      "channel": "뷰포인트",
-      "title": "월급으론 못 사는 슈퍼카 오너 TOP7",
-      "views": 31,
-      "url": "https://www.youtube.com/watch?v=Y9lmQYIpyXU"
     },
     {
       "date": "2026-07-09",
@@ -1076,14 +1069,14 @@ window.DATA = {
       "date": "2026-07-15",
       "channel": "해외반응픽",
       "title": "12척으로 330척을 막았다는 말에 외국인들이 소름 돋은 순간 — 영화 명량 해외 리뷰어 실시간 반응",
-      "views": 20398,
+      "views": 20404,
       "url": "https://www.youtube.com/watch?v=tE80jFMi8Oc"
     },
     {
       "date": "2026-07-06",
       "channel": "해외반응픽",
       "title": "\"무릎 꿇던 그 부장님이 안경을 벗자…\" 외국인이 소리 지른 이유 (소지섭 '김부장')",
-      "views": 7099,
+      "views": 7102,
       "url": "https://www.youtube.com/watch?v=-CZkimhIJsc"
     },
     {
@@ -1146,7 +1139,7 @@ window.DATA = {
       "date": "2026-07-14",
       "channel": "코리아리뷰",
       "title": "손예진이 파라글라이딩하다 북한에 떨어졌다 — 첫 화부터 이 남자를 본 외국인들 반응 [사랑의 불시착 1·2화 실시간 리뷰]",
-      "views": 1641,
+      "views": 1646,
       "url": "https://www.youtube.com/watch?v=zXjhmKz_FDE"
     },
     {
