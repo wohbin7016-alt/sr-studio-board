@@ -367,17 +367,11 @@
       UI.barChart(cv, upLabels, upVals, { label: '업로드 수' });
     }));
 
-    var effLabels = chs.map(function (c) { return c.name; });
-    var effVals = chs.map(function (c) {
-      var subs = Math.max(typeof c.subscribers === 'number' ? c.subscribers : 1, 1);
-      return Math.round((num(c.views_30d) / subs) * 100);
-    });
-    var effCard = chartCard('구독자 대비 30일 조회 효율', function (cv) {
-      UI.barChart(cv, effLabels, effVals, { label: '효율(%)' });
-    });
-    var cap = el('div', 'muted chart-caption', '효율 = 30일 조회수 ÷ 구독자 (왜그럴까처럼 구독자 적은 채널은 수치가 크게 튈 수 있음)');
-    effCard.appendChild(cap);
-    grid2.appendChild(effCard);
+    var avgLabels = chs.map(function (c) { return c.name; });
+    var avgVals = chs.map(function (c) { return num(c.avg_views); });
+    grid2.appendChild(chartCard('채널별 평균 조회수', function (cv) {
+      UI.barChart(cv, avgLabels, avgVals, { label: '평균 조회수' });
+    }));
 
     root.appendChild(grid2);
   }
