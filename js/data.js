@@ -123,7 +123,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-08-11 23:27",
-      "subs_delta": 100
+      "subs_delta": 0
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -246,7 +246,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-08-11 23:28",
-      "subs_delta": 100
+      "subs_delta": 0
     },
     {
       "url": "https://youtube.com/channel/UC29M9AGVR19NtIrAHsjx-XA",
@@ -369,7 +369,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-08-11 23:28",
-      "subs_delta": 40
+      "subs_delta": 0
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
@@ -492,7 +492,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-08-11 23:29",
-      "subs_delta": 340
+      "subs_delta": 0
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
@@ -615,7 +615,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-08-11 23:29",
-      "subs_delta": 6
+      "subs_delta": 0
     },
     {
       "url": "https://www.youtube.com/channel/UChq2TqKlpNlWpHpDRMwyCeQ",
