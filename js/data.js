@@ -8,29 +8,29 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 38900,
       "sampled": 20,
-      "avg_views": 63342,
-      "median_views": 36811,
+      "avg_views": 63367,
+      "median_views": 36905,
       "uploads_30d": 20,
-      "views_30d": 1266848,
+      "views_30d": 1267340,
       "shorts_ratio": 0.05,
       "top_videos": [
         {
           "title": "부모님 용돈도 빠듯한데 90억 집 사드린 효도스타 TOP7",
-          "views": 282300,
+          "views": 282433,
           "date": "2026-08-01",
           "duration": 86,
           "url": "https://www.youtube.com/watch?v=ZEsZeEsNcRE"
         },
         {
           "title": "미스터트롯 스타들의 반전 과거 TOP7, 1위는 격투기 챔피언이었습니다",
-          "views": 137365,
+          "views": 137423,
           "date": "2026-08-01",
           "duration": 76,
           "url": "https://www.youtube.com/watch?v=Cjdv0t7uvVo"
         },
         {
           "title": "우린 은퇴할 나이인데 무대 위 원로가수 TOP7",
-          "views": 132193,
+          "views": 132195,
           "date": "2026-07-28",
           "duration": 70,
           "url": "https://www.youtube.com/watch?v=pghaeNG2wJ8"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "광고 하나만 38년 최장수 전속모델 스타 TOP7",
-          "views": 19274,
+          "views": 19282,
           "date": "2026-08-06",
           "duration": 84,
           "url": "https://www.youtube.com/watch?v=aAhBljxyxpw"
@@ -74,14 +74,14 @@ window.DATA = {
         },
         {
           "title": "돈 있어도 못 구한다는 콘서트 티켓값 미쳐버린 가수 TOP7",
-          "views": 74552,
+          "views": 74617,
           "date": "2026-08-05",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=gddZurtEGOg"
         },
         {
           "title": "평범한 집 한 채 값을 행사 며칠에 장윤정 돈 기록 TOP7",
-          "views": 42393,
+          "views": 42581,
           "date": "2026-08-04",
           "duration": 84,
           "url": "https://www.youtube.com/watch?v=T9YvH9JuEdw"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=EwG1AvIsxIo"
         }
       ],
-      "analyzed_at": "2026-08-12 11:57",
+      "analyzed_at": "2026-08-12 13:00",
       "subs_delta": 0
     },
     {
@@ -131,12 +131,19 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 73000,
       "sampled": 20,
-      "avg_views": 1718,
-      "median_views": 1235,
+      "avg_views": 1773,
+      "median_views": 1231,
       "uploads_30d": 20,
-      "views_30d": 34373,
+      "views_30d": 35474,
       "shorts_ratio": 0.1,
       "top_videos": [
+        {
+          "title": "40년 전 명곡 다시 부른 박지현 커버 TOP7 (1위는 1982년 전설의 그 곡)",
+          "views": 7121,
+          "date": "2026-08-11",
+          "duration": 71,
+          "url": "https://www.youtube.com/watch?v=0fzZWHfWcio"
+        },
         {
           "title": "1년에 딱 한 명 가수왕… 싹쓸이한 원로 TOP7",
           "views": 6669,
@@ -145,35 +152,35 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=0eOPRBl_oCw"
         },
         {
-          "title": "40년 전 명곡 다시 부른 박지현 커버 TOP7 (1위는 1982년 전설의 그 곡)",
-          "views": 5540,
-          "date": "2026-08-11",
-          "duration": 71,
-          "url": "https://www.youtube.com/watch?v=0fzZWHfWcio"
-        },
-        {
           "title": "긴 무명 끝에 역전한 트로트 스타 장민호 레전드 기록 TOP7",
-          "views": 2188,
+          "views": 2327,
           "date": "2026-08-08",
           "duration": 59,
           "url": "https://www.youtube.com/watch?v=P_fHsx6sFhI"
         },
         {
           "title": "임영웅 유튜브 최다 조회 TOP7",
-          "views": 1673,
+          "views": 1676,
           "date": "2026-08-06",
           "duration": 68,
           "url": "https://www.youtube.com/watch?v=83sqJvjoO2o"
         },
         {
           "title": "시상식 휩쓴 연기대상 최다 수상 배우 TOP7",
-          "views": 1487,
+          "views": 1488,
           "date": "2026-08-10",
           "duration": 66,
           "url": "https://www.youtube.com/watch?v=Syu0Bzws5MA"
         }
       ],
       "recent_videos": [
+        {
+          "title": "무명 19년 버텼다… 마침내 국민가수가 된 TOP7",
+          "views": 669,
+          "date": "2026-08-12",
+          "duration": 69,
+          "url": "https://www.youtube.com/watch?v=7hNnR-LLstI"
+        },
         {
           "title": "자녀만 여섯, 대가족 이룬 다둥이 스타 TOP7",
           "views": 1332,
@@ -183,7 +190,7 @@ window.DATA = {
         },
         {
           "title": "40년 전 명곡 다시 부른 박지현 커버 TOP7 (1위는 1982년 전설의 그 곡)",
-          "views": 5540,
+          "views": 7121,
           "date": "2026-08-11",
           "duration": 71,
           "url": "https://www.youtube.com/watch?v=0fzZWHfWcio"
@@ -197,14 +204,14 @@ window.DATA = {
         },
         {
           "title": "시상식 휩쓴 연기대상 최다 수상 배우 TOP7",
-          "views": 1487,
+          "views": 1488,
           "date": "2026-08-10",
           "duration": 66,
           "url": "https://www.youtube.com/watch?v=Syu0Bzws5MA"
         },
         {
           "title": "긴 무명 끝에 역전한 트로트 스타 장민호 레전드 기록 TOP7",
-          "views": 2188,
+          "views": 2327,
           "date": "2026-08-08",
           "duration": 59,
           "url": "https://www.youtube.com/watch?v=P_fHsx6sFhI"
@@ -225,7 +232,7 @@ window.DATA = {
         },
         {
           "title": "임영웅 유튜브 최다 조회 TOP7",
-          "views": 1673,
+          "views": 1676,
           "date": "2026-08-06",
           "duration": 68,
           "url": "https://www.youtube.com/watch?v=83sqJvjoO2o"
@@ -236,16 +243,9 @@ window.DATA = {
           "date": "2026-08-06",
           "duration": 67,
           "url": "https://www.youtube.com/watch?v=Li-uJ-A4fd0"
-        },
-        {
-          "title": "혼자 천만 영화만 네 편, 송강호 흥행작 관객수 TOP7",
-          "views": 1172,
-          "date": "2026-08-05",
-          "duration": 78,
-          "url": "https://www.youtube.com/watch?v=AECTtFt6V_M"
         }
       ],
-      "analyzed_at": "2026-08-12 11:57",
+      "analyzed_at": "2026-08-12 13:00",
       "subs_delta": 100
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 2600,
       "sampled": 20,
-      "avg_views": 22175,
-      "median_views": 3123,
+      "avg_views": 22230,
+      "median_views": 3219,
       "uploads_30d": 20,
-      "views_30d": 443508,
+      "views_30d": 444617,
       "shorts_ratio": 0.25,
       "top_videos": [
         {
@@ -269,14 +269,14 @@ window.DATA = {
         },
         {
           "title": "K-팝은 안 통한다더니… 빌보드 뚫은 K-팝 TOP7",
-          "views": 134129,
+          "views": 134187,
           "date": "2026-08-02",
           "duration": 85,
           "url": "https://www.youtube.com/watch?v=UDKsu2gHkN8"
         },
         {
           "title": "60년 마이크 잡은 나훈아 레전드 기록 TOP7",
-          "views": 49943,
+          "views": 50160,
           "date": "2026-08-08",
           "duration": 65,
           "url": "https://www.youtube.com/watch?v=_cBFNw4mWzM"
@@ -290,7 +290,7 @@ window.DATA = {
         },
         {
           "title": "60년을 무대에 산 남진 레전드 기록 TOP7",
-          "views": 18782,
+          "views": 18874,
           "date": "2026-08-09",
           "duration": 59,
           "url": "https://www.youtube.com/watch?v=rzZng8k27RA"
@@ -298,36 +298,43 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "100만 우습게 넘긴 박지현 커버 무대 조회수 TOP7 (1위는 약 153만)",
+          "views": 557,
+          "date": "2026-08-12",
+          "duration": 72,
+          "url": "https://www.youtube.com/watch?v=IvlTZ9O4IoA"
+        },
+        {
           "title": "데뷔 40년은 기본… 아직도 무대 서는 원로 현역가수 TOP7",
-          "views": 3005,
+          "views": 3105,
           "date": "2026-08-11",
           "duration": 59,
           "url": "https://www.youtube.com/watch?v=5ePtzPSB_N8"
         },
         {
           "title": "온 가족이 함께 봤던 사극 시청률 TOP7 (1위는 전 국민을 울린 국민 명의)",
-          "views": 7829,
+          "views": 7956,
           "date": "2026-08-10",
           "duration": 64,
           "url": "https://www.youtube.com/watch?v=y0MH9MUSaqM"
         },
         {
           "title": "주방에서 미쳐버린 셰프 경력 연차 TOP7",
-          "views": 3241,
+          "views": 3333,
           "date": "2026-08-10",
           "duration": 90,
           "url": "https://www.youtube.com/watch?v=3j1LN2CLAH8"
         },
         {
           "title": "60년을 무대에 산 남진 레전드 기록 TOP7",
-          "views": 18782,
+          "views": 18874,
           "date": "2026-08-09",
           "duration": 59,
           "url": "https://www.youtube.com/watch?v=rzZng8k27RA"
         },
         {
           "title": "60년 마이크 잡은 나훈아 레전드 기록 TOP7",
-          "views": 49943,
+          "views": 50160,
           "date": "2026-08-08",
           "duration": 65,
           "url": "https://www.youtube.com/watch?v=_cBFNw4mWzM"
@@ -341,14 +348,14 @@ window.DATA = {
         },
         {
           "title": "김갑수 사망작 시청률 TOP7",
-          "views": 1830,
+          "views": 1832,
           "date": "2026-08-07",
           "duration": 84,
           "url": "https://www.youtube.com/watch?v=HQRmvX_jzH0"
         },
         {
           "title": "황정민 흥행작 관객수 TOP7",
-          "views": 1970,
+          "views": 1971,
           "date": "2026-08-06",
           "duration": 84,
           "url": "https://www.youtube.com/watch?v=gVIefeNM9qo"
@@ -359,33 +366,26 @@ window.DATA = {
           "date": "2026-08-06",
           "duration": 63,
           "url": "https://www.youtube.com/watch?v=-SXoJx9yDWY"
-        },
-        {
-          "title": "한 직장도 못 버티는데 국민 진행자 TOP7",
-          "views": 2608,
-          "date": "2026-08-05",
-          "duration": 66,
-          "url": "https://www.youtube.com/watch?v=smwizPRHKaE"
         }
       ],
-      "analyzed_at": "2026-08-12 11:58",
+      "analyzed_at": "2026-08-12 13:01",
       "subs_delta": 10
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
       "name": "뷰포인트",
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
-      "subscribers": 1520,
+      "subscribers": 1530,
       "sampled": 20,
-      "avg_views": 16461,
-      "median_views": 8631,
+      "avg_views": 16533,
+      "median_views": 8737,
       "uploads_30d": 20,
-      "views_30d": 329232,
+      "views_30d": 330667,
       "shorts_ratio": 0.35,
       "top_videos": [
         {
           "title": "직장인은 평생 못 버는 임영웅 돈벼락 기록 TOP7",
-          "views": 61637,
+          "views": 61767,
           "date": "2026-08-04",
           "duration": 88,
           "url": "https://www.youtube.com/watch?v=zPDh8jOLPaI"
@@ -399,14 +399,14 @@ window.DATA = {
         },
         {
           "title": "1분 만에 700만 터진 박지현 무대 조회수 TOP7",
-          "views": 36258,
+          "views": 36368,
           "date": "2026-08-08",
           "duration": 53,
           "url": "https://www.youtube.com/watch?v=-xJOUgcd59Y"
         },
         {
           "title": "한국갤럽 2024 40대 이상 올해의 가수 TOP7",
-          "views": 35130,
+          "views": 35387,
           "date": "2026-08-10",
           "duration": 63,
           "url": "https://www.youtube.com/watch?v=-zUrO5TbhC8"
@@ -421,50 +421,57 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "일흔 넘어 아이 낳았다… 나이 차 큰 늦둥이 아빠 TOP7",
+          "views": 696,
+          "date": "2026-08-12",
+          "duration": 69,
+          "url": "https://www.youtube.com/watch?v=fSu6rQP9zOY"
+        },
+        {
           "title": "요즘 1위 한 번도 힘든데… 음악방송 1위 최다 국민가수 TOP7",
-          "views": 3503,
+          "views": 3732,
           "date": "2026-08-11",
           "duration": 65,
           "url": "https://www.youtube.com/watch?v=U-1zJO331rw"
         },
         {
           "title": "50만 터진 팬이 찍은 영상, 박지현 팬영상 조회수 TOP7 (1위는 목포 나이트클럽 직캠)",
-          "views": 17628,
+          "views": 18286,
           "date": "2026-08-11",
           "duration": 67,
           "url": "https://www.youtube.com/watch?v=jgM3HA8B3Nc"
         },
         {
           "title": "한국갤럽 2024 40대 이상 올해의 가수 TOP7",
-          "views": 35130,
+          "views": 35387,
           "date": "2026-08-10",
           "duration": 63,
           "url": "https://www.youtube.com/watch?v=-zUrO5TbhC8"
         },
         {
           "title": "무명 7년 끝에 전 국민 미치게 한 트로트 여왕 송가인 기록 TOP7",
-          "views": 10136,
+          "views": 10348,
           "date": "2026-08-09",
           "duration": 73,
           "url": "https://www.youtube.com/watch?v=Oob3nb89mZ4"
         },
         {
           "title": "국민 트로트 스타 영탁 레전드 기록 TOP7",
-          "views": 12747,
+          "views": 12846,
           "date": "2026-08-08",
           "duration": 79,
           "url": "https://www.youtube.com/watch?v=-tPxef8uRWE"
         },
         {
           "title": "1분 만에 700만 터진 박지현 무대 조회수 TOP7",
-          "views": 36258,
+          "views": 36368,
           "date": "2026-08-08",
           "duration": 53,
           "url": "https://www.youtube.com/watch?v=-xJOUgcd59Y"
         },
         {
           "title": "아파트 한 채가 190억 스타 아파트 TOP7",
-          "views": 32130,
+          "views": 32145,
           "date": "2026-08-07",
           "duration": 62,
           "url": "https://www.youtube.com/watch?v=JgYxUzRQ4as"
@@ -482,17 +489,10 @@ window.DATA = {
           "date": "2026-08-06",
           "duration": 62,
           "url": "https://www.youtube.com/watch?v=0iWO-omovdE"
-        },
-        {
-          "title": "대한민국 최장신 배우 TOP7",
-          "views": 22755,
-          "date": "2026-08-06",
-          "duration": 70,
-          "url": "https://www.youtube.com/watch?v=XWx4lcB2jng"
         }
       ],
-      "analyzed_at": "2026-08-12 11:58",
-      "subs_delta": 120
+      "analyzed_at": "2026-08-12 13:01",
+      "subs_delta": 130
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 229,
       "sampled": 19,
-      "avg_views": 6958,
+      "avg_views": 6963,
       "median_views": 3910,
       "uploads_30d": 7,
-      "views_30d": 76301,
+      "views_30d": 76407,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -515,14 +515,14 @@ window.DATA = {
         },
         {
           "title": "미국 의사가 한국 의학드라마를 세 번이나 돌려본 이유 [슬기로운 의사생활]",
-          "views": 30481,
+          "views": 30581,
           "date": "2026-08-04",
           "duration": 1179,
           "url": "https://www.youtube.com/watch?v=KSMNrmlhjgY"
         },
         {
           "title": "12척으로 330척을 막았다는 말에 외국인들이 소름 돋은 순간 — 영화 명량 해외 리뷰어 실시간 반응",
-          "views": 20755,
+          "views": 20759,
           "date": "2026-07-15",
           "duration": 1585,
           "url": "https://www.youtube.com/watch?v=tE80jFMi8Oc"
@@ -552,7 +552,7 @@ window.DATA = {
         },
         {
           "title": "미국 의사가 한국 의학드라마를 세 번이나 돌려본 이유 [슬기로운 의사생활]",
-          "views": 30481,
+          "views": 30581,
           "date": "2026-08-04",
           "duration": 1179,
           "url": "https://www.youtube.com/watch?v=KSMNrmlhjgY"
@@ -566,7 +566,7 @@ window.DATA = {
         },
         {
           "title": "\"좀비 영화인 줄 알았는데…\" 부산행 마지막 10분에 외국인들이 오열한 이유 | 해외반응",
-          "views": 4112,
+          "views": 4114,
           "date": "2026-07-21",
           "duration": 987,
           "url": "https://www.youtube.com/watch?v=qu9a6ras9XA"
@@ -587,7 +587,7 @@ window.DATA = {
         },
         {
           "title": "12척으로 330척을 막았다는 말에 외국인들이 소름 돋은 순간 — 영화 명량 해외 리뷰어 실시간 반응",
-          "views": 20755,
+          "views": 20759,
           "date": "2026-07-15",
           "duration": 1585,
           "url": "https://www.youtube.com/watch?v=tE80jFMi8Oc"
@@ -601,7 +601,7 @@ window.DATA = {
         },
         {
           "title": "타짜4 개봉 전 다시 보는 원작, 일본·미국·우크라이나 리뷰어들이 '밑장 빼기'에서 무너진 순간들 [이야기 순서 실시간 해외반응]",
-          "views": 2942,
+          "views": 2943,
           "date": "2026-07-10",
           "duration": 887,
           "url": "https://www.youtube.com/watch?v=XT4k2TLKC70"
@@ -614,7 +614,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
         }
       ],
-      "analyzed_at": "2026-08-12 11:59",
+      "analyzed_at": "2026-08-12 13:02",
       "subs_delta": 5
     },
     {
@@ -623,15 +623,15 @@ window.DATA = {
       "channel_id": "UChq2TqKlpNlWpHpDRMwyCeQ",
       "subscribers": 8,
       "sampled": 5,
-      "avg_views": 660,
-      "median_views": 477,
+      "avg_views": 661,
+      "median_views": 481,
       "uploads_30d": 5,
-      "views_30d": 3301,
+      "views_30d": 3307,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "손예진이 파라글라이딩하다 북한에 떨어졌다 — 첫 화부터 이 남자를 본 외국인들 반응 [사랑의 불시착 1·2화 실시간 리뷰]",
-          "views": 1899,
+          "views": 1900,
           "date": "2026-07-14",
           "duration": 2235,
           "url": "https://www.youtube.com/watch?v=zXjhmKz_FDE"
@@ -645,14 +645,14 @@ window.DATA = {
         },
         {
           "title": "\"이 대사는 미쳤다\" 손예진 한마디에 외국인들이 난리 난 순간 │ 사랑의 불시착 3·4화 해외반응",
-          "views": 477,
+          "views": 481,
           "date": "2026-07-15",
           "duration": 2005,
           "url": "https://www.youtube.com/watch?v=Sf2Mu0TK5VA"
         },
         {
           "title": "비 오는 날 키스까지 했는데… 8화 마지막 총성에 외국인들이 결국 무너졌다 | 사랑의 불시착 7·8화 해외반응",
-          "views": 251,
+          "views": 252,
           "date": "2026-07-18",
           "duration": 2526,
           "url": "https://www.youtube.com/watch?v=f7UlInRS4gk"
@@ -675,7 +675,7 @@ window.DATA = {
         },
         {
           "title": "비 오는 날 키스까지 했는데… 8화 마지막 총성에 외국인들이 결국 무너졌다 | 사랑의 불시착 7·8화 해외반응",
-          "views": 251,
+          "views": 252,
           "date": "2026-07-18",
           "duration": 2526,
           "url": "https://www.youtube.com/watch?v=f7UlInRS4gk"
@@ -689,44 +689,44 @@ window.DATA = {
         },
         {
           "title": "\"이 대사는 미쳤다\" 손예진 한마디에 외국인들이 난리 난 순간 │ 사랑의 불시착 3·4화 해외반응",
-          "views": 477,
+          "views": 481,
           "date": "2026-07-15",
           "duration": 2005,
           "url": "https://www.youtube.com/watch?v=Sf2Mu0TK5VA"
         },
         {
           "title": "손예진이 파라글라이딩하다 북한에 떨어졌다 — 첫 화부터 이 남자를 본 외국인들 반응 [사랑의 불시착 1·2화 실시간 리뷰]",
-          "views": 1899,
+          "views": 1900,
           "date": "2026-07-14",
           "duration": 2235,
           "url": "https://www.youtube.com/watch?v=zXjhmKz_FDE"
         }
       ],
-      "analyzed_at": "2026-08-12 11:59",
+      "analyzed_at": "2026-08-12 13:02",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-08-12 11:57",
+  "generated_at": "2026-08-12 13:00",
   "videos": [
     {
       "date": "2026-08-01",
       "channel": "숏츠시작",
       "title": "부모님 용돈도 빠듯한데 90억 집 사드린 효도스타 TOP7",
-      "views": 282300,
+      "views": 282433,
       "url": "https://www.youtube.com/watch?v=ZEsZeEsNcRE"
     },
     {
       "date": "2026-08-01",
       "channel": "숏츠시작",
       "title": "미스터트롯 스타들의 반전 과거 TOP7, 1위는 격투기 챔피언이었습니다",
-      "views": 137365,
+      "views": 137423,
       "url": "https://www.youtube.com/watch?v=Cjdv0t7uvVo"
     },
     {
       "date": "2026-07-28",
       "channel": "숏츠시작",
       "title": "우린 은퇴할 나이인데 무대 위 원로가수 TOP7",
-      "views": 132193,
+      "views": 132195,
       "url": "https://www.youtube.com/watch?v=pghaeNG2wJ8"
     },
     {
@@ -747,7 +747,7 @@ window.DATA = {
       "date": "2026-08-06",
       "channel": "숏츠시작",
       "title": "광고 하나만 38년 최장수 전속모델 스타 TOP7",
-      "views": 19274,
+      "views": 19282,
       "url": "https://www.youtube.com/watch?v=aAhBljxyxpw"
     },
     {
@@ -768,14 +768,14 @@ window.DATA = {
       "date": "2026-08-05",
       "channel": "숏츠시작",
       "title": "돈 있어도 못 구한다는 콘서트 티켓값 미쳐버린 가수 TOP7",
-      "views": 74552,
+      "views": 74617,
       "url": "https://www.youtube.com/watch?v=gddZurtEGOg"
     },
     {
       "date": "2026-08-04",
       "channel": "숏츠시작",
       "title": "평범한 집 한 채 값을 행사 며칠에 장윤정 돈 기록 TOP7",
-      "views": 42393,
+      "views": 42581,
       "url": "https://www.youtube.com/watch?v=T9YvH9JuEdw"
     },
     {
@@ -814,6 +814,13 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=EwG1AvIsxIo"
     },
     {
+      "date": "2026-08-11",
+      "channel": "연예정보통",
+      "title": "40년 전 명곡 다시 부른 박지현 커버 TOP7 (1위는 1982년 전설의 그 곡)",
+      "views": 7121,
+      "url": "https://www.youtube.com/watch?v=0fzZWHfWcio"
+    },
+    {
       "date": "2026-08-02",
       "channel": "연예정보통",
       "title": "1년에 딱 한 명 가수왕… 싹쓸이한 원로 TOP7",
@@ -821,32 +828,32 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=0eOPRBl_oCw"
     },
     {
-      "date": "2026-08-11",
-      "channel": "연예정보통",
-      "title": "40년 전 명곡 다시 부른 박지현 커버 TOP7 (1위는 1982년 전설의 그 곡)",
-      "views": 5540,
-      "url": "https://www.youtube.com/watch?v=0fzZWHfWcio"
-    },
-    {
       "date": "2026-08-08",
       "channel": "연예정보통",
       "title": "긴 무명 끝에 역전한 트로트 스타 장민호 레전드 기록 TOP7",
-      "views": 2188,
+      "views": 2327,
       "url": "https://www.youtube.com/watch?v=P_fHsx6sFhI"
     },
     {
       "date": "2026-08-06",
       "channel": "연예정보통",
       "title": "임영웅 유튜브 최다 조회 TOP7",
-      "views": 1673,
+      "views": 1676,
       "url": "https://www.youtube.com/watch?v=83sqJvjoO2o"
     },
     {
       "date": "2026-08-10",
       "channel": "연예정보통",
       "title": "시상식 휩쓴 연기대상 최다 수상 배우 TOP7",
-      "views": 1487,
+      "views": 1488,
       "url": "https://www.youtube.com/watch?v=Syu0Bzws5MA"
+    },
+    {
+      "date": "2026-08-12",
+      "channel": "연예정보통",
+      "title": "무명 19년 버텼다… 마침내 국민가수가 된 TOP7",
+      "views": 669,
+      "url": "https://www.youtube.com/watch?v=7hNnR-LLstI"
     },
     {
       "date": "2026-08-11",
@@ -884,13 +891,6 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=Li-uJ-A4fd0"
     },
     {
-      "date": "2026-08-05",
-      "channel": "연예정보통",
-      "title": "혼자 천만 영화만 네 편, 송강호 흥행작 관객수 TOP7",
-      "views": 1172,
-      "url": "https://www.youtube.com/watch?v=AECTtFt6V_M"
-    },
-    {
       "date": "2026-08-06",
       "channel": "이슈브리핑",
       "title": "우리는 정년퇴직인데 현역 국민가수 TOP7",
@@ -901,14 +901,14 @@ window.DATA = {
       "date": "2026-08-02",
       "channel": "이슈브리핑",
       "title": "K-팝은 안 통한다더니… 빌보드 뚫은 K-팝 TOP7",
-      "views": 134129,
+      "views": 134187,
       "url": "https://www.youtube.com/watch?v=UDKsu2gHkN8"
     },
     {
       "date": "2026-08-08",
       "channel": "이슈브리핑",
       "title": "60년 마이크 잡은 나훈아 레전드 기록 TOP7",
-      "views": 49943,
+      "views": 50160,
       "url": "https://www.youtube.com/watch?v=_cBFNw4mWzM"
     },
     {
@@ -922,28 +922,35 @@ window.DATA = {
       "date": "2026-08-09",
       "channel": "이슈브리핑",
       "title": "60년을 무대에 산 남진 레전드 기록 TOP7",
-      "views": 18782,
+      "views": 18874,
       "url": "https://www.youtube.com/watch?v=rzZng8k27RA"
+    },
+    {
+      "date": "2026-08-12",
+      "channel": "이슈브리핑",
+      "title": "100만 우습게 넘긴 박지현 커버 무대 조회수 TOP7 (1위는 약 153만)",
+      "views": 557,
+      "url": "https://www.youtube.com/watch?v=IvlTZ9O4IoA"
     },
     {
       "date": "2026-08-11",
       "channel": "이슈브리핑",
       "title": "데뷔 40년은 기본… 아직도 무대 서는 원로 현역가수 TOP7",
-      "views": 3005,
+      "views": 3105,
       "url": "https://www.youtube.com/watch?v=5ePtzPSB_N8"
     },
     {
       "date": "2026-08-10",
       "channel": "이슈브리핑",
       "title": "온 가족이 함께 봤던 사극 시청률 TOP7 (1위는 전 국민을 울린 국민 명의)",
-      "views": 7829,
+      "views": 7956,
       "url": "https://www.youtube.com/watch?v=y0MH9MUSaqM"
     },
     {
       "date": "2026-08-10",
       "channel": "이슈브리핑",
       "title": "주방에서 미쳐버린 셰프 경력 연차 TOP7",
-      "views": 3241,
+      "views": 3333,
       "url": "https://www.youtube.com/watch?v=3j1LN2CLAH8"
     },
     {
@@ -957,28 +964,21 @@ window.DATA = {
       "date": "2026-08-07",
       "channel": "이슈브리핑",
       "title": "김갑수 사망작 시청률 TOP7",
-      "views": 1830,
+      "views": 1832,
       "url": "https://www.youtube.com/watch?v=HQRmvX_jzH0"
     },
     {
       "date": "2026-08-06",
       "channel": "이슈브리핑",
       "title": "황정민 흥행작 관객수 TOP7",
-      "views": 1970,
+      "views": 1971,
       "url": "https://www.youtube.com/watch?v=gVIefeNM9qo"
-    },
-    {
-      "date": "2026-08-05",
-      "channel": "이슈브리핑",
-      "title": "한 직장도 못 버티는데 국민 진행자 TOP7",
-      "views": 2608,
-      "url": "https://www.youtube.com/watch?v=smwizPRHKaE"
     },
     {
       "date": "2026-08-04",
       "channel": "뷰포인트",
       "title": "직장인은 평생 못 버는 임영웅 돈벼락 기록 TOP7",
-      "views": 61637,
+      "views": 61767,
       "url": "https://www.youtube.com/watch?v=zPDh8jOLPaI"
     },
     {
@@ -992,14 +992,14 @@ window.DATA = {
       "date": "2026-08-08",
       "channel": "뷰포인트",
       "title": "1분 만에 700만 터진 박지현 무대 조회수 TOP7",
-      "views": 36258,
+      "views": 36368,
       "url": "https://www.youtube.com/watch?v=-xJOUgcd59Y"
     },
     {
       "date": "2026-08-10",
       "channel": "뷰포인트",
       "title": "한국갤럽 2024 40대 이상 올해의 가수 TOP7",
-      "views": 35130,
+      "views": 35387,
       "url": "https://www.youtube.com/watch?v=-zUrO5TbhC8"
     },
     {
@@ -1010,38 +1010,45 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=9NkTIcyN40M"
     },
     {
+      "date": "2026-08-12",
+      "channel": "뷰포인트",
+      "title": "일흔 넘어 아이 낳았다… 나이 차 큰 늦둥이 아빠 TOP7",
+      "views": 696,
+      "url": "https://www.youtube.com/watch?v=fSu6rQP9zOY"
+    },
+    {
       "date": "2026-08-11",
       "channel": "뷰포인트",
       "title": "요즘 1위 한 번도 힘든데… 음악방송 1위 최다 국민가수 TOP7",
-      "views": 3503,
+      "views": 3732,
       "url": "https://www.youtube.com/watch?v=U-1zJO331rw"
     },
     {
       "date": "2026-08-11",
       "channel": "뷰포인트",
       "title": "50만 터진 팬이 찍은 영상, 박지현 팬영상 조회수 TOP7 (1위는 목포 나이트클럽 직캠)",
-      "views": 17628,
+      "views": 18286,
       "url": "https://www.youtube.com/watch?v=jgM3HA8B3Nc"
     },
     {
       "date": "2026-08-09",
       "channel": "뷰포인트",
       "title": "무명 7년 끝에 전 국민 미치게 한 트로트 여왕 송가인 기록 TOP7",
-      "views": 10136,
+      "views": 10348,
       "url": "https://www.youtube.com/watch?v=Oob3nb89mZ4"
     },
     {
       "date": "2026-08-08",
       "channel": "뷰포인트",
       "title": "국민 트로트 스타 영탁 레전드 기록 TOP7",
-      "views": 12747,
+      "views": 12846,
       "url": "https://www.youtube.com/watch?v=-tPxef8uRWE"
     },
     {
       "date": "2026-08-07",
       "channel": "뷰포인트",
       "title": "아파트 한 채가 190억 스타 아파트 TOP7",
-      "views": 32130,
+      "views": 32145,
       "url": "https://www.youtube.com/watch?v=JgYxUzRQ4as"
     },
     {
@@ -1059,13 +1066,6 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=0iWO-omovdE"
     },
     {
-      "date": "2026-08-06",
-      "channel": "뷰포인트",
-      "title": "대한민국 최장신 배우 TOP7",
-      "views": 22755,
-      "url": "https://www.youtube.com/watch?v=XWx4lcB2jng"
-    },
-    {
       "date": "2026-07-09",
       "channel": "해외반응픽",
       "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
@@ -1076,14 +1076,14 @@ window.DATA = {
       "date": "2026-08-04",
       "channel": "해외반응픽",
       "title": "미국 의사가 한국 의학드라마를 세 번이나 돌려본 이유 [슬기로운 의사생활]",
-      "views": 30481,
+      "views": 30581,
       "url": "https://www.youtube.com/watch?v=KSMNrmlhjgY"
     },
     {
       "date": "2026-07-15",
       "channel": "해외반응픽",
       "title": "12척으로 330척을 막았다는 말에 외국인들이 소름 돋은 순간 — 영화 명량 해외 리뷰어 실시간 반응",
-      "views": 20755,
+      "views": 20759,
       "url": "https://www.youtube.com/watch?v=tE80jFMi8Oc"
     },
     {
@@ -1111,7 +1111,7 @@ window.DATA = {
       "date": "2026-07-21",
       "channel": "해외반응픽",
       "title": "\"좀비 영화인 줄 알았는데…\" 부산행 마지막 10분에 외국인들이 오열한 이유 | 해외반응",
-      "views": 4112,
+      "views": 4114,
       "url": "https://www.youtube.com/watch?v=qu9a6ras9XA"
     },
     {
@@ -1139,14 +1139,14 @@ window.DATA = {
       "date": "2026-07-10",
       "channel": "해외반응픽",
       "title": "타짜4 개봉 전 다시 보는 원작, 일본·미국·우크라이나 리뷰어들이 '밑장 빼기'에서 무너진 순간들 [이야기 순서 실시간 해외반응]",
-      "views": 2942,
+      "views": 2943,
       "url": "https://www.youtube.com/watch?v=XT4k2TLKC70"
     },
     {
       "date": "2026-07-14",
       "channel": "코리아리뷰",
       "title": "손예진이 파라글라이딩하다 북한에 떨어졌다 — 첫 화부터 이 남자를 본 외국인들 반응 [사랑의 불시착 1·2화 실시간 리뷰]",
-      "views": 1899,
+      "views": 1900,
       "url": "https://www.youtube.com/watch?v=zXjhmKz_FDE"
     },
     {
@@ -1160,14 +1160,14 @@ window.DATA = {
       "date": "2026-07-15",
       "channel": "코리아리뷰",
       "title": "\"이 대사는 미쳤다\" 손예진 한마디에 외국인들이 난리 난 순간 │ 사랑의 불시착 3·4화 해외반응",
-      "views": 477,
+      "views": 481,
       "url": "https://www.youtube.com/watch?v=Sf2Mu0TK5VA"
     },
     {
       "date": "2026-07-18",
       "channel": "코리아리뷰",
       "title": "비 오는 날 키스까지 했는데… 8화 마지막 총성에 외국인들이 결국 무너졌다 | 사랑의 불시착 7·8화 해외반응",
-      "views": 251,
+      "views": 252,
       "url": "https://www.youtube.com/watch?v=f7UlInRS4gk"
     },
     {
