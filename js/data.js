@@ -369,7 +369,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-08-19 23:04",
-      "subs_delta": 180
+      "subs_delta": 0
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
@@ -492,7 +492,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-08-19 23:05",
-      "subs_delta": 40
+      "subs_delta": 0
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
@@ -615,7 +615,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-08-19 23:05",
-      "subs_delta": 7
+      "subs_delta": 0
     },
     {
       "url": "https://www.youtube.com/channel/UChq2TqKlpNlWpHpDRMwyCeQ",
@@ -731,7 +731,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-08-19 23:06",
-      "subs_delta": 5
+      "subs_delta": 0
     }
   ],
   "generated_at": "2026-08-19 23:03",
