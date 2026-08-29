@@ -8,29 +8,29 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 40200,
       "sampled": 20,
-      "avg_views": 50712,
-      "median_views": 24334,
+      "avg_views": 51341,
+      "median_views": 24460,
       "uploads_30d": 20,
-      "views_30d": 1014250,
+      "views_30d": 1026835,
       "shorts_ratio": 0.05,
       "top_videos": [
         {
           "title": "딴따라인 줄 알았는데 알고보니 명문대 출신 스타 TOP7 (1위는 그 서울대 여신)",
-          "views": 485966,
+          "views": 492813,
           "date": "2026-08-26",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=s6cHCBYuapc"
         },
         {
           "title": "아버지도 아들도 스타 2대째 배우 명가 TOP7",
-          "views": 92884,
+          "views": 97131,
           "date": "2026-08-28",
           "duration": 89,
           "url": "https://www.youtube.com/watch?v=4AonRvhkXds"
         },
         {
           "title": "우린 평생 집 한 채도 힘든데 알고 보니 건물부자였던 방송인 TOP7",
-          "views": 63331,
+          "views": 63415,
           "date": "2026-08-25",
           "duration": 84,
           "url": "https://www.youtube.com/watch?v=rUOGc6E5zYI"
@@ -44,7 +44,7 @@ window.DATA = {
         },
         {
           "title": "예명인 줄도 몰랐던 국민 스타 진짜 본명 TOP7",
-          "views": 41787,
+          "views": 42499,
           "date": "2026-08-28",
           "duration": 67,
           "url": "https://www.youtube.com/watch?v=X4aamV1MjoE"
@@ -53,49 +53,49 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "아버지도 아들도 스타 2대째 배우 명가 TOP7",
-          "views": 92884,
+          "views": 97131,
           "date": "2026-08-28",
           "duration": 89,
           "url": "https://www.youtube.com/watch?v=4AonRvhkXds"
         },
         {
           "title": "예명인 줄도 몰랐던 국민 스타 진짜 본명 TOP7",
-          "views": 41787,
+          "views": 42499,
           "date": "2026-08-28",
           "duration": 67,
           "url": "https://www.youtube.com/watch?v=X4aamV1MjoE"
         },
         {
           "title": "온 국민 심장 저격했던 그 시절 원조 미녀 배우 TOP7",
-          "views": 26087,
+          "views": 26319,
           "date": "2026-08-27",
           "duration": 67,
           "url": "https://www.youtube.com/watch?v=vcNVHPpY5_U"
         },
         {
           "title": "연기력 하나로 대한민국을 씹어먹은 연기의 신 배우 TOP7",
-          "views": 10294,
+          "views": 10684,
           "date": "2026-08-26",
           "duration": 73,
           "url": "https://www.youtube.com/watch?v=dqKgA8HuvM0"
         },
         {
           "title": "딴따라인 줄 알았는데 알고보니 명문대 출신 스타 TOP7 (1위는 그 서울대 여신)",
-          "views": 485966,
+          "views": 492813,
           "date": "2026-08-26",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=s6cHCBYuapc"
         },
         {
           "title": "요즘 배우들과 비교불가 그 시절 얼굴천재 원조 미남배우 TOP7",
-          "views": 20675,
+          "views": 20723,
           "date": "2026-08-25",
           "duration": 67,
           "url": "https://www.youtube.com/watch?v=qafByJnc-lc"
         },
         {
           "title": "우린 평생 집 한 채도 힘든데 알고 보니 건물부자였던 방송인 TOP7",
-          "views": 63331,
+          "views": 63415,
           "date": "2026-08-25",
           "duration": 84,
           "url": "https://www.youtube.com/watch?v=rUOGc6E5zYI"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "행사 하루가 직장인 연봉? 몸값 미친 트로트 스타 TOP7 (1위는?)",
-          "views": 22581,
+          "views": 22601,
           "date": "2026-08-22",
           "duration": 94,
           "url": "https://www.youtube.com/watch?v=V_qYgY5ePc4"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=s2mNGD7g4is"
         }
       ],
-      "analyzed_at": "2026-08-29 21:22",
+      "analyzed_at": "2026-08-29 22:26",
       "subs_delta": 300
     },
     {
@@ -131,43 +131,43 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 74400,
       "sampled": 20,
-      "avg_views": 11587,
-      "median_views": 8792,
+      "avg_views": 11661,
+      "median_views": 8891,
       "uploads_30d": 20,
-      "views_30d": 231758,
+      "views_30d": 233230,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "표준어인 줄 알았던 박지현, 아는형님 뒤집은 목포 사투리 대참사",
-          "views": 31976,
+          "views": 32317,
           "date": "2026-08-25",
           "duration": 45,
           "url": "https://www.youtube.com/watch?v=NT_Jcbp7R58"
         },
         {
           "title": "수산물 공장 청년이 아버지 환갑에 건넨 선물 — 박지현",
-          "views": 24278,
+          "views": 24375,
           "date": "2026-08-22",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=_iS4QGOXSNE"
         },
         {
           "title": "차 안에서 어머니가 끝내 눈물 쏟은 이유 (박지현 목포 귀향)",
-          "views": 21093,
+          "views": 21135,
           "date": "2026-08-20",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=HCxGW9y7JaY"
         },
         {
           "title": "폭싹 망했던 골목, 20년 만에 상하이 찾은 박지현",
-          "views": 20451,
+          "views": 20483,
           "date": "2026-08-23",
           "duration": 48,
           "url": "https://www.youtube.com/watch?v=bR4SAHsIm-s"
         },
         {
           "title": "노래만 잘하는 줄 알았던 박지현, 자취방을 공개하자 형님들이 눈을 의심했습니다",
-          "views": 20040,
+          "views": 20192,
           "date": "2026-08-26",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=wZjFZBlBwqY"
@@ -176,21 +176,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "노래만 하는 줄 알았던 박지현, 초대형 화덕치킨 앞에서 목포 사투리 터졌다",
-          "views": 1288,
+          "views": 1821,
           "date": "2026-08-29",
           "duration": 52,
           "url": "https://www.youtube.com/watch?v=AFBqMyKoamU"
         },
         {
           "title": "일요일 낮 전국노래자랑이 갑자기 콘서트장이 된 이유",
-          "views": 8979,
+          "views": 9177,
           "date": "2026-08-27",
           "duration": 49,
           "url": "https://www.youtube.com/watch?v=wxu2_411umQ"
         },
         {
           "title": "노래만 잘하는 줄 알았던 박지현, 자취방을 공개하자 형님들이 눈을 의심했습니다",
-          "views": 20040,
+          "views": 20192,
           "date": "2026-08-26",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=wZjFZBlBwqY"
@@ -204,28 +204,28 @@ window.DATA = {
         },
         {
           "title": "돌싱 형님들 연애 심문에 진땀 뺀 목포 킹카 박지현, 반전 연애사 대참사",
-          "views": 10799,
+          "views": 10859,
           "date": "2026-08-25",
           "duration": 51,
           "url": "https://www.youtube.com/watch?v=exPfWzhWebs"
         },
         {
           "title": "표준어인 줄 알았던 박지현, 아는형님 뒤집은 목포 사투리 대참사",
-          "views": 31976,
+          "views": 32317,
           "date": "2026-08-25",
           "duration": 45,
           "url": "https://www.youtube.com/watch?v=NT_Jcbp7R58"
         },
         {
           "title": "노래만 하는 줄 알았던 박지현, 콘서트 첫 무대에서 벌어진 일",
-          "views": 19370,
+          "views": 19382,
           "date": "2026-08-24",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=-y1vYxw2YcI"
         },
         {
           "title": "폭싹 망했던 골목, 20년 만에 상하이 찾은 박지현",
-          "views": 20451,
+          "views": 20483,
           "date": "2026-08-23",
           "duration": 48,
           "url": "https://www.youtube.com/watch?v=bR4SAHsIm-s"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=0QxAhX5Wnm0"
         }
       ],
-      "analyzed_at": "2026-08-29 21:23",
+      "analyzed_at": "2026-08-29 22:26",
       "subs_delta": 100
     },
     {
@@ -254,36 +254,36 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 4680,
       "sampled": 20,
-      "avg_views": 46757,
-      "median_views": 14075,
+      "avg_views": 46930,
+      "median_views": 14078,
       "uploads_30d": 20,
-      "views_30d": 935156,
+      "views_30d": 938608,
       "shorts_ratio": 0.45,
       "top_videos": [
         {
           "title": "40년째 아무도 못 깬 대기록, 야구팬 평생 못 잊는 KBO 레전드 순간 TOP7",
-          "views": 316032,
+          "views": 316935,
           "date": "2026-08-24",
           "duration": 72,
           "url": "https://www.youtube.com/watch?v=4vf-MP96Tx4"
         },
         {
           "title": "왕조는 감독이 만든다 - KBO 역대 최고의 명장 감독 TOP7",
-          "views": 182249,
+          "views": 183444,
           "date": "2026-08-26",
           "duration": 71,
           "url": "https://www.youtube.com/watch?v=gwh14FA2ws0"
         },
         {
           "title": "밑바닥에서 시작해 전설이 된 프로야구 인생역전 TOP7",
-          "views": 110668,
+          "views": 111381,
           "date": "2026-08-25",
           "duration": 73,
           "url": "https://www.youtube.com/watch?v=XtpTUG_HOSU"
         },
         {
           "title": "당연히 결혼한 줄 알았는데 아직 싱글인 스타 TOP7",
-          "views": 90865,
+          "views": 90869,
           "date": "2026-08-19",
           "duration": 59,
           "url": "https://www.youtube.com/watch?v=nKJ8Kjet7_I"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "5대 3으로 지고 있었다 — 2009 한국시리즈, 나지완 끝내기 홈런의 그날",
-          "views": 1456,
+          "views": 2060,
           "date": "2026-08-29",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=iyrhSIQdpIc"
@@ -320,35 +320,35 @@ window.DATA = {
         },
         {
           "title": "무쇠팔 최동원, 1984 한국시리즈 혼자 4승 — 40년째 아무도 못 깬 기록",
-          "views": 8149,
+          "views": 8157,
           "date": "2026-08-26",
           "duration": 52,
           "url": "https://www.youtube.com/watch?v=WOyyJ_J23Ek"
         },
         {
           "title": "왕조는 감독이 만든다 - KBO 역대 최고의 명장 감독 TOP7",
-          "views": 182249,
+          "views": 183444,
           "date": "2026-08-26",
           "duration": 71,
           "url": "https://www.youtube.com/watch?v=gwh14FA2ws0"
         },
         {
           "title": "세대를 넘어 사랑받는 그 시절 댄스 여왕 TOP7 | 빙글빙글·아!대한민국·밤차 그 주인공은?",
-          "views": 14595,
+          "views": 14600,
           "date": "2026-08-25",
           "duration": 69,
           "url": "https://www.youtube.com/watch?v=d6JjXBova6U"
         },
         {
           "title": "밑바닥에서 시작해 전설이 된 프로야구 인생역전 TOP7",
-          "views": 110668,
+          "views": 111381,
           "date": "2026-08-25",
           "duration": 73,
           "url": "https://www.youtube.com/watch?v=XtpTUG_HOSU"
         },
         {
           "title": "40년째 아무도 못 깬 대기록, 야구팬 평생 못 잊는 KBO 레전드 순간 TOP7",
-          "views": 316032,
+          "views": 316935,
           "date": "2026-08-24",
           "duration": 72,
           "url": "https://www.youtube.com/watch?v=4vf-MP96Tx4"
@@ -362,13 +362,13 @@ window.DATA = {
         },
         {
           "title": "온 국민의 첫사랑, 원조 하이틴 스타 TOP7 (1위는?)",
-          "views": 15655,
+          "views": 15661,
           "date": "2026-08-22",
           "duration": 67,
           "url": "https://www.youtube.com/watch?v=smmRVzSuOro"
         }
       ],
-      "analyzed_at": "2026-08-29 21:23",
+      "analyzed_at": "2026-08-29 22:27",
       "subs_delta": 50
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 2220,
       "sampled": 20,
-      "avg_views": 6531,
+      "avg_views": 6548,
       "median_views": 3622,
       "uploads_30d": 20,
-      "views_30d": 130637,
+      "views_30d": 130973,
       "shorts_ratio": 0.05,
       "top_videos": [
         {
@@ -406,7 +406,7 @@ window.DATA = {
         },
         {
           "title": "김수현이 이혼서류를 꺼내려던 그 순간… '눈물의 여왕' 1·2화에 외국인들이 완전히 무너진 이유 (김지원)",
-          "views": 7351,
+          "views": 7572,
           "date": "2026-08-22",
           "duration": 1527,
           "url": "https://www.youtube.com/watch?v=hM--y1CXqIA"
@@ -429,21 +429,21 @@ window.DATA = {
         },
         {
           "title": "김수현이 잠든 김지원의 폰을 몰래 열었을 때… '눈물의 여왕' 3·4화에서 외국인들이 본 '1031'의 정체",
-          "views": 5511,
+          "views": 5500,
           "date": "2026-08-25",
           "duration": 1340,
           "url": "https://www.youtube.com/watch?v=lEgQ-F2EVNw"
         },
         {
           "title": "김수현이 이혼서류를 꺼내려던 그 순간… '눈물의 여왕' 1·2화에 외국인들이 완전히 무너진 이유 (김지원)",
-          "views": 7351,
+          "views": 7572,
           "date": "2026-08-22",
           "duration": 1527,
           "url": "https://www.youtube.com/watch?v=hM--y1CXqIA"
         },
         {
           "title": "이병헌·김태리 「미스터 션샤인」 24부작을 처음 본 외국인들, 마지막 회에서 끝내 무너지다 (풀 리액션 한번에보기)",
-          "views": 6409,
+          "views": 6535,
           "date": "2026-08-20",
           "duration": 1602,
           "url": "https://www.youtube.com/watch?v=PE7c2SBI7cQ"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=9cy9H-XXy5A"
         }
       ],
-      "analyzed_at": "2026-08-29 21:24",
+      "analyzed_at": "2026-08-29 22:28",
       "subs_delta": 10
     },
     {
@@ -500,43 +500,43 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 305,
       "sampled": 20,
-      "avg_views": 9679,
-      "median_views": 3846,
+      "avg_views": 9707,
+      "median_views": 3847,
       "uploads_30d": 11,
-      "views_30d": 105341,
+      "views_30d": 105895,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "미국 의사가 한국 의학드라마를 세 번이나 돌려본 이유 [슬기로운 의사생활]",
-          "views": 71348,
+          "views": 71873,
           "date": "2026-08-04",
           "duration": 1179,
           "url": "https://www.youtube.com/watch?v=KSMNrmlhjgY"
         },
         {
           "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-          "views": 33982,
+          "views": 33976,
           "date": "2026-07-09",
           "duration": 1852,
           "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
         },
         {
           "title": "12척으로 330척을 막았다는 말에 외국인들이 소름 돋은 순간 — 영화 명량 해외 리뷰어 실시간 반응",
-          "views": 21394,
+          "views": 21398,
           "date": "2026-07-15",
           "duration": 1585,
           "url": "https://www.youtube.com/watch?v=tE80jFMi8Oc"
         },
         {
           "title": "소지섭 '김부장' 마지막 화, 외국인 리뷰어들이 케이지 앞에서 무너진 이유",
-          "views": 8366,
+          "views": 8367,
           "date": "2026-07-29",
           "duration": 2234,
           "url": "https://www.youtube.com/watch?v=D6lhjOfsvbc"
         },
         {
           "title": "\"이게 진짜 의사라고?\" 슬기로운 의사생활에 외국인이 무너진 장면 [3·4화 해외반응]",
-          "views": 7643,
+          "views": 7650,
           "date": "2026-08-07",
           "duration": 1238,
           "url": "https://www.youtube.com/watch?v=lj0SUljEwOk"
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "다른 사람이 생겼다더니'…30년 만에 만난 어머니를 떠나보낸 경비원, 외국인들이 오열한 슬의생 시즌2 7·8화 반응",
-          "views": 2702,
+          "views": 2697,
           "date": "2026-08-27",
           "duration": 2072,
           "url": "https://www.youtube.com/watch?v=7z2Uf6O9khg"
@@ -559,21 +559,21 @@ window.DATA = {
         },
         {
           "title": "'다른 사람이 생겼어'…익순의 거짓말을 알아챈 익준, 외국인들이 오열한 슬의생 시즌2 5·6화 반응",
-          "views": 1094,
+          "views": 1099,
           "date": "2026-08-25",
           "duration": 1982,
           "url": "https://www.youtube.com/watch?v=lTF5vnmM73E"
         },
         {
           "title": "슬기로운 의사생활 시즌2, 은지 심장·익순 사고 앞에서 외국인들이 결국 무너진 순간들",
-          "views": 1057,
+          "views": 1067,
           "date": "2026-08-22",
           "duration": 2094,
           "url": "https://www.youtube.com/watch?v=HCUo1dSJgE0"
         },
         {
           "title": "조정석·유연석 '슬기로운 의사생활 시즌2' 1·2화… 외국인들이 사산·간이식 장면에서 끝내 두 손으로 얼굴을 감싼 순간 [해외반응 실시간 리뷰]",
-          "views": 2979,
+          "views": 2987,
           "date": "2026-08-18",
           "duration": 1919,
           "url": "https://www.youtube.com/watch?v=9j41mcKehAc"
@@ -587,14 +587,14 @@ window.DATA = {
         },
         {
           "title": "미국 리뷰어가 '슬기로운 의사생활' 아버지 간이식 장면에서 자기 아버지를 떠올린 순간 [9·10화]",
-          "views": 2771,
+          "views": 2773,
           "date": "2026-08-14",
           "duration": 1871,
           "url": "https://www.youtube.com/watch?v=iGyyFcQ2ndE"
         },
         {
           "title": "미국 리뷰어가 '슬기로운 의사생활' 5·6화에서 결국 무너진 장면 [해외반응 실시간 리뷰]",
-          "views": 6192,
+          "views": 6194,
           "date": "2026-08-13",
           "duration": 2002,
           "url": "https://www.youtube.com/watch?v=7qrokUdvYOE"
@@ -608,25 +608,25 @@ window.DATA = {
         },
         {
           "title": "\"이게 진짜 의사라고?\" 슬기로운 의사생활에 외국인이 무너진 장면 [3·4화 해외반응]",
-          "views": 7643,
+          "views": 7650,
           "date": "2026-08-07",
           "duration": 1238,
           "url": "https://www.youtube.com/watch?v=lj0SUljEwOk"
         }
       ],
-      "analyzed_at": "2026-08-29 21:25",
+      "analyzed_at": "2026-08-29 22:28",
       "subs_delta": 2
     },
     {
       "url": "https://www.youtube.com/channel/UChq2TqKlpNlWpHpDRMwyCeQ",
       "name": "코리아리뷰",
       "channel_id": "UChq2TqKlpNlWpHpDRMwyCeQ",
-      "subscribers": 71,
+      "subscribers": 72,
       "sampled": 13,
-      "avg_views": 4052,
+      "avg_views": 4093,
       "median_views": 691,
       "uploads_30d": 9,
-      "views_30d": 48901,
+      "views_30d": 49428,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -638,14 +638,14 @@ window.DATA = {
         },
         {
           "title": "외국인들이 태풍 장면 보다 오열한 그 드라마 | 폭싹 속았수다 6·7화 해외 리액션",
-          "views": 14779,
+          "views": 15027,
           "date": "2026-08-27",
           "duration": 2218,
           "url": "https://www.youtube.com/watch?v=6k4XDYz6SuI"
         },
         {
           "title": "IU·박보검 '폭싹 속았수다' — 외국인들이 첫 입맞춤과 '떠나는 배' 장면에서 끝내 무너진 순간들 [2·3화 해외반응]",
-          "views": 9042,
+          "views": 9321,
           "date": "2026-08-21",
           "duration": 1575,
           "url": "https://www.youtube.com/watch?v=dY0zBRbZaeA"
@@ -675,7 +675,7 @@ window.DATA = {
         },
         {
           "title": "외국인들이 태풍 장면 보다 오열한 그 드라마 | 폭싹 속았수다 6·7화 해외 리액션",
-          "views": 14779,
+          "views": 15027,
           "date": "2026-08-27",
           "duration": 2218,
           "url": "https://www.youtube.com/watch?v=6k4XDYz6SuI"
@@ -689,7 +689,7 @@ window.DATA = {
         },
         {
           "title": "IU·박보검 '폭싹 속았수다' — 외국인들이 첫 입맞춤과 '떠나는 배' 장면에서 끝내 무너진 순간들 [2·3화 해외반응]",
-          "views": 9042,
+          "views": 9321,
           "date": "2026-08-21",
           "duration": 1575,
           "url": "https://www.youtube.com/watch?v=dY0zBRbZaeA"
@@ -737,31 +737,31 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=f7UlInRS4gk"
         }
       ],
-      "analyzed_at": "2026-08-29 21:25",
-      "subs_delta": -1
+      "analyzed_at": "2026-08-29 22:29",
+      "subs_delta": 0
     }
   ],
-  "generated_at": "2026-08-29 21:22",
+  "generated_at": "2026-08-29 22:26",
   "videos": [
     {
       "date": "2026-08-26",
       "channel": "숏츠시작",
       "title": "딴따라인 줄 알았는데 알고보니 명문대 출신 스타 TOP7 (1위는 그 서울대 여신)",
-      "views": 485966,
+      "views": 492813,
       "url": "https://www.youtube.com/watch?v=s6cHCBYuapc"
     },
     {
       "date": "2026-08-28",
       "channel": "숏츠시작",
       "title": "아버지도 아들도 스타 2대째 배우 명가 TOP7",
-      "views": 92884,
+      "views": 97131,
       "url": "https://www.youtube.com/watch?v=4AonRvhkXds"
     },
     {
       "date": "2026-08-25",
       "channel": "숏츠시작",
       "title": "우린 평생 집 한 채도 힘든데 알고 보니 건물부자였던 방송인 TOP7",
-      "views": 63331,
+      "views": 63415,
       "url": "https://www.youtube.com/watch?v=rUOGc6E5zYI"
     },
     {
@@ -775,35 +775,35 @@ window.DATA = {
       "date": "2026-08-28",
       "channel": "숏츠시작",
       "title": "예명인 줄도 몰랐던 국민 스타 진짜 본명 TOP7",
-      "views": 41787,
+      "views": 42499,
       "url": "https://www.youtube.com/watch?v=X4aamV1MjoE"
     },
     {
       "date": "2026-08-27",
       "channel": "숏츠시작",
       "title": "온 국민 심장 저격했던 그 시절 원조 미녀 배우 TOP7",
-      "views": 26087,
+      "views": 26319,
       "url": "https://www.youtube.com/watch?v=vcNVHPpY5_U"
     },
     {
       "date": "2026-08-26",
       "channel": "숏츠시작",
       "title": "연기력 하나로 대한민국을 씹어먹은 연기의 신 배우 TOP7",
-      "views": 10294,
+      "views": 10684,
       "url": "https://www.youtube.com/watch?v=dqKgA8HuvM0"
     },
     {
       "date": "2026-08-25",
       "channel": "숏츠시작",
       "title": "요즘 배우들과 비교불가 그 시절 얼굴천재 원조 미남배우 TOP7",
-      "views": 20675,
+      "views": 20723,
       "url": "https://www.youtube.com/watch?v=qafByJnc-lc"
     },
     {
       "date": "2026-08-22",
       "channel": "숏츠시작",
       "title": "행사 하루가 직장인 연봉? 몸값 미친 트로트 스타 TOP7 (1위는?)",
-      "views": 22581,
+      "views": 22601,
       "url": "https://www.youtube.com/watch?v=V_qYgY5ePc4"
     },
     {
@@ -817,49 +817,49 @@ window.DATA = {
       "date": "2026-08-25",
       "channel": "연예정보통",
       "title": "표준어인 줄 알았던 박지현, 아는형님 뒤집은 목포 사투리 대참사",
-      "views": 31976,
+      "views": 32317,
       "url": "https://www.youtube.com/watch?v=NT_Jcbp7R58"
     },
     {
       "date": "2026-08-22",
       "channel": "연예정보통",
       "title": "수산물 공장 청년이 아버지 환갑에 건넨 선물 — 박지현",
-      "views": 24278,
+      "views": 24375,
       "url": "https://www.youtube.com/watch?v=_iS4QGOXSNE"
     },
     {
       "date": "2026-08-20",
       "channel": "연예정보통",
       "title": "차 안에서 어머니가 끝내 눈물 쏟은 이유 (박지현 목포 귀향)",
-      "views": 21093,
+      "views": 21135,
       "url": "https://www.youtube.com/watch?v=HCxGW9y7JaY"
     },
     {
       "date": "2026-08-23",
       "channel": "연예정보통",
       "title": "폭싹 망했던 골목, 20년 만에 상하이 찾은 박지현",
-      "views": 20451,
+      "views": 20483,
       "url": "https://www.youtube.com/watch?v=bR4SAHsIm-s"
     },
     {
       "date": "2026-08-26",
       "channel": "연예정보통",
       "title": "노래만 잘하는 줄 알았던 박지현, 자취방을 공개하자 형님들이 눈을 의심했습니다",
-      "views": 20040,
+      "views": 20192,
       "url": "https://www.youtube.com/watch?v=wZjFZBlBwqY"
     },
     {
       "date": "2026-08-29",
       "channel": "연예정보통",
       "title": "노래만 하는 줄 알았던 박지현, 초대형 화덕치킨 앞에서 목포 사투리 터졌다",
-      "views": 1288,
+      "views": 1821,
       "url": "https://www.youtube.com/watch?v=AFBqMyKoamU"
     },
     {
       "date": "2026-08-27",
       "channel": "연예정보통",
       "title": "일요일 낮 전국노래자랑이 갑자기 콘서트장이 된 이유",
-      "views": 8979,
+      "views": 9177,
       "url": "https://www.youtube.com/watch?v=wxu2_411umQ"
     },
     {
@@ -873,14 +873,14 @@ window.DATA = {
       "date": "2026-08-25",
       "channel": "연예정보통",
       "title": "돌싱 형님들 연애 심문에 진땀 뺀 목포 킹카 박지현, 반전 연애사 대참사",
-      "views": 10799,
+      "views": 10859,
       "url": "https://www.youtube.com/watch?v=exPfWzhWebs"
     },
     {
       "date": "2026-08-24",
       "channel": "연예정보통",
       "title": "노래만 하는 줄 알았던 박지현, 콘서트 첫 무대에서 벌어진 일",
-      "views": 19370,
+      "views": 19382,
       "url": "https://www.youtube.com/watch?v=-y1vYxw2YcI"
     },
     {
@@ -901,28 +901,28 @@ window.DATA = {
       "date": "2026-08-24",
       "channel": "이슈브리핑",
       "title": "40년째 아무도 못 깬 대기록, 야구팬 평생 못 잊는 KBO 레전드 순간 TOP7",
-      "views": 316032,
+      "views": 316935,
       "url": "https://www.youtube.com/watch?v=4vf-MP96Tx4"
     },
     {
       "date": "2026-08-26",
       "channel": "이슈브리핑",
       "title": "왕조는 감독이 만든다 - KBO 역대 최고의 명장 감독 TOP7",
-      "views": 182249,
+      "views": 183444,
       "url": "https://www.youtube.com/watch?v=gwh14FA2ws0"
     },
     {
       "date": "2026-08-25",
       "channel": "이슈브리핑",
       "title": "밑바닥에서 시작해 전설이 된 프로야구 인생역전 TOP7",
-      "views": 110668,
+      "views": 111381,
       "url": "https://www.youtube.com/watch?v=XtpTUG_HOSU"
     },
     {
       "date": "2026-08-19",
       "channel": "이슈브리핑",
       "title": "당연히 결혼한 줄 알았는데 아직 싱글인 스타 TOP7",
-      "views": 90865,
+      "views": 90869,
       "url": "https://www.youtube.com/watch?v=nKJ8Kjet7_I"
     },
     {
@@ -936,7 +936,7 @@ window.DATA = {
       "date": "2026-08-29",
       "channel": "이슈브리핑",
       "title": "5대 3으로 지고 있었다 — 2009 한국시리즈, 나지완 끝내기 홈런의 그날",
-      "views": 1456,
+      "views": 2060,
       "url": "https://www.youtube.com/watch?v=iyrhSIQdpIc"
     },
     {
@@ -957,21 +957,21 @@ window.DATA = {
       "date": "2026-08-26",
       "channel": "이슈브리핑",
       "title": "무쇠팔 최동원, 1984 한국시리즈 혼자 4승 — 40년째 아무도 못 깬 기록",
-      "views": 8149,
+      "views": 8157,
       "url": "https://www.youtube.com/watch?v=WOyyJ_J23Ek"
     },
     {
       "date": "2026-08-25",
       "channel": "이슈브리핑",
       "title": "세대를 넘어 사랑받는 그 시절 댄스 여왕 TOP7 | 빙글빙글·아!대한민국·밤차 그 주인공은?",
-      "views": 14595,
+      "views": 14600,
       "url": "https://www.youtube.com/watch?v=d6JjXBova6U"
     },
     {
       "date": "2026-08-22",
       "channel": "이슈브리핑",
       "title": "온 국민의 첫사랑, 원조 하이틴 스타 TOP7 (1위는?)",
-      "views": 15655,
+      "views": 15661,
       "url": "https://www.youtube.com/watch?v=smmRVzSuOro"
     },
     {
@@ -999,7 +999,7 @@ window.DATA = {
       "date": "2026-08-22",
       "channel": "뷰포인트",
       "title": "김수현이 이혼서류를 꺼내려던 그 순간… '눈물의 여왕' 1·2화에 외국인들이 완전히 무너진 이유 (김지원)",
-      "views": 7351,
+      "views": 7572,
       "url": "https://www.youtube.com/watch?v=hM--y1CXqIA"
     },
     {
@@ -1013,14 +1013,14 @@ window.DATA = {
       "date": "2026-08-25",
       "channel": "뷰포인트",
       "title": "김수현이 잠든 김지원의 폰을 몰래 열었을 때… '눈물의 여왕' 3·4화에서 외국인들이 본 '1031'의 정체",
-      "views": 5511,
+      "views": 5500,
       "url": "https://www.youtube.com/watch?v=lEgQ-F2EVNw"
     },
     {
       "date": "2026-08-20",
       "channel": "뷰포인트",
       "title": "이병헌·김태리 「미스터 션샤인」 24부작을 처음 본 외국인들, 마지막 회에서 끝내 무너지다 (풀 리액션 한번에보기)",
-      "views": 6409,
+      "views": 6535,
       "url": "https://www.youtube.com/watch?v=PE7c2SBI7cQ"
     },
     {
@@ -1062,42 +1062,42 @@ window.DATA = {
       "date": "2026-08-04",
       "channel": "해외반응픽",
       "title": "미국 의사가 한국 의학드라마를 세 번이나 돌려본 이유 [슬기로운 의사생활]",
-      "views": 71348,
+      "views": 71873,
       "url": "https://www.youtube.com/watch?v=KSMNrmlhjgY"
     },
     {
       "date": "2026-07-09",
       "channel": "해외반응픽",
       "title": "[해외반응] \"마지막 10분은 말이 안 된다\"… 외국인들이 동시에 울어버린 한국영화 《왕과 사는 남자》",
-      "views": 33982,
+      "views": 33976,
       "url": "https://www.youtube.com/watch?v=U0g1TFDez80"
     },
     {
       "date": "2026-07-15",
       "channel": "해외반응픽",
       "title": "12척으로 330척을 막았다는 말에 외국인들이 소름 돋은 순간 — 영화 명량 해외 리뷰어 실시간 반응",
-      "views": 21394,
+      "views": 21398,
       "url": "https://www.youtube.com/watch?v=tE80jFMi8Oc"
     },
     {
       "date": "2026-07-29",
       "channel": "해외반응픽",
       "title": "소지섭 '김부장' 마지막 화, 외국인 리뷰어들이 케이지 앞에서 무너진 이유",
-      "views": 8366,
+      "views": 8367,
       "url": "https://www.youtube.com/watch?v=D6lhjOfsvbc"
     },
     {
       "date": "2026-08-07",
       "channel": "해외반응픽",
       "title": "\"이게 진짜 의사라고?\" 슬기로운 의사생활에 외국인이 무너진 장면 [3·4화 해외반응]",
-      "views": 7643,
+      "views": 7650,
       "url": "https://www.youtube.com/watch?v=lj0SUljEwOk"
     },
     {
       "date": "2026-08-27",
       "channel": "해외반응픽",
       "title": "다른 사람이 생겼다더니'…30년 만에 만난 어머니를 떠나보낸 경비원, 외국인들이 오열한 슬의생 시즌2 7·8화 반응",
-      "views": 2702,
+      "views": 2697,
       "url": "https://www.youtube.com/watch?v=7z2Uf6O9khg"
     },
     {
@@ -1111,21 +1111,21 @@ window.DATA = {
       "date": "2026-08-25",
       "channel": "해외반응픽",
       "title": "'다른 사람이 생겼어'…익순의 거짓말을 알아챈 익준, 외국인들이 오열한 슬의생 시즌2 5·6화 반응",
-      "views": 1094,
+      "views": 1099,
       "url": "https://www.youtube.com/watch?v=lTF5vnmM73E"
     },
     {
       "date": "2026-08-22",
       "channel": "해외반응픽",
       "title": "슬기로운 의사생활 시즌2, 은지 심장·익순 사고 앞에서 외국인들이 결국 무너진 순간들",
-      "views": 1057,
+      "views": 1067,
       "url": "https://www.youtube.com/watch?v=HCUo1dSJgE0"
     },
     {
       "date": "2026-08-18",
       "channel": "해외반응픽",
       "title": "조정석·유연석 '슬기로운 의사생활 시즌2' 1·2화… 외국인들이 사산·간이식 장면에서 끝내 두 손으로 얼굴을 감싼 순간 [해외반응 실시간 리뷰]",
-      "views": 2979,
+      "views": 2987,
       "url": "https://www.youtube.com/watch?v=9j41mcKehAc"
     },
     {
@@ -1139,14 +1139,14 @@ window.DATA = {
       "date": "2026-08-14",
       "channel": "해외반응픽",
       "title": "미국 리뷰어가 '슬기로운 의사생활' 아버지 간이식 장면에서 자기 아버지를 떠올린 순간 [9·10화]",
-      "views": 2771,
+      "views": 2773,
       "url": "https://www.youtube.com/watch?v=iGyyFcQ2ndE"
     },
     {
       "date": "2026-08-13",
       "channel": "해외반응픽",
       "title": "미국 리뷰어가 '슬기로운 의사생활' 5·6화에서 결국 무너진 장면 [해외반응 실시간 리뷰]",
-      "views": 6192,
+      "views": 6194,
       "url": "https://www.youtube.com/watch?v=7qrokUdvYOE"
     },
     {
@@ -1167,14 +1167,14 @@ window.DATA = {
       "date": "2026-08-27",
       "channel": "코리아리뷰",
       "title": "외국인들이 태풍 장면 보다 오열한 그 드라마 | 폭싹 속았수다 6·7화 해외 리액션",
-      "views": 14779,
+      "views": 15027,
       "url": "https://www.youtube.com/watch?v=6k4XDYz6SuI"
     },
     {
       "date": "2026-08-21",
       "channel": "코리아리뷰",
       "title": "IU·박보검 '폭싹 속았수다' — 외국인들이 첫 입맞춤과 '떠나는 배' 장면에서 끝내 무너진 순간들 [2·3화 해외반응]",
-      "views": 9042,
+      "views": 9321,
       "url": "https://www.youtube.com/watch?v=dY0zBRbZaeA"
     },
     {
