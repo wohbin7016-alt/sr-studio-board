@@ -123,7 +123,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-09-04 23:19",
-      "subs_delta": 100
+      "subs_delta": 0
     },
     {
       "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
@@ -369,7 +369,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-09-04 23:20",
-      "subs_delta": 80
+      "subs_delta": 0
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
@@ -615,7 +615,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-09-04 23:22",
-      "subs_delta": 6
+      "subs_delta": 0
     },
     {
       "url": "https://www.youtube.com/channel/UChq2TqKlpNlWpHpDRMwyCeQ",
@@ -738,7 +738,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-09-04 23:23",
-      "subs_delta": -1
+      "subs_delta": 0
     }
   ],
   "generated_at": "2026-09-04 23:19",
