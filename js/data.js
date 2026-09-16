@@ -8,22 +8,22 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 41300,
       "sampled": 20,
-      "avg_views": 20111,
-      "median_views": 11541,
+      "avg_views": 20139,
+      "median_views": 11550,
       "uploads_30d": 20,
-      "views_30d": 402222,
+      "views_30d": 402792,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "묻어둔 히트곡이 수십 년 만에 다시 터졌다! 역주행 원로가수 TOP7 (1위는 인생역전 국민밈)",
-          "views": 118131,
+          "views": 118144,
           "date": "2026-09-09",
           "duration": 85,
           "url": "https://www.youtube.com/watch?v=n3Y8zsA0lwo"
         },
         {
           "title": "알고보니 남매가 다 스타 — 연예계 형제·자매 TOP7 (1위는 국민 여배우?!)",
-          "views": 98477,
+          "views": 98526,
           "date": "2026-09-09",
           "duration": 86,
           "url": "https://www.youtube.com/watch?v=wPrS23LJZUY"
@@ -53,42 +53,42 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "알고보니 90년대를 설레게 한 데뷔 시절 청춘스타 TOP7 😍 지금은 대배우, 그때는 풋풋한 신인",
-          "views": 3083,
+          "views": 3200,
           "date": "2026-09-16",
           "duration": 79,
           "url": "https://www.youtube.com/watch?v=4yMCxaXjl1A"
         },
         {
           "title": "안방극장 국민 엄마는 다 이 배우였다 TOP7 (1위는 반세기 대명사)",
-          "views": 3165,
+          "views": 3234,
           "date": "2026-09-16",
           "duration": 86,
           "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
         },
         {
           "title": "알고보니 태권도 유단자였던 반전 스타 TOP7 (1위는 국가대표 출신)",
-          "views": 15727,
+          "views": 15766,
           "date": "2026-09-15",
           "duration": 84,
           "url": "https://www.youtube.com/watch?v=q-TLesWMUW4"
         },
         {
           "title": "화면빨인 줄 알았는데 실물이 더 미친 스타 TOP7 (실제로 보면 더 미쳤다는 배우들, 1위는?)",
-          "views": 13536,
+          "views": 13744,
           "date": "2026-09-15",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=O0beAAWps3A"
         },
         {
           "title": "기부한 것도 까먹은 무심한 기부천사 스타 TOP7",
-          "views": 2647,
+          "views": 2672,
           "date": "2026-09-14",
           "duration": 88,
           "url": "https://www.youtube.com/watch?v=beWBjOgY-uo"
         },
         {
           "title": "정가 19만 원이 800만 원, 암표·티켓 전쟁 TOP7",
-          "views": 2884,
+          "views": 2870,
           "date": "2026-09-14",
           "duration": 89,
           "url": "https://www.youtube.com/watch?v=biZz7SzMRA8"
@@ -102,7 +102,7 @@ window.DATA = {
         },
         {
           "title": "안방극장 국민 형사는 다 이 배우였다 TOP7 (1위는 원조 수사반장 그 배우)",
-          "views": 4319,
+          "views": 4362,
           "date": "2026-09-13",
           "duration": 85,
           "url": "https://www.youtube.com/watch?v=u8qDZCkKN4E"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=dBSV1050jaM"
         }
       ],
-      "analyzed_at": "2026-09-17 06:20",
+      "analyzed_at": "2026-09-17 07:23",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC_yso506oAtYKFyyS77pzLw",
       "subscribers": 74900,
       "sampled": 20,
-      "avg_views": 5677,
-      "median_views": 4135,
+      "avg_views": 5696,
+      "median_views": 4141,
       "uploads_30d": 20,
-      "views_30d": 113546,
+      "views_30d": 113929,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -146,28 +146,28 @@ window.DATA = {
         },
         {
           "title": "'나혼산 걔'라 불리던 박지현, 연말 시상식 주인공이 되다",
-          "views": 10241,
+          "views": 10317,
           "date": "2026-09-12",
           "duration": 53,
           "url": "https://www.youtube.com/watch?v=wSK0CTqnEDM"
         },
         {
-          "title": "노래만 하는 줄? 알고보니 미스터로또 대표 춤꾼 박지현",
-          "views": 9380,
-          "date": "2026-09-07",
-          "duration": 54,
-          "url": "https://www.youtube.com/watch?v=SgINQ2PienU"
-        },
-        {
           "title": "콘서트 앞두고도 멈추지 않았다, 박지현이 송도를 뒤집은 밤",
-          "views": 9334,
+          "views": 9408,
           "date": "2026-09-13",
           "duration": 53,
           "url": "https://www.youtube.com/watch?v=roLu8pA4Nzs"
         },
         {
+          "title": "노래만 하는 줄? 알고보니 미스터로또 대표 춤꾼 박지현",
+          "views": 9381,
+          "date": "2026-09-07",
+          "duration": 54,
+          "url": "https://www.youtube.com/watch?v=SgINQ2PienU"
+        },
+        {
           "title": "완벽한 프린스가 집에선? 박지현 나혼산 자취방 대반전",
-          "views": 9053,
+          "views": 9131,
           "date": "2026-09-10",
           "duration": 49,
           "url": "https://www.youtube.com/watch?v=sFoOmN6c3Po"
@@ -197,55 +197,55 @@ window.DATA = {
         },
         {
           "title": "송가인 노래를 받아든 박지현, 거문고야로 톱10 뚫은 무대",
-          "views": 2985,
+          "views": 3016,
           "date": "2026-09-15",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=X7799pzT3iM"
         },
         {
           "title": "직캠 하나가 사라질 뻔한 그룹을 살렸다, EXID 하니 위아래 역주행 신드롬",
-          "views": 1948,
+          "views": 1949,
           "date": "2026-09-14",
           "duration": 49,
           "url": "https://www.youtube.com/watch?v=V0qNK0Xp4Uk"
         },
         {
           "title": "완벽하던 무인도 에이스 박지현, 결국 울어버렸습니다",
-          "views": 2393,
+          "views": 2417,
           "date": "2026-09-14",
           "duration": 52,
           "url": "https://www.youtube.com/watch?v=L2yOaAtRxL8"
         },
         {
           "title": "콘서트 앞두고도 멈추지 않았다, 박지현이 송도를 뒤집은 밤",
-          "views": 9334,
+          "views": 9408,
           "date": "2026-09-13",
           "duration": 53,
           "url": "https://www.youtube.com/watch?v=roLu8pA4Nzs"
         },
         {
           "title": "773만 문자에 개표가 멈췄다, 미스터트롯 결승 그날의 방송사고",
-          "views": 2055,
+          "views": 2085,
           "date": "2026-09-13",
           "duration": 53,
           "url": "https://www.youtube.com/watch?v=KV507ancRKY"
         },
         {
           "title": "잡초라 불리던 소년이 무대를 뒤집은 날",
-          "views": 3977,
+          "views": 3993,
           "date": "2026-09-12",
           "duration": 53,
           "url": "https://www.youtube.com/watch?v=C2zHKkOeRJI"
         },
         {
           "title": "'나혼산 걔'라 불리던 박지현, 연말 시상식 주인공이 되다",
-          "views": 10241,
+          "views": 10317,
           "date": "2026-09-12",
           "duration": 53,
           "url": "https://www.youtube.com/watch?v=wSK0CTqnEDM"
         }
       ],
-      "analyzed_at": "2026-09-17 06:20",
+      "analyzed_at": "2026-09-17 07:24",
       "subs_delta": 0
     },
     {
@@ -254,36 +254,36 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 6170,
       "sampled": 20,
-      "avg_views": 98111,
-      "median_views": 40143,
+      "avg_views": 98252,
+      "median_views": 40284,
       "uploads_30d": 20,
-      "views_30d": 1962237,
+      "views_30d": 1965052,
       "shorts_ratio": 0.4,
       "top_videos": [
         {
           "title": "장효조도 못 넘은 통산 타율 3할 4푼, KBO 역대 최고 교타자 TOP7",
-          "views": 750717,
+          "views": 750938,
           "date": "2026-09-09",
           "duration": 71,
           "url": "https://www.youtube.com/watch?v=kX5tqPTsnGg"
         },
         {
           "title": "방어율 0점대 실화냐 KBO 방어율 전설 TOP7 (1위는 0점대 방어율만 세 번·국보급)",
-          "views": 247037,
+          "views": 247509,
           "date": "2026-09-12",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=AX4cBZ1EsDQ"
         },
         {
           "title": "이승엽도 10번 받은 그 상, KBO 골든글러브 최다수상 TOP7 (1위는 이승엽 아님)",
-          "views": 232972,
+          "views": 233083,
           "date": "2026-09-10",
           "duration": 65,
           "url": "https://www.youtube.com/watch?v=tieNE0m5GdY"
         },
         {
           "title": "방망이가 못 따라갔다 KBO 토종 강속구 TOP7 (1위는 토종 최초 161.6km 돌파)",
-          "views": 180133,
+          "views": 181288,
           "date": "2026-09-13",
           "duration": 66,
           "url": "https://www.youtube.com/watch?v=m-vbBSvaqwQ"
@@ -299,28 +299,28 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "삼진인데 경기가 끝났다? KBO 역대급 황당사건 3가지",
-          "views": 2440,
+          "views": 2600,
           "date": "2026-09-16",
           "duration": 63,
           "url": "https://www.youtube.com/watch?v=y7i61MbIY-I"
         },
         {
           "title": "가을야구를 끝낸 한 방, KBO 끝내기 홈런 TOP7 (한국시리즈·플레이오프)",
-          "views": 14835,
+          "views": 15176,
           "date": "2026-09-16",
           "duration": 74,
           "url": "https://www.youtube.com/watch?v=L5JlC8JUCKs"
         },
         {
           "title": "은퇴날 다시 소환된 그 경기 — 한 경기 4홈런 9타점, 오재일",
-          "views": 8602,
+          "views": 8642,
           "date": "2026-09-15",
           "duration": 59,
           "url": "https://www.youtube.com/watch?v=oaE9BzaQ1Rs"
         },
         {
           "title": "이름을 원소기호로 바꿔 불렀다, KBO 선수 유치한 별명 TOP7",
-          "views": 42523,
+          "views": 42605,
           "date": "2026-09-15",
           "duration": 72,
           "url": "https://www.youtube.com/watch?v=cBpYHPT0qjU"
@@ -334,28 +334,28 @@ window.DATA = {
         },
         {
           "title": "9회말 2아웃의 기적, KBO 끝내기 만루포 TOP7",
-          "views": 35256,
+          "views": 35206,
           "date": "2026-09-14",
           "duration": 83,
           "url": "https://www.youtube.com/watch?v=qGwPdZyUiS4"
         },
         {
           "title": "방망이가 못 따라갔다 KBO 토종 강속구 TOP7 (1위는 토종 최초 161.6km 돌파)",
-          "views": 180133,
+          "views": 181288,
           "date": "2026-09-13",
           "duration": 66,
           "url": "https://www.youtube.com/watch?v=m-vbBSvaqwQ"
         },
         {
           "title": "수술로 못 던지던 투수가, 한국인 최초 MLB 방어율 1위에 오른 그날 (류현진 2019)",
-          "views": 27279,
+          "views": 27327,
           "date": "2026-09-13",
           "duration": 55,
           "url": "https://www.youtube.com/watch?v=DjG2QPgcqWk"
         },
         {
           "title": "방어율 0점대 실화냐 KBO 방어율 전설 TOP7 (1위는 0점대 방어율만 세 번·국보급)",
-          "views": 247037,
+          "views": 247509,
           "date": "2026-09-12",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=AX4cBZ1EsDQ"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=csKrvWwZjUA"
         }
       ],
-      "analyzed_at": "2026-09-17 06:21",
+      "analyzed_at": "2026-09-17 07:24",
       "subs_delta": 10
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 2400,
       "sampled": 20,
-      "avg_views": 12804,
-      "median_views": 2422,
+      "avg_views": 12842,
+      "median_views": 2444,
       "uploads_30d": 20,
-      "views_30d": 256090,
+      "views_30d": 256850,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "성공해도 안 변했다, 30년 우정 지킨 국민 절친 TOP7 (1위는 국민 예능 콤비!)",
-          "views": 96422,
+          "views": 96535,
           "date": "2026-09-11",
           "duration": 102,
           "url": "https://www.youtube.com/watch?v=fot8WAXVw_w"
         },
         {
           "title": "눈 맞자마자 초고속 결혼한 스타 커플 TOP7 (1위는?)",
-          "views": 75724,
+          "views": 75742,
           "date": "2026-09-09",
           "duration": 72,
           "url": "https://www.youtube.com/watch?v=mhaeCklX69U"
@@ -406,14 +406,14 @@ window.DATA = {
         },
         {
           "title": "TV로 볼 땐 몰랐다 알고보니 쌍둥이였던 스타 TOP7",
-          "views": 13454,
+          "views": 13569,
           "date": "2026-09-14",
           "duration": 91,
           "url": "https://www.youtube.com/watch?v=rFBTD1Tz5DE"
         },
         {
           "title": "미모로 시대를 사로잡은 그 시절 원조 자연미인 TOP7",
-          "views": 10512,
+          "views": 10514,
           "date": "2026-09-10",
           "duration": 105,
           "url": "https://www.youtube.com/watch?v=uGEGqW1vGAA"
@@ -422,21 +422,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "어릴 때 사진부터 남달랐던 모태미남·미녀 스타 TOP7",
-          "views": 1331,
+          "views": 1356,
           "date": "2026-09-16",
           "duration": 83,
           "url": "https://www.youtube.com/watch?v=7JpNruMnhzA"
         },
         {
           "title": "카메라 코앞에 들이대도 쌩얼이 더 예쁜 스타 TOP7",
-          "views": 2097,
+          "views": 2141,
           "date": "2026-09-16",
           "duration": 84,
           "url": "https://www.youtube.com/watch?v=CSNr4kU2xyM"
         },
         {
           "title": "군대 간 남자들이 못 잊는 군통령 스타 TOP7 (1위는 역주행 신화)",
-          "views": 482,
+          "views": 852,
           "date": "2026-09-15",
           "duration": 86,
           "url": "https://www.youtube.com/watch?v=B_GcL4I_zwQ"
@@ -450,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "TV로 볼 땐 몰랐다 알고보니 쌍둥이였던 스타 TOP7",
-          "views": 13454,
+          "views": 13569,
           "date": "2026-09-14",
           "duration": 91,
           "url": "https://www.youtube.com/watch?v=rFBTD1Tz5DE"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "TV 틀면 다 나온다, 광고 대세 스타 TOP7",
-          "views": 1728,
+          "views": 1801,
           "date": "2026-09-13",
           "duration": 100,
           "url": "https://www.youtube.com/watch?v=fZqrZmQ8qmo"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=b5r-7lDd5UE"
         }
       ],
-      "analyzed_at": "2026-09-17 06:22",
+      "analyzed_at": "2026-09-17 07:25",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 642,
       "sampled": 20,
-      "avg_views": 21779,
-      "median_views": 10438,
+      "avg_views": 21798,
+      "median_views": 10439,
       "uploads_30d": 20,
-      "views_30d": 435582,
+      "views_30d": 435976,
       "shorts_ratio": 0.2,
       "top_videos": [
         {
@@ -529,14 +529,14 @@ window.DATA = {
         },
         {
           "title": "그 꼬마가 이렇게 컸다고? 인생역전한 아역 스타 TOP7",
-          "views": 28703,
+          "views": 28718,
           "date": "2026-09-07",
           "duration": 89,
           "url": "https://www.youtube.com/watch?v=3t8AxTJCcug"
         },
         {
           "title": "광고 한 편에 억 소리, CF 몸값 미친 스타 TOP7",
-          "views": 27985,
+          "views": 28046,
           "date": "2026-09-13",
           "duration": 74,
           "url": "https://www.youtube.com/watch?v=VVoTtagnbRM"
@@ -545,49 +545,49 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "알고보니 초고학벌, 명문대 스타 TOP7",
-          "views": 3976,
+          "views": 4042,
           "date": "2026-09-16",
           "duration": 75,
           "url": "https://www.youtube.com/watch?v=-sndFol7Npw"
         },
         {
           "title": "예명이 인생을 바꿨다, 본명 몰랐던 스타 TOP7",
-          "views": 3292,
+          "views": 3383,
           "date": "2026-09-16",
           "duration": 63,
           "url": "https://www.youtube.com/watch?v=VO3IjAyd1Mk"
         },
         {
           "title": "세월도 비껴간 동안 미모 스타 TOP7 (1위는 아시아를 사로잡은 국민 드라마 여신)",
-          "views": 2238,
+          "views": 2314,
           "date": "2026-09-15",
           "duration": 62,
           "url": "https://www.youtube.com/watch?v=XbGJmuNDUAc"
         },
         {
           "title": "그 시절 온 국민을 홀린 원조 여신 | 리즈시절 레전드 여배우 TOP7",
-          "views": 5119,
+          "views": 5143,
           "date": "2026-09-14",
           "duration": 76,
           "url": "https://www.youtube.com/watch?v=YV4l5csfrXg"
         },
         {
           "title": "한 회 찍고 아파트 한 채 회당 출연료 미친 배우 TOP7 (1위는 국내 최초 회당 10억 넘긴 그 배우)",
-          "views": 13735,
+          "views": 13781,
           "date": "2026-09-14",
           "duration": 71,
           "url": "https://www.youtube.com/watch?v=ik1xeKtYeYU"
         },
         {
           "title": "알고 보니 다 미스코리아 미모 폭발 스타 TOP7 (1위는 시청률 50% 전설의 대회 출신 국민 여배우)",
-          "views": 4680,
+          "views": 4683,
           "date": "2026-09-13",
           "duration": 65,
           "url": "https://www.youtube.com/watch?v=TL6YF6J9eX8"
         },
         {
           "title": "광고 한 편에 억 소리, CF 몸값 미친 스타 TOP7",
-          "views": 27985,
+          "views": 28046,
           "date": "2026-09-13",
           "duration": 74,
           "url": "https://www.youtube.com/watch?v=VVoTtagnbRM"
@@ -614,7 +614,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Aq69g8U07rk"
         }
       ],
-      "analyzed_at": "2026-09-17 06:22",
+      "analyzed_at": "2026-09-17 07:26",
       "subs_delta": 10
     },
     {
@@ -623,22 +623,22 @@ window.DATA = {
       "channel_id": "UChq2TqKlpNlWpHpDRMwyCeQ",
       "subscribers": 80,
       "sampled": 20,
-      "avg_views": 5140,
+      "avg_views": 5144,
       "median_views": 879,
       "uploads_30d": 13,
-      "views_30d": 77646,
+      "views_30d": 77731,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "IU·박보검 '폭싹 속았수다' — 외국인들이 첫 입맞춤과 '떠나는 배' 장면에서 끝내 무너진 순간들 [2·3화 해외반응]",
-          "views": 27630,
+          "views": 27633,
           "date": "2026-08-21",
           "duration": 1575,
           "url": "https://www.youtube.com/watch?v=dY0zBRbZaeA"
         },
         {
           "title": "첫 화부터 모두 울었다… 외국인들이 ‘살면 살아져’ 장면에서 끝내 무너진 이유 [폭싹 속았수다 1화 해외반응]",
-          "views": 22463,
+          "views": 22461,
           "date": "2026-08-10",
           "duration": 1680,
           "url": "https://www.youtube.com/watch?v=u7p3B8IkX70"
@@ -659,7 +659,7 @@ window.DATA = {
         },
         {
           "title": "폭싹 속았수다' 16화 최종화 해외반응 — \"궂은 날은 있어도 외로운 날은 없었다\", 외국인들이 눈물로 배웅한 마지막 회",
-          "views": 6786,
+          "views": 6798,
           "date": "2026-09-10",
           "duration": 856,
           "url": "https://www.youtube.com/watch?v=pwUkCrO2Xkg"
@@ -668,49 +668,49 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "소덕동 팽나무를 지켜라 — 외국인들이 '그 승소'에 다 같이 환호한 순간 | 이상한 변호사 우영우 (박은빈) 7·8화 해외 리액션",
-          "views": 46,
+          "views": 51,
           "date": "2026-09-16",
           "duration": 819,
           "url": "https://www.youtube.com/watch?v=WK6XvnJmuSk"
         },
         {
           "title": "외국인들이 '어미 고래' 변론에서 다 같이 오열한 그 장면 | 이상한 변호사 우영우 (박은빈) 5·6화 해외 리액션",
-          "views": 145,
+          "views": 152,
           "date": "2026-09-15",
           "duration": 847,
           "url": "https://www.youtube.com/watch?v=nH_FB_w4uLA"
         },
         {
           "title": "검사가 \"당신 자폐잖아요\"… 외국인 리액터들이 분노하고 오열한 그 장면 | 이상한 변호사 우영우 (박은빈) 해외 리액션 | 3·4화",
-          "views": 454,
+          "views": 460,
           "date": "2026-09-14",
           "duration": 753,
           "url": "https://www.youtube.com/watch?v=BCjpJ9xYjEA"
         },
         {
           "title": "전 세계가 반한 그 드라마, 외국인 리액터들이 1화부터 뒤집어진 이유 | 이상한 변호사 우영우 (박은빈) 해외 리액션",
-          "views": 4399,
+          "views": 4444,
           "date": "2026-09-13",
           "duration": 771,
           "url": "https://www.youtube.com/watch?v=A4wtGpc_uu4"
         },
         {
           "title": "폭싹 속았수다' 16화 최종화 해외반응 — \"궂은 날은 있어도 외로운 날은 없었다\", 외국인들이 눈물로 배웅한 마지막 회",
-          "views": 6786,
+          "views": 6798,
           "date": "2026-09-10",
           "duration": 856,
           "url": "https://www.youtube.com/watch?v=pwUkCrO2Xkg"
         },
         {
           "title": "'폭싹 속았수다' 14·15화 해외반응 — 은명이가 끝내 마음을 쏟아낸 날, 그리고 금명이의 아기 앞에서 외국인 리뷰어들이 결국 무너진 순간 (실시간 리뷰)",
-          "views": 4061,
+          "views": 4065,
           "date": "2026-09-09",
           "duration": 1920,
           "url": "https://www.youtube.com/watch?v=6l-GNwF6I1E"
         },
         {
           "title": "폭싹 속았수다' 12·13화 해외반응 — 딸을 시집보내던 날, 애순이보다 관식이가 더 울어버린 순간에 외국인 리뷰어들이 결국 무너졌다 (실시간 리뷰)",
-          "views": 5021,
+          "views": 5023,
           "date": "2026-09-08",
           "duration": 1920,
           "url": "https://www.youtube.com/watch?v=zyOBivck4sc"
@@ -737,24 +737,24 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=6k4XDYz6SuI"
         }
       ],
-      "analyzed_at": "2026-09-17 06:23",
+      "analyzed_at": "2026-09-17 07:26",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-09-17 06:20",
+  "generated_at": "2026-09-17 07:23",
   "videos": [
     {
       "date": "2026-09-09",
       "channel": "숏츠시작",
       "title": "묻어둔 히트곡이 수십 년 만에 다시 터졌다! 역주행 원로가수 TOP7 (1위는 인생역전 국민밈)",
-      "views": 118131,
+      "views": 118144,
       "url": "https://www.youtube.com/watch?v=n3Y8zsA0lwo"
     },
     {
       "date": "2026-09-09",
       "channel": "숏츠시작",
       "title": "알고보니 남매가 다 스타 — 연예계 형제·자매 TOP7 (1위는 국민 여배우?!)",
-      "views": 98477,
+      "views": 98526,
       "url": "https://www.youtube.com/watch?v=wPrS23LJZUY"
     },
     {
@@ -782,42 +782,42 @@ window.DATA = {
       "date": "2026-09-16",
       "channel": "숏츠시작",
       "title": "알고보니 90년대를 설레게 한 데뷔 시절 청춘스타 TOP7 😍 지금은 대배우, 그때는 풋풋한 신인",
-      "views": 3083,
+      "views": 3200,
       "url": "https://www.youtube.com/watch?v=4yMCxaXjl1A"
     },
     {
       "date": "2026-09-16",
       "channel": "숏츠시작",
       "title": "안방극장 국민 엄마는 다 이 배우였다 TOP7 (1위는 반세기 대명사)",
-      "views": 3165,
+      "views": 3234,
       "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
     },
     {
       "date": "2026-09-15",
       "channel": "숏츠시작",
       "title": "알고보니 태권도 유단자였던 반전 스타 TOP7 (1위는 국가대표 출신)",
-      "views": 15727,
+      "views": 15766,
       "url": "https://www.youtube.com/watch?v=q-TLesWMUW4"
     },
     {
       "date": "2026-09-15",
       "channel": "숏츠시작",
       "title": "화면빨인 줄 알았는데 실물이 더 미친 스타 TOP7 (실제로 보면 더 미쳤다는 배우들, 1위는?)",
-      "views": 13536,
+      "views": 13744,
       "url": "https://www.youtube.com/watch?v=O0beAAWps3A"
     },
     {
       "date": "2026-09-14",
       "channel": "숏츠시작",
       "title": "기부한 것도 까먹은 무심한 기부천사 스타 TOP7",
-      "views": 2647,
+      "views": 2672,
       "url": "https://www.youtube.com/watch?v=beWBjOgY-uo"
     },
     {
       "date": "2026-09-14",
       "channel": "숏츠시작",
       "title": "정가 19만 원이 800만 원, 암표·티켓 전쟁 TOP7",
-      "views": 2884,
+      "views": 2870,
       "url": "https://www.youtube.com/watch?v=biZz7SzMRA8"
     },
     {
@@ -831,7 +831,7 @@ window.DATA = {
       "date": "2026-09-13",
       "channel": "숏츠시작",
       "title": "안방극장 국민 형사는 다 이 배우였다 TOP7 (1위는 원조 수사반장 그 배우)",
-      "views": 4319,
+      "views": 4362,
       "url": "https://www.youtube.com/watch?v=u8qDZCkKN4E"
     },
     {
@@ -859,28 +859,28 @@ window.DATA = {
       "date": "2026-09-12",
       "channel": "연예정보통",
       "title": "'나혼산 걔'라 불리던 박지현, 연말 시상식 주인공이 되다",
-      "views": 10241,
+      "views": 10317,
       "url": "https://www.youtube.com/watch?v=wSK0CTqnEDM"
-    },
-    {
-      "date": "2026-09-07",
-      "channel": "연예정보통",
-      "title": "노래만 하는 줄? 알고보니 미스터로또 대표 춤꾼 박지현",
-      "views": 9380,
-      "url": "https://www.youtube.com/watch?v=SgINQ2PienU"
     },
     {
       "date": "2026-09-13",
       "channel": "연예정보통",
       "title": "콘서트 앞두고도 멈추지 않았다, 박지현이 송도를 뒤집은 밤",
-      "views": 9334,
+      "views": 9408,
       "url": "https://www.youtube.com/watch?v=roLu8pA4Nzs"
+    },
+    {
+      "date": "2026-09-07",
+      "channel": "연예정보통",
+      "title": "노래만 하는 줄? 알고보니 미스터로또 대표 춤꾼 박지현",
+      "views": 9381,
+      "url": "https://www.youtube.com/watch?v=SgINQ2PienU"
     },
     {
       "date": "2026-09-10",
       "channel": "연예정보통",
       "title": "완벽한 프린스가 집에선? 박지현 나혼산 자취방 대반전",
-      "views": 9053,
+      "views": 9131,
       "url": "https://www.youtube.com/watch?v=sFoOmN6c3Po"
     },
     {
@@ -908,63 +908,63 @@ window.DATA = {
       "date": "2026-09-15",
       "channel": "연예정보통",
       "title": "송가인 노래를 받아든 박지현, 거문고야로 톱10 뚫은 무대",
-      "views": 2985,
+      "views": 3016,
       "url": "https://www.youtube.com/watch?v=X7799pzT3iM"
     },
     {
       "date": "2026-09-14",
       "channel": "연예정보통",
       "title": "직캠 하나가 사라질 뻔한 그룹을 살렸다, EXID 하니 위아래 역주행 신드롬",
-      "views": 1948,
+      "views": 1949,
       "url": "https://www.youtube.com/watch?v=V0qNK0Xp4Uk"
     },
     {
       "date": "2026-09-14",
       "channel": "연예정보통",
       "title": "완벽하던 무인도 에이스 박지현, 결국 울어버렸습니다",
-      "views": 2393,
+      "views": 2417,
       "url": "https://www.youtube.com/watch?v=L2yOaAtRxL8"
     },
     {
       "date": "2026-09-13",
       "channel": "연예정보통",
       "title": "773만 문자에 개표가 멈췄다, 미스터트롯 결승 그날의 방송사고",
-      "views": 2055,
+      "views": 2085,
       "url": "https://www.youtube.com/watch?v=KV507ancRKY"
     },
     {
       "date": "2026-09-12",
       "channel": "연예정보통",
       "title": "잡초라 불리던 소년이 무대를 뒤집은 날",
-      "views": 3977,
+      "views": 3993,
       "url": "https://www.youtube.com/watch?v=C2zHKkOeRJI"
     },
     {
       "date": "2026-09-09",
       "channel": "이슈브리핑",
       "title": "장효조도 못 넘은 통산 타율 3할 4푼, KBO 역대 최고 교타자 TOP7",
-      "views": 750717,
+      "views": 750938,
       "url": "https://www.youtube.com/watch?v=kX5tqPTsnGg"
     },
     {
       "date": "2026-09-12",
       "channel": "이슈브리핑",
       "title": "방어율 0점대 실화냐 KBO 방어율 전설 TOP7 (1위는 0점대 방어율만 세 번·국보급)",
-      "views": 247037,
+      "views": 247509,
       "url": "https://www.youtube.com/watch?v=AX4cBZ1EsDQ"
     },
     {
       "date": "2026-09-10",
       "channel": "이슈브리핑",
       "title": "이승엽도 10번 받은 그 상, KBO 골든글러브 최다수상 TOP7 (1위는 이승엽 아님)",
-      "views": 232972,
+      "views": 233083,
       "url": "https://www.youtube.com/watch?v=tieNE0m5GdY"
     },
     {
       "date": "2026-09-13",
       "channel": "이슈브리핑",
       "title": "방망이가 못 따라갔다 KBO 토종 강속구 TOP7 (1위는 토종 최초 161.6km 돌파)",
-      "views": 180133,
+      "views": 181288,
       "url": "https://www.youtube.com/watch?v=m-vbBSvaqwQ"
     },
     {
@@ -978,28 +978,28 @@ window.DATA = {
       "date": "2026-09-16",
       "channel": "이슈브리핑",
       "title": "삼진인데 경기가 끝났다? KBO 역대급 황당사건 3가지",
-      "views": 2440,
+      "views": 2600,
       "url": "https://www.youtube.com/watch?v=y7i61MbIY-I"
     },
     {
       "date": "2026-09-16",
       "channel": "이슈브리핑",
       "title": "가을야구를 끝낸 한 방, KBO 끝내기 홈런 TOP7 (한국시리즈·플레이오프)",
-      "views": 14835,
+      "views": 15176,
       "url": "https://www.youtube.com/watch?v=L5JlC8JUCKs"
     },
     {
       "date": "2026-09-15",
       "channel": "이슈브리핑",
       "title": "은퇴날 다시 소환된 그 경기 — 한 경기 4홈런 9타점, 오재일",
-      "views": 8602,
+      "views": 8642,
       "url": "https://www.youtube.com/watch?v=oaE9BzaQ1Rs"
     },
     {
       "date": "2026-09-15",
       "channel": "이슈브리핑",
       "title": "이름을 원소기호로 바꿔 불렀다, KBO 선수 유치한 별명 TOP7",
-      "views": 42523,
+      "views": 42605,
       "url": "https://www.youtube.com/watch?v=cBpYHPT0qjU"
     },
     {
@@ -1013,14 +1013,14 @@ window.DATA = {
       "date": "2026-09-14",
       "channel": "이슈브리핑",
       "title": "9회말 2아웃의 기적, KBO 끝내기 만루포 TOP7",
-      "views": 35256,
+      "views": 35206,
       "url": "https://www.youtube.com/watch?v=qGwPdZyUiS4"
     },
     {
       "date": "2026-09-13",
       "channel": "이슈브리핑",
       "title": "수술로 못 던지던 투수가, 한국인 최초 MLB 방어율 1위에 오른 그날 (류현진 2019)",
-      "views": 27279,
+      "views": 27327,
       "url": "https://www.youtube.com/watch?v=DjG2QPgcqWk"
     },
     {
@@ -1034,14 +1034,14 @@ window.DATA = {
       "date": "2026-09-11",
       "channel": "뷰포인트",
       "title": "성공해도 안 변했다, 30년 우정 지킨 국민 절친 TOP7 (1위는 국민 예능 콤비!)",
-      "views": 96422,
+      "views": 96535,
       "url": "https://www.youtube.com/watch?v=fot8WAXVw_w"
     },
     {
       "date": "2026-09-09",
       "channel": "뷰포인트",
       "title": "눈 맞자마자 초고속 결혼한 스타 커플 TOP7 (1위는?)",
-      "views": 75724,
+      "views": 75742,
       "url": "https://www.youtube.com/watch?v=mhaeCklX69U"
     },
     {
@@ -1055,35 +1055,35 @@ window.DATA = {
       "date": "2026-09-14",
       "channel": "뷰포인트",
       "title": "TV로 볼 땐 몰랐다 알고보니 쌍둥이였던 스타 TOP7",
-      "views": 13454,
+      "views": 13569,
       "url": "https://www.youtube.com/watch?v=rFBTD1Tz5DE"
     },
     {
       "date": "2026-09-10",
       "channel": "뷰포인트",
       "title": "미모로 시대를 사로잡은 그 시절 원조 자연미인 TOP7",
-      "views": 10512,
+      "views": 10514,
       "url": "https://www.youtube.com/watch?v=uGEGqW1vGAA"
     },
     {
       "date": "2026-09-16",
       "channel": "뷰포인트",
       "title": "어릴 때 사진부터 남달랐던 모태미남·미녀 스타 TOP7",
-      "views": 1331,
+      "views": 1356,
       "url": "https://www.youtube.com/watch?v=7JpNruMnhzA"
     },
     {
       "date": "2026-09-16",
       "channel": "뷰포인트",
       "title": "카메라 코앞에 들이대도 쌩얼이 더 예쁜 스타 TOP7",
-      "views": 2097,
+      "views": 2141,
       "url": "https://www.youtube.com/watch?v=CSNr4kU2xyM"
     },
     {
       "date": "2026-09-15",
       "channel": "뷰포인트",
       "title": "군대 간 남자들이 못 잊는 군통령 스타 TOP7 (1위는 역주행 신화)",
-      "views": 482,
+      "views": 852,
       "url": "https://www.youtube.com/watch?v=B_GcL4I_zwQ"
     },
     {
@@ -1104,7 +1104,7 @@ window.DATA = {
       "date": "2026-09-13",
       "channel": "뷰포인트",
       "title": "TV 틀면 다 나온다, 광고 대세 스타 TOP7",
-      "views": 1728,
+      "views": 1801,
       "url": "https://www.youtube.com/watch?v=fZqrZmQ8qmo"
     },
     {
@@ -1153,56 +1153,56 @@ window.DATA = {
       "date": "2026-09-07",
       "channel": "해외반응픽",
       "title": "그 꼬마가 이렇게 컸다고? 인생역전한 아역 스타 TOP7",
-      "views": 28703,
+      "views": 28718,
       "url": "https://www.youtube.com/watch?v=3t8AxTJCcug"
     },
     {
       "date": "2026-09-13",
       "channel": "해외반응픽",
       "title": "광고 한 편에 억 소리, CF 몸값 미친 스타 TOP7",
-      "views": 27985,
+      "views": 28046,
       "url": "https://www.youtube.com/watch?v=VVoTtagnbRM"
     },
     {
       "date": "2026-09-16",
       "channel": "해외반응픽",
       "title": "알고보니 초고학벌, 명문대 스타 TOP7",
-      "views": 3976,
+      "views": 4042,
       "url": "https://www.youtube.com/watch?v=-sndFol7Npw"
     },
     {
       "date": "2026-09-16",
       "channel": "해외반응픽",
       "title": "예명이 인생을 바꿨다, 본명 몰랐던 스타 TOP7",
-      "views": 3292,
+      "views": 3383,
       "url": "https://www.youtube.com/watch?v=VO3IjAyd1Mk"
     },
     {
       "date": "2026-09-15",
       "channel": "해외반응픽",
       "title": "세월도 비껴간 동안 미모 스타 TOP7 (1위는 아시아를 사로잡은 국민 드라마 여신)",
-      "views": 2238,
+      "views": 2314,
       "url": "https://www.youtube.com/watch?v=XbGJmuNDUAc"
     },
     {
       "date": "2026-09-14",
       "channel": "해외반응픽",
       "title": "그 시절 온 국민을 홀린 원조 여신 | 리즈시절 레전드 여배우 TOP7",
-      "views": 5119,
+      "views": 5143,
       "url": "https://www.youtube.com/watch?v=YV4l5csfrXg"
     },
     {
       "date": "2026-09-14",
       "channel": "해외반응픽",
       "title": "한 회 찍고 아파트 한 채 회당 출연료 미친 배우 TOP7 (1위는 국내 최초 회당 10억 넘긴 그 배우)",
-      "views": 13735,
+      "views": 13781,
       "url": "https://www.youtube.com/watch?v=ik1xeKtYeYU"
     },
     {
       "date": "2026-09-13",
       "channel": "해외반응픽",
       "title": "알고 보니 다 미스코리아 미모 폭발 스타 TOP7 (1위는 시청률 50% 전설의 대회 출신 국민 여배우)",
-      "views": 4680,
+      "views": 4683,
       "url": "https://www.youtube.com/watch?v=TL6YF6J9eX8"
     },
     {
@@ -1223,14 +1223,14 @@ window.DATA = {
       "date": "2026-08-21",
       "channel": "코리아리뷰",
       "title": "IU·박보검 '폭싹 속았수다' — 외국인들이 첫 입맞춤과 '떠나는 배' 장면에서 끝내 무너진 순간들 [2·3화 해외반응]",
-      "views": 27630,
+      "views": 27633,
       "url": "https://www.youtube.com/watch?v=dY0zBRbZaeA"
     },
     {
       "date": "2026-08-10",
       "channel": "코리아리뷰",
       "title": "첫 화부터 모두 울었다… 외국인들이 ‘살면 살아져’ 장면에서 끝내 무너진 이유 [폭싹 속았수다 1화 해외반응]",
-      "views": 22463,
+      "views": 22461,
       "url": "https://www.youtube.com/watch?v=u7p3B8IkX70"
     },
     {
@@ -1251,49 +1251,49 @@ window.DATA = {
       "date": "2026-09-10",
       "channel": "코리아리뷰",
       "title": "폭싹 속았수다' 16화 최종화 해외반응 — \"궂은 날은 있어도 외로운 날은 없었다\", 외국인들이 눈물로 배웅한 마지막 회",
-      "views": 6786,
+      "views": 6798,
       "url": "https://www.youtube.com/watch?v=pwUkCrO2Xkg"
     },
     {
       "date": "2026-09-16",
       "channel": "코리아리뷰",
       "title": "소덕동 팽나무를 지켜라 — 외국인들이 '그 승소'에 다 같이 환호한 순간 | 이상한 변호사 우영우 (박은빈) 7·8화 해외 리액션",
-      "views": 46,
+      "views": 51,
       "url": "https://www.youtube.com/watch?v=WK6XvnJmuSk"
     },
     {
       "date": "2026-09-15",
       "channel": "코리아리뷰",
       "title": "외국인들이 '어미 고래' 변론에서 다 같이 오열한 그 장면 | 이상한 변호사 우영우 (박은빈) 5·6화 해외 리액션",
-      "views": 145,
+      "views": 152,
       "url": "https://www.youtube.com/watch?v=nH_FB_w4uLA"
     },
     {
       "date": "2026-09-14",
       "channel": "코리아리뷰",
       "title": "검사가 \"당신 자폐잖아요\"… 외국인 리액터들이 분노하고 오열한 그 장면 | 이상한 변호사 우영우 (박은빈) 해외 리액션 | 3·4화",
-      "views": 454,
+      "views": 460,
       "url": "https://www.youtube.com/watch?v=BCjpJ9xYjEA"
     },
     {
       "date": "2026-09-13",
       "channel": "코리아리뷰",
       "title": "전 세계가 반한 그 드라마, 외국인 리액터들이 1화부터 뒤집어진 이유 | 이상한 변호사 우영우 (박은빈) 해외 리액션",
-      "views": 4399,
+      "views": 4444,
       "url": "https://www.youtube.com/watch?v=A4wtGpc_uu4"
     },
     {
       "date": "2026-09-09",
       "channel": "코리아리뷰",
       "title": "'폭싹 속았수다' 14·15화 해외반응 — 은명이가 끝내 마음을 쏟아낸 날, 그리고 금명이의 아기 앞에서 외국인 리뷰어들이 결국 무너진 순간 (실시간 리뷰)",
-      "views": 4061,
+      "views": 4065,
       "url": "https://www.youtube.com/watch?v=6l-GNwF6I1E"
     },
     {
       "date": "2026-09-08",
       "channel": "코리아리뷰",
       "title": "폭싹 속았수다' 12·13화 해외반응 — 딸을 시집보내던 날, 애순이보다 관식이가 더 울어버린 순간에 외국인 리뷰어들이 결국 무너졌다 (실시간 리뷰)",
-      "views": 5021,
+      "views": 5023,
       "url": "https://www.youtube.com/watch?v=zyOBivck4sc"
     },
     {
