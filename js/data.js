@@ -123,6 +123,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-09-19 11:56",
+      "error": "Command '['/opt/homebrew/bin/yt-dlp', '--skip-download', '--flat-playlist', '--playlist-items', '0', '--print', 'playlist:%(channel)s\\t%(channel_follower_count)s\\t%(channel_id)s', 'https://youtube.com/@shortsstart26']' timed out after 180 seconds",
       "subs_delta": 0
     },
     {
@@ -246,6 +247,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-09-19 11:57",
+      "error": "Command '['/opt/homebrew/bin/yt-dlp', '--skip-download', '--flat-playlist', '--playlist-items', '0', '--print', 'playlist:%(channel)s\\t%(channel_follower_count)s\\t%(channel_id)s', 'https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw']' timed out after 180 seconds",
       "subs_delta": 0
     },
     {
@@ -369,6 +371,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-09-19 11:57",
+      "error": "Command '['/opt/homebrew/bin/yt-dlp', '--skip-download', '--flat-playlist', '--playlist-items', '0', '--print', 'playlist:%(channel)s\\t%(channel_follower_count)s\\t%(channel_id)s', 'https://youtube.com/channel/UC29M9AGVR19NtIrAHsjx-XA']' timed out after 180 seconds",
       "subs_delta": 50
     },
     {
@@ -492,252 +495,39 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-09-19 11:58",
+      "error": "Command '['/opt/homebrew/bin/yt-dlp', '--skip-download', '--flat-playlist', '--playlist-items', '0', '--print', 'playlist:%(channel)s\\t%(channel_follower_count)s\\t%(channel_id)s', 'https://youtube.com/@viewpoint-q9y']' timed out after 180 seconds",
       "subs_delta": 10
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
       "name": "해외반응픽",
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
-      "subscribers": 682,
-      "sampled": 20,
-      "avg_views": 22920,
-      "median_views": 12788,
-      "uploads_30d": 20,
-      "views_30d": 458411,
-      "shorts_ratio": 0.25,
-      "top_videos": [
-        {
-          "title": "남의 목소리로 스타가 된 성대모사 달인 TOP7 (1위는 목소리 하나로 라디오를 접수한 전설)",
-          "views": 105214,
-          "date": "2026-09-08",
-          "duration": 87,
-          "url": "https://www.youtube.com/watch?v=cnAr8h-s3jM"
-        },
-        {
-          "title": "한국말이 더 편해요, 한국인 다 된 외국인 스타 TOP7 (1위는 외국인 방송인의 원조로 불린 그 사람)",
-          "views": 87422,
-          "date": "2026-09-09",
-          "duration": 72,
-          "url": "https://www.youtube.com/watch?v=6-d7zOhtT48"
-        },
-        {
-          "title": "국경을 넘은 사랑, 외국인과 결혼한 국제결혼 스타 TOP7 (1위는 미국인 사업가 남편·하와이 러브스토리)",
-          "views": 70306,
-          "date": "2026-09-12",
-          "duration": 73,
-          "url": "https://www.youtube.com/watch?v=HCPdUj5HcwI"
-        },
-        {
-          "title": "그 꼬마가 이렇게 컸다고? 인생역전한 아역 스타 TOP7",
-          "views": 28957,
-          "date": "2026-09-07",
-          "duration": 89,
-          "url": "https://www.youtube.com/watch?v=3t8AxTJCcug"
-        },
-        {
-          "title": "광고 한 편에 억 소리, CF 몸값 미친 스타 TOP7",
-          "views": 28880,
-          "date": "2026-09-13",
-          "duration": 74,
-          "url": "https://www.youtube.com/watch?v=VVoTtagnbRM"
-        }
-      ],
-      "recent_videos": [
-        {
-          "title": "국민 드라마 전원일기 그 배우들 TOP7 (1위는 지금도 국민 어머니로 불리는 그 배우)",
-          "views": 3109,
-          "date": "2026-09-17",
-          "duration": 65,
-          "url": "https://www.youtube.com/watch?v=agUlhGny9zU"
-        },
-        {
-          "title": "성우도 탐낼 발성, 황금 목소리 배우 TOP7",
-          "views": 2819,
-          "date": "2026-09-17",
-          "duration": 70,
-          "url": "https://www.youtube.com/watch?v=HcoHOiLFUi0"
-        },
-        {
-          "title": "알고보니 초고학벌, 명문대 스타 TOP7",
-          "views": 15997,
-          "date": "2026-09-16",
-          "duration": 75,
-          "url": "https://www.youtube.com/watch?v=-sndFol7Npw"
-        },
-        {
-          "title": "예명이 인생을 바꿨다, 본명 몰랐던 스타 TOP7",
-          "views": 9124,
-          "date": "2026-09-16",
-          "duration": 63,
-          "url": "https://www.youtube.com/watch?v=VO3IjAyd1Mk"
-        },
-        {
-          "title": "세월도 비껴간 동안 미모 스타 TOP7 (1위는 아시아를 사로잡은 국민 드라마 여신)",
-          "views": 2585,
-          "date": "2026-09-15",
-          "duration": 62,
-          "url": "https://www.youtube.com/watch?v=XbGJmuNDUAc"
-        },
-        {
-          "title": "그 시절 온 국민을 홀린 원조 여신 | 리즈시절 레전드 여배우 TOP7",
-          "views": 5578,
-          "date": "2026-09-14",
-          "duration": 76,
-          "url": "https://www.youtube.com/watch?v=YV4l5csfrXg"
-        },
-        {
-          "title": "한 회 찍고 아파트 한 채 회당 출연료 미친 배우 TOP7 (1위는 국내 최초 회당 10억 넘긴 그 배우)",
-          "views": 15692,
-          "date": "2026-09-14",
-          "duration": 71,
-          "url": "https://www.youtube.com/watch?v=ik1xeKtYeYU"
-        },
-        {
-          "title": "알고 보니 다 미스코리아 미모 폭발 스타 TOP7 (1위는 시청률 50% 전설의 대회 출신 국민 여배우)",
-          "views": 4709,
-          "date": "2026-09-13",
-          "duration": 65,
-          "url": "https://www.youtube.com/watch?v=TL6YF6J9eX8"
-        },
-        {
-          "title": "광고 한 편에 억 소리, CF 몸값 미친 스타 TOP7",
-          "views": 28880,
-          "date": "2026-09-13",
-          "duration": 74,
-          "url": "https://www.youtube.com/watch?v=VVoTtagnbRM"
-        },
-        {
-          "title": "국경을 넘은 사랑, 외국인과 결혼한 국제결혼 스타 TOP7 (1위는 미국인 사업가 남편·하와이 러브스토리)",
-          "views": 70306,
-          "date": "2026-09-12",
-          "duration": 73,
-          "url": "https://www.youtube.com/watch?v=HCPdUj5HcwI"
-        }
-      ],
-      "analyzed_at": "2026-09-19 11:59",
-      "subs_delta": 4
+      "subscribers": 683,
+      "sampled": 0,
+      "avg_views": 0,
+      "median_views": 0,
+      "uploads_30d": 0,
+      "views_30d": 0,
+      "shorts_ratio": 0,
+      "top_videos": [],
+      "recent_videos": [],
+      "analyzed_at": "2026-09-19 13:21",
+      "subs_delta": 5
     },
     {
       "url": "https://www.youtube.com/channel/UChq2TqKlpNlWpHpDRMwyCeQ",
       "name": "코리아리뷰",
       "channel_id": "UChq2TqKlpNlWpHpDRMwyCeQ",
       "subscribers": 81,
-      "sampled": 20,
-      "avg_views": 5311,
-      "median_views": 1324,
-      "uploads_30d": 13,
-      "views_30d": 81250,
-      "shorts_ratio": 0.0,
-      "top_videos": [
-        {
-          "title": "IU·박보검 '폭싹 속았수다' — 외국인들이 첫 입맞춤과 '떠나는 배' 장면에서 끝내 무너진 순간들 [2·3화 해외반응]",
-          "views": 27719,
-          "date": "2026-08-21",
-          "duration": 1575,
-          "url": "https://www.youtube.com/watch?v=dY0zBRbZaeA"
-        },
-        {
-          "title": "첫 화부터 모두 울었다… 외국인들이 ‘살면 살아져’ 장면에서 끝내 무너진 이유 [폭싹 속았수다 1화 해외반응]",
-          "views": 22551,
-          "date": "2026-08-10",
-          "duration": 1680,
-          "url": "https://www.youtube.com/watch?v=u7p3B8IkX70"
-        },
-        {
-          "title": "외국인들이 태풍 장면 보다 오열한 그 드라마 | 폭싹 속았수다 6·7화 해외 리액션",
-          "views": 16316,
-          "date": "2026-08-27",
-          "duration": 2218,
-          "url": "https://www.youtube.com/watch?v=6k4XDYz6SuI"
-        },
-        {
-          "title": "'폭싹 속았수다' 10·11화 해외반응 — 예비 시어머니의 모욕 앞에서, 외국인 리뷰어들이 금명의 마지막 선택에 결국 무너진 순간 (실시간 리뷰)",
-          "views": 8771,
-          "date": "2026-09-03",
-          "duration": 1920,
-          "url": "https://www.youtube.com/watch?v=00lmxGBAgR0"
-        },
-        {
-          "title": "폭싹 속았수다' 16화 최종화 해외반응 — \"궂은 날은 있어도 외로운 날은 없었다\", 외국인들이 눈물로 배웅한 마지막 회",
-          "views": 6864,
-          "date": "2026-09-10",
-          "duration": 856,
-          "url": "https://www.youtube.com/watch?v=pwUkCrO2Xkg"
-        }
-      ],
-      "recent_videos": [
-        {
-          "title": "외국인 4팀이 '어린이 해방군 총사령관' 등장에 이렇게 반응합니다 | 이상한 변호사 우영우 9·10화 해외리액션 (박은빈)",
-          "views": 232,
-          "date": "2026-09-17",
-          "duration": 3318,
-          "url": "https://www.youtube.com/watch?v=kchDNJtHX7I"
-        },
-        {
-          "title": "소덕동 팽나무를 지켜라 — 외국인들이 '그 승소'에 다 같이 환호한 순간 | 이상한 변호사 우영우 (박은빈) 7·8화 해외 리액션",
-          "views": 531,
-          "date": "2026-09-16",
-          "duration": 819,
-          "url": "https://www.youtube.com/watch?v=WK6XvnJmuSk"
-        },
-        {
-          "title": "외국인들이 '어미 고래' 변론에서 다 같이 오열한 그 장면 | 이상한 변호사 우영우 (박은빈) 5·6화 해외 리액션",
-          "views": 1023,
-          "date": "2026-09-15",
-          "duration": 847,
-          "url": "https://www.youtube.com/watch?v=nH_FB_w4uLA"
-        },
-        {
-          "title": "검사가 \"당신 자폐잖아요\"… 외국인 리액터들이 분노하고 오열한 그 장면 | 이상한 변호사 우영우 (박은빈) 해외 리액션 | 3·4화",
-          "views": 1625,
-          "date": "2026-09-14",
-          "duration": 753,
-          "url": "https://www.youtube.com/watch?v=BCjpJ9xYjEA"
-        },
-        {
-          "title": "전 세계가 반한 그 드라마, 외국인 리액터들이 1화부터 뒤집어진 이유 | 이상한 변호사 우영우 (박은빈) 해외 리액션",
-          "views": 5321,
-          "date": "2026-09-13",
-          "duration": 771,
-          "url": "https://www.youtube.com/watch?v=A4wtGpc_uu4"
-        },
-        {
-          "title": "폭싹 속았수다' 16화 최종화 해외반응 — \"궂은 날은 있어도 외로운 날은 없었다\", 외국인들이 눈물로 배웅한 마지막 회",
-          "views": 6864,
-          "date": "2026-09-10",
-          "duration": 856,
-          "url": "https://www.youtube.com/watch?v=pwUkCrO2Xkg"
-        },
-        {
-          "title": "'폭싹 속았수다' 14·15화 해외반응 — 은명이가 끝내 마음을 쏟아낸 날, 그리고 금명이의 아기 앞에서 외국인 리뷰어들이 결국 무너진 순간 (실시간 리뷰)",
-          "views": 4085,
-          "date": "2026-09-09",
-          "duration": 1920,
-          "url": "https://www.youtube.com/watch?v=6l-GNwF6I1E"
-        },
-        {
-          "title": "폭싹 속았수다' 12·13화 해외반응 — 딸을 시집보내던 날, 애순이보다 관식이가 더 울어버린 순간에 외국인 리뷰어들이 결국 무너졌다 (실시간 리뷰)",
-          "views": 5030,
-          "date": "2026-09-08",
-          "duration": 1920,
-          "url": "https://www.youtube.com/watch?v=zyOBivck4sc"
-        },
-        {
-          "title": "'폭싹 속았수다' 10·11화 해외반응 — 예비 시어머니의 모욕 앞에서, 외국인 리뷰어들이 금명의 마지막 선택에 결국 무너진 순간 (실시간 리뷰)",
-          "views": 8771,
-          "date": "2026-09-03",
-          "duration": 1920,
-          "url": "https://www.youtube.com/watch?v=00lmxGBAgR0"
-        },
-        {
-          "title": "딸을 위해 결국 그것까지 팔았다 — 외국인들이 무너진 '폭싹 속았수다' 8·9화 반응 (IU·박보검·김선호)",
-          "views": 884,
-          "date": "2026-08-28",
-          "duration": 1919,
-          "url": "https://www.youtube.com/watch?v=bLUPbV4bRug"
-        }
-      ],
-      "analyzed_at": "2026-09-19 11:59",
+      "sampled": 0,
+      "avg_views": 0,
+      "median_views": 0,
+      "uploads_30d": 0,
+      "views_30d": 0,
+      "shorts_ratio": 0,
+      "top_videos": [],
+      "recent_videos": [],
+      "analyzed_at": "2026-09-19 13:26",
       "subs_delta": 0
     }
   ],
@@ -1141,188 +931,6 @@ window.DATA = {
       "title": "TV 틀면 다 나온다, 광고 대세 스타 TOP7",
       "views": 1880,
       "url": "https://www.youtube.com/watch?v=fZqrZmQ8qmo"
-    },
-    {
-      "date": "2026-09-08",
-      "channel": "해외반응픽",
-      "title": "남의 목소리로 스타가 된 성대모사 달인 TOP7 (1위는 목소리 하나로 라디오를 접수한 전설)",
-      "views": 105214,
-      "url": "https://www.youtube.com/watch?v=cnAr8h-s3jM"
-    },
-    {
-      "date": "2026-09-09",
-      "channel": "해외반응픽",
-      "title": "한국말이 더 편해요, 한국인 다 된 외국인 스타 TOP7 (1위는 외국인 방송인의 원조로 불린 그 사람)",
-      "views": 87422,
-      "url": "https://www.youtube.com/watch?v=6-d7zOhtT48"
-    },
-    {
-      "date": "2026-09-12",
-      "channel": "해외반응픽",
-      "title": "국경을 넘은 사랑, 외국인과 결혼한 국제결혼 스타 TOP7 (1위는 미국인 사업가 남편·하와이 러브스토리)",
-      "views": 70306,
-      "url": "https://www.youtube.com/watch?v=HCPdUj5HcwI"
-    },
-    {
-      "date": "2026-09-07",
-      "channel": "해외반응픽",
-      "title": "그 꼬마가 이렇게 컸다고? 인생역전한 아역 스타 TOP7",
-      "views": 28957,
-      "url": "https://www.youtube.com/watch?v=3t8AxTJCcug"
-    },
-    {
-      "date": "2026-09-13",
-      "channel": "해외반응픽",
-      "title": "광고 한 편에 억 소리, CF 몸값 미친 스타 TOP7",
-      "views": 28880,
-      "url": "https://www.youtube.com/watch?v=VVoTtagnbRM"
-    },
-    {
-      "date": "2026-09-17",
-      "channel": "해외반응픽",
-      "title": "국민 드라마 전원일기 그 배우들 TOP7 (1위는 지금도 국민 어머니로 불리는 그 배우)",
-      "views": 3109,
-      "url": "https://www.youtube.com/watch?v=agUlhGny9zU"
-    },
-    {
-      "date": "2026-09-17",
-      "channel": "해외반응픽",
-      "title": "성우도 탐낼 발성, 황금 목소리 배우 TOP7",
-      "views": 2819,
-      "url": "https://www.youtube.com/watch?v=HcoHOiLFUi0"
-    },
-    {
-      "date": "2026-09-16",
-      "channel": "해외반응픽",
-      "title": "알고보니 초고학벌, 명문대 스타 TOP7",
-      "views": 15997,
-      "url": "https://www.youtube.com/watch?v=-sndFol7Npw"
-    },
-    {
-      "date": "2026-09-16",
-      "channel": "해외반응픽",
-      "title": "예명이 인생을 바꿨다, 본명 몰랐던 스타 TOP7",
-      "views": 9124,
-      "url": "https://www.youtube.com/watch?v=VO3IjAyd1Mk"
-    },
-    {
-      "date": "2026-09-15",
-      "channel": "해외반응픽",
-      "title": "세월도 비껴간 동안 미모 스타 TOP7 (1위는 아시아를 사로잡은 국민 드라마 여신)",
-      "views": 2585,
-      "url": "https://www.youtube.com/watch?v=XbGJmuNDUAc"
-    },
-    {
-      "date": "2026-09-14",
-      "channel": "해외반응픽",
-      "title": "그 시절 온 국민을 홀린 원조 여신 | 리즈시절 레전드 여배우 TOP7",
-      "views": 5578,
-      "url": "https://www.youtube.com/watch?v=YV4l5csfrXg"
-    },
-    {
-      "date": "2026-09-14",
-      "channel": "해외반응픽",
-      "title": "한 회 찍고 아파트 한 채 회당 출연료 미친 배우 TOP7 (1위는 국내 최초 회당 10억 넘긴 그 배우)",
-      "views": 15692,
-      "url": "https://www.youtube.com/watch?v=ik1xeKtYeYU"
-    },
-    {
-      "date": "2026-09-13",
-      "channel": "해외반응픽",
-      "title": "알고 보니 다 미스코리아 미모 폭발 스타 TOP7 (1위는 시청률 50% 전설의 대회 출신 국민 여배우)",
-      "views": 4709,
-      "url": "https://www.youtube.com/watch?v=TL6YF6J9eX8"
-    },
-    {
-      "date": "2026-08-21",
-      "channel": "코리아리뷰",
-      "title": "IU·박보검 '폭싹 속았수다' — 외국인들이 첫 입맞춤과 '떠나는 배' 장면에서 끝내 무너진 순간들 [2·3화 해외반응]",
-      "views": 27719,
-      "url": "https://www.youtube.com/watch?v=dY0zBRbZaeA"
-    },
-    {
-      "date": "2026-08-10",
-      "channel": "코리아리뷰",
-      "title": "첫 화부터 모두 울었다… 외국인들이 ‘살면 살아져’ 장면에서 끝내 무너진 이유 [폭싹 속았수다 1화 해외반응]",
-      "views": 22551,
-      "url": "https://www.youtube.com/watch?v=u7p3B8IkX70"
-    },
-    {
-      "date": "2026-08-27",
-      "channel": "코리아리뷰",
-      "title": "외국인들이 태풍 장면 보다 오열한 그 드라마 | 폭싹 속았수다 6·7화 해외 리액션",
-      "views": 16316,
-      "url": "https://www.youtube.com/watch?v=6k4XDYz6SuI"
-    },
-    {
-      "date": "2026-09-03",
-      "channel": "코리아리뷰",
-      "title": "'폭싹 속았수다' 10·11화 해외반응 — 예비 시어머니의 모욕 앞에서, 외국인 리뷰어들이 금명의 마지막 선택에 결국 무너진 순간 (실시간 리뷰)",
-      "views": 8771,
-      "url": "https://www.youtube.com/watch?v=00lmxGBAgR0"
-    },
-    {
-      "date": "2026-09-10",
-      "channel": "코리아리뷰",
-      "title": "폭싹 속았수다' 16화 최종화 해외반응 — \"궂은 날은 있어도 외로운 날은 없었다\", 외국인들이 눈물로 배웅한 마지막 회",
-      "views": 6864,
-      "url": "https://www.youtube.com/watch?v=pwUkCrO2Xkg"
-    },
-    {
-      "date": "2026-09-17",
-      "channel": "코리아리뷰",
-      "title": "외국인 4팀이 '어린이 해방군 총사령관' 등장에 이렇게 반응합니다 | 이상한 변호사 우영우 9·10화 해외리액션 (박은빈)",
-      "views": 232,
-      "url": "https://www.youtube.com/watch?v=kchDNJtHX7I"
-    },
-    {
-      "date": "2026-09-16",
-      "channel": "코리아리뷰",
-      "title": "소덕동 팽나무를 지켜라 — 외국인들이 '그 승소'에 다 같이 환호한 순간 | 이상한 변호사 우영우 (박은빈) 7·8화 해외 리액션",
-      "views": 531,
-      "url": "https://www.youtube.com/watch?v=WK6XvnJmuSk"
-    },
-    {
-      "date": "2026-09-15",
-      "channel": "코리아리뷰",
-      "title": "외국인들이 '어미 고래' 변론에서 다 같이 오열한 그 장면 | 이상한 변호사 우영우 (박은빈) 5·6화 해외 리액션",
-      "views": 1023,
-      "url": "https://www.youtube.com/watch?v=nH_FB_w4uLA"
-    },
-    {
-      "date": "2026-09-14",
-      "channel": "코리아리뷰",
-      "title": "검사가 \"당신 자폐잖아요\"… 외국인 리액터들이 분노하고 오열한 그 장면 | 이상한 변호사 우영우 (박은빈) 해외 리액션 | 3·4화",
-      "views": 1625,
-      "url": "https://www.youtube.com/watch?v=BCjpJ9xYjEA"
-    },
-    {
-      "date": "2026-09-13",
-      "channel": "코리아리뷰",
-      "title": "전 세계가 반한 그 드라마, 외국인 리액터들이 1화부터 뒤집어진 이유 | 이상한 변호사 우영우 (박은빈) 해외 리액션",
-      "views": 5321,
-      "url": "https://www.youtube.com/watch?v=A4wtGpc_uu4"
-    },
-    {
-      "date": "2026-09-09",
-      "channel": "코리아리뷰",
-      "title": "'폭싹 속았수다' 14·15화 해외반응 — 은명이가 끝내 마음을 쏟아낸 날, 그리고 금명이의 아기 앞에서 외국인 리뷰어들이 결국 무너진 순간 (실시간 리뷰)",
-      "views": 4085,
-      "url": "https://www.youtube.com/watch?v=6l-GNwF6I1E"
-    },
-    {
-      "date": "2026-09-08",
-      "channel": "코리아리뷰",
-      "title": "폭싹 속았수다' 12·13화 해외반응 — 딸을 시집보내던 날, 애순이보다 관식이가 더 울어버린 순간에 외국인 리뷰어들이 결국 무너졌다 (실시간 리뷰)",
-      "views": 5030,
-      "url": "https://www.youtube.com/watch?v=zyOBivck4sc"
-    },
-    {
-      "date": "2026-08-28",
-      "channel": "코리아리뷰",
-      "title": "딸을 위해 결국 그것까지 팔았다 — 외국인들이 무너진 '폭싹 속았수다' 8·9화 반응 (IU·박보검·김선호)",
-      "views": 884,
-      "url": "https://www.youtube.com/watch?v=bLUPbV4bRug"
     }
   ],
   "made": {
