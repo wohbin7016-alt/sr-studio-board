@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "화면빨인 줄 알았는데 실물이 더 미친 스타 TOP7 (실제로 보면 더 미쳤다는 배우들, 1위는?)",
-          "views": 70460,
+          "views": 70431,
           "date": "2026-09-15",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=O0beAAWps3A"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "5천만원 극단 빚을 13년 동안 다 갚은 무명배우 이정은",
-          "views": 1126,
+          "views": 1121,
           "date": "2026-09-21",
           "duration": 56,
           "url": "https://www.youtube.com/watch?v=KSI0WaYD2ZM"
         },
         {
           "title": "대스타 이병헌이 아버지에게 물려받은 건 10억 빚이었다",
-          "views": 2436,
+          "views": 2454,
           "date": "2026-09-19",
           "duration": 55,
           "url": "https://www.youtube.com/watch?v=4HokXxuJRiY"
@@ -74,7 +74,7 @@ window.DATA = {
         },
         {
           "title": "한 시대를 양분한 원조 라이벌 스타 TOP7 🔥 우열을 가릴 수 없던 영원한 맞수들",
-          "views": 16647,
+          "views": 16649,
           "date": "2026-09-17",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=r24Oc8uutsk"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "알고보니 90년대를 설레게 한 데뷔 시절 청춘스타 TOP7 😍 지금은 대배우, 그때는 풋풋한 신인",
-          "views": 14997,
+          "views": 15007,
           "date": "2026-09-16",
           "duration": 79,
           "url": "https://www.youtube.com/watch?v=4yMCxaXjl1A"
@@ -109,7 +109,7 @@ window.DATA = {
         },
         {
           "title": "화면빨인 줄 알았는데 실물이 더 미친 스타 TOP7 (실제로 보면 더 미쳤다는 배우들, 1위는?)",
-          "views": 70460,
+          "views": 70431,
           "date": "2026-09-15",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=O0beAAWps3A"
@@ -122,175 +122,52 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=beWBjOgY-uo"
         }
       ],
-      "analyzed_at": "2026-09-22 10:22",
-      "subs_delta": 0
-    },
-    {
-      "url": "https://youtube.com/channel/UC_yso506oAtYKFyyS77pzLw",
-      "name": "연예정보통",
-      "channel_id": "UC_yso506oAtYKFyyS77pzLw",
-      "subscribers": 74900,
-      "sampled": 20,
-      "avg_views": 4333,
-      "median_views": 2400,
-      "uploads_30d": 20,
-      "views_30d": 86676,
-      "shorts_ratio": 0.95,
-      "top_videos": [
-        {
-          "title": "콘서트 앞두고도 멈추지 않았다, 박지현이 송도를 뒤집은 밤",
-          "views": 13001,
-          "date": "2026-09-13",
-          "duration": 53,
-          "url": "https://www.youtube.com/watch?v=roLu8pA4Nzs"
-        },
-        {
-          "title": "'나혼산 걔'라 불리던 박지현, 연말 시상식 주인공이 되다",
-          "views": 11300,
-          "date": "2026-09-12",
-          "duration": 53,
-          "url": "https://www.youtube.com/watch?v=wSK0CTqnEDM"
-        },
-        {
-          "title": "완벽한 프린스가 집에선? 박지현 나혼산 자취방 대반전",
-          "views": 10097,
-          "date": "2026-09-10",
-          "duration": 49,
-          "url": "https://www.youtube.com/watch?v=sFoOmN6c3Po"
-        },
-        {
-          "title": "필살기 물어보자 잇몸부터 자랑한 박지현, 옥문아 스튜디오 뒤집었다",
-          "views": 9757,
-          "date": "2026-09-11",
-          "duration": 49,
-          "url": "https://www.youtube.com/watch?v=IOuh9Qk7no4"
-        },
-        {
-          "title": "박지현이 직접 쓴 노래가 흐르자, 객석이 눈물바다가 됐습니다 (팬콘서트 자작곡 '실수투성이' 최초 공개)",
-          "views": 8993,
-          "date": "2026-09-11",
-          "duration": 51,
-          "url": "https://www.youtube.com/watch?v=yF25lEC6gTg"
-        }
-      ],
-      "recent_videos": [
-        {
-          "title": "IMF 그해 온 국민을 울린 스무 살 박세리의 맨발 투혼",
-          "views": 1167,
-          "date": "2026-09-21",
-          "duration": 50,
-          "url": "https://www.youtube.com/watch?v=a0AGlb8I2iU"
-        },
-        {
-          "title": "산 같던 이만기를 이긴 스무 살, 천하장사 강호동의 전설",
-          "views": 1286,
-          "date": "2026-09-19",
-          "duration": 45,
-          "url": "https://www.youtube.com/watch?v=rJcVwF37HXA"
-        },
-        {
-          "title": "조용필 공연·기자회견 자료사진 및 방송 화면 (KBS 등) / 사건 근거 = KBS '이 순간을 영원히 조용필' 보도",
-          "views": 1337,
-          "date": "2026-09-18",
-          "duration": 41,
-          "url": "https://www.youtube.com/watch?v=FViUvV0Qz4Y"
-        },
-        {
-          "title": "전 국민이 리모컨 잡았던 트로트 오디션 시청률 TOP7 (1위는 여자부가 아니었다",
-          "views": 1657,
-          "date": "2026-09-18",
-          "duration": 67,
-          "url": "https://www.youtube.com/watch?v=pJei6gm17FM"
-        },
-        {
-          "title": "전 국민을 얼린 그 무대, 가스펠 가수 소향",
-          "views": 1287,
-          "date": "2026-09-17",
-          "duration": 47,
-          "url": "https://www.youtube.com/watch?v=78zFq6FGNwo"
-        },
-        {
-          "title": "다 잊혀졌던 뉴이스트, 프로듀스101로 부활한 그 순간",
-          "views": 1275,
-          "date": "2026-09-17",
-          "duration": 50,
-          "url": "https://www.youtube.com/watch?v=8ky9OaiUQTg"
-        },
-        {
-          "title": "진성이 벌떡 일어섰다, 이찬원 '찬또배기' 탄생",
-          "views": 1380,
-          "date": "2026-09-16",
-          "duration": 47,
-          "url": "https://www.youtube.com/watch?v=ptCzYiHfrLk"
-        },
-        {
-          "title": "국민 손자가 아니었다, 어른이 된 정동원의 '여백'",
-          "views": 1431,
-          "date": "2026-09-16",
-          "duration": 44,
-          "url": "https://www.youtube.com/watch?v=d39ACeCQcVM"
-        },
-        {
-          "title": "부모님을 임영웅 콘서트에 보냈더니 'VIP 대접' 받고 오셨습니다",
-          "views": 1326,
-          "date": "2026-09-15",
-          "duration": 54,
-          "url": "https://www.youtube.com/watch?v=rz-lFXeeYGQ"
-        },
-        {
-          "title": "송가인 노래를 받아든 박지현, 거문고야로 톱10 뚫은 무대",
-          "views": 5233,
-          "date": "2026-09-15",
-          "duration": 42,
-          "url": "https://www.youtube.com/watch?v=X7799pzT3iM"
-        }
-      ],
-      "analyzed_at": "2026-09-22 10:22",
+      "analyzed_at": "2026-09-22 11:25",
       "subs_delta": 0
     },
     {
       "url": "https://youtube.com/channel/UC29M9AGVR19NtIrAHsjx-XA",
       "name": "이슈브리핑",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
-      "subscribers": 6640,
+      "subscribers": 6650,
       "sampled": 20,
-      "avg_views": 78673,
-      "median_views": 30003,
+      "avg_views": 79080,
+      "median_views": 30007,
       "uploads_30d": 20,
-      "views_30d": 1573472,
+      "views_30d": 1581609,
       "shorts_ratio": 0.55,
       "top_videos": [
         {
           "title": "방어율 0점대 실화냐 KBO 방어율 전설 TOP7 (1위는 0점대 방어율만 세 번·국보급)",
-          "views": 322090,
+          "views": 322146,
           "date": "2026-09-12",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=AX4cBZ1EsDQ"
         },
         {
           "title": "방망이가 못 따라갔다 KBO 토종 강속구 TOP7 (1위는 토종 최초 161.6km 돌파)",
-          "views": 298255,
+          "views": 298414,
           "date": "2026-09-13",
           "duration": 66,
           "url": "https://www.youtube.com/watch?v=m-vbBSvaqwQ"
         },
         {
           "title": "이승엽도 10번 받은 그 상, KBO 골든글러브 최다수상 TOP7 (1위는 이승엽 아님)",
-          "views": 240798,
+          "views": 240811,
           "date": "2026-09-10",
           "duration": 65,
           "url": "https://www.youtube.com/watch?v=tieNE0m5GdY"
         },
         {
           "title": "안타·2루타·3루타·홈런 한 경기에 다 친 KBO 사이클링히트 TOP7",
-          "views": 222334,
+          "views": 223649,
           "date": "2026-09-17",
           "duration": 91,
           "url": "https://www.youtube.com/watch?v=YjCCoICC0Sg"
         },
         {
           "title": "데뷔 첫해부터 괴물이었던 KBO 역대 신인왕 TOP7 (1위는 신인왕+MVP 동시 석권 역대 유일)",
-          "views": 71621,
+          "views": 71686,
           "date": "2026-09-11",
           "duration": 81,
           "url": "https://www.youtube.com/watch?v=4l2YABkHlVY"
@@ -299,42 +176,42 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "최동원조차 못 넘었다 — KBO 통산 완봉 TOP7 (1위 29완봉, 정체는?)",
-          "views": 12935,
+          "views": 18407,
           "date": "2026-09-21",
           "duration": 79,
           "url": "https://www.youtube.com/watch?v=DLUWnU9wxcQ"
         },
         {
           "title": "뱀직구 하나로 일본을 접수하다 — 야쿠르트의 미스터 제로, 임창용",
-          "views": 23503,
+          "views": 24108,
           "date": "2026-09-20",
           "duration": 47,
           "url": "https://www.youtube.com/watch?v=cZX0Tgl0_EM"
         },
         {
           "title": "조선의 4번, 일본의 4번이 되다 — 이대호 2015 일본시리즈 MVP",
-          "views": 29719,
+          "views": 29727,
           "date": "2026-09-19",
           "duration": 46,
           "url": "https://www.youtube.com/watch?v=n27rDDr40RU"
         },
         {
           "title": "야구 148년 역사가 멈춘 밤 — 오타니 쇼헤이, 사상 최초 50홈런-50도루",
-          "views": 53580,
+          "views": 53762,
           "date": "2026-09-18",
           "duration": 61,
           "url": "https://www.youtube.com/watch?v=Cbb8jkN1fHY"
         },
         {
           "title": "다시는 없을 맞대결 — 1987년, 최동원과 선동열이 15회까지 던진 밤",
-          "views": 23300,
+          "views": 23545,
           "date": "2026-09-18",
           "duration": 56,
           "url": "https://www.youtube.com/watch?v=PKgAbDKY4Ig"
         },
         {
           "title": "안타·2루타·3루타·홈런 한 경기에 다 친 KBO 사이클링히트 TOP7",
-          "views": 222334,
+          "views": 223649,
           "date": "2026-09-17",
           "duration": 91,
           "url": "https://www.youtube.com/watch?v=YjCCoICC0Sg"
@@ -368,8 +245,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=oaE9BzaQ1Rs"
         }
       ],
-      "analyzed_at": "2026-09-22 10:23",
-      "subs_delta": 30
+      "analyzed_at": "2026-09-22 11:26",
+      "subs_delta": 40
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
@@ -377,43 +254,43 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 2630,
       "sampled": 20,
-      "avg_views": 22140,
-      "median_views": 10231,
+      "avg_views": 22192,
+      "median_views": 10251,
       "uploads_30d": 20,
-      "views_30d": 442812,
+      "views_30d": 443845,
       "shorts_ratio": 0.25,
       "top_videos": [
         {
           "title": "아무도 못 깬 16연승 UFC 최다 연승 TOP7",
-          "views": 126524,
+          "views": 126959,
           "date": "2026-09-20",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=rtsuAHKKbiI"
         },
         {
           "title": "성공해도 안 변했다, 30년 우정 지킨 국민 절친 TOP7 (1위는 국민 예능 콤비!)",
-          "views": 104444,
+          "views": 104453,
           "date": "2026-09-11",
           "duration": 102,
           "url": "https://www.youtube.com/watch?v=fot8WAXVw_w"
         },
         {
           "title": "한국 파이터 8연패, 그 잔혹사를 끝낸 단 하나의 승리 — 최두호가 '코리안 킬러'를 잡았다",
-          "views": 64592,
+          "views": 64650,
           "date": "2026-09-19",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=pZ31tRUt7iw"
         },
         {
           "title": "안 친할 것 같은데 알고보니 찐친이었던 의외의 스타 조합 TOP7",
-          "views": 31064,
+          "views": 31166,
           "date": "2026-09-17",
           "duration": 83,
           "url": "https://www.youtube.com/watch?v=TfpsXShOvmk"
         },
         {
           "title": "같은 작품 찍다 진짜 부부가 된 스타 커플 TOP7",
-          "views": 28506,
+          "views": 28618,
           "date": "2026-09-18",
           "duration": 76,
           "url": "https://www.youtube.com/watch?v=VL9zB13nfLg"
@@ -422,21 +299,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "모두가 패배를 점쳤던 언더독, 김동현에 이은 한국인 최다승 아이언 터틀 박준용",
-          "views": 11200,
+          "views": 11438,
           "date": "2026-09-21",
           "duration": 46,
           "url": "https://www.youtube.com/watch?v=Pr3sTgdsgAM"
         },
         {
           "title": "한국 팬한테 제대로 낚인 UFC 챔피언 볼카노프스키, 그런데 반응이 반전",
-          "views": 1727,
+          "views": 1764,
           "date": "2026-09-21",
           "duration": 48,
           "url": "https://www.youtube.com/watch?v=WwYmw_nYpcE"
         },
         {
           "title": "아무도 못 깬 16연승 UFC 최다 연승 TOP7",
-          "views": 126524,
+          "views": 126959,
           "date": "2026-09-20",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=rtsuAHKKbiI"
@@ -450,28 +327,28 @@ window.DATA = {
         },
         {
           "title": "한국 파이터 8연패, 그 잔혹사를 끝낸 단 하나의 승리 — 최두호가 '코리안 킬러'를 잡았다",
-          "views": 64592,
+          "views": 64650,
           "date": "2026-09-19",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=pZ31tRUt7iw"
         },
         {
           "title": "데뷔 18초 KO, 페더급을 뒤흔든 코리안 슈퍼보이 최두호의 KO 시퀀스",
-          "views": 9731,
+          "views": 9762,
           "date": "2026-09-18",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=NldIXpTdDTo"
         },
         {
           "title": "같은 작품 찍다 진짜 부부가 된 스타 커플 TOP7",
-          "views": 28506,
+          "views": 28618,
           "date": "2026-09-18",
           "duration": 76,
           "url": "https://www.youtube.com/watch?v=VL9zB13nfLg"
         },
         {
           "title": "안 친할 것 같은데 알고보니 찐친이었던 의외의 스타 조합 TOP7",
-          "views": 31064,
+          "views": 31166,
           "date": "2026-09-17",
           "duration": 83,
           "url": "https://www.youtube.com/watch?v=TfpsXShOvmk"
@@ -491,19 +368,19 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=CSNr4kU2xyM"
         }
       ],
-      "analyzed_at": "2026-09-22 10:23",
+      "analyzed_at": "2026-09-22 11:27",
       "subs_delta": 10
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
       "name": "해외반응픽",
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
-      "subscribers": 694,
+      "subscribers": 693,
       "sampled": 20,
-      "avg_views": 23249,
+      "avg_views": 23250,
       "median_views": 12797,
       "uploads_30d": 20,
-      "views_30d": 464980,
+      "views_30d": 465006,
       "shorts_ratio": 0.25,
       "top_videos": [
         {
@@ -515,7 +392,7 @@ window.DATA = {
         },
         {
           "title": "한국말이 더 편해요, 한국인 다 된 외국인 스타 TOP7 (1위는 외국인 방송인의 원조로 불린 그 사람)",
-          "views": 87696,
+          "views": 87703,
           "date": "2026-09-09",
           "duration": 72,
           "url": "https://www.youtube.com/watch?v=6-d7zOhtT48"
@@ -529,7 +406,7 @@ window.DATA = {
         },
         {
           "title": "그 꼬마가 이렇게 컸다고? 인생역전한 아역 스타 TOP7",
-          "views": 29593,
+          "views": 29603,
           "date": "2026-09-07",
           "duration": 89,
           "url": "https://www.youtube.com/watch?v=3t8AxTJCcug"
@@ -545,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "국민 드라마 전원일기 그 배우들 TOP7 (1위는 지금도 국민 어머니로 불리는 그 배우)",
-          "views": 4349,
+          "views": 4357,
           "date": "2026-09-17",
           "duration": 65,
           "url": "https://www.youtube.com/watch?v=agUlhGny9zU"
@@ -614,19 +491,19 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=HCPdUj5HcwI"
         }
       ],
-      "analyzed_at": "2026-09-22 10:24",
-      "subs_delta": 1
+      "analyzed_at": "2026-09-22 11:28",
+      "subs_delta": 0
     },
     {
       "url": "https://www.youtube.com/channel/UChq2TqKlpNlWpHpDRMwyCeQ",
       "name": "코리아리뷰",
       "channel_id": "UChq2TqKlpNlWpHpDRMwyCeQ",
-      "subscribers": 81,
+      "subscribers": 82,
       "sampled": 20,
       "avg_views": 5337,
       "median_views": 1374,
       "uploads_30d": 11,
-      "views_30d": 51095,
+      "views_30d": 51097,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -696,7 +573,7 @@ window.DATA = {
         },
         {
           "title": "전 세계가 반한 그 드라마, 외국인 리액터들이 1화부터 뒤집어진 이유 | 이상한 변호사 우영우 (박은빈) 해외 리액션",
-          "views": 4986,
+          "views": 4988,
           "date": "2026-09-13",
           "duration": 771,
           "url": "https://www.youtube.com/watch?v=A4wtGpc_uu4"
@@ -737,11 +614,11 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=bLUPbV4bRug"
         }
       ],
-      "analyzed_at": "2026-09-22 10:25",
-      "subs_delta": 0
+      "analyzed_at": "2026-09-22 11:29",
+      "subs_delta": 1
     }
   ],
-  "generated_at": "2026-09-22 10:22",
+  "generated_at": "2026-09-22 11:25",
   "videos": [
     {
       "date": "2026-09-09",
@@ -761,7 +638,7 @@ window.DATA = {
       "date": "2026-09-15",
       "channel": "숏츠시작",
       "title": "화면빨인 줄 알았는데 실물이 더 미친 스타 TOP7 (실제로 보면 더 미쳤다는 배우들, 1위는?)",
-      "views": 70460,
+      "views": 70431,
       "url": "https://www.youtube.com/watch?v=O0beAAWps3A"
     },
     {
@@ -782,14 +659,14 @@ window.DATA = {
       "date": "2026-09-21",
       "channel": "숏츠시작",
       "title": "5천만원 극단 빚을 13년 동안 다 갚은 무명배우 이정은",
-      "views": 1126,
+      "views": 1121,
       "url": "https://www.youtube.com/watch?v=KSI0WaYD2ZM"
     },
     {
       "date": "2026-09-19",
       "channel": "숏츠시작",
       "title": "대스타 이병헌이 아버지에게 물려받은 건 10억 빚이었다",
-      "views": 2436,
+      "views": 2454,
       "url": "https://www.youtube.com/watch?v=4HokXxuJRiY"
     },
     {
@@ -803,7 +680,7 @@ window.DATA = {
       "date": "2026-09-17",
       "channel": "숏츠시작",
       "title": "한 시대를 양분한 원조 라이벌 스타 TOP7 🔥 우열을 가릴 수 없던 영원한 맞수들",
-      "views": 16647,
+      "views": 16649,
       "url": "https://www.youtube.com/watch?v=r24Oc8uutsk"
     },
     {
@@ -817,7 +694,7 @@ window.DATA = {
       "date": "2026-09-16",
       "channel": "숏츠시작",
       "title": "알고보니 90년대를 설레게 한 데뷔 시절 청춘스타 TOP7 😍 지금은 대배우, 그때는 풋풋한 신인",
-      "views": 14997,
+      "views": 15007,
       "url": "https://www.youtube.com/watch?v=4yMCxaXjl1A"
     },
     {
@@ -835,178 +712,73 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=beWBjOgY-uo"
     },
     {
-      "date": "2026-09-13",
-      "channel": "연예정보통",
-      "title": "콘서트 앞두고도 멈추지 않았다, 박지현이 송도를 뒤집은 밤",
-      "views": 13001,
-      "url": "https://www.youtube.com/watch?v=roLu8pA4Nzs"
-    },
-    {
-      "date": "2026-09-12",
-      "channel": "연예정보통",
-      "title": "'나혼산 걔'라 불리던 박지현, 연말 시상식 주인공이 되다",
-      "views": 11300,
-      "url": "https://www.youtube.com/watch?v=wSK0CTqnEDM"
-    },
-    {
-      "date": "2026-09-10",
-      "channel": "연예정보통",
-      "title": "완벽한 프린스가 집에선? 박지현 나혼산 자취방 대반전",
-      "views": 10097,
-      "url": "https://www.youtube.com/watch?v=sFoOmN6c3Po"
-    },
-    {
-      "date": "2026-09-11",
-      "channel": "연예정보통",
-      "title": "필살기 물어보자 잇몸부터 자랑한 박지현, 옥문아 스튜디오 뒤집었다",
-      "views": 9757,
-      "url": "https://www.youtube.com/watch?v=IOuh9Qk7no4"
-    },
-    {
-      "date": "2026-09-11",
-      "channel": "연예정보통",
-      "title": "박지현이 직접 쓴 노래가 흐르자, 객석이 눈물바다가 됐습니다 (팬콘서트 자작곡 '실수투성이' 최초 공개)",
-      "views": 8993,
-      "url": "https://www.youtube.com/watch?v=yF25lEC6gTg"
-    },
-    {
-      "date": "2026-09-21",
-      "channel": "연예정보통",
-      "title": "IMF 그해 온 국민을 울린 스무 살 박세리의 맨발 투혼",
-      "views": 1167,
-      "url": "https://www.youtube.com/watch?v=a0AGlb8I2iU"
-    },
-    {
-      "date": "2026-09-19",
-      "channel": "연예정보통",
-      "title": "산 같던 이만기를 이긴 스무 살, 천하장사 강호동의 전설",
-      "views": 1286,
-      "url": "https://www.youtube.com/watch?v=rJcVwF37HXA"
-    },
-    {
-      "date": "2026-09-18",
-      "channel": "연예정보통",
-      "title": "조용필 공연·기자회견 자료사진 및 방송 화면 (KBS 등) / 사건 근거 = KBS '이 순간을 영원히 조용필' 보도",
-      "views": 1337,
-      "url": "https://www.youtube.com/watch?v=FViUvV0Qz4Y"
-    },
-    {
-      "date": "2026-09-18",
-      "channel": "연예정보통",
-      "title": "전 국민이 리모컨 잡았던 트로트 오디션 시청률 TOP7 (1위는 여자부가 아니었다",
-      "views": 1657,
-      "url": "https://www.youtube.com/watch?v=pJei6gm17FM"
-    },
-    {
-      "date": "2026-09-17",
-      "channel": "연예정보통",
-      "title": "전 국민을 얼린 그 무대, 가스펠 가수 소향",
-      "views": 1287,
-      "url": "https://www.youtube.com/watch?v=78zFq6FGNwo"
-    },
-    {
-      "date": "2026-09-17",
-      "channel": "연예정보통",
-      "title": "다 잊혀졌던 뉴이스트, 프로듀스101로 부활한 그 순간",
-      "views": 1275,
-      "url": "https://www.youtube.com/watch?v=8ky9OaiUQTg"
-    },
-    {
-      "date": "2026-09-16",
-      "channel": "연예정보통",
-      "title": "진성이 벌떡 일어섰다, 이찬원 '찬또배기' 탄생",
-      "views": 1380,
-      "url": "https://www.youtube.com/watch?v=ptCzYiHfrLk"
-    },
-    {
-      "date": "2026-09-16",
-      "channel": "연예정보통",
-      "title": "국민 손자가 아니었다, 어른이 된 정동원의 '여백'",
-      "views": 1431,
-      "url": "https://www.youtube.com/watch?v=d39ACeCQcVM"
-    },
-    {
-      "date": "2026-09-15",
-      "channel": "연예정보통",
-      "title": "부모님을 임영웅 콘서트에 보냈더니 'VIP 대접' 받고 오셨습니다",
-      "views": 1326,
-      "url": "https://www.youtube.com/watch?v=rz-lFXeeYGQ"
-    },
-    {
-      "date": "2026-09-15",
-      "channel": "연예정보통",
-      "title": "송가인 노래를 받아든 박지현, 거문고야로 톱10 뚫은 무대",
-      "views": 5233,
-      "url": "https://www.youtube.com/watch?v=X7799pzT3iM"
-    },
-    {
       "date": "2026-09-12",
       "channel": "이슈브리핑",
       "title": "방어율 0점대 실화냐 KBO 방어율 전설 TOP7 (1위는 0점대 방어율만 세 번·국보급)",
-      "views": 322090,
+      "views": 322146,
       "url": "https://www.youtube.com/watch?v=AX4cBZ1EsDQ"
     },
     {
       "date": "2026-09-13",
       "channel": "이슈브리핑",
       "title": "방망이가 못 따라갔다 KBO 토종 강속구 TOP7 (1위는 토종 최초 161.6km 돌파)",
-      "views": 298255,
+      "views": 298414,
       "url": "https://www.youtube.com/watch?v=m-vbBSvaqwQ"
     },
     {
       "date": "2026-09-10",
       "channel": "이슈브리핑",
       "title": "이승엽도 10번 받은 그 상, KBO 골든글러브 최다수상 TOP7 (1위는 이승엽 아님)",
-      "views": 240798,
+      "views": 240811,
       "url": "https://www.youtube.com/watch?v=tieNE0m5GdY"
     },
     {
       "date": "2026-09-17",
       "channel": "이슈브리핑",
       "title": "안타·2루타·3루타·홈런 한 경기에 다 친 KBO 사이클링히트 TOP7",
-      "views": 222334,
+      "views": 223649,
       "url": "https://www.youtube.com/watch?v=YjCCoICC0Sg"
     },
     {
       "date": "2026-09-11",
       "channel": "이슈브리핑",
       "title": "데뷔 첫해부터 괴물이었던 KBO 역대 신인왕 TOP7 (1위는 신인왕+MVP 동시 석권 역대 유일)",
-      "views": 71621,
+      "views": 71686,
       "url": "https://www.youtube.com/watch?v=4l2YABkHlVY"
     },
     {
       "date": "2026-09-21",
       "channel": "이슈브리핑",
       "title": "최동원조차 못 넘었다 — KBO 통산 완봉 TOP7 (1위 29완봉, 정체는?)",
-      "views": 12935,
+      "views": 18407,
       "url": "https://www.youtube.com/watch?v=DLUWnU9wxcQ"
     },
     {
       "date": "2026-09-20",
       "channel": "이슈브리핑",
       "title": "뱀직구 하나로 일본을 접수하다 — 야쿠르트의 미스터 제로, 임창용",
-      "views": 23503,
+      "views": 24108,
       "url": "https://www.youtube.com/watch?v=cZX0Tgl0_EM"
     },
     {
       "date": "2026-09-19",
       "channel": "이슈브리핑",
       "title": "조선의 4번, 일본의 4번이 되다 — 이대호 2015 일본시리즈 MVP",
-      "views": 29719,
+      "views": 29727,
       "url": "https://www.youtube.com/watch?v=n27rDDr40RU"
     },
     {
       "date": "2026-09-18",
       "channel": "이슈브리핑",
       "title": "야구 148년 역사가 멈춘 밤 — 오타니 쇼헤이, 사상 최초 50홈런-50도루",
-      "views": 53580,
+      "views": 53762,
       "url": "https://www.youtube.com/watch?v=Cbb8jkN1fHY"
     },
     {
       "date": "2026-09-18",
       "channel": "이슈브리핑",
       "title": "다시는 없을 맞대결 — 1987년, 최동원과 선동열이 15회까지 던진 밤",
-      "views": 23300,
+      "views": 23545,
       "url": "https://www.youtube.com/watch?v=PKgAbDKY4Ig"
     },
     {
@@ -1041,49 +813,49 @@ window.DATA = {
       "date": "2026-09-20",
       "channel": "뷰포인트",
       "title": "아무도 못 깬 16연승 UFC 최다 연승 TOP7",
-      "views": 126524,
+      "views": 126959,
       "url": "https://www.youtube.com/watch?v=rtsuAHKKbiI"
     },
     {
       "date": "2026-09-11",
       "channel": "뷰포인트",
       "title": "성공해도 안 변했다, 30년 우정 지킨 국민 절친 TOP7 (1위는 국민 예능 콤비!)",
-      "views": 104444,
+      "views": 104453,
       "url": "https://www.youtube.com/watch?v=fot8WAXVw_w"
     },
     {
       "date": "2026-09-19",
       "channel": "뷰포인트",
       "title": "한국 파이터 8연패, 그 잔혹사를 끝낸 단 하나의 승리 — 최두호가 '코리안 킬러'를 잡았다",
-      "views": 64592,
+      "views": 64650,
       "url": "https://www.youtube.com/watch?v=pZ31tRUt7iw"
     },
     {
       "date": "2026-09-17",
       "channel": "뷰포인트",
       "title": "안 친할 것 같은데 알고보니 찐친이었던 의외의 스타 조합 TOP7",
-      "views": 31064,
+      "views": 31166,
       "url": "https://www.youtube.com/watch?v=TfpsXShOvmk"
     },
     {
       "date": "2026-09-18",
       "channel": "뷰포인트",
       "title": "같은 작품 찍다 진짜 부부가 된 스타 커플 TOP7",
-      "views": 28506,
+      "views": 28618,
       "url": "https://www.youtube.com/watch?v=VL9zB13nfLg"
     },
     {
       "date": "2026-09-21",
       "channel": "뷰포인트",
       "title": "모두가 패배를 점쳤던 언더독, 김동현에 이은 한국인 최다승 아이언 터틀 박준용",
-      "views": 11200,
+      "views": 11438,
       "url": "https://www.youtube.com/watch?v=Pr3sTgdsgAM"
     },
     {
       "date": "2026-09-21",
       "channel": "뷰포인트",
       "title": "한국 팬한테 제대로 낚인 UFC 챔피언 볼카노프스키, 그런데 반응이 반전",
-      "views": 1727,
+      "views": 1764,
       "url": "https://www.youtube.com/watch?v=WwYmw_nYpcE"
     },
     {
@@ -1097,7 +869,7 @@ window.DATA = {
       "date": "2026-09-18",
       "channel": "뷰포인트",
       "title": "데뷔 18초 KO, 페더급을 뒤흔든 코리안 슈퍼보이 최두호의 KO 시퀀스",
-      "views": 9731,
+      "views": 9762,
       "url": "https://www.youtube.com/watch?v=NldIXpTdDTo"
     },
     {
@@ -1125,7 +897,7 @@ window.DATA = {
       "date": "2026-09-09",
       "channel": "해외반응픽",
       "title": "한국말이 더 편해요, 한국인 다 된 외국인 스타 TOP7 (1위는 외국인 방송인의 원조로 불린 그 사람)",
-      "views": 87696,
+      "views": 87703,
       "url": "https://www.youtube.com/watch?v=6-d7zOhtT48"
     },
     {
@@ -1139,7 +911,7 @@ window.DATA = {
       "date": "2026-09-07",
       "channel": "해외반응픽",
       "title": "그 꼬마가 이렇게 컸다고? 인생역전한 아역 스타 TOP7",
-      "views": 29593,
+      "views": 29603,
       "url": "https://www.youtube.com/watch?v=3t8AxTJCcug"
     },
     {
@@ -1153,7 +925,7 @@ window.DATA = {
       "date": "2026-09-17",
       "channel": "해외반응픽",
       "title": "국민 드라마 전원일기 그 배우들 TOP7 (1위는 지금도 국민 어머니로 불리는 그 배우)",
-      "views": 4349,
+      "views": 4357,
       "url": "https://www.youtube.com/watch?v=agUlhGny9zU"
     },
     {
@@ -1272,7 +1044,7 @@ window.DATA = {
       "date": "2026-09-13",
       "channel": "코리아리뷰",
       "title": "전 세계가 반한 그 드라마, 외국인 리액터들이 1화부터 뒤집어진 이유 | 이상한 변호사 우영우 (박은빈) 해외 리액션",
-      "views": 4986,
+      "views": 4988,
       "url": "https://www.youtube.com/watch?v=A4wtGpc_uu4"
     },
     {
@@ -1299,9 +1071,10 @@ window.DATA = {
   ],
   "made": {
     "2026-09-22": {
-      "연예정보통": 1,
-      "뷰포인트": 1,
-      "이슈브리핑": 1
+      "뷰포인트": 2,
+      "숏츠시작": 1,
+      "연예정보통": 2,
+      "이슈브리핑": 2
     },
     "2026-09-21": {
       "숏츠시작": 2,
