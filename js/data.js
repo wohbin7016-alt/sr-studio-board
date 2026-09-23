@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 41400,
       "sampled": 20,
-      "avg_views": 10768,
+      "avg_views": 10773,
       "median_views": 5131,
       "uploads_30d": 20,
-      "views_30d": 215371,
+      "views_30d": 215469,
       "shorts_ratio": 0.2,
       "top_videos": [
         {
           "title": "화면빨인 줄 알았는데 실물이 더 미친 스타 TOP7 (실제로 보면 더 미쳤다는 배우들, 1위는?)",
-          "views": 70949,
+          "views": 70973,
           "date": "2026-09-15",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=O0beAAWps3A"
@@ -37,14 +37,14 @@ window.DATA = {
         },
         {
           "title": "한 시대를 양분한 원조 라이벌 스타 TOP7 🔥 우열을 가릴 수 없던 영원한 맞수들",
-          "views": 16865,
+          "views": 16885,
           "date": "2026-09-17",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=r24Oc8uutsk"
         },
         {
           "title": "알고보니 학창시절 얼짱 출신이었던 스타 TOP7 😍 은광여고·서문여고가 배출한 전설의 얼짱들",
-          "views": 15392,
+          "views": 15406,
           "date": "2026-09-17",
           "duration": 83,
           "url": "https://www.youtube.com/watch?v=ON0tU9l8xXY"
@@ -53,14 +53,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이분이 나오면 우리 아빠였다 — 국민 아버지 역 배우 TOP7 (1위는 90세 현역 전설)",
-          "views": 1262,
+          "views": 1246,
           "date": "2026-09-22",
           "duration": 85,
           "url": "https://www.youtube.com/watch?v=0T4weAvyJ9w"
         },
         {
           "title": "홀로 자란 소년이 톱모델 배정남이 되기까지, 20년 만에 찾은 할머니",
-          "views": 3359,
+          "views": 3413,
           "date": "2026-09-22",
           "duration": 54,
           "url": "https://www.youtube.com/watch?v=wjkIvwsKtHE"
@@ -88,14 +88,14 @@ window.DATA = {
         },
         {
           "title": "한 시대를 양분한 원조 라이벌 스타 TOP7 🔥 우열을 가릴 수 없던 영원한 맞수들",
-          "views": 16865,
+          "views": 16885,
           "date": "2026-09-17",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=r24Oc8uutsk"
         },
         {
           "title": "알고보니 학창시절 얼짱 출신이었던 스타 TOP7 😍 은광여고·서문여고가 배출한 전설의 얼짱들",
-          "views": 15392,
+          "views": 15406,
           "date": "2026-09-17",
           "duration": 83,
           "url": "https://www.youtube.com/watch?v=ON0tU9l8xXY"
@@ -122,82 +122,82 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=q-TLesWMUW4"
         }
       ],
-      "analyzed_at": "2026-09-23 09:51",
+      "analyzed_at": "2026-09-23 10:54",
       "subs_delta": 0
     },
     {
       "url": "https://youtube.com/channel/UC29M9AGVR19NtIrAHsjx-XA",
       "name": "이슈브리핑",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
-      "subscribers": 6820,
+      "subscribers": 6830,
       "sampled": 20,
-      "avg_views": 76642,
-      "median_views": 30757,
+      "avg_views": 77326,
+      "median_views": 30771,
       "uploads_30d": 20,
-      "views_30d": 1532849,
+      "views_30d": 1546523,
       "shorts_ratio": 0.5,
       "top_videos": [
         {
           "title": "방어율 0점대 실화냐 KBO 방어율 전설 TOP7 (1위는 0점대 방어율만 세 번·국보급)",
-          "views": 324908,
+          "views": 325136,
           "date": "2026-09-12",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=AX4cBZ1EsDQ"
         },
         {
           "title": "방망이가 못 따라갔다 KBO 토종 강속구 TOP7 (1위는 토종 최초 161.6km 돌파)",
-          "views": 305948,
+          "views": 306342,
           "date": "2026-09-13",
           "duration": 66,
           "url": "https://www.youtube.com/watch?v=m-vbBSvaqwQ"
         },
         {
           "title": "안타·2루타·3루타·홈런 한 경기에 다 친 KBO 사이클링히트 TOP7",
-          "views": 253501,
+          "views": 254897,
           "date": "2026-09-17",
           "duration": 91,
           "url": "https://www.youtube.com/watch?v=YjCCoICC0Sg"
         },
         {
           "title": "최동원조차 못 넘었다 — KBO 통산 완봉 TOP7 (1위 29완봉, 정체는?)",
-          "views": 143722,
+          "views": 150146,
           "date": "2026-09-21",
           "duration": 79,
           "url": "https://www.youtube.com/watch?v=DLUWnU9wxcQ"
         },
         {
-          "title": "데뷔 첫해부터 괴물이었던 KBO 역대 신인왕 TOP7 (1위는 신인왕+MVP 동시 석권 역대 유일)",
-          "views": 73682,
-          "date": "2026-09-11",
-          "duration": 81,
-          "url": "https://www.youtube.com/watch?v=4l2YABkHlVY"
+          "title": "최정도 못 넘었다 KBO 통산 볼넷 TOP7 (1위 1278개, 정체는?)",
+          "views": 75744,
+          "date": "2026-09-22",
+          "duration": 82,
+          "url": "https://www.youtube.com/watch?v=huZXtq4wI9Q"
         }
       ],
       "recent_videos": [
         {
           "title": "끝까지 마운드를 지켰다 — KBO 최다 등판 TOP7 (1위 통산 1005경기, 정체는?)",
-          "views": 7842,
+          "views": 8513,
           "date": "2026-09-22",
           "duration": 79,
           "url": "https://www.youtube.com/watch?v=hOQHc4wBPXM"
         },
         {
           "title": "최정도 못 넘었다 KBO 통산 볼넷 TOP7 (1위 1278개, 정체는?)",
-          "views": 71808,
+          "views": 75744,
           "date": "2026-09-22",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=huZXtq4wI9Q"
         },
         {
           "title": "최동원조차 못 넘었다 — KBO 통산 완봉 TOP7 (1위 29완봉, 정체는?)",
-          "views": 143722,
+          "views": 150146,
           "date": "2026-09-21",
           "duration": 79,
           "url": "https://www.youtube.com/watch?v=DLUWnU9wxcQ"
         },
         {
           "title": "뱀직구 하나로 일본을 접수하다 — 야쿠르트의 미스터 제로, 임창용",
-          "views": 30082,
+          "views": 30354,
           "date": "2026-09-20",
           "duration": 47,
           "url": "https://www.youtube.com/watch?v=cZX0Tgl0_EM"
@@ -211,58 +211,58 @@ window.DATA = {
         },
         {
           "title": "야구 148년 역사가 멈춘 밤 — 오타니 쇼헤이, 사상 최초 50홈런-50도루",
-          "views": 58289,
+          "views": 58493,
           "date": "2026-09-18",
           "duration": 61,
           "url": "https://www.youtube.com/watch?v=Cbb8jkN1fHY"
         },
         {
           "title": "다시는 없을 맞대결 — 1987년, 최동원과 선동열이 15회까지 던진 밤",
-          "views": 25260,
+          "views": 25301,
           "date": "2026-09-18",
           "duration": 56,
           "url": "https://www.youtube.com/watch?v=PKgAbDKY4Ig"
         },
         {
           "title": "안타·2루타·3루타·홈런 한 경기에 다 친 KBO 사이클링히트 TOP7",
-          "views": 253501,
+          "views": 254897,
           "date": "2026-09-17",
           "duration": 91,
           "url": "https://www.youtube.com/watch?v=YjCCoICC0Sg"
         },
         {
           "title": "700엔 비닐 글러브로 시작한 소년, 일본시리즈 마운드에 서다 — 미야기 히로야",
-          "views": 6229,
+          "views": 6248,
           "date": "2026-09-17",
           "duration": 63,
           "url": "https://www.youtube.com/watch?v=o5hHshB4njg"
         },
         {
           "title": "삼진인데 경기가 끝났다? KBO 역대급 황당사건 3가지",
-          "views": 6749,
+          "views": 6755,
           "date": "2026-09-16",
           "duration": 63,
           "url": "https://www.youtube.com/watch?v=y7i61MbIY-I"
         }
       ],
-      "analyzed_at": "2026-09-23 09:52",
-      "subs_delta": 40
+      "analyzed_at": "2026-09-23 10:55",
+      "subs_delta": 50
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
       "name": "뷰포인트",
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
-      "subscribers": 2680,
+      "subscribers": 2690,
       "sampled": 20,
-      "avg_views": 21387,
-      "median_views": 10554,
+      "avg_views": 21935,
+      "median_views": 10558,
       "uploads_30d": 20,
-      "views_30d": 427758,
+      "views_30d": 438706,
       "shorts_ratio": 0.25,
       "top_videos": [
         {
           "title": "아무도 못 깬 16연승 UFC 최다 연승 TOP7",
-          "views": 137338,
+          "views": 137745,
           "date": "2026-09-20",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=rtsuAHKKbiI"
@@ -275,22 +275,22 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=pZ31tRUt7iw"
         },
         {
-          "title": "정찬성도 못 넘은 13승 한국인 UFC 최다승 TOP7",
-          "views": 40747,
-          "date": "2026-09-22",
-          "duration": 73,
-          "url": "https://www.youtube.com/watch?v=So-pe0F8GnM"
-        },
-        {
           "title": "한 경기 5천만원, UFC 보너스 최다 수상 한국인 파이터 TOP7 (1위는 반전)",
-          "views": 38253,
+          "views": 47457,
           "date": "2026-09-22",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=nDv8V-BeCT0"
         },
         {
+          "title": "정찬성도 못 넘은 13승 한국인 UFC 최다승 TOP7",
+          "views": 41659,
+          "date": "2026-09-22",
+          "duration": 73,
+          "url": "https://www.youtube.com/watch?v=So-pe0F8GnM"
+        },
+        {
           "title": "안 친할 것 같은데 알고보니 찐친이었던 의외의 스타 조합 TOP7",
-          "views": 33343,
+          "views": 33469,
           "date": "2026-09-17",
           "duration": 83,
           "url": "https://www.youtube.com/watch?v=TfpsXShOvmk"
@@ -299,35 +299,35 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "한 경기 5천만원, UFC 보너스 최다 수상 한국인 파이터 TOP7 (1위는 반전)",
-          "views": 38253,
+          "views": 47457,
           "date": "2026-09-22",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=nDv8V-BeCT0"
         },
         {
           "title": "정찬성도 못 넘은 13승 한국인 UFC 최다승 TOP7",
-          "views": 40747,
+          "views": 41659,
           "date": "2026-09-22",
           "duration": 73,
           "url": "https://www.youtube.com/watch?v=So-pe0F8GnM"
         },
         {
           "title": "모두가 패배를 점쳤던 언더독, 김동현에 이은 한국인 최다승 아이언 터틀 박준용",
-          "views": 14898,
+          "views": 15086,
           "date": "2026-09-21",
           "duration": 46,
           "url": "https://www.youtube.com/watch?v=Pr3sTgdsgAM"
         },
         {
           "title": "한국 팬한테 제대로 낚인 UFC 챔피언 볼카노프스키, 그런데 반응이 반전",
-          "views": 2385,
+          "views": 2488,
           "date": "2026-09-21",
           "duration": 48,
           "url": "https://www.youtube.com/watch?v=WwYmw_nYpcE"
         },
         {
           "title": "아무도 못 깬 16연승 UFC 최다 연승 TOP7",
-          "views": 137338,
+          "views": 137745,
           "date": "2026-09-20",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=rtsuAHKKbiI"
@@ -362,25 +362,25 @@ window.DATA = {
         },
         {
           "title": "안 친할 것 같은데 알고보니 찐친이었던 의외의 스타 조합 TOP7",
-          "views": 33343,
+          "views": 33469,
           "date": "2026-09-17",
           "duration": 83,
           "url": "https://www.youtube.com/watch?v=TfpsXShOvmk"
         }
       ],
-      "analyzed_at": "2026-09-23 09:52",
-      "subs_delta": 20
+      "analyzed_at": "2026-09-23 10:56",
+      "subs_delta": 30
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
       "name": "해외반응픽",
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
-      "subscribers": 726,
+      "subscribers": 734,
       "sampled": 20,
-      "avg_views": 21877,
+      "avg_views": 21893,
       "median_views": 10921,
       "uploads_30d": 20,
-      "views_30d": 437540,
+      "views_30d": 437875,
       "shorts_ratio": 0.25,
       "top_videos": [
         {
@@ -392,7 +392,7 @@ window.DATA = {
         },
         {
           "title": "한국말이 더 편해요, 한국인 다 된 외국인 스타 TOP7 (1위는 외국인 방송인의 원조로 불린 그 사람)",
-          "views": 87730,
+          "views": 87731,
           "date": "2026-09-09",
           "duration": 72,
           "url": "https://www.youtube.com/watch?v=6-d7zOhtT48"
@@ -413,7 +413,7 @@ window.DATA = {
         },
         {
           "title": "매진 행렬 콘서트 흥행 신화 가수 TOP7 (1위는 솔로 최초 잠실주경기장 5만석 매진 신화)",
-          "views": 19554,
+          "views": 19561,
           "date": "2026-09-11",
           "duration": 76,
           "url": "https://www.youtube.com/watch?v=J_-5p-pzZmE"
@@ -422,14 +422,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "같이 서니 600만 터진 박지현 콜라보 무대 조회수 TOP7 (1위는 이 순위 유일 600만 돌파 합동 무대)",
-          "views": 1951,
+          "views": 2272,
           "date": "2026-09-22",
           "duration": 70,
           "url": "https://www.youtube.com/watch?v=AIbsmLQaoAg"
         },
         {
           "title": "국민 드라마 전원일기 그 배우들 TOP7 (1위는 지금도 국민 어머니로 불리는 그 배우)",
-          "views": 4415,
+          "views": 4413,
           "date": "2026-09-17",
           "duration": 65,
           "url": "https://www.youtube.com/watch?v=agUlhGny9zU"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "알고보니 초고학벌, 명문대 스타 TOP7",
-          "views": 16773,
+          "views": 16774,
           "date": "2026-09-16",
           "duration": 75,
           "url": "https://www.youtube.com/watch?v=-sndFol7Npw"
@@ -457,7 +457,7 @@ window.DATA = {
         },
         {
           "title": "세월도 비껴간 동안 미모 스타 TOP7 (1위는 아시아를 사로잡은 국민 드라마 여신)",
-          "views": 2672,
+          "views": 2673,
           "date": "2026-09-15",
           "duration": 62,
           "url": "https://www.youtube.com/watch?v=XbGJmuNDUAc"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "알고 보니 다 미스코리아 미모 폭발 스타 TOP7 (1위는 시청률 50% 전설의 대회 출신 국민 여배우)",
-          "views": 4728,
+          "views": 4734,
           "date": "2026-09-13",
           "duration": 65,
           "url": "https://www.youtube.com/watch?v=TL6YF6J9eX8"
@@ -491,8 +491,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=VVoTtagnbRM"
         }
       ],
-      "analyzed_at": "2026-09-23 09:53",
-      "subs_delta": 31
+      "analyzed_at": "2026-09-23 10:57",
+      "subs_delta": 39
     },
     {
       "url": "https://www.youtube.com/channel/UChq2TqKlpNlWpHpDRMwyCeQ",
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 5302,
       "median_views": 1386,
       "uploads_30d": 12,
-      "views_30d": 51227,
+      "views_30d": 51228,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -573,7 +573,7 @@ window.DATA = {
         },
         {
           "title": "검사가 \"당신 자폐잖아요\"… 외국인 리액터들이 분노하고 오열한 그 장면 | 이상한 변호사 우영우 (박은빈) 해외 리액션 | 3·4화",
-          "views": 1691,
+          "views": 1692,
           "date": "2026-09-14",
           "duration": 753,
           "url": "https://www.youtube.com/watch?v=BCjpJ9xYjEA"
@@ -614,17 +614,17 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=00lmxGBAgR0"
         }
       ],
-      "analyzed_at": "2026-09-23 09:54",
+      "analyzed_at": "2026-09-23 10:57",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-09-23 09:51",
+  "generated_at": "2026-09-23 10:54",
   "videos": [
     {
       "date": "2026-09-15",
       "channel": "숏츠시작",
       "title": "화면빨인 줄 알았는데 실물이 더 미친 스타 TOP7 (실제로 보면 더 미쳤다는 배우들, 1위는?)",
-      "views": 70949,
+      "views": 70973,
       "url": "https://www.youtube.com/watch?v=O0beAAWps3A"
     },
     {
@@ -645,28 +645,28 @@ window.DATA = {
       "date": "2026-09-17",
       "channel": "숏츠시작",
       "title": "한 시대를 양분한 원조 라이벌 스타 TOP7 🔥 우열을 가릴 수 없던 영원한 맞수들",
-      "views": 16865,
+      "views": 16885,
       "url": "https://www.youtube.com/watch?v=r24Oc8uutsk"
     },
     {
       "date": "2026-09-17",
       "channel": "숏츠시작",
       "title": "알고보니 학창시절 얼짱 출신이었던 스타 TOP7 😍 은광여고·서문여고가 배출한 전설의 얼짱들",
-      "views": 15392,
+      "views": 15406,
       "url": "https://www.youtube.com/watch?v=ON0tU9l8xXY"
     },
     {
       "date": "2026-09-22",
       "channel": "숏츠시작",
       "title": "이분이 나오면 우리 아빠였다 — 국민 아버지 역 배우 TOP7 (1위는 90세 현역 전설)",
-      "views": 1262,
+      "views": 1246,
       "url": "https://www.youtube.com/watch?v=0T4weAvyJ9w"
     },
     {
       "date": "2026-09-22",
       "channel": "숏츠시작",
       "title": "홀로 자란 소년이 톱모델 배정남이 되기까지, 20년 만에 찾은 할머니",
-      "views": 3359,
+      "views": 3413,
       "url": "https://www.youtube.com/watch?v=wjkIvwsKtHE"
     },
     {
@@ -708,56 +708,49 @@ window.DATA = {
       "date": "2026-09-12",
       "channel": "이슈브리핑",
       "title": "방어율 0점대 실화냐 KBO 방어율 전설 TOP7 (1위는 0점대 방어율만 세 번·국보급)",
-      "views": 324908,
+      "views": 325136,
       "url": "https://www.youtube.com/watch?v=AX4cBZ1EsDQ"
     },
     {
       "date": "2026-09-13",
       "channel": "이슈브리핑",
       "title": "방망이가 못 따라갔다 KBO 토종 강속구 TOP7 (1위는 토종 최초 161.6km 돌파)",
-      "views": 305948,
+      "views": 306342,
       "url": "https://www.youtube.com/watch?v=m-vbBSvaqwQ"
     },
     {
       "date": "2026-09-17",
       "channel": "이슈브리핑",
       "title": "안타·2루타·3루타·홈런 한 경기에 다 친 KBO 사이클링히트 TOP7",
-      "views": 253501,
+      "views": 254897,
       "url": "https://www.youtube.com/watch?v=YjCCoICC0Sg"
     },
     {
       "date": "2026-09-21",
       "channel": "이슈브리핑",
       "title": "최동원조차 못 넘었다 — KBO 통산 완봉 TOP7 (1위 29완봉, 정체는?)",
-      "views": 143722,
+      "views": 150146,
       "url": "https://www.youtube.com/watch?v=DLUWnU9wxcQ"
-    },
-    {
-      "date": "2026-09-11",
-      "channel": "이슈브리핑",
-      "title": "데뷔 첫해부터 괴물이었던 KBO 역대 신인왕 TOP7 (1위는 신인왕+MVP 동시 석권 역대 유일)",
-      "views": 73682,
-      "url": "https://www.youtube.com/watch?v=4l2YABkHlVY"
-    },
-    {
-      "date": "2026-09-22",
-      "channel": "이슈브리핑",
-      "title": "끝까지 마운드를 지켰다 — KBO 최다 등판 TOP7 (1위 통산 1005경기, 정체는?)",
-      "views": 7842,
-      "url": "https://www.youtube.com/watch?v=hOQHc4wBPXM"
     },
     {
       "date": "2026-09-22",
       "channel": "이슈브리핑",
       "title": "최정도 못 넘었다 KBO 통산 볼넷 TOP7 (1위 1278개, 정체는?)",
-      "views": 71808,
+      "views": 75744,
       "url": "https://www.youtube.com/watch?v=huZXtq4wI9Q"
+    },
+    {
+      "date": "2026-09-22",
+      "channel": "이슈브리핑",
+      "title": "끝까지 마운드를 지켰다 — KBO 최다 등판 TOP7 (1위 통산 1005경기, 정체는?)",
+      "views": 8513,
+      "url": "https://www.youtube.com/watch?v=hOQHc4wBPXM"
     },
     {
       "date": "2026-09-20",
       "channel": "이슈브리핑",
       "title": "뱀직구 하나로 일본을 접수하다 — 야쿠르트의 미스터 제로, 임창용",
-      "views": 30082,
+      "views": 30354,
       "url": "https://www.youtube.com/watch?v=cZX0Tgl0_EM"
     },
     {
@@ -771,35 +764,35 @@ window.DATA = {
       "date": "2026-09-18",
       "channel": "이슈브리핑",
       "title": "야구 148년 역사가 멈춘 밤 — 오타니 쇼헤이, 사상 최초 50홈런-50도루",
-      "views": 58289,
+      "views": 58493,
       "url": "https://www.youtube.com/watch?v=Cbb8jkN1fHY"
     },
     {
       "date": "2026-09-18",
       "channel": "이슈브리핑",
       "title": "다시는 없을 맞대결 — 1987년, 최동원과 선동열이 15회까지 던진 밤",
-      "views": 25260,
+      "views": 25301,
       "url": "https://www.youtube.com/watch?v=PKgAbDKY4Ig"
     },
     {
       "date": "2026-09-17",
       "channel": "이슈브리핑",
       "title": "700엔 비닐 글러브로 시작한 소년, 일본시리즈 마운드에 서다 — 미야기 히로야",
-      "views": 6229,
+      "views": 6248,
       "url": "https://www.youtube.com/watch?v=o5hHshB4njg"
     },
     {
       "date": "2026-09-16",
       "channel": "이슈브리핑",
       "title": "삼진인데 경기가 끝났다? KBO 역대급 황당사건 3가지",
-      "views": 6749,
+      "views": 6755,
       "url": "https://www.youtube.com/watch?v=y7i61MbIY-I"
     },
     {
       "date": "2026-09-20",
       "channel": "뷰포인트",
       "title": "아무도 못 깬 16연승 UFC 최다 연승 TOP7",
-      "views": 137338,
+      "views": 137745,
       "url": "https://www.youtube.com/watch?v=rtsuAHKKbiI"
     },
     {
@@ -812,36 +805,36 @@ window.DATA = {
     {
       "date": "2026-09-22",
       "channel": "뷰포인트",
-      "title": "정찬성도 못 넘은 13승 한국인 UFC 최다승 TOP7",
-      "views": 40747,
-      "url": "https://www.youtube.com/watch?v=So-pe0F8GnM"
+      "title": "한 경기 5천만원, UFC 보너스 최다 수상 한국인 파이터 TOP7 (1위는 반전)",
+      "views": 47457,
+      "url": "https://www.youtube.com/watch?v=nDv8V-BeCT0"
     },
     {
       "date": "2026-09-22",
       "channel": "뷰포인트",
-      "title": "한 경기 5천만원, UFC 보너스 최다 수상 한국인 파이터 TOP7 (1위는 반전)",
-      "views": 38253,
-      "url": "https://www.youtube.com/watch?v=nDv8V-BeCT0"
+      "title": "정찬성도 못 넘은 13승 한국인 UFC 최다승 TOP7",
+      "views": 41659,
+      "url": "https://www.youtube.com/watch?v=So-pe0F8GnM"
     },
     {
       "date": "2026-09-17",
       "channel": "뷰포인트",
       "title": "안 친할 것 같은데 알고보니 찐친이었던 의외의 스타 조합 TOP7",
-      "views": 33343,
+      "views": 33469,
       "url": "https://www.youtube.com/watch?v=TfpsXShOvmk"
     },
     {
       "date": "2026-09-21",
       "channel": "뷰포인트",
       "title": "모두가 패배를 점쳤던 언더독, 김동현에 이은 한국인 최다승 아이언 터틀 박준용",
-      "views": 14898,
+      "views": 15086,
       "url": "https://www.youtube.com/watch?v=Pr3sTgdsgAM"
     },
     {
       "date": "2026-09-21",
       "channel": "뷰포인트",
       "title": "한국 팬한테 제대로 낚인 UFC 챔피언 볼카노프스키, 그런데 반응이 반전",
-      "views": 2385,
+      "views": 2488,
       "url": "https://www.youtube.com/watch?v=WwYmw_nYpcE"
     },
     {
@@ -876,7 +869,7 @@ window.DATA = {
       "date": "2026-09-09",
       "channel": "해외반응픽",
       "title": "한국말이 더 편해요, 한국인 다 된 외국인 스타 TOP7 (1위는 외국인 방송인의 원조로 불린 그 사람)",
-      "views": 87730,
+      "views": 87731,
       "url": "https://www.youtube.com/watch?v=6-d7zOhtT48"
     },
     {
@@ -897,21 +890,21 @@ window.DATA = {
       "date": "2026-09-11",
       "channel": "해외반응픽",
       "title": "매진 행렬 콘서트 흥행 신화 가수 TOP7 (1위는 솔로 최초 잠실주경기장 5만석 매진 신화)",
-      "views": 19554,
+      "views": 19561,
       "url": "https://www.youtube.com/watch?v=J_-5p-pzZmE"
     },
     {
       "date": "2026-09-22",
       "channel": "해외반응픽",
       "title": "같이 서니 600만 터진 박지현 콜라보 무대 조회수 TOP7 (1위는 이 순위 유일 600만 돌파 합동 무대)",
-      "views": 1951,
+      "views": 2272,
       "url": "https://www.youtube.com/watch?v=AIbsmLQaoAg"
     },
     {
       "date": "2026-09-17",
       "channel": "해외반응픽",
       "title": "국민 드라마 전원일기 그 배우들 TOP7 (1위는 지금도 국민 어머니로 불리는 그 배우)",
-      "views": 4415,
+      "views": 4413,
       "url": "https://www.youtube.com/watch?v=agUlhGny9zU"
     },
     {
@@ -925,7 +918,7 @@ window.DATA = {
       "date": "2026-09-16",
       "channel": "해외반응픽",
       "title": "알고보니 초고학벌, 명문대 스타 TOP7",
-      "views": 16773,
+      "views": 16774,
       "url": "https://www.youtube.com/watch?v=-sndFol7Npw"
     },
     {
@@ -939,7 +932,7 @@ window.DATA = {
       "date": "2026-09-15",
       "channel": "해외반응픽",
       "title": "세월도 비껴간 동안 미모 스타 TOP7 (1위는 아시아를 사로잡은 국민 드라마 여신)",
-      "views": 2672,
+      "views": 2673,
       "url": "https://www.youtube.com/watch?v=XbGJmuNDUAc"
     },
     {
@@ -960,7 +953,7 @@ window.DATA = {
       "date": "2026-09-13",
       "channel": "해외반응픽",
       "title": "알고 보니 다 미스코리아 미모 폭발 스타 TOP7 (1위는 시청률 50% 전설의 대회 출신 국민 여배우)",
-      "views": 4728,
+      "views": 4734,
       "url": "https://www.youtube.com/watch?v=TL6YF6J9eX8"
     },
     {
@@ -1030,7 +1023,7 @@ window.DATA = {
       "date": "2026-09-14",
       "channel": "코리아리뷰",
       "title": "검사가 \"당신 자폐잖아요\"… 외국인 리액터들이 분노하고 오열한 그 장면 | 이상한 변호사 우영우 (박은빈) 해외 리액션 | 3·4화",
-      "views": 1691,
+      "views": 1692,
       "url": "https://www.youtube.com/watch?v=BCjpJ9xYjEA"
     },
     {
