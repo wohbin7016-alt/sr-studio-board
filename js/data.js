@@ -11,7 +11,7 @@ window.DATA = {
       "avg_views": 11681,
       "median_views": 7020,
       "uploads_30d": 20,
-      "views_30d": 233623,
+      "views_30d": 233626,
       "shorts_ratio": 0.2,
       "top_videos": [
         {
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=q-TLesWMUW4"
         }
       ],
-      "analyzed_at": "2026-09-27 08:14",
+      "analyzed_at": "2026-09-27 09:17",
       "subs_delta": 0
     },
     {
@@ -131,36 +131,36 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 7350,
       "sampled": 20,
-      "avg_views": 88379,
-      "median_views": 40591,
+      "avg_views": 88788,
+      "median_views": 40869,
       "uploads_30d": 20,
-      "views_30d": 1767593,
+      "views_30d": 1775768,
       "shorts_ratio": 0.35,
       "top_videos": [
         {
           "title": "최동원조차 못 넘었다 — KBO 통산 완봉 TOP7 (1위 29완봉, 정체는?)",
-          "views": 458964,
+          "views": 460093,
           "date": "2026-09-21",
           "duration": 79,
           "url": "https://www.youtube.com/watch?v=DLUWnU9wxcQ"
         },
         {
           "title": "안타·2루타·3루타·홈런 한 경기에 다 친 KBO 사이클링히트 TOP7",
-          "views": 281939,
+          "views": 281983,
           "date": "2026-09-17",
           "duration": 91,
           "url": "https://www.youtube.com/watch?v=YjCCoICC0Sg"
         },
         {
           "title": "아시아가 던진 강속구 MLB 아시아 투수 통산 탈삼진 TOP7 (1위는 반전)",
-          "views": 217540,
+          "views": 218147,
           "date": "2026-09-23",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=8VkMXmABJZc"
         },
         {
           "title": "홈런 세계기록은 미국이 아니었다 프로야구 세계 통산 홈런 TOP7 (1위는 반전)",
-          "views": 203560,
+          "views": 207322,
           "date": "2026-09-25",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=XupZQ60Y1GM"
@@ -176,63 +176,63 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "아무도 못 잡았다 KBO 한 시즌 도루 TOP7 (1위는 84개 훔친 해태 전설)",
-          "views": 20353,
+          "views": 20719,
           "date": "2026-09-26",
           "duration": 77,
           "url": "https://www.youtube.com/watch?v=KqVhiM0bZWU"
         },
         {
           "title": "맞아도 피하지 않았다 KBO 통산 사구 TOP7 (1위는 세계기록)",
-          "views": 32133,
+          "views": 32464,
           "date": "2026-09-25",
           "duration": 71,
           "url": "https://www.youtube.com/watch?v=AVbkfl-dzvM"
         },
         {
           "title": "홈런 세계기록은 미국이 아니었다 프로야구 세계 통산 홈런 TOP7 (1위는 반전)",
-          "views": 203560,
+          "views": 207322,
           "date": "2026-09-25",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=XupZQ60Y1GM"
         },
         {
           "title": "쉬는 날이 없었던 철인 MLB 연속 경기 출장 TOP7 (1위는 반전)",
-          "views": 4794,
+          "views": 4810,
           "date": "2026-09-24",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=nFZxta2bMJ8"
         },
         {
           "title": "혼자서 9회를 다 던졌다 KBO 통산 완투 TOP7 (1위는 반전)",
-          "views": 52000,
+          "views": 52210,
           "date": "2026-09-24",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=xMQYfQrR96w"
         },
         {
           "title": "바다 건너 담장을 넘겼다 MLB 한국인 통산 홈런 TOP7 (1위는 반전)",
-          "views": 73108,
+          "views": 74209,
           "date": "2026-09-24",
           "duration": 81,
           "url": "https://www.youtube.com/watch?v=VYdx-YxQt_I"
         },
         {
           "title": "빅리그를 정복한 안타 MLB 아시아 선수 통산 안타 TOP7 (1위는 반전)",
-          "views": 39319,
+          "views": 39759,
           "date": "2026-09-23",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=wZa4b6bQOJY"
         },
         {
           "title": "아시아가 던진 강속구 MLB 아시아 투수 통산 탈삼진 TOP7 (1위는 반전)",
-          "views": 217540,
+          "views": 218147,
           "date": "2026-09-23",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=8VkMXmABJZc"
         },
         {
           "title": "끝까지 마운드를 지켰다 — KBO 최다 등판 TOP7 (1위 통산 1005경기, 정체는?)",
-          "views": 41863,
+          "views": 41979,
           "date": "2026-09-22",
           "duration": 79,
           "url": "https://www.youtube.com/watch?v=hOQHc4wBPXM"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=huZXtq4wI9Q"
         }
       ],
-      "analyzed_at": "2026-09-27 08:15",
+      "analyzed_at": "2026-09-27 09:18",
       "subs_delta": 40
     },
     {
@@ -254,46 +254,46 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 2910,
       "sampled": 20,
-      "avg_views": 41026,
-      "median_views": 13919,
+      "avg_views": 41163,
+      "median_views": 13959,
       "uploads_30d": 20,
-      "views_30d": 820533,
+      "views_30d": 823274,
       "shorts_ratio": 0.4,
       "top_videos": [
         {
           "title": "한 경기 5천만원, UFC 보너스 최다 수상 한국인 파이터 TOP7 (1위는 반전)",
-          "views": 223683,
+          "views": 225409,
           "date": "2026-09-22",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=nDv8V-BeCT0"
         },
         {
           "title": "아무도 못 깬 16연승 UFC 최다 연승 TOP7",
-          "views": 181062,
+          "views": 181135,
           "date": "2026-09-20",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=rtsuAHKKbiI"
         },
         {
           "title": "정찬성도 못 넘은 13승 한국인 UFC 최다승 TOP7",
-          "views": 83336,
+          "views": 83420,
           "date": "2026-09-22",
           "duration": 73,
           "url": "https://www.youtube.com/watch?v=So-pe0F8GnM"
         },
         {
-          "title": "한국 파이터 8연패, 그 잔혹사를 끝낸 단 하나의 승리 — 최두호가 '코리안 킬러'를 잡았다",
-          "views": 66764,
-          "date": "2026-09-19",
-          "duration": 37,
-          "url": "https://www.youtube.com/watch?v=pZ31tRUt7iw"
-        },
-        {
           "title": "몸무게를 바꿔가며 벨트를 쓸어담은 복싱 최다 체급 정복 TOP7 (1위는 반전)",
-          "views": 66709,
+          "views": 67082,
           "date": "2026-09-24",
           "duration": 89,
           "url": "https://www.youtube.com/watch?v=1cWf3vxbfpM"
+        },
+        {
+          "title": "한국 파이터 8연패, 그 잔혹사를 끝낸 단 하나의 승리 — 최두호가 '코리안 킬러'를 잡았다",
+          "views": 66765,
+          "date": "2026-09-19",
+          "duration": 37,
+          "url": "https://www.youtube.com/watch?v=pZ31tRUt7iw"
         }
       ],
       "recent_videos": [
@@ -306,42 +306,42 @@ window.DATA = {
         },
         {
           "title": "한국인 최초로 UFC 옥타곤을 밟은 개척자 (백스핀 엘보 KO의 전설)",
-          "views": 1610,
+          "views": 1666,
           "date": "2026-09-26",
           "duration": 51,
           "url": "https://www.youtube.com/watch?v=50J1pqFVfSM"
         },
         {
           "title": "옥타곤에서 17번을 이겼다 UFC 여자 최다승 TOP7 (1위는 반전)",
-          "views": 10348,
+          "views": 10473,
           "date": "2026-09-25",
           "duration": 77,
           "url": "https://www.youtube.com/watch?v=SpW-SNNcxps"
         },
         {
           "title": "상대를 119번이나 매트에 눕혔다 UFC 최다 테이크다운 TOP7 (1위는 반전)",
-          "views": 5100,
+          "views": 5138,
           "date": "2026-09-25",
           "duration": 83,
           "url": "https://www.youtube.com/watch?v=gnQvA3qDkB4"
         },
         {
           "title": "벨트를 10번 넘게 지켜낸 UFC 역대 최강 챔피언 TOP7 (1위는 반전)",
-          "views": 36960,
+          "views": 37140,
           "date": "2026-09-24",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=xEyvUPTVDsk"
         },
         {
           "title": "몸무게를 바꿔가며 벨트를 쓸어담은 복싱 최다 체급 정복 TOP7 (1위는 반전)",
-          "views": 66709,
+          "views": 67082,
           "date": "2026-09-24",
           "duration": 89,
           "url": "https://www.youtube.com/watch?v=1cWf3vxbfpM"
         },
         {
           "title": "안방을 뜨겁게 달군 2000년대 프라이드 최강 파이터 TOP7 (1위는 반전)",
-          "views": 15313,
+          "views": 15394,
           "date": "2026-09-24",
           "duration": 85,
           "url": "https://www.youtube.com/watch?v=Nm9fjVOhqBw"
@@ -362,25 +362,25 @@ window.DATA = {
         },
         {
           "title": "한 경기 5천만원, UFC 보너스 최다 수상 한국인 파이터 TOP7 (1위는 반전)",
-          "views": 223683,
+          "views": 225409,
           "date": "2026-09-22",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=nDv8V-BeCT0"
         }
       ],
-      "analyzed_at": "2026-09-27 08:16",
+      "analyzed_at": "2026-09-27 09:19",
       "subs_delta": 10
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
       "name": "해외반응픽",
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
-      "subscribers": 1620,
+      "subscribers": 1630,
       "sampled": 20,
-      "avg_views": 15923,
-      "median_views": 11424,
+      "avg_views": 16024,
+      "median_views": 11795,
       "uploads_30d": 20,
-      "views_30d": 318463,
+      "views_30d": 320497,
       "shorts_ratio": 0.2,
       "top_videos": [
         {
@@ -392,7 +392,7 @@ window.DATA = {
         },
         {
           "title": "같이 서니 600만 터진 박지현 콜라보 무대 조회수 TOP7 (1위는 이 순위 유일 600만 돌파 합동 무대)",
-          "views": 29631,
+          "views": 29714,
           "date": "2026-09-22",
           "duration": 70,
           "url": "https://www.youtube.com/watch?v=AIbsmLQaoAg"
@@ -406,14 +406,14 @@ window.DATA = {
         },
         {
           "title": "40년 전 명곡 부른 박지현 커버 TOP7 (1위는 무려 40여 년 전 발표된 최고령 원곡)",
-          "views": 27476,
+          "views": 27785,
           "date": "2026-09-24",
           "duration": 69,
           "url": "https://www.youtube.com/watch?v=kRORLJFmk4c"
         },
         {
           "title": "트로트 판 갈아엎은 박지현 레전드 기록 TOP7 (1위는 박지현을 처음 각인시킨 전설의 데뷔 기록)",
-          "views": 24703,
+          "views": 24863,
           "date": "2026-09-23",
           "duration": 81,
           "url": "https://www.youtube.com/watch?v=1CX43ommAlU"
@@ -422,56 +422,56 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "20년간 무대 개근왕 가요무대 최다 출연 TOP7 (1위는 485회 그 가수)",
-          "views": 2164,
+          "views": 2169,
           "date": "2026-09-26",
           "duration": 77,
           "url": "https://www.youtube.com/watch?v=yVWOxwq1p8M"
         },
         {
           "title": "숫자로 증명된 국민가수 임영웅 레전드 기록 TOP7 (1위는 역대 최고 기록의 그 순간)",
-          "views": 9925,
+          "views": 10558,
           "date": "2026-09-26",
           "duration": 81,
           "url": "https://www.youtube.com/watch?v=yITq13sFZH4"
         },
         {
           "title": "트로트 여왕 장윤정 레전드 기록 TOP7 (1위는 2004년 그 한 곡)",
-          "views": 7890,
+          "views": 8564,
           "date": "2026-09-25",
           "duration": 77,
           "url": "https://www.youtube.com/watch?v=fhxUEijUoaM"
         },
         {
           "title": "혼자 불러도 700만 터진 박지현 무대 조회수 TOP7 (1위는 이 순위 유일 700만 돌파 무대)",
-          "views": 12923,
+          "views": 13033,
           "date": "2026-09-24",
           "duration": 69,
           "url": "https://www.youtube.com/watch?v=lavTYl0rRjY"
         },
         {
           "title": "팬이 찍었는데 터진 박지현 직캠 TOP7 (1위는 팬 직캠 85만 넘긴 최다 기록 무대)",
-          "views": 17939,
+          "views": 17993,
           "date": "2026-09-24",
           "duration": 69,
           "url": "https://www.youtube.com/watch?v=bU6SLHoB_1U"
         },
         {
           "title": "40년 전 명곡 부른 박지현 커버 TOP7 (1위는 무려 40여 년 전 발표된 최고령 원곡)",
-          "views": 27476,
+          "views": 27785,
           "date": "2026-09-24",
           "duration": 69,
           "url": "https://www.youtube.com/watch?v=kRORLJFmk4c"
         },
         {
           "title": "트로트 판 갈아엎은 박지현 레전드 기록 TOP7 (1위는 박지현을 처음 각인시킨 전설의 데뷔 기록)",
-          "views": 24703,
+          "views": 24863,
           "date": "2026-09-23",
           "duration": 81,
           "url": "https://www.youtube.com/watch?v=1CX43ommAlU"
         },
         {
           "title": "같이 서니 600만 터진 박지현 콜라보 무대 조회수 TOP7 (1위는 이 순위 유일 600만 돌파 합동 무대)",
-          "views": 29631,
+          "views": 29714,
           "date": "2026-09-22",
           "duration": 70,
           "url": "https://www.youtube.com/watch?v=AIbsmLQaoAg"
@@ -491,8 +491,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=HcoHOiLFUi0"
         }
       ],
-      "analyzed_at": "2026-09-27 08:17",
-      "subs_delta": 50
+      "analyzed_at": "2026-09-27 09:20",
+      "subs_delta": 60
     },
     {
       "url": "https://www.youtube.com/channel/UChq2TqKlpNlWpHpDRMwyCeQ",
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UChq2TqKlpNlWpHpDRMwyCeQ",
       "subscribers": 84,
       "sampled": 20,
-      "avg_views": 5377,
-      "median_views": 1507,
+      "avg_views": 5378,
+      "median_views": 1512,
       "uploads_30d": 11,
-      "views_30d": 36316,
+      "views_30d": 36326,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -515,7 +515,7 @@ window.DATA = {
         },
         {
           "title": "첫 화부터 모두 울었다… 외국인들이 ‘살면 살아져’ 장면에서 끝내 무너진 이유 [폭싹 속았수다 1화 해외반응]",
-          "views": 22727,
+          "views": 22730,
           "date": "2026-08-10",
           "duration": 1680,
           "url": "https://www.youtube.com/watch?v=u7p3B8IkX70"
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "외국인 4팀이 '간장 변호사' 사건에 빵 터졌다가, 마지막 1분에 전부 말을 잃은 이유 | 이상한 변호사 우영우 (박은빈) 11·12화 해외 리액션",
-          "views": 1299,
+          "views": 1309,
           "date": "2026-09-22",
           "duration": 2897,
           "url": "https://www.youtube.com/watch?v=3K6Kg3C8FsQ"
@@ -614,11 +614,11 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=00lmxGBAgR0"
         }
       ],
-      "analyzed_at": "2026-09-27 08:17",
+      "analyzed_at": "2026-09-27 09:21",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-09-27 08:14",
+  "generated_at": "2026-09-27 09:17",
   "videos": [
     {
       "date": "2026-09-15",
@@ -708,28 +708,28 @@ window.DATA = {
       "date": "2026-09-21",
       "channel": "이슈브리핑",
       "title": "최동원조차 못 넘었다 — KBO 통산 완봉 TOP7 (1위 29완봉, 정체는?)",
-      "views": 458964,
+      "views": 460093,
       "url": "https://www.youtube.com/watch?v=DLUWnU9wxcQ"
     },
     {
       "date": "2026-09-17",
       "channel": "이슈브리핑",
       "title": "안타·2루타·3루타·홈런 한 경기에 다 친 KBO 사이클링히트 TOP7",
-      "views": 281939,
+      "views": 281983,
       "url": "https://www.youtube.com/watch?v=YjCCoICC0Sg"
     },
     {
       "date": "2026-09-23",
       "channel": "이슈브리핑",
       "title": "아시아가 던진 강속구 MLB 아시아 투수 통산 탈삼진 TOP7 (1위는 반전)",
-      "views": 217540,
+      "views": 218147,
       "url": "https://www.youtube.com/watch?v=8VkMXmABJZc"
     },
     {
       "date": "2026-09-25",
       "channel": "이슈브리핑",
       "title": "홈런 세계기록은 미국이 아니었다 프로야구 세계 통산 홈런 TOP7 (1위는 반전)",
-      "views": 203560,
+      "views": 207322,
       "url": "https://www.youtube.com/watch?v=XupZQ60Y1GM"
     },
     {
@@ -743,85 +743,85 @@ window.DATA = {
       "date": "2026-09-26",
       "channel": "이슈브리핑",
       "title": "아무도 못 잡았다 KBO 한 시즌 도루 TOP7 (1위는 84개 훔친 해태 전설)",
-      "views": 20353,
+      "views": 20719,
       "url": "https://www.youtube.com/watch?v=KqVhiM0bZWU"
     },
     {
       "date": "2026-09-25",
       "channel": "이슈브리핑",
       "title": "맞아도 피하지 않았다 KBO 통산 사구 TOP7 (1위는 세계기록)",
-      "views": 32133,
+      "views": 32464,
       "url": "https://www.youtube.com/watch?v=AVbkfl-dzvM"
     },
     {
       "date": "2026-09-24",
       "channel": "이슈브리핑",
       "title": "쉬는 날이 없었던 철인 MLB 연속 경기 출장 TOP7 (1위는 반전)",
-      "views": 4794,
+      "views": 4810,
       "url": "https://www.youtube.com/watch?v=nFZxta2bMJ8"
     },
     {
       "date": "2026-09-24",
       "channel": "이슈브리핑",
       "title": "혼자서 9회를 다 던졌다 KBO 통산 완투 TOP7 (1위는 반전)",
-      "views": 52000,
+      "views": 52210,
       "url": "https://www.youtube.com/watch?v=xMQYfQrR96w"
     },
     {
       "date": "2026-09-24",
       "channel": "이슈브리핑",
       "title": "바다 건너 담장을 넘겼다 MLB 한국인 통산 홈런 TOP7 (1위는 반전)",
-      "views": 73108,
+      "views": 74209,
       "url": "https://www.youtube.com/watch?v=VYdx-YxQt_I"
     },
     {
       "date": "2026-09-23",
       "channel": "이슈브리핑",
       "title": "빅리그를 정복한 안타 MLB 아시아 선수 통산 안타 TOP7 (1위는 반전)",
-      "views": 39319,
+      "views": 39759,
       "url": "https://www.youtube.com/watch?v=wZa4b6bQOJY"
     },
     {
       "date": "2026-09-22",
       "channel": "이슈브리핑",
       "title": "끝까지 마운드를 지켰다 — KBO 최다 등판 TOP7 (1위 통산 1005경기, 정체는?)",
-      "views": 41863,
+      "views": 41979,
       "url": "https://www.youtube.com/watch?v=hOQHc4wBPXM"
     },
     {
       "date": "2026-09-22",
       "channel": "뷰포인트",
       "title": "한 경기 5천만원, UFC 보너스 최다 수상 한국인 파이터 TOP7 (1위는 반전)",
-      "views": 223683,
+      "views": 225409,
       "url": "https://www.youtube.com/watch?v=nDv8V-BeCT0"
     },
     {
       "date": "2026-09-20",
       "channel": "뷰포인트",
       "title": "아무도 못 깬 16연승 UFC 최다 연승 TOP7",
-      "views": 181062,
+      "views": 181135,
       "url": "https://www.youtube.com/watch?v=rtsuAHKKbiI"
     },
     {
       "date": "2026-09-22",
       "channel": "뷰포인트",
       "title": "정찬성도 못 넘은 13승 한국인 UFC 최다승 TOP7",
-      "views": 83336,
+      "views": 83420,
       "url": "https://www.youtube.com/watch?v=So-pe0F8GnM"
-    },
-    {
-      "date": "2026-09-19",
-      "channel": "뷰포인트",
-      "title": "한국 파이터 8연패, 그 잔혹사를 끝낸 단 하나의 승리 — 최두호가 '코리안 킬러'를 잡았다",
-      "views": 66764,
-      "url": "https://www.youtube.com/watch?v=pZ31tRUt7iw"
     },
     {
       "date": "2026-09-24",
       "channel": "뷰포인트",
       "title": "몸무게를 바꿔가며 벨트를 쓸어담은 복싱 최다 체급 정복 TOP7 (1위는 반전)",
-      "views": 66709,
+      "views": 67082,
       "url": "https://www.youtube.com/watch?v=1cWf3vxbfpM"
+    },
+    {
+      "date": "2026-09-19",
+      "channel": "뷰포인트",
+      "title": "한국 파이터 8연패, 그 잔혹사를 끝낸 단 하나의 승리 — 최두호가 '코리안 킬러'를 잡았다",
+      "views": 66765,
+      "url": "https://www.youtube.com/watch?v=pZ31tRUt7iw"
     },
     {
       "date": "2026-09-26",
@@ -834,35 +834,35 @@ window.DATA = {
       "date": "2026-09-26",
       "channel": "뷰포인트",
       "title": "한국인 최초로 UFC 옥타곤을 밟은 개척자 (백스핀 엘보 KO의 전설)",
-      "views": 1610,
+      "views": 1666,
       "url": "https://www.youtube.com/watch?v=50J1pqFVfSM"
     },
     {
       "date": "2026-09-25",
       "channel": "뷰포인트",
       "title": "옥타곤에서 17번을 이겼다 UFC 여자 최다승 TOP7 (1위는 반전)",
-      "views": 10348,
+      "views": 10473,
       "url": "https://www.youtube.com/watch?v=SpW-SNNcxps"
     },
     {
       "date": "2026-09-25",
       "channel": "뷰포인트",
       "title": "상대를 119번이나 매트에 눕혔다 UFC 최다 테이크다운 TOP7 (1위는 반전)",
-      "views": 5100,
+      "views": 5138,
       "url": "https://www.youtube.com/watch?v=gnQvA3qDkB4"
     },
     {
       "date": "2026-09-24",
       "channel": "뷰포인트",
       "title": "벨트를 10번 넘게 지켜낸 UFC 역대 최강 챔피언 TOP7 (1위는 반전)",
-      "views": 36960,
+      "views": 37140,
       "url": "https://www.youtube.com/watch?v=xEyvUPTVDsk"
     },
     {
       "date": "2026-09-24",
       "channel": "뷰포인트",
       "title": "안방을 뜨겁게 달군 2000년대 프라이드 최강 파이터 TOP7 (1위는 반전)",
-      "views": 15313,
+      "views": 15394,
       "url": "https://www.youtube.com/watch?v=Nm9fjVOhqBw"
     },
     {
@@ -890,7 +890,7 @@ window.DATA = {
       "date": "2026-09-22",
       "channel": "해외반응픽",
       "title": "같이 서니 600만 터진 박지현 콜라보 무대 조회수 TOP7 (1위는 이 순위 유일 600만 돌파 합동 무대)",
-      "views": 29631,
+      "views": 29714,
       "url": "https://www.youtube.com/watch?v=AIbsmLQaoAg"
     },
     {
@@ -904,49 +904,49 @@ window.DATA = {
       "date": "2026-09-24",
       "channel": "해외반응픽",
       "title": "40년 전 명곡 부른 박지현 커버 TOP7 (1위는 무려 40여 년 전 발표된 최고령 원곡)",
-      "views": 27476,
+      "views": 27785,
       "url": "https://www.youtube.com/watch?v=kRORLJFmk4c"
     },
     {
       "date": "2026-09-23",
       "channel": "해외반응픽",
       "title": "트로트 판 갈아엎은 박지현 레전드 기록 TOP7 (1위는 박지현을 처음 각인시킨 전설의 데뷔 기록)",
-      "views": 24703,
+      "views": 24863,
       "url": "https://www.youtube.com/watch?v=1CX43ommAlU"
     },
     {
       "date": "2026-09-26",
       "channel": "해외반응픽",
       "title": "20년간 무대 개근왕 가요무대 최다 출연 TOP7 (1위는 485회 그 가수)",
-      "views": 2164,
+      "views": 2169,
       "url": "https://www.youtube.com/watch?v=yVWOxwq1p8M"
     },
     {
       "date": "2026-09-26",
       "channel": "해외반응픽",
       "title": "숫자로 증명된 국민가수 임영웅 레전드 기록 TOP7 (1위는 역대 최고 기록의 그 순간)",
-      "views": 9925,
+      "views": 10558,
       "url": "https://www.youtube.com/watch?v=yITq13sFZH4"
     },
     {
       "date": "2026-09-25",
       "channel": "해외반응픽",
       "title": "트로트 여왕 장윤정 레전드 기록 TOP7 (1위는 2004년 그 한 곡)",
-      "views": 7890,
+      "views": 8564,
       "url": "https://www.youtube.com/watch?v=fhxUEijUoaM"
     },
     {
       "date": "2026-09-24",
       "channel": "해외반응픽",
       "title": "혼자 불러도 700만 터진 박지현 무대 조회수 TOP7 (1위는 이 순위 유일 700만 돌파 무대)",
-      "views": 12923,
+      "views": 13033,
       "url": "https://www.youtube.com/watch?v=lavTYl0rRjY"
     },
     {
       "date": "2026-09-24",
       "channel": "해외반응픽",
       "title": "팬이 찍었는데 터진 박지현 직캠 TOP7 (1위는 팬 직캠 85만 넘긴 최다 기록 무대)",
-      "views": 17939,
+      "views": 17993,
       "url": "https://www.youtube.com/watch?v=bU6SLHoB_1U"
     },
     {
@@ -974,7 +974,7 @@ window.DATA = {
       "date": "2026-08-10",
       "channel": "코리아리뷰",
       "title": "첫 화부터 모두 울었다… 외국인들이 ‘살면 살아져’ 장면에서 끝내 무너진 이유 [폭싹 속았수다 1화 해외반응]",
-      "views": 22727,
+      "views": 22730,
       "url": "https://www.youtube.com/watch?v=u7p3B8IkX70"
     },
     {
@@ -1002,7 +1002,7 @@ window.DATA = {
       "date": "2026-09-22",
       "channel": "코리아리뷰",
       "title": "외국인 4팀이 '간장 변호사' 사건에 빵 터졌다가, 마지막 1분에 전부 말을 잃은 이유 | 이상한 변호사 우영우 (박은빈) 11·12화 해외 리액션",
-      "views": 1299,
+      "views": 1309,
       "url": "https://www.youtube.com/watch?v=3K6Kg3C8FsQ"
     },
     {
