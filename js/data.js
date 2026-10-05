@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 41900,
       "sampled": 20,
-      "avg_views": 46523,
+      "avg_views": 46666,
       "median_views": 9015,
       "uploads_30d": 20,
-      "views_30d": 930462,
+      "views_30d": 933335,
       "shorts_ratio": 0.2,
       "top_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 695509,
+          "views": 698381,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 695509,
+          "views": 698381,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -88,7 +88,7 @@ window.DATA = {
         },
         {
           "title": "쌀 꿔먹던 13년 무명배우 진선규를 스크린으로 끌어올린 제자",
-          "views": 1344,
+          "views": 1345,
           "date": "2026-09-18",
           "duration": 58,
           "url": "https://www.youtube.com/watch?v=IU7v20ARj60"
@@ -122,52 +122,52 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
         }
       ],
-      "analyzed_at": "2026-10-05 18:12",
+      "analyzed_at": "2026-10-05 19:16",
       "subs_delta": 0
     },
     {
       "url": "https://youtube.com/channel/UC29M9AGVR19NtIrAHsjx-XA",
       "name": "이슈브리핑",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
-      "subscribers": 8170,
+      "subscribers": 8180,
       "sampled": 20,
-      "avg_views": 97675,
-      "median_views": 54640,
+      "avg_views": 98144,
+      "median_views": 54795,
       "uploads_30d": 20,
-      "views_30d": 1953505,
+      "views_30d": 1962881,
       "shorts_ratio": 0.05,
       "top_videos": [
         {
           "title": "KBO에 열광한 미국 야구팬들, 미국이 반한 KBO 명물 TOP7",
-          "views": 406724,
+          "views": 407811,
           "date": "2026-10-02",
           "duration": 83,
           "url": "https://www.youtube.com/watch?v=A5FBdWSMRHI"
         },
         {
           "title": "홈런 세계기록은 미국이 아니었다 프로야구 세계 통산 홈런 TOP7 (1위는 반전)",
-          "views": 326696,
+          "views": 326724,
           "date": "2026-09-25",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=XupZQ60Y1GM"
         },
         {
           "title": "50홈런 쳐도 MVP 못 받았다, 트럭에 치인 MVP 2위 TOP7",
-          "views": 301625,
+          "views": 302056,
           "date": "2026-09-30",
           "duration": 77,
           "url": "https://www.youtube.com/watch?v=PWE10qNkMjM"
         },
         {
           "title": "이정후도 못 넘었다, KBO 최다 연속 경기 안타 TOP7",
-          "views": 167175,
+          "views": 167300,
           "date": "2026-09-29",
           "duration": 74,
           "url": "https://www.youtube.com/watch?v=dtgoyLLoELY"
         },
         {
           "title": "만루만 되면 담장을 넘겼다, KBO 통산 만루홈런 TOP7",
-          "views": 121816,
+          "views": 121934,
           "date": "2026-09-28",
           "duration": 75,
           "url": "https://www.youtube.com/watch?v=cJLpbOtUNJk"
@@ -176,77 +176,77 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "진정한 KBO 역수출 신화의 갑, 메이저리그 승수 TOP7 (1위는 KBO 우승 반지 낀 뒤 메이저리그 75승 투수)",
-          "views": 10453,
+          "views": 14875,
           "date": "2026-10-05",
           "duration": 89,
           "url": "https://www.youtube.com/watch?v=aLYAIyz7tBo"
         },
         {
           "title": "KBO 최초 40대 홀드왕도 못 넘은, KBO 한 시즌 최다 홀드 TOP7 (1위는 KBO 유일 한 시즌 40홀드 투수)",
-          "views": 14965,
+          "views": 15174,
           "date": "2026-10-04",
           "duration": 99,
           "url": "https://www.youtube.com/watch?v=MwCthZi-vSw"
         },
         {
           "title": "깨질 수 없는 기록의 보유자, KBO 한 시즌 최다승 TOP7 (1위는 KBO 유일 한 시즌 30승 투수)",
-          "views": 59171,
+          "views": 61136,
           "date": "2026-10-04",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=1KS_w_BqgT0"
         },
         {
           "title": "김하성 끝내기 안타 ㄷㄷ, 타율 0.066 대타가 친 한 방",
-          "views": 31140,
+          "views": 31142,
           "date": "2026-10-03",
           "duration": 63,
           "url": "https://www.youtube.com/watch?v=_vdCQAYAyGs"
         },
         {
           "title": "일본 사회인야구팀에 참패한, 한국 야구 국제대회 참사 TOP7",
-          "views": 8366,
+          "views": 8422,
           "date": "2026-10-03",
           "duration": 86,
           "url": "https://www.youtube.com/watch?v=5OnWK5uVcgU"
         },
         {
           "title": "KBO에 열광한 미국 야구팬들, 미국이 반한 KBO 명물 TOP7",
-          "views": 406724,
+          "views": 407811,
           "date": "2026-10-02",
           "duration": 83,
           "url": "https://www.youtube.com/watch?v=A5FBdWSMRHI"
         },
         {
           "title": "공 하나 안던지고 군면제 받은 투수 — 3년 뒤 결승 마운드에 선 곽빈",
-          "views": 68239,
+          "views": 68364,
           "date": "2026-10-01",
           "duration": 71,
           "url": "https://www.youtube.com/watch?v=a1SlEqeP3cE"
         },
         {
           "title": "레전드인데 KBO 우승이 없다, 선수로 우승 못 한 레전드 TOP7",
-          "views": 57115,
+          "views": 57422,
           "date": "2026-10-01",
           "duration": 84,
           "url": "https://www.youtube.com/watch?v=6rMrYfYRzHM"
         },
         {
           "title": "만루만 되면 담장을 넘겼다, KBO 통산 만루홈런 TOP7",
-          "views": 30565,
+          "views": 30641,
           "date": "2026-09-30",
           "duration": 92,
           "url": "https://www.youtube.com/watch?v=r3najY06WTw"
         },
         {
           "title": "50홈런 쳐도 MVP 못 받았다, 트럭에 치인 MVP 2위 TOP7",
-          "views": 301625,
+          "views": 302056,
           "date": "2026-09-30",
           "duration": 77,
           "url": "https://www.youtube.com/watch?v=PWE10qNkMjM"
         }
       ],
-      "analyzed_at": "2026-10-05 18:13",
-      "subs_delta": 50
+      "analyzed_at": "2026-10-05 19:17",
+      "subs_delta": 60
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
@@ -254,43 +254,43 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 3060,
       "sampled": 20,
-      "avg_views": 30979,
-      "median_views": 7190,
+      "avg_views": 30987,
+      "median_views": 7191,
       "uploads_30d": 20,
-      "views_30d": 619593,
+      "views_30d": 619759,
       "shorts_ratio": 0.4,
       "top_videos": [
         {
           "title": "한 경기 5천만원, UFC 보너스 최다 수상 한국인 파이터 TOP7 (1위는 반전)",
-          "views": 334669,
+          "views": 334699,
           "date": "2026-09-22",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=nDv8V-BeCT0"
         },
         {
           "title": "몸무게를 바꿔가며 벨트를 쓸어담은 복싱 최다 체급 정복 TOP7 (1위는 반전)",
-          "views": 84005,
+          "views": 84056,
           "date": "2026-09-24",
           "duration": 89,
           "url": "https://www.youtube.com/watch?v=1cWf3vxbfpM"
         },
         {
           "title": "벨트를 10번 넘게 지켜낸 UFC 역대 최강 챔피언 TOP7 (1위는 반전)",
-          "views": 44017,
+          "views": 44018,
           "date": "2026-09-24",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=xEyvUPTVDsk"
         },
         {
           "title": "시릴 간: 은가누는 나보다 강한게 아니다 내가 방심한것",
-          "views": 37925,
+          "views": 37984,
           "date": "2026-09-30",
           "duration": 69,
           "url": "https://www.youtube.com/watch?v=j3OXNM3xR0w"
         },
         {
           "title": "MMA에 벽 느꼈다는 복싱 세계 챔피언",
-          "views": 22661,
+          "views": 22663,
           "date": "2026-09-30",
           "duration": 62,
           "url": "https://www.youtube.com/watch?v=Oq3s7k3qbew"
@@ -299,35 +299,35 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "아르만은 이걸 어떻게 버텼을까?",
-          "views": 1076,
+          "views": 1086,
           "date": "2026-10-05",
           "duration": 71,
           "url": "https://www.youtube.com/watch?v=d0O54wMV4oY"
         },
         {
           "title": "게이치: 은퇴 생각 중이다",
-          "views": 3380,
+          "views": 3388,
           "date": "2026-10-01",
           "duration": 72,
           "url": "https://www.youtube.com/watch?v=CVSj4--2zoU"
         },
         {
           "title": "MMA에 벽 느꼈다는 복싱 세계 챔피언",
-          "views": 22661,
+          "views": 22663,
           "date": "2026-09-30",
           "duration": 62,
           "url": "https://www.youtube.com/watch?v=Oq3s7k3qbew"
         },
         {
           "title": "시릴 간: 은가누는 나보다 강한게 아니다 내가 방심한것",
-          "views": 37925,
+          "views": 37984,
           "date": "2026-09-30",
           "duration": 69,
           "url": "https://www.youtube.com/watch?v=j3OXNM3xR0w"
         },
         {
           "title": "15연승 최강 UFC 챔피언이 처참하게 박살났다 !!? 치마예프의 충격적인 패배 ㄷㄷ",
-          "views": 7201,
+          "views": 7204,
           "date": "2026-09-30",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=EryJTuMv-BQ"
@@ -348,7 +348,7 @@ window.DATA = {
         },
         {
           "title": "헬와니 \"사루키안, 루피 꺾으면 타이틀전 약속받았다\"",
-          "views": 3271,
+          "views": 3272,
           "date": "2026-09-29",
           "duration": 61,
           "url": "https://www.youtube.com/watch?v=GM7vA_DY480"
@@ -362,13 +362,13 @@ window.DATA = {
         },
         {
           "title": "한국 유도 최초의 올림픽 금메달, 왕발의 한판승 (1984 LA)",
-          "views": 2435,
+          "views": 2437,
           "date": "2026-09-27",
           "duration": 50,
           "url": "https://www.youtube.com/watch?v=h1Gs5U9LTKI"
         }
       ],
-      "analyzed_at": "2026-10-05 18:14",
+      "analyzed_at": "2026-10-05 19:18",
       "subs_delta": 10
     },
     {
@@ -377,43 +377,43 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 2630,
       "sampled": 20,
-      "avg_views": 37058,
+      "avg_views": 37208,
       "median_views": 16199,
       "uploads_30d": 20,
-      "views_30d": 741178,
+      "views_30d": 744164,
       "shorts_ratio": 0.05,
       "top_videos": [
         {
           "title": "첫사랑과 결혼한 스타 TOP7 (1위는 초등학교 짝꿍과 19년 연애 후 결혼한 그 배우)",
-          "views": 221707,
+          "views": 223047,
           "date": "2026-09-30",
           "duration": 81,
           "url": "https://www.youtube.com/watch?v=RXSCahV8ji8"
         },
         {
           "title": "자식보다 이 사람 재산 안 물려주는 스타 TOP7 (1위는 500억 기부한 그 배우)",
-          "views": 136306,
+          "views": 136452,
           "date": "2026-09-28",
           "duration": 77,
           "url": "https://www.youtube.com/watch?v=SWm37t4B4z4"
         },
         {
           "title": "심상치 않은 연예인 끼를 물려받은 스타 2세 TOP7 (1위는 부모·외조부모까지 3대가 배우인 그 배우)",
-          "views": 84668,
+          "views": 84982,
           "date": "2026-10-03",
           "duration": 102,
           "url": "https://www.youtube.com/watch?v=VjsqW8CjKbA"
         },
         {
           "title": "40년 전 명곡 부른 박지현 커버 TOP7 (1위는 무려 40여 년 전 발표된 최고령 원곡)",
-          "views": 63658,
+          "views": 63674,
           "date": "2026-09-24",
           "duration": 69,
           "url": "https://www.youtube.com/watch?v=kRORLJFmk4c"
         },
         {
           "title": "이혼하고 더 잘 풀린 스타 TOP7 (1위는 김치 사업으로 3100억 번 그 방송인)",
-          "views": 45194,
+          "views": 46002,
           "date": "2026-09-29",
           "duration": 77,
           "url": "https://www.youtube.com/watch?v=8zZU4r9Qo2I"
@@ -422,14 +422,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이 배우들이 한 애니에? 킹 오브 킹스 더빙 라인업 TOP7",
-          "views": 751,
+          "views": 1066,
           "date": "2026-10-05",
           "duration": 63,
           "url": "https://www.youtube.com/watch?v=50bT3BQ5GdM"
         },
         {
           "title": "심상치 않은 연예인 끼를 물려받은 스타 2세 TOP7 (1위는 부모·외조부모까지 3대가 배우인 그 배우)",
-          "views": 84668,
+          "views": 84982,
           "date": "2026-10-03",
           "duration": 102,
           "url": "https://www.youtube.com/watch?v=VjsqW8CjKbA"
@@ -457,28 +457,28 @@ window.DATA = {
         },
         {
           "title": "첫사랑과 결혼한 스타 TOP7 (1위는 초등학교 짝꿍과 19년 연애 후 결혼한 그 배우)",
-          "views": 221707,
+          "views": 223047,
           "date": "2026-09-30",
           "duration": 81,
           "url": "https://www.youtube.com/watch?v=RXSCahV8ji8"
         },
         {
           "title": "결혼할 줄 알았는데 헤어진 스타 커플 TOP7 (1위는 재결합까지 했다가 끝내 갈라선 10년 공인 커플)",
-          "views": 5140,
+          "views": 5152,
           "date": "2026-09-30",
           "duration": 76,
           "url": "https://www.youtube.com/watch?v=t32EErpCg8g"
         },
         {
           "title": "손대면 완판 신화 홈쇼핑 매출 대박 스타 TOP7 (1위는 방송 1시간 만에 44억 판 그 가수)",
-          "views": 5212,
+          "views": 5215,
           "date": "2026-09-29",
           "duration": 80,
           "url": "https://www.youtube.com/watch?v=dTsnrAu-SEY"
         },
         {
           "title": "이혼하고 더 잘 풀린 스타 TOP7 (1위는 김치 사업으로 3100억 번 그 방송인)",
-          "views": 45194,
+          "views": 46002,
           "date": "2026-09-29",
           "duration": 77,
           "url": "https://www.youtube.com/watch?v=8zZU4r9Qo2I"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=FnSk3S13xdw"
         }
       ],
-      "analyzed_at": "2026-10-05 18:15",
+      "analyzed_at": "2026-10-05 19:18",
       "subs_delta": 70
     },
     {
@@ -500,15 +500,15 @@ window.DATA = {
       "channel_id": "UChq2TqKlpNlWpHpDRMwyCeQ",
       "subscribers": 84,
       "sampled": 20,
-      "avg_views": 5410,
-      "median_views": 1609,
+      "avg_views": 5411,
+      "median_views": 1610,
       "uploads_30d": 10,
-      "views_30d": 27318,
+      "views_30d": 27325,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "IU·박보검 '폭싹 속았수다' — 외국인들이 첫 입맞춤과 '떠나는 배' 장면에서 끝내 무너진 순간들 [2·3화 해외반응]",
-          "views": 27833,
+          "views": 27835,
           "date": "2026-08-21",
           "duration": 1575,
           "url": "https://www.youtube.com/watch?v=dY0zBRbZaeA"
@@ -580,7 +580,7 @@ window.DATA = {
         },
         {
           "title": "검사가 \"당신 자폐잖아요\"… 외국인 리액터들이 분노하고 오열한 그 장면 | 이상한 변호사 우영우 (박은빈) 해외 리액션 | 3·4화",
-          "views": 1729,
+          "views": 1731,
           "date": "2026-09-14",
           "duration": 753,
           "url": "https://www.youtube.com/watch?v=BCjpJ9xYjEA"
@@ -608,23 +608,23 @@ window.DATA = {
         },
         {
           "title": "폭싹 속았수다' 12·13화 해외반응 — 딸을 시집보내던 날, 애순이보다 관식이가 더 울어버린 순간에 외국인 리뷰어들이 결국 무너졌다 (실시간 리뷰)",
-          "views": 5101,
+          "views": 5106,
           "date": "2026-09-08",
           "duration": 1920,
           "url": "https://www.youtube.com/watch?v=zyOBivck4sc"
         }
       ],
-      "analyzed_at": "2026-10-05 18:15",
+      "analyzed_at": "2026-10-05 19:19",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-10-05 18:12",
+  "generated_at": "2026-10-05 19:16",
   "videos": [
     {
       "date": "2026-09-29",
       "channel": "숏츠시작",
       "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-      "views": 695509,
+      "views": 698381,
       "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
     },
     {
@@ -687,7 +687,7 @@ window.DATA = {
       "date": "2026-09-18",
       "channel": "숏츠시작",
       "title": "쌀 꿔먹던 13년 무명배우 진선규를 스크린으로 끌어올린 제자",
-      "views": 1344,
+      "views": 1345,
       "url": "https://www.youtube.com/watch?v=IU7v20ARj60"
     },
     {
@@ -715,147 +715,147 @@ window.DATA = {
       "date": "2026-10-02",
       "channel": "이슈브리핑",
       "title": "KBO에 열광한 미국 야구팬들, 미국이 반한 KBO 명물 TOP7",
-      "views": 406724,
+      "views": 407811,
       "url": "https://www.youtube.com/watch?v=A5FBdWSMRHI"
     },
     {
       "date": "2026-09-25",
       "channel": "이슈브리핑",
       "title": "홈런 세계기록은 미국이 아니었다 프로야구 세계 통산 홈런 TOP7 (1위는 반전)",
-      "views": 326696,
+      "views": 326724,
       "url": "https://www.youtube.com/watch?v=XupZQ60Y1GM"
     },
     {
       "date": "2026-09-30",
       "channel": "이슈브리핑",
       "title": "50홈런 쳐도 MVP 못 받았다, 트럭에 치인 MVP 2위 TOP7",
-      "views": 301625,
+      "views": 302056,
       "url": "https://www.youtube.com/watch?v=PWE10qNkMjM"
     },
     {
       "date": "2026-09-29",
       "channel": "이슈브리핑",
       "title": "이정후도 못 넘었다, KBO 최다 연속 경기 안타 TOP7",
-      "views": 167175,
+      "views": 167300,
       "url": "https://www.youtube.com/watch?v=dtgoyLLoELY"
     },
     {
       "date": "2026-09-28",
       "channel": "이슈브리핑",
       "title": "만루만 되면 담장을 넘겼다, KBO 통산 만루홈런 TOP7",
-      "views": 121816,
+      "views": 121934,
       "url": "https://www.youtube.com/watch?v=cJLpbOtUNJk"
     },
     {
       "date": "2026-10-05",
       "channel": "이슈브리핑",
       "title": "진정한 KBO 역수출 신화의 갑, 메이저리그 승수 TOP7 (1위는 KBO 우승 반지 낀 뒤 메이저리그 75승 투수)",
-      "views": 10453,
+      "views": 14875,
       "url": "https://www.youtube.com/watch?v=aLYAIyz7tBo"
     },
     {
       "date": "2026-10-04",
       "channel": "이슈브리핑",
       "title": "KBO 최초 40대 홀드왕도 못 넘은, KBO 한 시즌 최다 홀드 TOP7 (1위는 KBO 유일 한 시즌 40홀드 투수)",
-      "views": 14965,
+      "views": 15174,
       "url": "https://www.youtube.com/watch?v=MwCthZi-vSw"
     },
     {
       "date": "2026-10-04",
       "channel": "이슈브리핑",
       "title": "깨질 수 없는 기록의 보유자, KBO 한 시즌 최다승 TOP7 (1위는 KBO 유일 한 시즌 30승 투수)",
-      "views": 59171,
+      "views": 61136,
       "url": "https://www.youtube.com/watch?v=1KS_w_BqgT0"
     },
     {
       "date": "2026-10-03",
       "channel": "이슈브리핑",
       "title": "김하성 끝내기 안타 ㄷㄷ, 타율 0.066 대타가 친 한 방",
-      "views": 31140,
+      "views": 31142,
       "url": "https://www.youtube.com/watch?v=_vdCQAYAyGs"
     },
     {
       "date": "2026-10-03",
       "channel": "이슈브리핑",
       "title": "일본 사회인야구팀에 참패한, 한국 야구 국제대회 참사 TOP7",
-      "views": 8366,
+      "views": 8422,
       "url": "https://www.youtube.com/watch?v=5OnWK5uVcgU"
     },
     {
       "date": "2026-10-01",
       "channel": "이슈브리핑",
       "title": "공 하나 안던지고 군면제 받은 투수 — 3년 뒤 결승 마운드에 선 곽빈",
-      "views": 68239,
+      "views": 68364,
       "url": "https://www.youtube.com/watch?v=a1SlEqeP3cE"
     },
     {
       "date": "2026-10-01",
       "channel": "이슈브리핑",
       "title": "레전드인데 KBO 우승이 없다, 선수로 우승 못 한 레전드 TOP7",
-      "views": 57115,
+      "views": 57422,
       "url": "https://www.youtube.com/watch?v=6rMrYfYRzHM"
     },
     {
       "date": "2026-09-30",
       "channel": "이슈브리핑",
       "title": "만루만 되면 담장을 넘겼다, KBO 통산 만루홈런 TOP7",
-      "views": 30565,
+      "views": 30641,
       "url": "https://www.youtube.com/watch?v=r3najY06WTw"
     },
     {
       "date": "2026-09-22",
       "channel": "뷰포인트",
       "title": "한 경기 5천만원, UFC 보너스 최다 수상 한국인 파이터 TOP7 (1위는 반전)",
-      "views": 334669,
+      "views": 334699,
       "url": "https://www.youtube.com/watch?v=nDv8V-BeCT0"
     },
     {
       "date": "2026-09-24",
       "channel": "뷰포인트",
       "title": "몸무게를 바꿔가며 벨트를 쓸어담은 복싱 최다 체급 정복 TOP7 (1위는 반전)",
-      "views": 84005,
+      "views": 84056,
       "url": "https://www.youtube.com/watch?v=1cWf3vxbfpM"
     },
     {
       "date": "2026-09-24",
       "channel": "뷰포인트",
       "title": "벨트를 10번 넘게 지켜낸 UFC 역대 최강 챔피언 TOP7 (1위는 반전)",
-      "views": 44017,
+      "views": 44018,
       "url": "https://www.youtube.com/watch?v=xEyvUPTVDsk"
     },
     {
       "date": "2026-09-30",
       "channel": "뷰포인트",
       "title": "시릴 간: 은가누는 나보다 강한게 아니다 내가 방심한것",
-      "views": 37925,
+      "views": 37984,
       "url": "https://www.youtube.com/watch?v=j3OXNM3xR0w"
     },
     {
       "date": "2026-09-30",
       "channel": "뷰포인트",
       "title": "MMA에 벽 느꼈다는 복싱 세계 챔피언",
-      "views": 22661,
+      "views": 22663,
       "url": "https://www.youtube.com/watch?v=Oq3s7k3qbew"
     },
     {
       "date": "2026-10-05",
       "channel": "뷰포인트",
       "title": "아르만은 이걸 어떻게 버텼을까?",
-      "views": 1076,
+      "views": 1086,
       "url": "https://www.youtube.com/watch?v=d0O54wMV4oY"
     },
     {
       "date": "2026-10-01",
       "channel": "뷰포인트",
       "title": "게이치: 은퇴 생각 중이다",
-      "views": 3380,
+      "views": 3388,
       "url": "https://www.youtube.com/watch?v=CVSj4--2zoU"
     },
     {
       "date": "2026-09-30",
       "channel": "뷰포인트",
       "title": "15연승 최강 UFC 챔피언이 처참하게 박살났다 !!? 치마예프의 충격적인 패배 ㄷㄷ",
-      "views": 7201,
+      "views": 7204,
       "url": "https://www.youtube.com/watch?v=EryJTuMv-BQ"
     },
     {
@@ -876,7 +876,7 @@ window.DATA = {
       "date": "2026-09-29",
       "channel": "뷰포인트",
       "title": "헬와니 \"사루키안, 루피 꺾으면 타이틀전 약속받았다\"",
-      "views": 3271,
+      "views": 3272,
       "url": "https://www.youtube.com/watch?v=GM7vA_DY480"
     },
     {
@@ -890,49 +890,49 @@ window.DATA = {
       "date": "2026-09-27",
       "channel": "뷰포인트",
       "title": "한국 유도 최초의 올림픽 금메달, 왕발의 한판승 (1984 LA)",
-      "views": 2435,
+      "views": 2437,
       "url": "https://www.youtube.com/watch?v=h1Gs5U9LTKI"
     },
     {
       "date": "2026-09-30",
       "channel": "해외반응픽",
       "title": "첫사랑과 결혼한 스타 TOP7 (1위는 초등학교 짝꿍과 19년 연애 후 결혼한 그 배우)",
-      "views": 221707,
+      "views": 223047,
       "url": "https://www.youtube.com/watch?v=RXSCahV8ji8"
     },
     {
       "date": "2026-09-28",
       "channel": "해외반응픽",
       "title": "자식보다 이 사람 재산 안 물려주는 스타 TOP7 (1위는 500억 기부한 그 배우)",
-      "views": 136306,
+      "views": 136452,
       "url": "https://www.youtube.com/watch?v=SWm37t4B4z4"
     },
     {
       "date": "2026-10-03",
       "channel": "해외반응픽",
       "title": "심상치 않은 연예인 끼를 물려받은 스타 2세 TOP7 (1위는 부모·외조부모까지 3대가 배우인 그 배우)",
-      "views": 84668,
+      "views": 84982,
       "url": "https://www.youtube.com/watch?v=VjsqW8CjKbA"
     },
     {
       "date": "2026-09-24",
       "channel": "해외반응픽",
       "title": "40년 전 명곡 부른 박지현 커버 TOP7 (1위는 무려 40여 년 전 발표된 최고령 원곡)",
-      "views": 63658,
+      "views": 63674,
       "url": "https://www.youtube.com/watch?v=kRORLJFmk4c"
     },
     {
       "date": "2026-09-29",
       "channel": "해외반응픽",
       "title": "이혼하고 더 잘 풀린 스타 TOP7 (1위는 김치 사업으로 3100억 번 그 방송인)",
-      "views": 45194,
+      "views": 46002,
       "url": "https://www.youtube.com/watch?v=8zZU4r9Qo2I"
     },
     {
       "date": "2026-10-05",
       "channel": "해외반응픽",
       "title": "이 배우들이 한 애니에? 킹 오브 킹스 더빙 라인업 TOP7",
-      "views": 751,
+      "views": 1066,
       "url": "https://www.youtube.com/watch?v=50bT3BQ5GdM"
     },
     {
@@ -960,14 +960,14 @@ window.DATA = {
       "date": "2026-09-30",
       "channel": "해외반응픽",
       "title": "결혼할 줄 알았는데 헤어진 스타 커플 TOP7 (1위는 재결합까지 했다가 끝내 갈라선 10년 공인 커플)",
-      "views": 5140,
+      "views": 5152,
       "url": "https://www.youtube.com/watch?v=t32EErpCg8g"
     },
     {
       "date": "2026-09-29",
       "channel": "해외반응픽",
       "title": "손대면 완판 신화 홈쇼핑 매출 대박 스타 TOP7 (1위는 방송 1시간 만에 44억 판 그 가수)",
-      "views": 5212,
+      "views": 5215,
       "url": "https://www.youtube.com/watch?v=dTsnrAu-SEY"
     },
     {
@@ -981,7 +981,7 @@ window.DATA = {
       "date": "2026-08-21",
       "channel": "코리아리뷰",
       "title": "IU·박보검 '폭싹 속았수다' — 외국인들이 첫 입맞춤과 '떠나는 배' 장면에서 끝내 무너진 순간들 [2·3화 해외반응]",
-      "views": 27833,
+      "views": 27835,
       "url": "https://www.youtube.com/watch?v=dY0zBRbZaeA"
     },
     {
@@ -1051,7 +1051,7 @@ window.DATA = {
       "date": "2026-09-14",
       "channel": "코리아리뷰",
       "title": "검사가 \"당신 자폐잖아요\"… 외국인 리액터들이 분노하고 오열한 그 장면 | 이상한 변호사 우영우 (박은빈) 해외 리액션 | 3·4화",
-      "views": 1729,
+      "views": 1731,
       "url": "https://www.youtube.com/watch?v=BCjpJ9xYjEA"
     },
     {
@@ -1072,7 +1072,7 @@ window.DATA = {
       "date": "2026-09-08",
       "channel": "코리아리뷰",
       "title": "폭싹 속았수다' 12·13화 해외반응 — 딸을 시집보내던 날, 애순이보다 관식이가 더 울어버린 순간에 외국인 리뷰어들이 결국 무너졌다 (실시간 리뷰)",
-      "views": 5101,
+      "views": 5106,
       "url": "https://www.youtube.com/watch?v=zyOBivck4sc"
     }
   ],
