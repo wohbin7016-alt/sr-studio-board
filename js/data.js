@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 42100,
       "sampled": 20,
-      "avg_views": 58106,
+      "avg_views": 58156,
       "median_views": 9070,
       "uploads_30d": 20,
-      "views_30d": 1162131,
+      "views_30d": 1163134,
       "shorts_ratio": 0.2,
       "top_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 926648,
+          "views": 927649,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "안방극장을 쥐락펴락한 역대 사극 여왕 TOP7 (1위는 여인천하 카리스마의 대명사)",
-          "views": 19857,
+          "views": 19858,
           "date": "2026-09-11",
           "duration": 87,
           "url": "https://www.youtube.com/watch?v=eONqNES_kDQ"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 926648,
+          "views": 927649,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
         }
       ],
-      "analyzed_at": "2026-10-10 19:57",
+      "analyzed_at": "2026-10-10 21:04",
       "subs_delta": 0
     },
     {
@@ -131,43 +131,43 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 8560,
       "sampled": 20,
-      "avg_views": 54336,
-      "median_views": 26183,
+      "avg_views": 54725,
+      "median_views": 26351,
       "uploads_30d": 20,
-      "views_30d": 1086738,
+      "views_30d": 1094500,
       "shorts_ratio": 0.1,
       "top_videos": [
         {
           "title": "진정한 KBO 역수출 신화의 갑, 메이저리그 승수 TOP7 (1위는 KBO 우승 반지 낀 뒤 메이저리그 75승 투수)",
-          "views": 343779,
+          "views": 343930,
           "date": "2026-10-05",
           "duration": 89,
           "url": "https://www.youtube.com/watch?v=aLYAIyz7tBo"
         },
         {
           "title": "15년 7억 6500만 달러 계약 완료 MLB FA 역대 최고액 TOP7",
-          "views": 209784,
+          "views": 211500,
           "date": "2026-10-06",
           "duration": 97,
           "url": "https://www.youtube.com/watch?v=sHjXMAP_NnY"
         },
         {
           "title": "깨질 수 없는 기록의 보유자, KBO 한 시즌 최다승 TOP7 (1위는 KBO 유일 한 시즌 30승 투수)",
-          "views": 112940,
+          "views": 113015,
           "date": "2026-10-04",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=1KS_w_BqgT0"
         },
         {
           "title": "한국시리즈의 사나이, KBO 한국시리즈 통산 최다 안타 TOP7",
-          "views": 65985,
+          "views": 68782,
           "date": "2026-10-09",
           "duration": 106,
           "url": "https://www.youtube.com/watch?v=4qr6GmkXfk8"
         },
         {
           "title": "출루율 5할 뭐여 KBO 한 시즌 출루율 TOP7",
-          "views": 60414,
+          "views": 60491,
           "date": "2026-10-06",
           "duration": 98,
           "url": "https://www.youtube.com/watch?v=1Q6v9J0ozrc"
@@ -176,28 +176,28 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "44년째 아무도 못 깼다, KBO 한 시즌 최고 타율 TOP7",
-          "views": 2722,
+          "views": 4183,
           "date": "2026-10-10",
           "duration": 109,
           "url": "https://www.youtube.com/watch?v=iilGxIqXSLg"
         },
         {
           "title": "루스도 넘지 못한 타점, MLB 통산 최다 타점 TOP7",
-          "views": 5106,
+          "views": 5335,
           "date": "2026-10-10",
           "duration": 115,
           "url": "https://www.youtube.com/watch?v=edaXvJaHjxU"
         },
         {
           "title": "이승엽도 서건창도 넘었다, KBO 한 시즌 최다 득점 TOP7",
-          "views": 4825,
+          "views": 5577,
           "date": "2026-10-10",
           "duration": 103,
           "url": "https://www.youtube.com/watch?v=fvHNZXUuf5U"
         },
         {
           "title": "한국시리즈의 사나이, KBO 한국시리즈 통산 최다 안타 TOP7",
-          "views": 65985,
+          "views": 68782,
           "date": "2026-10-09",
           "duration": 106,
           "url": "https://www.youtube.com/watch?v=4qr6GmkXfk8"
@@ -211,28 +211,28 @@ window.DATA = {
         },
         {
           "title": "가을에 약하다던 그 타자가 KBO 포스트시즌 통산 최다 안타 TOP7",
-          "views": 4770,
+          "views": 4806,
           "date": "2026-10-09",
           "duration": 119,
           "url": "https://www.youtube.com/watch?v=yCVCVsVI9UM"
         },
         {
           "title": "산체스의 연속 이닝 무실점 엔딩 MLB 연속 이닝 무실점 TOP7",
-          "views": 6319,
+          "views": 6345,
           "date": "2026-10-08",
           "duration": 113,
           "url": "https://www.youtube.com/watch?v=ExLQEk5AAZY"
         },
         {
           "title": "칼 랄리 포수 최초 60홈런 MLB 역대 단일시즌 홈런 순위 TOP7",
-          "views": 26829,
+          "views": 27129,
           "date": "2026-10-08",
           "duration": 98,
           "url": "https://www.youtube.com/watch?v=zs7vZeVIJ5w"
         },
         {
           "title": "구단별 통산 우승 횟수 KBO 우승 횟수 TOP7",
-          "views": 32967,
+          "views": 33019,
           "date": "2026-10-08",
           "duration": 116,
           "url": "https://www.youtube.com/watch?v=c4jR5yiZszg"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=gLjBhIHNaq8"
         }
       ],
-      "analyzed_at": "2026-10-10 19:59",
+      "analyzed_at": "2026-10-10 21:05",
       "subs_delta": 60
     },
     {
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 3160,
       "sampled": 20,
-      "avg_views": 12611,
+      "avg_views": 12625,
       "median_views": 3226,
       "uploads_30d": 20,
-      "views_30d": 252234,
+      "views_30d": 252517,
       "shorts_ratio": 0.25,
       "top_videos": [
         {
           "title": "UFC 헤비급에서 영장류 최강으로 불린 남자 은가누",
-          "views": 91763,
+          "views": 91756,
           "date": "2026-10-08",
           "duration": 88,
           "url": "https://www.youtube.com/watch?v=NNycHVv9jGM"
@@ -290,7 +290,7 @@ window.DATA = {
         },
         {
           "title": "제앙실바 \"진심으로 한국에서 살고 싶다. 브라질로 돌아가고 싶지 않다.\"",
-          "views": 14814,
+          "views": 14832,
           "date": "2026-09-29",
           "duration": 68,
           "url": "https://www.youtube.com/watch?v=C5HTp7olDgg"
@@ -299,49 +299,49 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "페더급 고트는, 이분 말고는 논할 가치가 없음",
-          "views": 729,
+          "views": 817,
           "date": "2026-10-10",
           "duration": 55,
           "url": "https://www.youtube.com/watch?v=VtvtdC81hJE"
         },
         {
           "title": "헤비급에서 가장 많이 이긴 파이터, UFC 헤비급 최다승 TOP7",
-          "views": 1954,
+          "views": 2040,
           "date": "2026-10-10",
           "duration": 86,
           "url": "https://www.youtube.com/watch?v=4cKdo4e05Mw"
         },
         {
           "title": "추성훈 은퇴전 상대 확정, 16년 만의 설욕전, 51세 추성훈",
-          "views": 6777,
+          "views": 6779,
           "date": "2026-10-09",
           "duration": 60,
           "url": "https://www.youtube.com/watch?v=yKKWBlvGvkI"
         },
         {
           "title": "내한 GOAT 브라질리언, 2체급 챔피언 페레이라",
-          "views": 1594,
+          "views": 1623,
           "date": "2026-10-09",
           "duration": 60,
           "url": "https://www.youtube.com/watch?v=FpT9TrMWDyw"
         },
         {
           "title": "옥타곤에 가장 오래 선 파이터, UFC 통산 최장 경기 시간 TOP7",
-          "views": 1310,
+          "views": 1323,
           "date": "2026-10-09",
           "duration": 79,
           "url": "https://www.youtube.com/watch?v=R9GWZn9Y6wI"
         },
         {
           "title": "송야동, 옥타곤 인터뷰",
-          "views": 1260,
+          "views": 1265,
           "date": "2026-10-08",
           "duration": 68,
           "url": "https://www.youtube.com/watch?v=afAum6-5VGo"
         },
         {
           "title": "UFC 헤비급에서 영장류 최강으로 불린 남자 은가누",
-          "views": 91763,
+          "views": 91756,
           "date": "2026-10-08",
           "duration": 88,
           "url": "https://www.youtube.com/watch?v=NNycHVv9jGM"
@@ -355,7 +355,7 @@ window.DATA = {
         },
         {
           "title": "무에타이 챔피언을 박살 낸 한국인 여성 싸움 천재 박보현",
-          "views": 12417,
+          "views": 12465,
           "date": "2026-10-07",
           "duration": 59,
           "url": "https://www.youtube.com/watch?v=AqDZR90R8rI"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ezAw2vZyF5E"
         }
       ],
-      "analyzed_at": "2026-10-10 20:01",
+      "analyzed_at": "2026-10-10 21:06",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 2820,
       "sampled": 20,
-      "avg_views": 28110,
+      "avg_views": 28186,
       "median_views": 7582,
       "uploads_30d": 20,
-      "views_30d": 562206,
+      "views_30d": 563725,
       "shorts_ratio": 0.05,
       "top_videos": [
         {
           "title": "첫사랑과 결혼한 스타 TOP7 (1위는 초등학교 짝꿍과 19년 연애 후 결혼한 그 배우)",
-          "views": 287819,
+          "views": 287833,
           "date": "2026-09-30",
           "duration": 81,
           "url": "https://www.youtube.com/watch?v=RXSCahV8ji8"
@@ -399,7 +399,7 @@ window.DATA = {
         },
         {
           "title": "연예인 열애설 대응 레전드 TOP7",
-          "views": 47942,
+          "views": 47950,
           "date": "2026-10-08",
           "duration": 118,
           "url": "https://www.youtube.com/watch?v=eIa_gH9iTxE"
@@ -413,7 +413,7 @@ window.DATA = {
         },
         {
           "title": "사업했다가 억울하게 망한 연예인 TOP7",
-          "views": 19799,
+          "views": 19985,
           "date": "2026-10-07",
           "duration": 105,
           "url": "https://www.youtube.com/watch?v=guR9K3DkfPY"
@@ -422,63 +422,63 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "어려운 단어 쓰는 서울대 출신 연예인 TOP7",
-          "views": 1126,
+          "views": 1956,
           "date": "2026-10-10",
           "duration": 98,
           "url": "https://www.youtube.com/watch?v=vvZjPC1FR-I"
         },
         {
           "title": "의외로 군대 조교 출신 연예인 TOP7",
-          "views": 2324,
+          "views": 2418,
           "date": "2026-10-10",
           "duration": 80,
           "url": "https://www.youtube.com/watch?v=2KRHzikoNvs"
         },
         {
           "title": "연예인 사칭 레전드 TOP7",
-          "views": 4657,
+          "views": 4798,
           "date": "2026-10-09",
           "duration": 113,
           "url": "https://www.youtube.com/watch?v=7CQmVn2Q4iA"
         },
         {
           "title": "의외로 대기업 출신 연예인 TOP7",
-          "views": 2697,
+          "views": 2709,
           "date": "2026-10-09",
           "duration": 84,
           "url": "https://www.youtube.com/watch?v=Qz_hzmRllHs"
         },
         {
           "title": "연예인 열애설 대응 레전드 TOP7",
-          "views": 47942,
+          "views": 47950,
           "date": "2026-10-08",
           "duration": 118,
           "url": "https://www.youtube.com/watch?v=eIa_gH9iTxE"
         },
         {
           "title": "천지차이인 동갑 연예인 TOP7",
-          "views": 8496,
+          "views": 8630,
           "date": "2026-10-08",
           "duration": 117,
           "url": "https://www.youtube.com/watch?v=BArXKBkL3nU"
         },
         {
           "title": "사업했다가 억울하게 망한 연예인 TOP7",
-          "views": 19799,
+          "views": 19985,
           "date": "2026-10-07",
           "duration": 105,
           "url": "https://www.youtube.com/watch?v=guR9K3DkfPY"
         },
         {
           "title": "이게 실화? 이미지 배신감 레전드 연예인 TOP7",
-          "views": 9313,
+          "views": 9393,
           "date": "2026-10-07",
           "duration": 90,
           "url": "https://www.youtube.com/watch?v=bdFV0pRDN38"
         },
         {
           "title": "묵혀있던 금 팔러 간 연예인 TOP7",
-          "views": 4527,
+          "views": 4547,
           "date": "2026-10-07",
           "duration": 89,
           "url": "https://www.youtube.com/watch?v=SU5SILGKt7A"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ssKCn6VWvzA"
         }
       ],
-      "analyzed_at": "2026-10-10 20:02",
+      "analyzed_at": "2026-10-10 21:07",
       "subs_delta": 10
     },
     {
@@ -503,12 +503,12 @@ window.DATA = {
       "avg_views": 5426,
       "median_views": 1614,
       "uploads_30d": 8,
-      "views_30d": 18181,
+      "views_30d": 18184,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "IU·박보검 '폭싹 속았수다' — 외국인들이 첫 입맞춤과 '떠나는 배' 장면에서 끝내 무너진 순간들 [2·3화 해외반응]",
-          "views": 27870,
+          "views": 27871,
           "date": "2026-08-21",
           "duration": 1575,
           "url": "https://www.youtube.com/watch?v=dY0zBRbZaeA"
@@ -536,7 +536,7 @@ window.DATA = {
         },
         {
           "title": "폭싹 속았수다' 16화 최종화 해외반응 — \"궂은 날은 있어도 외로운 날은 없었다\", 외국인들이 눈물로 배웅한 마지막 회",
-          "views": 7014,
+          "views": 7017,
           "date": "2026-09-10",
           "duration": 856,
           "url": "https://www.youtube.com/watch?v=pwUkCrO2Xkg"
@@ -594,7 +594,7 @@ window.DATA = {
         },
         {
           "title": "폭싹 속았수다' 16화 최종화 해외반응 — \"궂은 날은 있어도 외로운 날은 없었다\", 외국인들이 눈물로 배웅한 마지막 회",
-          "views": 7014,
+          "views": 7017,
           "date": "2026-09-10",
           "duration": 856,
           "url": "https://www.youtube.com/watch?v=pwUkCrO2Xkg"
@@ -614,17 +614,17 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=zyOBivck4sc"
         }
       ],
-      "analyzed_at": "2026-10-10 20:03",
+      "analyzed_at": "2026-10-10 21:07",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-10-10 19:57",
+  "generated_at": "2026-10-10 21:04",
   "videos": [
     {
       "date": "2026-09-29",
       "channel": "숏츠시작",
       "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-      "views": 926648,
+      "views": 927649,
       "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
     },
     {
@@ -645,7 +645,7 @@ window.DATA = {
       "date": "2026-09-11",
       "channel": "숏츠시작",
       "title": "안방극장을 쥐락펴락한 역대 사극 여왕 TOP7 (1위는 여인천하 카리스마의 대명사)",
-      "views": 19857,
+      "views": 19858,
       "url": "https://www.youtube.com/watch?v=eONqNES_kDQ"
     },
     {
@@ -715,56 +715,56 @@ window.DATA = {
       "date": "2026-10-05",
       "channel": "이슈브리핑",
       "title": "진정한 KBO 역수출 신화의 갑, 메이저리그 승수 TOP7 (1위는 KBO 우승 반지 낀 뒤 메이저리그 75승 투수)",
-      "views": 343779,
+      "views": 343930,
       "url": "https://www.youtube.com/watch?v=aLYAIyz7tBo"
     },
     {
       "date": "2026-10-06",
       "channel": "이슈브리핑",
       "title": "15년 7억 6500만 달러 계약 완료 MLB FA 역대 최고액 TOP7",
-      "views": 209784,
+      "views": 211500,
       "url": "https://www.youtube.com/watch?v=sHjXMAP_NnY"
     },
     {
       "date": "2026-10-04",
       "channel": "이슈브리핑",
       "title": "깨질 수 없는 기록의 보유자, KBO 한 시즌 최다승 TOP7 (1위는 KBO 유일 한 시즌 30승 투수)",
-      "views": 112940,
+      "views": 113015,
       "url": "https://www.youtube.com/watch?v=1KS_w_BqgT0"
     },
     {
       "date": "2026-10-09",
       "channel": "이슈브리핑",
       "title": "한국시리즈의 사나이, KBO 한국시리즈 통산 최다 안타 TOP7",
-      "views": 65985,
+      "views": 68782,
       "url": "https://www.youtube.com/watch?v=4qr6GmkXfk8"
     },
     {
       "date": "2026-10-06",
       "channel": "이슈브리핑",
       "title": "출루율 5할 뭐여 KBO 한 시즌 출루율 TOP7",
-      "views": 60414,
+      "views": 60491,
       "url": "https://www.youtube.com/watch?v=1Q6v9J0ozrc"
     },
     {
       "date": "2026-10-10",
       "channel": "이슈브리핑",
       "title": "44년째 아무도 못 깼다, KBO 한 시즌 최고 타율 TOP7",
-      "views": 2722,
+      "views": 4183,
       "url": "https://www.youtube.com/watch?v=iilGxIqXSLg"
     },
     {
       "date": "2026-10-10",
       "channel": "이슈브리핑",
       "title": "루스도 넘지 못한 타점, MLB 통산 최다 타점 TOP7",
-      "views": 5106,
+      "views": 5335,
       "url": "https://www.youtube.com/watch?v=edaXvJaHjxU"
     },
     {
       "date": "2026-10-10",
       "channel": "이슈브리핑",
       "title": "이승엽도 서건창도 넘었다, KBO 한 시즌 최다 득점 TOP7",
-      "views": 4825,
+      "views": 5577,
       "url": "https://www.youtube.com/watch?v=fvHNZXUuf5U"
     },
     {
@@ -778,28 +778,28 @@ window.DATA = {
       "date": "2026-10-09",
       "channel": "이슈브리핑",
       "title": "가을에 약하다던 그 타자가 KBO 포스트시즌 통산 최다 안타 TOP7",
-      "views": 4770,
+      "views": 4806,
       "url": "https://www.youtube.com/watch?v=yCVCVsVI9UM"
     },
     {
       "date": "2026-10-08",
       "channel": "이슈브리핑",
       "title": "산체스의 연속 이닝 무실점 엔딩 MLB 연속 이닝 무실점 TOP7",
-      "views": 6319,
+      "views": 6345,
       "url": "https://www.youtube.com/watch?v=ExLQEk5AAZY"
     },
     {
       "date": "2026-10-08",
       "channel": "이슈브리핑",
       "title": "칼 랄리 포수 최초 60홈런 MLB 역대 단일시즌 홈런 순위 TOP7",
-      "views": 26829,
+      "views": 27129,
       "url": "https://www.youtube.com/watch?v=zs7vZeVIJ5w"
     },
     {
       "date": "2026-10-08",
       "channel": "이슈브리핑",
       "title": "구단별 통산 우승 횟수 KBO 우승 횟수 TOP7",
-      "views": 32967,
+      "views": 33019,
       "url": "https://www.youtube.com/watch?v=c4jR5yiZszg"
     },
     {
@@ -813,7 +813,7 @@ window.DATA = {
       "date": "2026-10-08",
       "channel": "뷰포인트",
       "title": "UFC 헤비급에서 영장류 최강으로 불린 남자 은가누",
-      "views": 91763,
+      "views": 91756,
       "url": "https://www.youtube.com/watch?v=NNycHVv9jGM"
     },
     {
@@ -841,49 +841,49 @@ window.DATA = {
       "date": "2026-09-29",
       "channel": "뷰포인트",
       "title": "제앙실바 \"진심으로 한국에서 살고 싶다. 브라질로 돌아가고 싶지 않다.\"",
-      "views": 14814,
+      "views": 14832,
       "url": "https://www.youtube.com/watch?v=C5HTp7olDgg"
     },
     {
       "date": "2026-10-10",
       "channel": "뷰포인트",
       "title": "페더급 고트는, 이분 말고는 논할 가치가 없음",
-      "views": 729,
+      "views": 817,
       "url": "https://www.youtube.com/watch?v=VtvtdC81hJE"
     },
     {
       "date": "2026-10-10",
       "channel": "뷰포인트",
       "title": "헤비급에서 가장 많이 이긴 파이터, UFC 헤비급 최다승 TOP7",
-      "views": 1954,
+      "views": 2040,
       "url": "https://www.youtube.com/watch?v=4cKdo4e05Mw"
     },
     {
       "date": "2026-10-09",
       "channel": "뷰포인트",
       "title": "추성훈 은퇴전 상대 확정, 16년 만의 설욕전, 51세 추성훈",
-      "views": 6777,
+      "views": 6779,
       "url": "https://www.youtube.com/watch?v=yKKWBlvGvkI"
     },
     {
       "date": "2026-10-09",
       "channel": "뷰포인트",
       "title": "내한 GOAT 브라질리언, 2체급 챔피언 페레이라",
-      "views": 1594,
+      "views": 1623,
       "url": "https://www.youtube.com/watch?v=FpT9TrMWDyw"
     },
     {
       "date": "2026-10-09",
       "channel": "뷰포인트",
       "title": "옥타곤에 가장 오래 선 파이터, UFC 통산 최장 경기 시간 TOP7",
-      "views": 1310,
+      "views": 1323,
       "url": "https://www.youtube.com/watch?v=R9GWZn9Y6wI"
     },
     {
       "date": "2026-10-08",
       "channel": "뷰포인트",
       "title": "송야동, 옥타곤 인터뷰",
-      "views": 1260,
+      "views": 1265,
       "url": "https://www.youtube.com/watch?v=afAum6-5VGo"
     },
     {
@@ -897,7 +897,7 @@ window.DATA = {
       "date": "2026-10-07",
       "channel": "뷰포인트",
       "title": "무에타이 챔피언을 박살 낸 한국인 여성 싸움 천재 박보현",
-      "views": 12417,
+      "views": 12465,
       "url": "https://www.youtube.com/watch?v=AqDZR90R8rI"
     },
     {
@@ -911,7 +911,7 @@ window.DATA = {
       "date": "2026-09-30",
       "channel": "해외반응픽",
       "title": "첫사랑과 결혼한 스타 TOP7 (1위는 초등학교 짝꿍과 19년 연애 후 결혼한 그 배우)",
-      "views": 287819,
+      "views": 287833,
       "url": "https://www.youtube.com/watch?v=RXSCahV8ji8"
     },
     {
@@ -925,7 +925,7 @@ window.DATA = {
       "date": "2026-10-08",
       "channel": "해외반응픽",
       "title": "연예인 열애설 대응 레전드 TOP7",
-      "views": 47942,
+      "views": 47950,
       "url": "https://www.youtube.com/watch?v=eIa_gH9iTxE"
     },
     {
@@ -939,63 +939,63 @@ window.DATA = {
       "date": "2026-10-07",
       "channel": "해외반응픽",
       "title": "사업했다가 억울하게 망한 연예인 TOP7",
-      "views": 19799,
+      "views": 19985,
       "url": "https://www.youtube.com/watch?v=guR9K3DkfPY"
     },
     {
       "date": "2026-10-10",
       "channel": "해외반응픽",
       "title": "어려운 단어 쓰는 서울대 출신 연예인 TOP7",
-      "views": 1126,
+      "views": 1956,
       "url": "https://www.youtube.com/watch?v=vvZjPC1FR-I"
     },
     {
       "date": "2026-10-10",
       "channel": "해외반응픽",
       "title": "의외로 군대 조교 출신 연예인 TOP7",
-      "views": 2324,
+      "views": 2418,
       "url": "https://www.youtube.com/watch?v=2KRHzikoNvs"
     },
     {
       "date": "2026-10-09",
       "channel": "해외반응픽",
       "title": "연예인 사칭 레전드 TOP7",
-      "views": 4657,
+      "views": 4798,
       "url": "https://www.youtube.com/watch?v=7CQmVn2Q4iA"
     },
     {
       "date": "2026-10-09",
       "channel": "해외반응픽",
       "title": "의외로 대기업 출신 연예인 TOP7",
-      "views": 2697,
+      "views": 2709,
       "url": "https://www.youtube.com/watch?v=Qz_hzmRllHs"
     },
     {
       "date": "2026-10-08",
       "channel": "해외반응픽",
       "title": "천지차이인 동갑 연예인 TOP7",
-      "views": 8496,
+      "views": 8630,
       "url": "https://www.youtube.com/watch?v=BArXKBkL3nU"
     },
     {
       "date": "2026-10-07",
       "channel": "해외반응픽",
       "title": "이게 실화? 이미지 배신감 레전드 연예인 TOP7",
-      "views": 9313,
+      "views": 9393,
       "url": "https://www.youtube.com/watch?v=bdFV0pRDN38"
     },
     {
       "date": "2026-10-07",
       "channel": "해외반응픽",
       "title": "묵혀있던 금 팔러 간 연예인 TOP7",
-      "views": 4527,
+      "views": 4547,
       "url": "https://www.youtube.com/watch?v=SU5SILGKt7A"
     },
     {
       "date": "2026-08-21",
       "channel": "코리아리뷰",
       "title": "IU·박보검 '폭싹 속았수다' — 외국인들이 첫 입맞춤과 '떠나는 배' 장면에서 끝내 무너진 순간들 [2·3화 해외반응]",
-      "views": 27870,
+      "views": 27871,
       "url": "https://www.youtube.com/watch?v=dY0zBRbZaeA"
     },
     {
@@ -1023,7 +1023,7 @@ window.DATA = {
       "date": "2026-09-10",
       "channel": "코리아리뷰",
       "title": "폭싹 속았수다' 16화 최종화 해외반응 — \"궂은 날은 있어도 외로운 날은 없었다\", 외국인들이 눈물로 배웅한 마지막 회",
-      "views": 7014,
+      "views": 7017,
       "url": "https://www.youtube.com/watch?v=pwUkCrO2Xkg"
     },
     {
