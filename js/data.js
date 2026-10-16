@@ -246,7 +246,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-10-16 23:20",
-      "subs_delta": 30
+      "subs_delta": 0
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
@@ -369,7 +369,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-10-16 23:21",
-      "subs_delta": 20
+      "subs_delta": 0
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
