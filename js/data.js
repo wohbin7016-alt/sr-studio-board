@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 42100,
       "sampled": 20,
-      "avg_views": 62704,
+      "avg_views": 62731,
       "median_views": 9089,
       "uploads_30d": 4,
-      "views_30d": 1040300,
+      "views_30d": 1040835,
       "shorts_ratio": 0.2,
       "top_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 1018178,
+          "views": 1018713,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -37,7 +37,7 @@ window.DATA = {
         },
         {
           "title": "안방극장을 쥐락펴락한 역대 사극 여왕 TOP7 (1위는 여인천하 카리스마의 대명사)",
-          "views": 19873,
+          "views": 19874,
           "date": "2026-09-11",
           "duration": 87,
           "url": "https://www.youtube.com/watch?v=eONqNES_kDQ"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 1018178,
+          "views": 1018713,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -122,24 +122,24 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
         }
       ],
-      "analyzed_at": "2026-10-21 22:31",
+      "analyzed_at": "2026-10-21 23:36",
       "subs_delta": 0
     },
     {
       "url": "https://youtube.com/channel/UC29M9AGVR19NtIrAHsjx-XA",
       "name": "이슈브리핑",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
-      "subscribers": 9100,
+      "subscribers": 9110,
       "sampled": 20,
-      "avg_views": 27523,
+      "avg_views": 27656,
       "median_views": 12772,
       "uploads_30d": 20,
-      "views_30d": 550460,
+      "views_30d": 553131,
       "shorts_ratio": 0.1,
       "top_videos": [
         {
           "title": "트라웃도 저지도 못 넘었다 MLB 현역 통산 홈런 TOP7",
-          "views": 97212,
+          "views": 97211,
           "date": "2026-10-11",
           "duration": 97,
           "url": "https://www.youtube.com/watch?v=tc7PaE3iWok"
@@ -153,21 +153,21 @@ window.DATA = {
         },
         {
           "title": "정규시즌 3위가 한국시리즈 우승한 적이 있나요? 가장 낮은 승률로 우승한 팀 TOP7",
-          "views": 71806,
+          "views": 72073,
           "date": "2026-10-14",
           "duration": 143,
           "url": "https://www.youtube.com/watch?v=k4zN5FZW8as"
         },
         {
           "title": "3000안타로도 못 들어갑니다, MLB 통산 안타 TOP7",
-          "views": 70139,
+          "views": 70137,
           "date": "2026-10-12",
           "duration": 57,
           "url": "https://www.youtube.com/watch?v=eM2KtFmJ4lY"
         },
         {
           "title": "아직도 이해 안 가는 추신수 평가, MLB 아시아 출신 타자 통산 타점 TOP7",
-          "views": 38166,
+          "views": 39243,
           "date": "2026-10-20",
           "duration": 99,
           "url": "https://www.youtube.com/watch?v=P1AJj6ZzDtc"
@@ -176,21 +176,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "베츠 거르고 택한 타자, 역전 끝내기 만루홈런",
-          "views": 1140,
+          "views": 1591,
           "date": "2026-10-21",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=IEuf4Z-fd48"
         },
         {
           "title": "무관형제 밀워키를 만나러 월드시리즈로 향하는 탬파베이 !!!!! MLB 최장 무관 구단 TOP7",
-          "views": 2124,
+          "views": 2516,
           "date": "2026-10-21",
           "duration": 94,
           "url": "https://www.youtube.com/watch?v=PzdC3pYOg30"
         },
         {
           "title": "한화 이글스 허인서 37년만에 이글스 포수 단일시즌 20홈런 타자, KBO 포수 한 시즌 최다 홈런 TOP7",
-          "views": 5054,
+          "views": 5502,
           "date": "2026-10-21",
           "duration": 77,
           "url": "https://www.youtube.com/watch?v=s7eWCNBojQo"
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "아직도 이해 안 가는 추신수 평가, MLB 아시아 출신 타자 통산 타점 TOP7",
-          "views": 38166,
+          "views": 39243,
           "date": "2026-10-20",
           "duration": 99,
           "url": "https://www.youtube.com/watch?v=P1AJj6ZzDtc"
@@ -239,14 +239,14 @@ window.DATA = {
         },
         {
           "title": "프로야구 역사상 임찬규처럼 방어율 4점대가 다승왕한 사례가 있나요? 평균자책점 가장 높았던 다승왕 TOP5",
-          "views": 4877,
+          "views": 4878,
           "date": "2026-10-15",
           "duration": 87,
           "url": "https://www.youtube.com/watch?v=1O0gOm6ASok"
         }
       ],
-      "analyzed_at": "2026-10-21 22:32",
-      "subs_delta": 20
+      "analyzed_at": "2026-10-21 23:39",
+      "subs_delta": 30
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
@@ -254,29 +254,29 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 3320,
       "sampled": 20,
-      "avg_views": 3319,
-      "median_views": 1459,
+      "avg_views": 3388,
+      "median_views": 1470,
       "uploads_30d": 20,
-      "views_30d": 66383,
+      "views_30d": 67769,
       "shorts_ratio": 0.55,
       "top_videos": [
         {
           "title": "알리를 실제로 본 타이슨의 반응",
-          "views": 21104,
+          "views": 21102,
           "date": "2026-10-12",
           "duration": 81,
           "url": "https://www.youtube.com/watch?v=D5r-NdrhpGk"
         },
         {
           "title": "맥그리거 퇴근길, 5년 만의 맥그리거 1분 9초 못 넘겼다",
-          "views": 12947,
+          "views": 14033,
           "date": "2026-10-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=tNWDkIEWd7I"
         },
         {
           "title": "유수영 KO시키겠다더니, 무패 신예가 먼저 탭쳤다, 최종 수정본",
-          "views": 4196,
+          "views": 4136,
           "date": "2026-10-18",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=G36VdtDAuHw"
@@ -299,35 +299,35 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "포이리에 : 하빕이 천외천인 이유, 포이리에도 못 넘은 하빕 3라운드 2분 6초",
-          "views": 803,
+          "views": 1138,
           "date": "2026-10-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=0Djeua2deDM"
         },
         {
           "title": "우스만에게 밀리던 에드워즈, 코치는 끝까지 포기하지 않았다",
-          "views": 1088,
+          "views": 1080,
           "date": "2026-10-21",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=SowtNOQugJA"
         },
         {
           "title": "죽음의 왼손, 생명의 오른손",
-          "views": 1232,
+          "views": 1243,
           "date": "2026-10-21",
           "duration": 56,
           "url": "https://www.youtube.com/watch?v=b8-ZrEowQio"
         },
         {
           "title": "실시간 마카체프: 나도 개리 이해안간다",
-          "views": 1446,
+          "views": 1468,
           "date": "2026-10-20",
           "duration": 51,
           "url": "https://www.youtube.com/watch?v=_kmWiBK7njQ"
         },
         {
           "title": "맥그리거 퇴근길, 5년 만의 맥그리거 1분 9초 못 넘겼다",
-          "views": 12947,
+          "views": 14033,
           "date": "2026-10-20",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=tNWDkIEWd7I"
@@ -341,14 +341,14 @@ window.DATA = {
         },
         {
           "title": "유수영 KO시키겠다더니, 무패 신예가 먼저 탭쳤다, 최종 수정본",
-          "views": 4196,
+          "views": 4136,
           "date": "2026-10-18",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=G36VdtDAuHw"
         },
         {
           "title": "얀 오말리가 역대 타격최강이라는 소리 할때마다 웃음만나옴 | UFC 통산 타격 적중률 TOP7",
-          "views": 1104,
+          "views": 1105,
           "date": "2026-10-17",
           "duration": 99,
           "url": "https://www.youtube.com/watch?v=-HooL2vd34c"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=1WPvNX9couw"
         }
       ],
-      "analyzed_at": "2026-10-21 22:33",
+      "analyzed_at": "2026-10-21 23:41",
       "subs_delta": 10
     },
     {
@@ -377,36 +377,36 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 2910,
       "sampled": 20,
-      "avg_views": 2970,
+      "avg_views": 3003,
       "median_views": 2212,
       "uploads_30d": 20,
-      "views_30d": 59415,
+      "views_30d": 60078,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "운이 좋아서 따라다니면 콩고물이라도 떨어질 것 같은 스타 TOP5",
-          "views": 7417,
+          "views": 7418,
           "date": "2026-10-15",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=43a-rMni7MA"
         },
         {
           "title": "20년 전 한국인이 가장 좋아하던 스타 TOP7",
-          "views": 6953,
+          "views": 6954,
           "date": "2026-10-12",
           "duration": 92,
           "url": "https://www.youtube.com/watch?v=8WaJP9FxLeY"
         },
         {
           "title": "모태 솔로도 구제해 줄 것 같은 연애 고수 스타 TOP5",
-          "views": 6415,
+          "views": 6492,
           "date": "2026-10-17",
           "duration": 76,
           "url": "https://www.youtube.com/watch?v=Vj4TCwX19oQ"
         },
         {
           "title": "내 부모였으면 좋겠는 스타 부부 TOP5",
-          "views": 5431,
+          "views": 5489,
           "date": "2026-10-19",
           "duration": 85,
           "url": "https://www.youtube.com/watch?v=n5RldsmV1RE"
@@ -422,49 +422,49 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "타고난 드립력으로 사석에서 만나도 웃길 것 같은 스타 TOP5",
-          "views": 769,
+          "views": 1084,
           "date": "2026-10-21",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=hXOhinbqPQk"
         },
         {
           "title": "13년 연속 1위가 나왔다 외국인이 뽑은 배우 TOP5",
-          "views": 1690,
+          "views": 1846,
           "date": "2026-10-21",
           "duration": 67,
           "url": "https://www.youtube.com/watch?v=7XSPSo-WHAw"
         },
         {
           "title": "말빨로 정치인도 이길 것 같은 스타 TOP5",
-          "views": 1106,
+          "views": 1107,
           "date": "2026-10-21",
           "duration": 73,
           "url": "https://www.youtube.com/watch?v=6uJFP6gwbBs"
         },
         {
           "title": "연예인 안 했으면 국가대표로 올림픽 출전했을 것 같은 스타 TOP5",
-          "views": 1517,
+          "views": 1557,
           "date": "2026-10-20",
           "duration": 127,
           "url": "https://www.youtube.com/watch?v=qIGeM6letI4"
         },
         {
           "title": "외모와 달리 술 일절 못 마셔 가장 의외인 스타 TOP5",
-          "views": 1757,
+          "views": 1751,
           "date": "2026-10-20",
           "duration": 103,
           "url": "https://www.youtube.com/watch?v=rkX_nKVey6g"
         },
         {
           "title": "내 부모였으면 좋겠는 스타 부부 TOP5",
-          "views": 5431,
+          "views": 5489,
           "date": "2026-10-19",
           "duration": 85,
           "url": "https://www.youtube.com/watch?v=n5RldsmV1RE"
         },
         {
           "title": "모태 솔로도 구제해 줄 것 같은 연애 고수 스타 TOP5",
-          "views": 6415,
+          "views": 6492,
           "date": "2026-10-17",
           "duration": 76,
           "url": "https://www.youtube.com/watch?v=Vj4TCwX19oQ"
@@ -485,13 +485,13 @@ window.DATA = {
         },
         {
           "title": "운이 좋아서 따라다니면 콩고물이라도 떨어질 것 같은 스타 TOP5",
-          "views": 7417,
+          "views": 7418,
           "date": "2026-10-15",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=43a-rMni7MA"
         }
       ],
-      "analyzed_at": "2026-10-21 22:34",
+      "analyzed_at": "2026-10-21 23:43",
       "subs_delta": 10
     },
     {
@@ -503,7 +503,7 @@ window.DATA = {
       "avg_views": 4717,
       "median_views": 1636,
       "uploads_30d": 6,
-      "views_30d": 11088,
+      "views_30d": 11091,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -552,7 +552,7 @@ window.DATA = {
         },
         {
           "title": "'오늘부터 내 꿈은 너야' 이 대사에 외국인 4팀이 보인 반응 | 더 글로리 1·2화 해외리액션",
-          "views": 1366,
+          "views": 1368,
           "date": "2026-10-14",
           "duration": 3132,
           "url": "https://www.youtube.com/watch?v=6w4Ld646oWE"
@@ -566,7 +566,7 @@ window.DATA = {
         },
         {
           "title": "외국인 4팀이 영우의 '이별 통보' 한마디에 전부 할 말을 잃은 이유 | 이상한 변호사 우영우 13·14화 해외리액션 (박은빈)",
-          "views": 612,
+          "views": 613,
           "date": "2026-10-12",
           "duration": 2557,
           "url": "https://www.youtube.com/watch?v=55_vIDqFLVM"
@@ -614,17 +614,17 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=BCjpJ9xYjEA"
         }
       ],
-      "analyzed_at": "2026-10-21 22:35",
+      "analyzed_at": "2026-10-21 23:45",
       "subs_delta": 1
     }
   ],
-  "generated_at": "2026-10-21 22:31",
+  "generated_at": "2026-10-21 23:36",
   "videos": [
     {
       "date": "2026-09-29",
       "channel": "숏츠시작",
       "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-      "views": 1018178,
+      "views": 1018713,
       "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
     },
     {
@@ -645,7 +645,7 @@ window.DATA = {
       "date": "2026-09-11",
       "channel": "숏츠시작",
       "title": "안방극장을 쥐락펴락한 역대 사극 여왕 TOP7 (1위는 여인천하 카리스마의 대명사)",
-      "views": 19873,
+      "views": 19874,
       "url": "https://www.youtube.com/watch?v=eONqNES_kDQ"
     },
     {
@@ -715,7 +715,7 @@ window.DATA = {
       "date": "2026-10-11",
       "channel": "이슈브리핑",
       "title": "트라웃도 저지도 못 넘었다 MLB 현역 통산 홈런 TOP7",
-      "views": 97212,
+      "views": 97211,
       "url": "https://www.youtube.com/watch?v=tc7PaE3iWok"
     },
     {
@@ -729,42 +729,42 @@ window.DATA = {
       "date": "2026-10-14",
       "channel": "이슈브리핑",
       "title": "정규시즌 3위가 한국시리즈 우승한 적이 있나요? 가장 낮은 승률로 우승한 팀 TOP7",
-      "views": 71806,
+      "views": 72073,
       "url": "https://www.youtube.com/watch?v=k4zN5FZW8as"
     },
     {
       "date": "2026-10-12",
       "channel": "이슈브리핑",
       "title": "3000안타로도 못 들어갑니다, MLB 통산 안타 TOP7",
-      "views": 70139,
+      "views": 70137,
       "url": "https://www.youtube.com/watch?v=eM2KtFmJ4lY"
     },
     {
       "date": "2026-10-20",
       "channel": "이슈브리핑",
       "title": "아직도 이해 안 가는 추신수 평가, MLB 아시아 출신 타자 통산 타점 TOP7",
-      "views": 38166,
+      "views": 39243,
       "url": "https://www.youtube.com/watch?v=P1AJj6ZzDtc"
     },
     {
       "date": "2026-10-21",
       "channel": "이슈브리핑",
       "title": "베츠 거르고 택한 타자, 역전 끝내기 만루홈런",
-      "views": 1140,
+      "views": 1591,
       "url": "https://www.youtube.com/watch?v=IEuf4Z-fd48"
     },
     {
       "date": "2026-10-21",
       "channel": "이슈브리핑",
       "title": "무관형제 밀워키를 만나러 월드시리즈로 향하는 탬파베이 !!!!! MLB 최장 무관 구단 TOP7",
-      "views": 2124,
+      "views": 2516,
       "url": "https://www.youtube.com/watch?v=PzdC3pYOg30"
     },
     {
       "date": "2026-10-21",
       "channel": "이슈브리핑",
       "title": "한화 이글스 허인서 37년만에 이글스 포수 단일시즌 20홈런 타자, KBO 포수 한 시즌 최다 홈런 TOP7",
-      "views": 5054,
+      "views": 5502,
       "url": "https://www.youtube.com/watch?v=s7eWCNBojQo"
     },
     {
@@ -806,28 +806,28 @@ window.DATA = {
       "date": "2026-10-15",
       "channel": "이슈브리핑",
       "title": "프로야구 역사상 임찬규처럼 방어율 4점대가 다승왕한 사례가 있나요? 평균자책점 가장 높았던 다승왕 TOP5",
-      "views": 4877,
+      "views": 4878,
       "url": "https://www.youtube.com/watch?v=1O0gOm6ASok"
     },
     {
       "date": "2026-10-12",
       "channel": "뷰포인트",
       "title": "알리를 실제로 본 타이슨의 반응",
-      "views": 21104,
+      "views": 21102,
       "url": "https://www.youtube.com/watch?v=D5r-NdrhpGk"
     },
     {
       "date": "2026-10-20",
       "channel": "뷰포인트",
       "title": "맥그리거 퇴근길, 5년 만의 맥그리거 1분 9초 못 넘겼다",
-      "views": 12947,
+      "views": 14033,
       "url": "https://www.youtube.com/watch?v=tNWDkIEWd7I"
     },
     {
       "date": "2026-10-18",
       "channel": "뷰포인트",
       "title": "유수영 KO시키겠다더니, 무패 신예가 먼저 탭쳤다, 최종 수정본",
-      "views": 4196,
+      "views": 4136,
       "url": "https://www.youtube.com/watch?v=G36VdtDAuHw"
     },
     {
@@ -848,28 +848,28 @@ window.DATA = {
       "date": "2026-10-21",
       "channel": "뷰포인트",
       "title": "포이리에 : 하빕이 천외천인 이유, 포이리에도 못 넘은 하빕 3라운드 2분 6초",
-      "views": 803,
+      "views": 1138,
       "url": "https://www.youtube.com/watch?v=0Djeua2deDM"
     },
     {
       "date": "2026-10-21",
       "channel": "뷰포인트",
       "title": "우스만에게 밀리던 에드워즈, 코치는 끝까지 포기하지 않았다",
-      "views": 1088,
+      "views": 1080,
       "url": "https://www.youtube.com/watch?v=SowtNOQugJA"
     },
     {
       "date": "2026-10-21",
       "channel": "뷰포인트",
       "title": "죽음의 왼손, 생명의 오른손",
-      "views": 1232,
+      "views": 1243,
       "url": "https://www.youtube.com/watch?v=b8-ZrEowQio"
     },
     {
       "date": "2026-10-20",
       "channel": "뷰포인트",
       "title": "실시간 마카체프: 나도 개리 이해안간다",
-      "views": 1446,
+      "views": 1468,
       "url": "https://www.youtube.com/watch?v=_kmWiBK7njQ"
     },
     {
@@ -883,7 +883,7 @@ window.DATA = {
       "date": "2026-10-17",
       "channel": "뷰포인트",
       "title": "얀 오말리가 역대 타격최강이라는 소리 할때마다 웃음만나옴 | UFC 통산 타격 적중률 TOP7",
-      "views": 1104,
+      "views": 1105,
       "url": "https://www.youtube.com/watch?v=-HooL2vd34c"
     },
     {
@@ -904,28 +904,28 @@ window.DATA = {
       "date": "2026-10-15",
       "channel": "해외반응픽",
       "title": "운이 좋아서 따라다니면 콩고물이라도 떨어질 것 같은 스타 TOP5",
-      "views": 7417,
+      "views": 7418,
       "url": "https://www.youtube.com/watch?v=43a-rMni7MA"
     },
     {
       "date": "2026-10-12",
       "channel": "해외반응픽",
       "title": "20년 전 한국인이 가장 좋아하던 스타 TOP7",
-      "views": 6953,
+      "views": 6954,
       "url": "https://www.youtube.com/watch?v=8WaJP9FxLeY"
     },
     {
       "date": "2026-10-17",
       "channel": "해외반응픽",
       "title": "모태 솔로도 구제해 줄 것 같은 연애 고수 스타 TOP5",
-      "views": 6415,
+      "views": 6492,
       "url": "https://www.youtube.com/watch?v=Vj4TCwX19oQ"
     },
     {
       "date": "2026-10-19",
       "channel": "해외반응픽",
       "title": "내 부모였으면 좋겠는 스타 부부 TOP5",
-      "views": 5431,
+      "views": 5489,
       "url": "https://www.youtube.com/watch?v=n5RldsmV1RE"
     },
     {
@@ -939,35 +939,35 @@ window.DATA = {
       "date": "2026-10-21",
       "channel": "해외반응픽",
       "title": "타고난 드립력으로 사석에서 만나도 웃길 것 같은 스타 TOP5",
-      "views": 769,
+      "views": 1084,
       "url": "https://www.youtube.com/watch?v=hXOhinbqPQk"
     },
     {
       "date": "2026-10-21",
       "channel": "해외반응픽",
       "title": "13년 연속 1위가 나왔다 외국인이 뽑은 배우 TOP5",
-      "views": 1690,
+      "views": 1846,
       "url": "https://www.youtube.com/watch?v=7XSPSo-WHAw"
     },
     {
       "date": "2026-10-21",
       "channel": "해외반응픽",
       "title": "말빨로 정치인도 이길 것 같은 스타 TOP5",
-      "views": 1106,
+      "views": 1107,
       "url": "https://www.youtube.com/watch?v=6uJFP6gwbBs"
     },
     {
       "date": "2026-10-20",
       "channel": "해외반응픽",
       "title": "연예인 안 했으면 국가대표로 올림픽 출전했을 것 같은 스타 TOP5",
-      "views": 1517,
+      "views": 1557,
       "url": "https://www.youtube.com/watch?v=qIGeM6letI4"
     },
     {
       "date": "2026-10-20",
       "channel": "해외반응픽",
       "title": "외모와 달리 술 일절 못 마셔 가장 의외인 스타 TOP5",
-      "views": 1757,
+      "views": 1751,
       "url": "https://www.youtube.com/watch?v=rkX_nKVey6g"
     },
     {
@@ -1030,14 +1030,14 @@ window.DATA = {
       "date": "2026-10-14",
       "channel": "코리아리뷰",
       "title": "'오늘부터 내 꿈은 너야' 이 대사에 외국인 4팀이 보인 반응 | 더 글로리 1·2화 해외리액션",
-      "views": 1366,
+      "views": 1368,
       "url": "https://www.youtube.com/watch?v=6w4Ld646oWE"
     },
     {
       "date": "2026-10-12",
       "channel": "코리아리뷰",
       "title": "외국인 4팀이 영우의 '이별 통보' 한마디에 전부 할 말을 잃은 이유 | 이상한 변호사 우영우 13·14화 해외리액션 (박은빈)",
-      "views": 612,
+      "views": 613,
       "url": "https://www.youtube.com/watch?v=55_vIDqFLVM"
     },
     {
