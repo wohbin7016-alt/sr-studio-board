@@ -8,15 +8,15 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 42100,
       "sampled": 20,
-      "avg_views": 63815,
+      "avg_views": 63822,
       "median_views": 9099,
       "uploads_30d": 1,
-      "views_30d": 1040165,
+      "views_30d": 1040311,
       "shorts_ratio": 0.2,
       "top_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 1040165,
+          "views": 1040311,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 1040165,
+          "views": 1040311,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
         }
       ],
-      "analyzed_at": "2026-10-26 12:08",
+      "analyzed_at": "2026-10-26 13:12",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 9260,
       "sampled": 20,
-      "avg_views": 26254,
-      "median_views": 13979,
+      "avg_views": 26305,
+      "median_views": 14014,
       "uploads_30d": 20,
-      "views_30d": 525083,
+      "views_30d": 526112,
       "shorts_ratio": 0.25,
       "top_videos": [
         {
@@ -146,7 +146,7 @@ window.DATA = {
         },
         {
           "title": "아직도 이해 안 가는 추신수 평가, MLB 아시아 출신 타자 통산 타점 TOP7",
-          "views": 86746,
+          "views": 86846,
           "date": "2026-10-20",
           "duration": 99,
           "url": "https://www.youtube.com/watch?v=P1AJj6ZzDtc"
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "레이예스 안타 기록 아시아 최다 안타 3위 기록이네요 아시아 한 시즌 최다 안타 TOP7",
-          "views": 37525,
+          "views": 37510,
           "date": "2026-10-14",
           "duration": 89,
           "url": "https://www.youtube.com/watch?v=tlWwFQtVCSU"
@@ -176,14 +176,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "양신 양준혁 강백호에 완패",
-          "views": 110,
+          "views": 756,
           "date": "2026-10-26",
           "duration": 50,
           "url": "https://www.youtube.com/watch?v=nVZ5a_ManJ4"
         },
         {
           "title": "채태인을 10점 차로 박살낸 김태균",
-          "views": 3060,
+          "views": 3124,
           "date": "2026-10-25",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=-9lPmab-rpM"
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "박병호 은퇴 KBO 한 시즌 최다 루타 TOP7",
-          "views": 22574,
+          "views": 22712,
           "date": "2026-10-23",
           "duration": 95,
           "url": "https://www.youtube.com/watch?v=tOak0ae6Ipg"
@@ -218,7 +218,7 @@ window.DATA = {
         },
         {
           "title": "[오피셜] KT 이강철 감독 3년 34억 전액보장 재계약, KBO 리그 감독 최대 규모 계약. KBO 감독 역대 최고 계약 TOP7",
-          "views": 32957,
+          "views": 32982,
           "date": "2026-10-22",
           "duration": 83,
           "url": "https://www.youtube.com/watch?v=zq9-ptkB12U"
@@ -245,31 +245,31 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=s7eWCNBojQo"
         }
       ],
-      "analyzed_at": "2026-10-26 12:09",
+      "analyzed_at": "2026-10-26 13:13",
       "subs_delta": 0
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
       "name": "뷰포인트",
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
-      "subscribers": 3370,
+      "subscribers": 3380,
       "sampled": 20,
-      "avg_views": 8248,
+      "avg_views": 8368,
       "median_views": 1634,
       "uploads_30d": 20,
-      "views_30d": 164967,
+      "views_30d": 167369,
       "shorts_ratio": 0.6,
       "top_videos": [
         {
           "title": "명현만의 철벽 가드",
-          "views": 62619,
+          "views": 62944,
           "date": "2026-10-24",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=_UTP_bSJONU"
         },
         {
           "title": "은가누 붕붕에 전원꺼지는 린스, 1년 7개월 쉰 은가누 1라운드 4분 31초",
-          "views": 38955,
+          "views": 40203,
           "date": "2026-10-24",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=cgYPAB5B5-A"
@@ -283,7 +283,7 @@ window.DATA = {
         },
         {
           "title": "야구 역대급 비거리 홈런 TOP4",
-          "views": 9315,
+          "views": 9324,
           "date": "2026-10-25",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=cNYq6XGh6bU"
@@ -299,28 +299,28 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "야구 역대급 레이저 송구 TOP4",
-          "views": 112,
+          "views": 928,
           "date": "2026-10-26",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=NVUnyIH3-U0"
         },
         {
           "title": "야구 역대급 비거리 홈런 TOP4",
-          "views": 9315,
+          "views": 9324,
           "date": "2026-10-25",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=cNYq6XGh6bU"
         },
         {
           "title": "은가누 붕붕에 전원꺼지는 린스, 1년 7개월 쉰 은가누 1라운드 4분 31초",
-          "views": 38955,
+          "views": 40203,
           "date": "2026-10-24",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=cgYPAB5B5-A"
         },
         {
           "title": "명현만의 철벽 가드",
-          "views": 62619,
+          "views": 62944,
           "date": "2026-10-24",
           "duration": 78,
           "url": "https://www.youtube.com/watch?v=_UTP_bSJONU"
@@ -362,14 +362,14 @@ window.DATA = {
         },
         {
           "title": "실시간 마카체프: 나도 개리 이해안간다",
-          "views": 2100,
+          "views": 2104,
           "date": "2026-10-20",
           "duration": 51,
           "url": "https://www.youtube.com/watch?v=_kmWiBK7njQ"
         }
       ],
-      "analyzed_at": "2026-10-26 12:10",
-      "subs_delta": 0
+      "analyzed_at": "2026-10-26 13:14",
+      "subs_delta": 10
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 2960,
       "sampled": 20,
-      "avg_views": 8750,
+      "avg_views": 8841,
       "median_views": 2127,
       "uploads_30d": 20,
-      "views_30d": 175013,
+      "views_30d": 176832,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "13년 연속 1위가 나왔다 외국인이 뽑은 배우 TOP5",
-          "views": 123045,
+          "views": 124185,
           "date": "2026-10-21",
           "duration": 67,
           "url": "https://www.youtube.com/watch?v=7XSPSo-WHAw"
@@ -422,7 +422,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "'역대급 재산' 공개로 상대적 박탈감을 유발한 스타 TOP5",
-          "views": 132,
+          "views": 775,
           "date": "2026-10-26",
           "duration": 114,
           "url": "https://www.youtube.com/watch?v=4Kh7Rl_ur-Y"
@@ -436,14 +436,14 @@ window.DATA = {
         },
         {
           "title": "'그 인생 부럽네' 하고 싶은 대로 다하며 사는 것 같은 스타 TOP5",
-          "views": 1735,
+          "views": 1750,
           "date": "2026-10-24",
           "duration": 97,
           "url": "https://www.youtube.com/watch?v=HwaiQXSQuc0"
         },
         {
           "title": "의외로 손이 많이 갈 것 같은 빈틈 많은 스타 TOP5",
-          "views": 1535,
+          "views": 1549,
           "date": "2026-10-24",
           "duration": 120,
           "url": "https://www.youtube.com/watch?v=QEjM1yA1v5w"
@@ -457,14 +457,14 @@ window.DATA = {
         },
         {
           "title": "귀신도 도망갈 것 같은 기 세 보이는 스타 TOP5",
-          "views": 1298,
+          "views": 1302,
           "date": "2026-10-22",
           "duration": 104,
           "url": "https://www.youtube.com/watch?v=OnMzSJh8uk8"
         },
         {
           "title": "꼰대 같지만 불의를 보면 쓴소리 날릴 것 같은 스타 TOP5",
-          "views": 1515,
+          "views": 1518,
           "date": "2026-10-22",
           "duration": 104,
           "url": "https://www.youtube.com/watch?v=W-bTyPRjzYc"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "13년 연속 1위가 나왔다 외국인이 뽑은 배우 TOP5",
-          "views": 123045,
+          "views": 124185,
           "date": "2026-10-21",
           "duration": 67,
           "url": "https://www.youtube.com/watch?v=7XSPSo-WHAw"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=6uJFP6gwbBs"
         }
       ],
-      "analyzed_at": "2026-10-26 12:11",
+      "analyzed_at": "2026-10-26 13:15",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UChq2TqKlpNlWpHpDRMwyCeQ",
       "subscribers": 94,
       "sampled": 20,
-      "avg_views": 4747,
+      "avg_views": 4749,
       "median_views": 1647,
       "uploads_30d": 5,
-      "views_30d": 10006,
+      "views_30d": 10038,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -536,7 +536,7 @@ window.DATA = {
         },
         {
           "title": "우영우 최종회 마지막 장면, 외국인 리액터 4팀은 이렇게 반응했습니다 | 이상한 변호사 우영우 15·16화 해외리액션",
-          "views": 7072,
+          "views": 7092,
           "date": "2026-10-13",
           "duration": 3043,
           "url": "https://www.youtube.com/watch?v=gLVqm5YVZsg"
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "더 글로리 3–4화 해외반응 — 복수하려고 어디까지 갈까?",
-          "views": 561,
+          "views": 573,
           "date": "2026-10-22",
           "duration": 2723,
           "url": "https://www.youtube.com/watch?v=CRWsx-HB9Gk"
@@ -559,7 +559,7 @@ window.DATA = {
         },
         {
           "title": "우영우 최종회 마지막 장면, 외국인 리액터 4팀은 이렇게 반응했습니다 | 이상한 변호사 우영우 15·16화 해외리액션",
-          "views": 7072,
+          "views": 7092,
           "date": "2026-10-13",
           "duration": 3043,
           "url": "https://www.youtube.com/watch?v=gLVqm5YVZsg"
@@ -614,17 +614,17 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=BCjpJ9xYjEA"
         }
       ],
-      "analyzed_at": "2026-10-26 12:11",
+      "analyzed_at": "2026-10-26 13:15",
       "subs_delta": 1
     }
   ],
-  "generated_at": "2026-10-26 12:08",
+  "generated_at": "2026-10-26 13:12",
   "videos": [
     {
       "date": "2026-09-29",
       "channel": "숏츠시작",
       "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-      "views": 1040165,
+      "views": 1040311,
       "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
     },
     {
@@ -722,7 +722,7 @@ window.DATA = {
       "date": "2026-10-20",
       "channel": "이슈브리핑",
       "title": "아직도 이해 안 가는 추신수 평가, MLB 아시아 출신 타자 통산 타점 TOP7",
-      "views": 86746,
+      "views": 86846,
       "url": "https://www.youtube.com/watch?v=P1AJj6ZzDtc"
     },
     {
@@ -743,21 +743,21 @@ window.DATA = {
       "date": "2026-10-14",
       "channel": "이슈브리핑",
       "title": "레이예스 안타 기록 아시아 최다 안타 3위 기록이네요 아시아 한 시즌 최다 안타 TOP7",
-      "views": 37525,
+      "views": 37510,
       "url": "https://www.youtube.com/watch?v=tlWwFQtVCSU"
     },
     {
       "date": "2026-10-26",
       "channel": "이슈브리핑",
       "title": "양신 양준혁 강백호에 완패",
-      "views": 110,
+      "views": 756,
       "url": "https://www.youtube.com/watch?v=nVZ5a_ManJ4"
     },
     {
       "date": "2026-10-25",
       "channel": "이슈브리핑",
       "title": "채태인을 10점 차로 박살낸 김태균",
-      "views": 3060,
+      "views": 3124,
       "url": "https://www.youtube.com/watch?v=-9lPmab-rpM"
     },
     {
@@ -778,14 +778,14 @@ window.DATA = {
       "date": "2026-10-23",
       "channel": "이슈브리핑",
       "title": "박병호 은퇴 KBO 한 시즌 최다 루타 TOP7",
-      "views": 22574,
+      "views": 22712,
       "url": "https://www.youtube.com/watch?v=tOak0ae6Ipg"
     },
     {
       "date": "2026-10-22",
       "channel": "이슈브리핑",
       "title": "[오피셜] KT 이강철 감독 3년 34억 전액보장 재계약, KBO 리그 감독 최대 규모 계약. KBO 감독 역대 최고 계약 TOP7",
-      "views": 32957,
+      "views": 32982,
       "url": "https://www.youtube.com/watch?v=zq9-ptkB12U"
     },
     {
@@ -813,14 +813,14 @@ window.DATA = {
       "date": "2026-10-24",
       "channel": "뷰포인트",
       "title": "명현만의 철벽 가드",
-      "views": 62619,
+      "views": 62944,
       "url": "https://www.youtube.com/watch?v=_UTP_bSJONU"
     },
     {
       "date": "2026-10-24",
       "channel": "뷰포인트",
       "title": "은가누 붕붕에 전원꺼지는 린스, 1년 7개월 쉰 은가누 1라운드 4분 31초",
-      "views": 38955,
+      "views": 40203,
       "url": "https://www.youtube.com/watch?v=cgYPAB5B5-A"
     },
     {
@@ -834,7 +834,7 @@ window.DATA = {
       "date": "2026-10-25",
       "channel": "뷰포인트",
       "title": "야구 역대급 비거리 홈런 TOP4",
-      "views": 9315,
+      "views": 9324,
       "url": "https://www.youtube.com/watch?v=cNYq6XGh6bU"
     },
     {
@@ -848,7 +848,7 @@ window.DATA = {
       "date": "2026-10-26",
       "channel": "뷰포인트",
       "title": "야구 역대급 레이저 송구 TOP4",
-      "views": 112,
+      "views": 928,
       "url": "https://www.youtube.com/watch?v=NVUnyIH3-U0"
     },
     {
@@ -890,14 +890,14 @@ window.DATA = {
       "date": "2026-10-20",
       "channel": "뷰포인트",
       "title": "실시간 마카체프: 나도 개리 이해안간다",
-      "views": 2100,
+      "views": 2104,
       "url": "https://www.youtube.com/watch?v=_kmWiBK7njQ"
     },
     {
       "date": "2026-10-21",
       "channel": "해외반응픽",
       "title": "13년 연속 1위가 나왔다 외국인이 뽑은 배우 TOP5",
-      "views": 123045,
+      "views": 124185,
       "url": "https://www.youtube.com/watch?v=7XSPSo-WHAw"
     },
     {
@@ -932,7 +932,7 @@ window.DATA = {
       "date": "2026-10-26",
       "channel": "해외반응픽",
       "title": "'역대급 재산' 공개로 상대적 박탈감을 유발한 스타 TOP5",
-      "views": 132,
+      "views": 775,
       "url": "https://www.youtube.com/watch?v=4Kh7Rl_ur-Y"
     },
     {
@@ -946,14 +946,14 @@ window.DATA = {
       "date": "2026-10-24",
       "channel": "해외반응픽",
       "title": "'그 인생 부럽네' 하고 싶은 대로 다하며 사는 것 같은 스타 TOP5",
-      "views": 1735,
+      "views": 1750,
       "url": "https://www.youtube.com/watch?v=HwaiQXSQuc0"
     },
     {
       "date": "2026-10-24",
       "channel": "해외반응픽",
       "title": "의외로 손이 많이 갈 것 같은 빈틈 많은 스타 TOP5",
-      "views": 1535,
+      "views": 1549,
       "url": "https://www.youtube.com/watch?v=QEjM1yA1v5w"
     },
     {
@@ -967,14 +967,14 @@ window.DATA = {
       "date": "2026-10-22",
       "channel": "해외반응픽",
       "title": "귀신도 도망갈 것 같은 기 세 보이는 스타 TOP5",
-      "views": 1298,
+      "views": 1302,
       "url": "https://www.youtube.com/watch?v=OnMzSJh8uk8"
     },
     {
       "date": "2026-10-22",
       "channel": "해외반응픽",
       "title": "꼰대 같지만 불의를 보면 쓴소리 날릴 것 같은 스타 TOP5",
-      "views": 1515,
+      "views": 1518,
       "url": "https://www.youtube.com/watch?v=W-bTyPRjzYc"
     },
     {
@@ -1016,14 +1016,14 @@ window.DATA = {
       "date": "2026-10-13",
       "channel": "코리아리뷰",
       "title": "우영우 최종회 마지막 장면, 외국인 리액터 4팀은 이렇게 반응했습니다 | 이상한 변호사 우영우 15·16화 해외리액션",
-      "views": 7072,
+      "views": 7092,
       "url": "https://www.youtube.com/watch?v=gLVqm5YVZsg"
     },
     {
       "date": "2026-10-22",
       "channel": "코리아리뷰",
       "title": "더 글로리 3–4화 해외반응 — 복수하려고 어디까지 갈까?",
-      "views": 561,
+      "views": 573,
       "url": "https://www.youtube.com/watch?v=CRWsx-HB9Gk"
     },
     {
