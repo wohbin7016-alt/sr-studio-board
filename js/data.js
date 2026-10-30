@@ -8,7 +8,7 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 42200,
       "sampled": 20,
-      "avg_views": 66146,
+      "avg_views": 66164,
       "median_views": 9127,
       "uploads_30d": 0,
       "views_30d": 0,
@@ -16,7 +16,7 @@ window.DATA = {
       "top_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 1086547,
+          "views": 1086907,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "알고보니 태권도 유단자였던 반전 스타 TOP7 (1위는 국가대표 출신)",
-          "views": 21148,
+          "views": 21149,
           "date": "2026-09-15",
           "duration": 84,
           "url": "https://www.youtube.com/watch?v=q-TLesWMUW4"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 1086547,
+          "views": 1086907,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -122,19 +122,19 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
         }
       ],
-      "analyzed_at": "2026-10-30 16:55",
+      "analyzed_at": "2026-10-30 18:00",
       "subs_delta": 0
     },
     {
       "url": "https://youtube.com/channel/UC29M9AGVR19NtIrAHsjx-XA",
       "name": "이슈브리핑",
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
-      "subscribers": 9310,
+      "subscribers": 9320,
       "sampled": 20,
-      "avg_views": 12679,
-      "median_views": 5946,
+      "avg_views": 12039,
+      "median_views": 5337,
       "uploads_30d": 20,
-      "views_30d": 253583,
+      "views_30d": 228758,
       "shorts_ratio": 0.35,
       "top_videos": [
         {
@@ -159,45 +159,52 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=tOak0ae6Ipg"
         },
         {
-          "title": "한화 이글스 허인서 37년만에 이글스 포수 단일시즌 20홈런 타자, KBO 포수 한 시즌 최다 홈런 TOP7",
-          "views": 25263,
-          "date": "2026-10-21",
-          "duration": 77,
-          "url": "https://www.youtube.com/watch?v=s7eWCNBojQo"
-        },
-        {
           "title": "에이스 윤석민 도루왕에 당했다",
-          "views": 20910,
+          "views": 20906,
           "date": "2026-10-26",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=8y5BJF2oidY"
+        },
+        {
+          "title": "거포의 작은 표적 / 100만 원의 도전",
+          "views": 19911,
+          "date": "2026-10-28",
+          "duration": 38,
+          "url": "https://www.youtube.com/watch?v=YuCVZGiGdRk"
         }
       ],
       "recent_videos": [
         {
+          "title": "장효조도 못 넘었다 KBO 연속 시즌 3할 TOP7",
+          "views": 0,
+          "date": "2026-10-30",
+          "duration": 96,
+          "url": "https://www.youtube.com/watch?v=zjHx_2ej2qs"
+        },
+        {
           "title": "이종범도 못 넘었다 / KBO 도루왕 최다 TOP7",
-          "views": 2326,
+          "views": 2471,
           "date": "2026-10-30",
           "duration": 95,
           "url": "https://www.youtube.com/watch?v=wZm_0C3GW4U"
         },
         {
           "title": "김현수도 41개 못 넘었다 잠실구장 통산 안타 TOP5",
-          "views": 2249,
+          "views": 2438,
           "date": "2026-10-29",
           "duration": 85,
           "url": "https://www.youtube.com/watch?v=jqVljYx9cf0"
         },
         {
           "title": "3홈런 8타점 MVP 김도영 KBO 준플레이오프 한 시리즈 최다 타점 TOP5",
-          "views": 1474,
+          "views": 1475,
           "date": "2026-10-29",
           "duration": 75,
           "url": "https://www.youtube.com/watch?v=3KhppurISHg"
         },
         {
           "title": "이승엽도 6번 못 넘었다 / KBO 홈런왕 최다 TOP7",
-          "views": 10430,
+          "views": 10535,
           "date": "2026-10-28",
           "duration": 112,
           "url": "https://www.youtube.com/watch?v=WRydGMdmM8Y"
@@ -211,7 +218,7 @@ window.DATA = {
         },
         {
           "title": "충격적인 에릭 테임즈 은퇴 후 근황.. KBO 한 시즌 장타율 TOP7",
-          "views": 3019,
+          "views": 3016,
           "date": "2026-10-27",
           "duration": 83,
           "url": "https://www.youtube.com/watch?v=B_p_bECl0UY"
@@ -232,21 +239,14 @@ window.DATA = {
         },
         {
           "title": "'최형우 더비' 막 올린다 / 한국시리즈 우승 최다 TOP7",
-          "views": 2420,
+          "views": 2422,
           "date": "2026-10-26",
           "duration": 76,
           "url": "https://www.youtube.com/watch?v=VTHDi2Z2hx4"
-        },
-        {
-          "title": "에이스 윤석민 도루왕에 당했다",
-          "views": 20910,
-          "date": "2026-10-26",
-          "duration": 42,
-          "url": "https://www.youtube.com/watch?v=8y5BJF2oidY"
         }
       ],
-      "analyzed_at": "2026-10-30 16:57",
-      "subs_delta": 0
+      "analyzed_at": "2026-10-30 18:01",
+      "subs_delta": 10
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
@@ -254,15 +254,15 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 3410,
       "sampled": 20,
-      "avg_views": 17098,
-      "median_views": 3449,
+      "avg_views": 17986,
+      "median_views": 4371,
       "uploads_30d": 20,
-      "views_30d": 341974,
-      "shorts_ratio": 0.85,
+      "views_30d": 341737,
+      "shorts_ratio": 0.9,
       "top_videos": [
         {
           "title": "은가누 붕붕에 전원꺼지는 린스, 1년 7개월 쉰 은가누 1라운드 4분 31초",
-          "views": 149015,
+          "views": 149288,
           "date": "2026-10-24",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=cgYPAB5B5-A"
@@ -290,7 +290,7 @@ window.DATA = {
         },
         {
           "title": "야구 역대급 비거리 홈런 TOP4",
-          "views": 15477,
+          "views": 15479,
           "date": "2026-10-25",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=cNYq6XGh6bU"
@@ -298,15 +298,22 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "진짜 골글유격수 올려라",
+          "views": 0,
+          "date": "2026-10-30",
+          "duration": 37,
+          "url": "https://www.youtube.com/watch?v=mnKM89w0p8w"
+        },
+        {
           "title": "이택근은 어떻게 단장이 되었는가",
-          "views": 1331,
+          "views": 1424,
           "date": "2026-10-30",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=m6DFqbmvY9Y"
         },
         {
           "title": "홈런인 줄 알았는데 지붕 맞은 공의 반전",
-          "views": 12372,
+          "views": 12893,
           "date": "2026-10-29",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=mBCXAvmj3ZA"
@@ -348,27 +355,20 @@ window.DATA = {
         },
         {
           "title": "야구 역대급 비거리 홈런 TOP4",
-          "views": 15477,
+          "views": 15479,
           "date": "2026-10-25",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=cNYq6XGh6bU"
         },
         {
           "title": "은가누 붕붕에 전원꺼지는 린스, 1년 7개월 쉰 은가누 1라운드 4분 31초",
-          "views": 149015,
+          "views": 149288,
           "date": "2026-10-24",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=cgYPAB5B5-A"
-        },
-        {
-          "title": "명현만의 철벽 가드",
-          "views": 66446,
-          "date": "2026-10-24",
-          "duration": 78,
-          "url": "https://www.youtube.com/watch?v=_UTP_bSJONU"
         }
       ],
-      "analyzed_at": "2026-10-30 16:58",
+      "analyzed_at": "2026-10-30 18:02",
       "subs_delta": 10
     },
     {
@@ -377,22 +377,22 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 2990,
       "sampled": 20,
-      "avg_views": 11329,
+      "avg_views": 11270,
       "median_views": 2226,
       "uploads_30d": 20,
-      "views_30d": 226588,
-      "shorts_ratio": 0.15,
+      "views_30d": 225412,
+      "shorts_ratio": 0.2,
       "top_videos": [
         {
           "title": "13년 연속 1위가 나왔다 외국인이 뽑은 배우 TOP5",
-          "views": 176503,
+          "views": 176713,
           "date": "2026-10-21",
           "duration": 67,
           "url": "https://www.youtube.com/watch?v=7XSPSo-WHAw"
         },
         {
           "title": "모태 솔로도 구제해 줄 것 같은 연애 고수 스타 TOP5",
-          "views": 7391,
+          "views": 7393,
           "date": "2026-10-17",
           "duration": 76,
           "url": "https://www.youtube.com/watch?v=Vj4TCwX19oQ"
@@ -406,7 +406,7 @@ window.DATA = {
         },
         {
           "title": "논란이 있어도 여전히 대중의 지지를 받는 스타 TOP5",
-          "views": 3620,
+          "views": 3621,
           "date": "2026-10-26",
           "duration": 111,
           "url": "https://www.youtube.com/watch?v=NEk7Z620bLA"
@@ -421,8 +421,15 @@ window.DATA = {
       ],
       "recent_videos": [
         {
+          "title": "큰일났다 염경엽 때문에 / 나성범 삐짐",
+          "views": 2,
+          "date": "2026-10-30",
+          "duration": 31,
+          "url": "https://www.youtube.com/watch?v=K9_Z1i9ze6o"
+        },
+        {
           "title": "2,000안타까지 / 남은 건 2개",
-          "views": 1639,
+          "views": 1720,
           "date": "2026-10-30",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=bcl-JsWeXNk"
@@ -443,7 +450,7 @@ window.DATA = {
         },
         {
           "title": "논란이 있어도 여전히 대중의 지지를 받는 스타 TOP5",
-          "views": 3620,
+          "views": 3621,
           "date": "2026-10-26",
           "duration": 111,
           "url": "https://www.youtube.com/watch?v=NEk7Z620bLA"
@@ -482,16 +489,9 @@ window.DATA = {
           "date": "2026-10-23",
           "duration": 110,
           "url": "https://www.youtube.com/watch?v=U7PTo2rIqu0"
-        },
-        {
-          "title": "귀신도 도망갈 것 같은 기 세 보이는 스타 TOP5",
-          "views": 1308,
-          "date": "2026-10-22",
-          "duration": 104,
-          "url": "https://www.youtube.com/watch?v=OnMzSJh8uk8"
         }
       ],
-      "analyzed_at": "2026-10-30 16:59",
+      "analyzed_at": "2026-10-30 18:03",
       "subs_delta": 10
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UChq2TqKlpNlWpHpDRMwyCeQ",
       "subscribers": 96,
       "sampled": 20,
-      "avg_views": 4805,
+      "avg_views": 4810,
       "median_views": 1651,
       "uploads_30d": 5,
-      "views_30d": 11107,
+      "views_30d": 11195,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -529,14 +529,14 @@ window.DATA = {
         },
         {
           "title": "우영우 최종회 마지막 장면, 외국인 리액터 4팀은 이렇게 반응했습니다 | 이상한 변호사 우영우 15·16화 해외리액션",
-          "views": 7725,
+          "views": 7736,
           "date": "2026-10-13",
           "duration": 3043,
           "url": "https://www.youtube.com/watch?v=gLVqm5YVZsg"
         },
         {
           "title": "폭싹 속았수다' 16화 최종화 해외반응 — \"궂은 날은 있어도 외로운 날은 없었다\", 외국인들이 눈물로 배웅한 마지막 회",
-          "views": 7228,
+          "views": 7232,
           "date": "2026-09-10",
           "duration": 856,
           "url": "https://www.youtube.com/watch?v=pwUkCrO2Xkg"
@@ -545,7 +545,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "새로 온 의사가 헬기에 올라타자 벌어진 일 | 중증외상센터 1·2화",
-          "views": 81,
+          "views": 158,
           "date": "2026-10-29",
           "duration": 1945,
           "url": "https://www.youtube.com/watch?v=sDVSdvOjQRU"
@@ -566,7 +566,7 @@ window.DATA = {
         },
         {
           "title": "우영우 최종회 마지막 장면, 외국인 리액터 4팀은 이렇게 반응했습니다 | 이상한 변호사 우영우 15·16화 해외리액션",
-          "views": 7725,
+          "views": 7736,
           "date": "2026-10-13",
           "duration": 3043,
           "url": "https://www.youtube.com/watch?v=gLVqm5YVZsg"
@@ -614,17 +614,17 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=nH_FB_w4uLA"
         }
       ],
-      "analyzed_at": "2026-10-30 16:59",
+      "analyzed_at": "2026-10-30 18:03",
       "subs_delta": 1
     }
   ],
-  "generated_at": "2026-10-30 16:55",
+  "generated_at": "2026-10-30 18:00",
   "videos": [
     {
       "date": "2026-09-29",
       "channel": "숏츠시작",
       "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-      "views": 1086547,
+      "views": 1086907,
       "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
     },
     {
@@ -638,7 +638,7 @@ window.DATA = {
       "date": "2026-09-15",
       "channel": "숏츠시작",
       "title": "알고보니 태권도 유단자였던 반전 스타 TOP7 (1위는 국가대표 출신)",
-      "views": 21148,
+      "views": 21149,
       "url": "https://www.youtube.com/watch?v=q-TLesWMUW4"
     },
     {
@@ -733,46 +733,11 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=tOak0ae6Ipg"
     },
     {
-      "date": "2026-10-21",
-      "channel": "이슈브리핑",
-      "title": "한화 이글스 허인서 37년만에 이글스 포수 단일시즌 20홈런 타자, KBO 포수 한 시즌 최다 홈런 TOP7",
-      "views": 25263,
-      "url": "https://www.youtube.com/watch?v=s7eWCNBojQo"
-    },
-    {
       "date": "2026-10-26",
       "channel": "이슈브리핑",
       "title": "에이스 윤석민 도루왕에 당했다",
-      "views": 20910,
+      "views": 20906,
       "url": "https://www.youtube.com/watch?v=8y5BJF2oidY"
-    },
-    {
-      "date": "2026-10-30",
-      "channel": "이슈브리핑",
-      "title": "이종범도 못 넘었다 / KBO 도루왕 최다 TOP7",
-      "views": 2326,
-      "url": "https://www.youtube.com/watch?v=wZm_0C3GW4U"
-    },
-    {
-      "date": "2026-10-29",
-      "channel": "이슈브리핑",
-      "title": "김현수도 41개 못 넘었다 잠실구장 통산 안타 TOP5",
-      "views": 2249,
-      "url": "https://www.youtube.com/watch?v=jqVljYx9cf0"
-    },
-    {
-      "date": "2026-10-29",
-      "channel": "이슈브리핑",
-      "title": "3홈런 8타점 MVP 김도영 KBO 준플레이오프 한 시리즈 최다 타점 TOP5",
-      "views": 1474,
-      "url": "https://www.youtube.com/watch?v=3KhppurISHg"
-    },
-    {
-      "date": "2026-10-28",
-      "channel": "이슈브리핑",
-      "title": "이승엽도 6번 못 넘었다 / KBO 홈런왕 최다 TOP7",
-      "views": 10430,
-      "url": "https://www.youtube.com/watch?v=WRydGMdmM8Y"
     },
     {
       "date": "2026-10-28",
@@ -782,10 +747,45 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=YuCVZGiGdRk"
     },
     {
+      "date": "2026-10-30",
+      "channel": "이슈브리핑",
+      "title": "장효조도 못 넘었다 KBO 연속 시즌 3할 TOP7",
+      "views": 0,
+      "url": "https://www.youtube.com/watch?v=zjHx_2ej2qs"
+    },
+    {
+      "date": "2026-10-30",
+      "channel": "이슈브리핑",
+      "title": "이종범도 못 넘었다 / KBO 도루왕 최다 TOP7",
+      "views": 2471,
+      "url": "https://www.youtube.com/watch?v=wZm_0C3GW4U"
+    },
+    {
+      "date": "2026-10-29",
+      "channel": "이슈브리핑",
+      "title": "김현수도 41개 못 넘었다 잠실구장 통산 안타 TOP5",
+      "views": 2438,
+      "url": "https://www.youtube.com/watch?v=jqVljYx9cf0"
+    },
+    {
+      "date": "2026-10-29",
+      "channel": "이슈브리핑",
+      "title": "3홈런 8타점 MVP 김도영 KBO 준플레이오프 한 시리즈 최다 타점 TOP5",
+      "views": 1475,
+      "url": "https://www.youtube.com/watch?v=3KhppurISHg"
+    },
+    {
+      "date": "2026-10-28",
+      "channel": "이슈브리핑",
+      "title": "이승엽도 6번 못 넘었다 / KBO 홈런왕 최다 TOP7",
+      "views": 10535,
+      "url": "https://www.youtube.com/watch?v=WRydGMdmM8Y"
+    },
+    {
       "date": "2026-10-27",
       "channel": "이슈브리핑",
       "title": "충격적인 에릭 테임즈 은퇴 후 근황.. KBO 한 시즌 장타율 TOP7",
-      "views": 3019,
+      "views": 3016,
       "url": "https://www.youtube.com/watch?v=B_p_bECl0UY"
     },
     {
@@ -806,14 +806,14 @@ window.DATA = {
       "date": "2026-10-26",
       "channel": "이슈브리핑",
       "title": "'최형우 더비' 막 올린다 / 한국시리즈 우승 최다 TOP7",
-      "views": 2420,
+      "views": 2422,
       "url": "https://www.youtube.com/watch?v=VTHDi2Z2hx4"
     },
     {
       "date": "2026-10-24",
       "channel": "뷰포인트",
       "title": "은가누 붕붕에 전원꺼지는 린스, 1년 7개월 쉰 은가누 1라운드 4분 31초",
-      "views": 149015,
+      "views": 149288,
       "url": "https://www.youtube.com/watch?v=cgYPAB5B5-A"
     },
     {
@@ -841,21 +841,28 @@ window.DATA = {
       "date": "2026-10-25",
       "channel": "뷰포인트",
       "title": "야구 역대급 비거리 홈런 TOP4",
-      "views": 15477,
+      "views": 15479,
       "url": "https://www.youtube.com/watch?v=cNYq6XGh6bU"
     },
     {
       "date": "2026-10-30",
       "channel": "뷰포인트",
+      "title": "진짜 골글유격수 올려라",
+      "views": 0,
+      "url": "https://www.youtube.com/watch?v=mnKM89w0p8w"
+    },
+    {
+      "date": "2026-10-30",
+      "channel": "뷰포인트",
       "title": "이택근은 어떻게 단장이 되었는가",
-      "views": 1331,
+      "views": 1424,
       "url": "https://www.youtube.com/watch?v=m6DFqbmvY9Y"
     },
     {
       "date": "2026-10-29",
       "channel": "뷰포인트",
       "title": "홈런인 줄 알았는데 지붕 맞은 공의 반전",
-      "views": 12372,
+      "views": 12893,
       "url": "https://www.youtube.com/watch?v=mBCXAvmj3ZA"
     },
     {
@@ -890,14 +897,14 @@ window.DATA = {
       "date": "2026-10-21",
       "channel": "해외반응픽",
       "title": "13년 연속 1위가 나왔다 외국인이 뽑은 배우 TOP5",
-      "views": 176503,
+      "views": 176713,
       "url": "https://www.youtube.com/watch?v=7XSPSo-WHAw"
     },
     {
       "date": "2026-10-17",
       "channel": "해외반응픽",
       "title": "모태 솔로도 구제해 줄 것 같은 연애 고수 스타 TOP5",
-      "views": 7391,
+      "views": 7393,
       "url": "https://www.youtube.com/watch?v=Vj4TCwX19oQ"
     },
     {
@@ -911,7 +918,7 @@ window.DATA = {
       "date": "2026-10-26",
       "channel": "해외반응픽",
       "title": "논란이 있어도 여전히 대중의 지지를 받는 스타 TOP5",
-      "views": 3620,
+      "views": 3621,
       "url": "https://www.youtube.com/watch?v=NEk7Z620bLA"
     },
     {
@@ -924,8 +931,15 @@ window.DATA = {
     {
       "date": "2026-10-30",
       "channel": "해외반응픽",
+      "title": "큰일났다 염경엽 때문에 / 나성범 삐짐",
+      "views": 2,
+      "url": "https://www.youtube.com/watch?v=K9_Z1i9ze6o"
+    },
+    {
+      "date": "2026-10-30",
+      "channel": "해외반응픽",
       "title": "2,000안타까지 / 남은 건 2개",
-      "views": 1639,
+      "views": 1720,
       "url": "https://www.youtube.com/watch?v=bcl-JsWeXNk"
     },
     {
@@ -978,13 +992,6 @@ window.DATA = {
       "url": "https://www.youtube.com/watch?v=U7PTo2rIqu0"
     },
     {
-      "date": "2026-10-22",
-      "channel": "해외반응픽",
-      "title": "귀신도 도망갈 것 같은 기 세 보이는 스타 TOP5",
-      "views": 1308,
-      "url": "https://www.youtube.com/watch?v=OnMzSJh8uk8"
-    },
-    {
       "date": "2026-08-21",
       "channel": "코리아리뷰",
       "title": "IU·박보검 '폭싹 속았수다' — 외국인들이 첫 입맞춤과 '떠나는 배' 장면에서 끝내 무너진 순간들 [2·3화 해외반응]",
@@ -1009,21 +1016,21 @@ window.DATA = {
       "date": "2026-10-13",
       "channel": "코리아리뷰",
       "title": "우영우 최종회 마지막 장면, 외국인 리액터 4팀은 이렇게 반응했습니다 | 이상한 변호사 우영우 15·16화 해외리액션",
-      "views": 7725,
+      "views": 7736,
       "url": "https://www.youtube.com/watch?v=gLVqm5YVZsg"
     },
     {
       "date": "2026-09-10",
       "channel": "코리아리뷰",
       "title": "폭싹 속았수다' 16화 최종화 해외반응 — \"궂은 날은 있어도 외로운 날은 없었다\", 외국인들이 눈물로 배웅한 마지막 회",
-      "views": 7228,
+      "views": 7232,
       "url": "https://www.youtube.com/watch?v=pwUkCrO2Xkg"
     },
     {
       "date": "2026-10-29",
       "channel": "코리아리뷰",
       "title": "새로 온 의사가 헬기에 올라타자 벌어진 일 | 중증외상센터 1·2화",
-      "views": 81,
+      "views": 158,
       "url": "https://www.youtube.com/watch?v=sDVSdvOjQRU"
     },
     {
