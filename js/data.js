@@ -492,7 +492,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-10-31 23:38",
-      "subs_delta": 10
+      "subs_delta": 0
     },
     {
       "url": "https://www.youtube.com/channel/UChq2TqKlpNlWpHpDRMwyCeQ",
@@ -615,7 +615,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-10-31 23:39",
-      "subs_delta": -1
+      "subs_delta": 0
     }
   ],
   "generated_at": "2026-10-31 23:35",
