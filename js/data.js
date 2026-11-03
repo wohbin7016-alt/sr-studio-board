@@ -369,7 +369,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-11-03 23:53",
-      "subs_delta": 10
+      "subs_delta": 0
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
