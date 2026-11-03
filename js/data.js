@@ -8,7 +8,7 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 42200,
       "sampled": 20,
-      "avg_views": 67015,
+      "avg_views": 67018,
       "median_views": 9134,
       "uploads_30d": 0,
       "views_30d": 0,
@@ -16,7 +16,7 @@ window.DATA = {
       "top_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 1103765,
+          "views": 1103837,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 1103765,
+          "views": 1103837,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
         }
       ],
-      "analyzed_at": "2026-11-03 10:00",
+      "analyzed_at": "2026-11-03 11:04",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 9340,
       "sampled": 20,
-      "avg_views": 6755,
+      "avg_views": 6789,
       "median_views": 4360,
       "uploads_30d": 20,
-      "views_30d": 135104,
+      "views_30d": 135781,
       "shorts_ratio": 0.1,
       "top_videos": [
         {
@@ -160,7 +160,7 @@ window.DATA = {
         },
         {
           "title": "양준혁도 못 넘었다 / KBO 연속 시즌 100안타 TOP7",
-          "views": 11635,
+          "views": 11739,
           "date": "2026-10-31",
           "duration": 95,
           "url": "https://www.youtube.com/watch?v=jCw6GPYeGsY"
@@ -176,7 +176,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "류현진도 못 넘었다 KBO 통산 방어율 TOP7",
-          "views": 2822,
+          "views": 2914,
           "date": "2026-11-02",
           "duration": 97,
           "url": "https://www.youtube.com/watch?v=J2w0SBrhq3A"
@@ -190,28 +190,28 @@ window.DATA = {
         },
         {
           "title": "이승엽도 못 넘었다 KBO 통산 2루타 TOP7",
-          "views": 2424,
+          "views": 2462,
           "date": "2026-11-02",
           "duration": 87,
           "url": "https://www.youtube.com/watch?v=DuwsjuP571Q"
         },
         {
           "title": "정우람도 못 넘었다 / KBO 통산 홀드 TOP7",
-          "views": 1412,
+          "views": 1447,
           "date": "2026-11-01",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=9XK_QZRlyPc"
         },
         {
           "title": "정수빈도 못 넘었다 KBO 통산 3루타 TOP7",
-          "views": 2378,
+          "views": 2416,
           "date": "2026-11-01",
           "duration": 87,
           "url": "https://www.youtube.com/watch?v=Uu97ZpyM5Cs"
         },
         {
           "title": "류현진도 못 넘었다  KBO 연속 시즌 10승 TOP5",
-          "views": 5551,
+          "views": 5906,
           "date": "2026-11-01",
           "duration": 76,
           "url": "https://www.youtube.com/watch?v=sLDHyWStbDg"
@@ -232,20 +232,20 @@ window.DATA = {
         },
         {
           "title": "양준혁도 못 넘었다 / KBO 연속 시즌 100안타 TOP7",
-          "views": 11635,
+          "views": 11739,
           "date": "2026-10-31",
           "duration": 95,
           "url": "https://www.youtube.com/watch?v=jCw6GPYeGsY"
         },
         {
           "title": "장효조도 못 넘었다 KBO 연속 시즌 3할 TOP7",
-          "views": 6596,
+          "views": 6602,
           "date": "2026-10-30",
           "duration": 96,
           "url": "https://www.youtube.com/watch?v=zjHx_2ej2qs"
         }
       ],
-      "analyzed_at": "2026-11-03 10:01",
+      "analyzed_at": "2026-11-03 11:05",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 3420,
       "sampled": 20,
-      "avg_views": 17515,
-      "median_views": 5171,
+      "avg_views": 17525,
+      "median_views": 5196,
       "uploads_30d": 20,
-      "views_30d": 350312,
+      "views_30d": 350519,
       "shorts_ratio": 0.85,
       "top_videos": [
         {
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "야구 역대급 슬라이딩  TOP4",
-          "views": 2392,
+          "views": 2404,
           "date": "2026-11-02",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=OOCF4HlmSJY"
@@ -320,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "야구 역대급 야수 등판 TOP4",
-          "views": 4789,
+          "views": 4839,
           "date": "2026-11-01",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=uYeEUw_EjSg"
@@ -334,7 +334,7 @@ window.DATA = {
         },
         {
           "title": "???: 김도영 / 별거 없네",
-          "views": 10671,
+          "views": 10807,
           "date": "2026-11-01",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=5s645b06gNc"
@@ -355,7 +355,7 @@ window.DATA = {
         },
         {
           "title": "이택근은 어떻게 단장이 되었는가",
-          "views": 3699,
+          "views": 3706,
           "date": "2026-10-30",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=m6DFqbmvY9Y"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=mBCXAvmj3ZA"
         }
       ],
-      "analyzed_at": "2026-11-03 10:02",
+      "analyzed_at": "2026-11-03 11:06",
       "subs_delta": 0
     },
     {
@@ -377,10 +377,10 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 3010,
       "sampled": 20,
-      "avg_views": 4613,
+      "avg_views": 4619,
       "median_views": 2742,
       "uploads_30d": 20,
-      "views_30d": 92261,
+      "views_30d": 92381,
       "shorts_ratio": 0.55,
       "top_videos": [
         {
@@ -406,14 +406,14 @@ window.DATA = {
         },
         {
           "title": "44년 잠실의 마지막 홈런 주인공은 한준수였다",
-          "views": 4409,
+          "views": 4437,
           "date": "2026-10-31",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=yh9neneGBck"
         },
         {
           "title": "박재현 인터뷰 할 자격 없다 / 부족했다",
-          "views": 4258,
+          "views": 4350,
           "date": "2026-11-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=DrYUfx2D7hI"
@@ -443,7 +443,7 @@ window.DATA = {
         },
         {
           "title": "박재현 인터뷰 할 자격 없다 / 부족했다",
-          "views": 4258,
+          "views": 4350,
           "date": "2026-11-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=DrYUfx2D7hI"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "44년 잠실의 마지막 홈런 주인공은 한준수였다",
-          "views": 4409,
+          "views": 4437,
           "date": "2026-10-31",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=yh9neneGBck"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=0KhuwVK8bR8"
         }
       ],
-      "analyzed_at": "2026-11-03 10:03",
+      "analyzed_at": "2026-11-03 11:06",
       "subs_delta": 0
     },
     {
@@ -500,15 +500,15 @@ window.DATA = {
       "channel_id": "UChq2TqKlpNlWpHpDRMwyCeQ",
       "subscribers": 95,
       "sampled": 20,
-      "avg_views": 3311,
+      "avg_views": 3312,
       "median_views": 1424,
       "uploads_30d": 7,
-      "views_30d": 12002,
+      "views_30d": 12018,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
           "title": "외국인들이 태풍 장면 보다 오열한 그 드라마 | 폭싹 속았수다 6·7화 해외 리액션",
-          "views": 16423,
+          "views": 16424,
           "date": "2026-08-27",
           "duration": 2218,
           "url": "https://www.youtube.com/watch?v=6k4XDYz6SuI"
@@ -545,14 +545,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "[해외반응] 3명을 살려낸 뒤, 수술실 문이 닫혔다 | 중증외상센터 5·6화",
-          "views": 54,
+          "views": 68,
           "date": "2026-11-02",
           "duration": 2189,
           "url": "https://www.youtube.com/watch?v=JLyQj_vvKrc"
         },
         {
           "title": "환자를 살렸는데 병원에서 돌아온 뜻밖의 말 | 중증외상센터 3·4화",
-          "views": 178,
+          "views": 180,
           "date": "2026-10-30",
           "duration": 1968,
           "url": "https://www.youtube.com/watch?v=eubUK5rp8WE"
@@ -614,17 +614,17 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=kchDNJtHX7I"
         }
       ],
-      "analyzed_at": "2026-11-03 10:03",
+      "analyzed_at": "2026-11-03 11:07",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-11-03 10:00",
+  "generated_at": "2026-11-03 11:04",
   "videos": [
     {
       "date": "2026-09-29",
       "channel": "숏츠시작",
       "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-      "views": 1103765,
+      "views": 1103837,
       "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
     },
     {
@@ -736,7 +736,7 @@ window.DATA = {
       "date": "2026-10-31",
       "channel": "이슈브리핑",
       "title": "양준혁도 못 넘었다 / KBO 연속 시즌 100안타 TOP7",
-      "views": 11635,
+      "views": 11739,
       "url": "https://www.youtube.com/watch?v=jCw6GPYeGsY"
     },
     {
@@ -750,7 +750,7 @@ window.DATA = {
       "date": "2026-11-02",
       "channel": "이슈브리핑",
       "title": "류현진도 못 넘었다 KBO 통산 방어율 TOP7",
-      "views": 2822,
+      "views": 2914,
       "url": "https://www.youtube.com/watch?v=J2w0SBrhq3A"
     },
     {
@@ -764,28 +764,28 @@ window.DATA = {
       "date": "2026-11-02",
       "channel": "이슈브리핑",
       "title": "이승엽도 못 넘었다 KBO 통산 2루타 TOP7",
-      "views": 2424,
+      "views": 2462,
       "url": "https://www.youtube.com/watch?v=DuwsjuP571Q"
     },
     {
       "date": "2026-11-01",
       "channel": "이슈브리핑",
       "title": "정우람도 못 넘었다 / KBO 통산 홀드 TOP7",
-      "views": 1412,
+      "views": 1447,
       "url": "https://www.youtube.com/watch?v=9XK_QZRlyPc"
     },
     {
       "date": "2026-11-01",
       "channel": "이슈브리핑",
       "title": "정수빈도 못 넘었다 KBO 통산 3루타 TOP7",
-      "views": 2378,
+      "views": 2416,
       "url": "https://www.youtube.com/watch?v=Uu97ZpyM5Cs"
     },
     {
       "date": "2026-11-01",
       "channel": "이슈브리핑",
       "title": "류현진도 못 넘었다  KBO 연속 시즌 10승 TOP5",
-      "views": 5551,
+      "views": 5906,
       "url": "https://www.youtube.com/watch?v=sLDHyWStbDg"
     },
     {
@@ -806,7 +806,7 @@ window.DATA = {
       "date": "2026-10-30",
       "channel": "이슈브리핑",
       "title": "장효조도 못 넘었다 KBO 연속 시즌 3할 TOP7",
-      "views": 6596,
+      "views": 6602,
       "url": "https://www.youtube.com/watch?v=zjHx_2ej2qs"
     },
     {
@@ -848,7 +848,7 @@ window.DATA = {
       "date": "2026-11-02",
       "channel": "뷰포인트",
       "title": "야구 역대급 슬라이딩  TOP4",
-      "views": 2392,
+      "views": 2404,
       "url": "https://www.youtube.com/watch?v=OOCF4HlmSJY"
     },
     {
@@ -869,7 +869,7 @@ window.DATA = {
       "date": "2026-11-01",
       "channel": "뷰포인트",
       "title": "야구 역대급 야수 등판 TOP4",
-      "views": 4789,
+      "views": 4839,
       "url": "https://www.youtube.com/watch?v=uYeEUw_EjSg"
     },
     {
@@ -883,7 +883,7 @@ window.DATA = {
       "date": "2026-11-01",
       "channel": "뷰포인트",
       "title": "???: 김도영 / 별거 없네",
-      "views": 10671,
+      "views": 10807,
       "url": "https://www.youtube.com/watch?v=5s645b06gNc"
     },
     {
@@ -904,7 +904,7 @@ window.DATA = {
       "date": "2026-10-30",
       "channel": "뷰포인트",
       "title": "이택근은 어떻게 단장이 되었는가",
-      "views": 3699,
+      "views": 3706,
       "url": "https://www.youtube.com/watch?v=m6DFqbmvY9Y"
     },
     {
@@ -932,14 +932,14 @@ window.DATA = {
       "date": "2026-10-31",
       "channel": "해외반응픽",
       "title": "44년 잠실의 마지막 홈런 주인공은 한준수였다",
-      "views": 4409,
+      "views": 4437,
       "url": "https://www.youtube.com/watch?v=yh9neneGBck"
     },
     {
       "date": "2026-11-01",
       "channel": "해외반응픽",
       "title": "박재현 인터뷰 할 자격 없다 / 부족했다",
-      "views": 4258,
+      "views": 4350,
       "url": "https://www.youtube.com/watch?v=DrYUfx2D7hI"
     },
     {
@@ -981,7 +981,7 @@ window.DATA = {
       "date": "2026-08-27",
       "channel": "코리아리뷰",
       "title": "외국인들이 태풍 장면 보다 오열한 그 드라마 | 폭싹 속았수다 6·7화 해외 리액션",
-      "views": 16423,
+      "views": 16424,
       "url": "https://www.youtube.com/watch?v=6k4XDYz6SuI"
     },
     {
@@ -1016,14 +1016,14 @@ window.DATA = {
       "date": "2026-11-02",
       "channel": "코리아리뷰",
       "title": "[해외반응] 3명을 살려낸 뒤, 수술실 문이 닫혔다 | 중증외상센터 5·6화",
-      "views": 54,
+      "views": 68,
       "url": "https://www.youtube.com/watch?v=JLyQj_vvKrc"
     },
     {
       "date": "2026-10-30",
       "channel": "코리아리뷰",
       "title": "환자를 살렸는데 병원에서 돌아온 뜻밖의 말 | 중증외상센터 3·4화",
-      "views": 178,
+      "views": 180,
       "url": "https://www.youtube.com/watch?v=eubUK5rp8WE"
     },
     {
