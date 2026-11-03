@@ -8,7 +8,7 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 42200,
       "sampled": 20,
-      "avg_views": 67039,
+      "avg_views": 67040,
       "median_views": 9135,
       "uploads_30d": 0,
       "views_30d": 0,
@@ -16,7 +16,7 @@ window.DATA = {
       "top_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 1104241,
+          "views": 1104260,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "알고보니 태권도 유단자였던 반전 스타 TOP7 (1위는 국가대표 출신)",
-          "views": 21162,
+          "views": 21163,
           "date": "2026-09-15",
           "duration": 84,
           "url": "https://www.youtube.com/watch?v=q-TLesWMUW4"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 1104241,
+          "views": 1104260,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
         }
       ],
-      "analyzed_at": "2026-11-03 20:38",
+      "analyzed_at": "2026-11-03 21:42",
       "subs_delta": 0
     },
     {
@@ -131,36 +131,36 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 9340,
       "sampled": 20,
-      "avg_views": 5679,
+      "avg_views": 5734,
       "median_views": 3293,
       "uploads_30d": 20,
-      "views_30d": 113584,
+      "views_30d": 114689,
       "shorts_ratio": 0.15,
       "top_videos": [
         {
           "title": "거포의 작은 표적 / 100만 원의 도전",
-          "views": 21501,
+          "views": 21510,
           "date": "2026-10-28",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=YuCVZGiGdRk"
         },
         {
           "title": "이승엽도 6번 못 넘었다 / KBO 홈런왕 최다 TOP7",
-          "views": 20837,
+          "views": 20838,
           "date": "2026-10-28",
           "duration": 112,
           "url": "https://www.youtube.com/watch?v=WRydGMdmM8Y"
         },
         {
           "title": "양준혁도 못 넘었다 / KBO 연속 시즌 100안타 TOP7",
-          "views": 11894,
+          "views": 11903,
           "date": "2026-10-31",
           "duration": 95,
           "url": "https://www.youtube.com/watch?v=jCw6GPYeGsY"
         },
         {
           "title": "이종범도 못 넘었다 / KBO 도루왕 최다 TOP7",
-          "views": 8023,
+          "views": 8022,
           "date": "2026-10-30",
           "duration": 95,
           "url": "https://www.youtube.com/watch?v=wZm_0C3GW4U"
@@ -176,21 +176,21 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "야구 역대급 빠던 TOP4",
-          "views": 460,
+          "views": 1188,
           "date": "2026-11-03",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=I8suJ6IP5Dk"
         },
         {
           "title": "레전드 TOP4 / 마지막 타석",
-          "views": 1958,
+          "views": 2251,
           "date": "2026-11-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=rxzLnLa4G04"
         },
         {
           "title": "김광현도 못 넘었다 한국시리즈 통산 탈삼진 TOP5",
-          "views": 1585,
+          "views": 1587,
           "date": "2026-11-03",
           "duration": 83,
           "url": "https://www.youtube.com/watch?v=pYs6GoBwy-w"
@@ -225,14 +225,14 @@ window.DATA = {
         },
         {
           "title": "정수빈도 못 넘었다 KBO 통산 3루타 TOP7",
-          "views": 2496,
+          "views": 2500,
           "date": "2026-11-01",
           "duration": 87,
           "url": "https://www.youtube.com/watch?v=Uu97ZpyM5Cs"
         },
         {
           "title": "류현진도 못 넘었다  KBO 연속 시즌 10승 TOP5",
-          "views": 6189,
+          "views": 6249,
           "date": "2026-11-01",
           "duration": 76,
           "url": "https://www.youtube.com/watch?v=sLDHyWStbDg"
@@ -245,19 +245,19 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=G-VSW-Q-ZZ8"
         }
       ],
-      "analyzed_at": "2026-11-03 20:39",
+      "analyzed_at": "2026-11-03 21:44",
       "subs_delta": 0
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
       "name": "뷰포인트",
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
-      "subscribers": 3420,
+      "subscribers": 3430,
       "sampled": 20,
-      "avg_views": 14428,
-      "median_views": 4764,
+      "avg_views": 14492,
+      "median_views": 4793,
       "uploads_30d": 20,
-      "views_30d": 288566,
+      "views_30d": 289847,
       "shorts_ratio": 0.9,
       "top_videos": [
         {
@@ -276,14 +276,14 @@ window.DATA = {
         },
         {
           "title": "18이닝 무실점 중이던 애쉬비 / 그런데 마운드에 다시 안 올라온 이유",
-          "views": 19196,
+          "views": 19189,
           "date": "2026-10-28",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=Voohaq4AEJs"
         },
         {
           "title": "야구 역대급 비거리 홈런 TOP4",
-          "views": 15571,
+          "views": 15591,
           "date": "2026-10-25",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=cNYq6XGh6bU"
@@ -299,28 +299,28 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "야구 역대급 희귀한 장면 TOP4",
-          "views": 461,
+          "views": 1523,
           "date": "2026-11-03",
           "duration": 23,
           "url": "https://www.youtube.com/watch?v=zakm54jjJ5s"
         },
         {
           "title": "아.. 눈물나네 최정 500홈런",
-          "views": 1121,
+          "views": 1193,
           "date": "2026-11-03",
           "duration": 72,
           "url": "https://www.youtube.com/watch?v=B7rZSv5vljs"
         },
         {
           "title": "야구 역대급 토스 플레이 TOP4",
-          "views": 1455,
+          "views": 1457,
           "date": "2026-11-03",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=TqgOE7B6FS0"
         },
         {
           "title": "야구 역대급 슬라이딩  TOP4",
-          "views": 3294,
+          "views": 3333,
           "date": "2026-11-02",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=OOCF4HlmSJY"
@@ -341,21 +341,21 @@ window.DATA = {
         },
         {
           "title": "야구 역대급 야수 등판 TOP4",
-          "views": 5790,
+          "views": 5848,
           "date": "2026-11-01",
           "duration": 29,
           "url": "https://www.youtube.com/watch?v=uYeEUw_EjSg"
         },
         {
           "title": "1년전 / 오늘",
-          "views": 2556,
+          "views": 2580,
           "date": "2026-11-01",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=INqwAjTAqeY"
         },
         {
           "title": "???: 김도영 / 별거 없네",
-          "views": 11207,
+          "views": 11215,
           "date": "2026-11-01",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=5s645b06gNc"
@@ -368,8 +368,8 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=qxdipB9xGLU"
         }
       ],
-      "analyzed_at": "2026-11-03 20:40",
-      "subs_delta": 0
+      "analyzed_at": "2026-11-03 21:45",
+      "subs_delta": 10
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 3010,
       "sampled": 20,
-      "avg_views": 4632,
+      "avg_views": 4688,
       "median_views": 2838,
       "uploads_30d": 20,
-      "views_30d": 92640,
+      "views_30d": 93769,
       "shorts_ratio": 0.7,
       "top_videos": [
         {
           "title": "2,000안타까지 / 남은 건 2개",
-          "views": 29721,
+          "views": 29735,
           "date": "2026-10-30",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=bcl-JsWeXNk"
@@ -399,14 +399,14 @@ window.DATA = {
         },
         {
           "title": "은퇴 앞둔 대타 연패를 끝내다",
-          "views": 7621,
+          "views": 7634,
           "date": "2026-10-31",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=QMqU_7eVTMA"
         },
         {
           "title": "박재현 인터뷰 할 자격 없다 / 부족했다",
-          "views": 4633,
+          "views": 4640,
           "date": "2026-11-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=DrYUfx2D7hI"
@@ -422,28 +422,28 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "야구 역대급 번트 TOP4",
-          "views": 374,
+          "views": 998,
           "date": "2026-11-03",
           "duration": 24,
           "url": "https://www.youtube.com/watch?v=ML8_FcU_cA0"
         },
         {
           "title": "야구 예능 출신 프로 명장면 TOP4",
-          "views": 1557,
+          "views": 1770,
           "date": "2026-11-03",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=QOdVohPhmhQ"
         },
         {
           "title": "야구 역대급 역전 만루홈런 TOP4",
-          "views": 3594,
+          "views": 3765,
           "date": "2026-11-03",
           "duration": 28,
           "url": "https://www.youtube.com/watch?v=xTiCkQPfuZ8"
         },
         {
           "title": "야구 역대급 데뷔 첫 홈런 TOP4",
-          "views": 1889,
+          "views": 1972,
           "date": "2026-11-02",
           "duration": 20,
           "url": "https://www.youtube.com/watch?v=agX6IKGDJo8"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "박재현 인터뷰 할 자격 없다 / 부족했다",
-          "views": 4633,
+          "views": 4640,
           "date": "2026-11-01",
           "duration": 25,
           "url": "https://www.youtube.com/watch?v=DrYUfx2D7hI"
@@ -478,7 +478,7 @@ window.DATA = {
         },
         {
           "title": "은퇴 앞둔 대타 연패를 끝내다",
-          "views": 7621,
+          "views": 7634,
           "date": "2026-10-31",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=QMqU_7eVTMA"
@@ -491,7 +491,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=yh9neneGBck"
         }
       ],
-      "analyzed_at": "2026-11-03 20:41",
+      "analyzed_at": "2026-11-03 21:46",
       "subs_delta": 0
     },
     {
@@ -500,10 +500,10 @@ window.DATA = {
       "channel_id": "UChq2TqKlpNlWpHpDRMwyCeQ",
       "subscribers": 95,
       "sampled": 20,
-      "avg_views": 2625,
-      "median_views": 1388,
+      "avg_views": 2494,
+      "median_views": 1256,
       "uploads_30d": 8,
-      "views_30d": 12081,
+      "views_30d": 12095,
       "shorts_ratio": 0.0,
       "top_videos": [
         {
@@ -545,14 +545,14 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "의사를 막아선 병원, 다음 호출은 전쟁터였다 | 중증외상센터 7·8화",
-          "views": 0,
+          "views": 2,
           "date": "2026-11-03",
           "duration": 2642,
           "url": "https://www.youtube.com/watch?v=-8lRYQLolS0"
         },
         {
           "title": "[해외반응] 3명을 살려낸 뒤, 수술실 문이 닫혔다 | 중증외상센터 5·6화",
-          "views": 112,
+          "views": 124,
           "date": "2026-11-02",
           "duration": 2189,
           "url": "https://www.youtube.com/watch?v=JLyQj_vvKrc"
@@ -601,7 +601,7 @@ window.DATA = {
         },
         {
           "title": "공유·김고은 '도깨비' 1·2화를 처음 본 외국인 리액터들… '가슴에 박힌 검'의 정체에 결국 벌어진 일",
-          "views": 300,
+          "views": 299,
           "date": "2026-09-29",
           "duration": 2414,
           "url": "https://www.youtube.com/watch?v=8JEuFMLFNZI"
@@ -614,17 +614,17 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=3K6Kg3C8FsQ"
         }
       ],
-      "analyzed_at": "2026-11-03 20:42",
+      "analyzed_at": "2026-11-03 21:47",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-11-03 20:38",
+  "generated_at": "2026-11-03 21:42",
   "videos": [
     {
       "date": "2026-09-29",
       "channel": "숏츠시작",
       "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-      "views": 1104241,
+      "views": 1104260,
       "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
     },
     {
@@ -638,7 +638,7 @@ window.DATA = {
       "date": "2026-09-15",
       "channel": "숏츠시작",
       "title": "알고보니 태권도 유단자였던 반전 스타 TOP7 (1위는 국가대표 출신)",
-      "views": 21162,
+      "views": 21163,
       "url": "https://www.youtube.com/watch?v=q-TLesWMUW4"
     },
     {
@@ -715,28 +715,28 @@ window.DATA = {
       "date": "2026-10-28",
       "channel": "이슈브리핑",
       "title": "거포의 작은 표적 / 100만 원의 도전",
-      "views": 21501,
+      "views": 21510,
       "url": "https://www.youtube.com/watch?v=YuCVZGiGdRk"
     },
     {
       "date": "2026-10-28",
       "channel": "이슈브리핑",
       "title": "이승엽도 6번 못 넘었다 / KBO 홈런왕 최다 TOP7",
-      "views": 20837,
+      "views": 20838,
       "url": "https://www.youtube.com/watch?v=WRydGMdmM8Y"
     },
     {
       "date": "2026-10-31",
       "channel": "이슈브리핑",
       "title": "양준혁도 못 넘었다 / KBO 연속 시즌 100안타 TOP7",
-      "views": 11894,
+      "views": 11903,
       "url": "https://www.youtube.com/watch?v=jCw6GPYeGsY"
     },
     {
       "date": "2026-10-30",
       "channel": "이슈브리핑",
       "title": "이종범도 못 넘었다 / KBO 도루왕 최다 TOP7",
-      "views": 8023,
+      "views": 8022,
       "url": "https://www.youtube.com/watch?v=wZm_0C3GW4U"
     },
     {
@@ -750,21 +750,21 @@ window.DATA = {
       "date": "2026-11-03",
       "channel": "이슈브리핑",
       "title": "야구 역대급 빠던 TOP4",
-      "views": 460,
+      "views": 1188,
       "url": "https://www.youtube.com/watch?v=I8suJ6IP5Dk"
     },
     {
       "date": "2026-11-03",
       "channel": "이슈브리핑",
       "title": "레전드 TOP4 / 마지막 타석",
-      "views": 1958,
+      "views": 2251,
       "url": "https://www.youtube.com/watch?v=rxzLnLa4G04"
     },
     {
       "date": "2026-11-03",
       "channel": "이슈브리핑",
       "title": "김광현도 못 넘었다 한국시리즈 통산 탈삼진 TOP5",
-      "views": 1585,
+      "views": 1587,
       "url": "https://www.youtube.com/watch?v=pYs6GoBwy-w"
     },
     {
@@ -799,14 +799,14 @@ window.DATA = {
       "date": "2026-11-01",
       "channel": "이슈브리핑",
       "title": "정수빈도 못 넘었다 KBO 통산 3루타 TOP7",
-      "views": 2496,
+      "views": 2500,
       "url": "https://www.youtube.com/watch?v=Uu97ZpyM5Cs"
     },
     {
       "date": "2026-11-01",
       "channel": "이슈브리핑",
       "title": "류현진도 못 넘었다  KBO 연속 시즌 10승 TOP5",
-      "views": 6189,
+      "views": 6249,
       "url": "https://www.youtube.com/watch?v=sLDHyWStbDg"
     },
     {
@@ -834,14 +834,14 @@ window.DATA = {
       "date": "2026-10-28",
       "channel": "뷰포인트",
       "title": "18이닝 무실점 중이던 애쉬비 / 그런데 마운드에 다시 안 올라온 이유",
-      "views": 19196,
+      "views": 19189,
       "url": "https://www.youtube.com/watch?v=Voohaq4AEJs"
     },
     {
       "date": "2026-10-25",
       "channel": "뷰포인트",
       "title": "야구 역대급 비거리 홈런 TOP4",
-      "views": 15571,
+      "views": 15591,
       "url": "https://www.youtube.com/watch?v=cNYq6XGh6bU"
     },
     {
@@ -855,28 +855,28 @@ window.DATA = {
       "date": "2026-11-03",
       "channel": "뷰포인트",
       "title": "야구 역대급 희귀한 장면 TOP4",
-      "views": 461,
+      "views": 1523,
       "url": "https://www.youtube.com/watch?v=zakm54jjJ5s"
     },
     {
       "date": "2026-11-03",
       "channel": "뷰포인트",
       "title": "아.. 눈물나네 최정 500홈런",
-      "views": 1121,
+      "views": 1193,
       "url": "https://www.youtube.com/watch?v=B7rZSv5vljs"
     },
     {
       "date": "2026-11-03",
       "channel": "뷰포인트",
       "title": "야구 역대급 토스 플레이 TOP4",
-      "views": 1455,
+      "views": 1457,
       "url": "https://www.youtube.com/watch?v=TqgOE7B6FS0"
     },
     {
       "date": "2026-11-02",
       "channel": "뷰포인트",
       "title": "야구 역대급 슬라이딩  TOP4",
-      "views": 3294,
+      "views": 3333,
       "url": "https://www.youtube.com/watch?v=OOCF4HlmSJY"
     },
     {
@@ -897,21 +897,21 @@ window.DATA = {
       "date": "2026-11-01",
       "channel": "뷰포인트",
       "title": "야구 역대급 야수 등판 TOP4",
-      "views": 5790,
+      "views": 5848,
       "url": "https://www.youtube.com/watch?v=uYeEUw_EjSg"
     },
     {
       "date": "2026-11-01",
       "channel": "뷰포인트",
       "title": "1년전 / 오늘",
-      "views": 2556,
+      "views": 2580,
       "url": "https://www.youtube.com/watch?v=INqwAjTAqeY"
     },
     {
       "date": "2026-11-01",
       "channel": "뷰포인트",
       "title": "???: 김도영 / 별거 없네",
-      "views": 11207,
+      "views": 11215,
       "url": "https://www.youtube.com/watch?v=5s645b06gNc"
     },
     {
@@ -925,7 +925,7 @@ window.DATA = {
       "date": "2026-10-30",
       "channel": "해외반응픽",
       "title": "2,000안타까지 / 남은 건 2개",
-      "views": 29721,
+      "views": 29735,
       "url": "https://www.youtube.com/watch?v=bcl-JsWeXNk"
     },
     {
@@ -939,14 +939,14 @@ window.DATA = {
       "date": "2026-10-31",
       "channel": "해외반응픽",
       "title": "은퇴 앞둔 대타 연패를 끝내다",
-      "views": 7621,
+      "views": 7634,
       "url": "https://www.youtube.com/watch?v=QMqU_7eVTMA"
     },
     {
       "date": "2026-11-01",
       "channel": "해외반응픽",
       "title": "박재현 인터뷰 할 자격 없다 / 부족했다",
-      "views": 4633,
+      "views": 4640,
       "url": "https://www.youtube.com/watch?v=DrYUfx2D7hI"
     },
     {
@@ -960,28 +960,28 @@ window.DATA = {
       "date": "2026-11-03",
       "channel": "해외반응픽",
       "title": "야구 역대급 번트 TOP4",
-      "views": 374,
+      "views": 998,
       "url": "https://www.youtube.com/watch?v=ML8_FcU_cA0"
     },
     {
       "date": "2026-11-03",
       "channel": "해외반응픽",
       "title": "야구 예능 출신 프로 명장면 TOP4",
-      "views": 1557,
+      "views": 1770,
       "url": "https://www.youtube.com/watch?v=QOdVohPhmhQ"
     },
     {
       "date": "2026-11-03",
       "channel": "해외반응픽",
       "title": "야구 역대급 역전 만루홈런 TOP4",
-      "views": 3594,
+      "views": 3765,
       "url": "https://www.youtube.com/watch?v=xTiCkQPfuZ8"
     },
     {
       "date": "2026-11-02",
       "channel": "해외반응픽",
       "title": "야구 역대급 데뷔 첫 홈런 TOP4",
-      "views": 1889,
+      "views": 1972,
       "url": "https://www.youtube.com/watch?v=agX6IKGDJo8"
     },
     {
@@ -1037,14 +1037,14 @@ window.DATA = {
       "date": "2026-11-03",
       "channel": "코리아리뷰",
       "title": "의사를 막아선 병원, 다음 호출은 전쟁터였다 | 중증외상센터 7·8화",
-      "views": 0,
+      "views": 2,
       "url": "https://www.youtube.com/watch?v=-8lRYQLolS0"
     },
     {
       "date": "2026-11-02",
       "channel": "코리아리뷰",
       "title": "[해외반응] 3명을 살려낸 뒤, 수술실 문이 닫혔다 | 중증외상센터 5·6화",
-      "views": 112,
+      "views": 124,
       "url": "https://www.youtube.com/watch?v=JLyQj_vvKrc"
     },
     {
@@ -1086,7 +1086,7 @@ window.DATA = {
       "date": "2026-09-29",
       "channel": "코리아리뷰",
       "title": "공유·김고은 '도깨비' 1·2화를 처음 본 외국인 리액터들… '가슴에 박힌 검'의 정체에 결국 벌어진 일",
-      "views": 300,
+      "views": 299,
       "url": "https://www.youtube.com/watch?v=8JEuFMLFNZI"
     },
     {
