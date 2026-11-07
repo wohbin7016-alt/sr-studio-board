@@ -492,7 +492,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-11-07 23:45",
-      "subs_delta": 10
+      "subs_delta": 0
     }
   ],
   "generated_at": "2026-11-07 23:42",
