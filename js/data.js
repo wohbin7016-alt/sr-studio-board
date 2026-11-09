@@ -8,7 +8,7 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 42200,
       "sampled": 20,
-      "avg_views": 67089,
+      "avg_views": 67090,
       "median_views": 9137,
       "uploads_30d": 0,
       "views_30d": 0,
@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "알고보니 태권도 유단자였던 반전 스타 TOP7 (1위는 국가대표 출신)",
-          "views": 21188,
+          "views": 21190,
           "date": "2026-09-15",
           "duration": 84,
           "url": "https://www.youtube.com/watch?v=q-TLesWMUW4"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
         }
       ],
-      "analyzed_at": "2026-11-09 08:41",
+      "analyzed_at": "2026-11-09 09:44",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 9400,
       "sampled": 20,
-      "avg_views": 10457,
+      "avg_views": 10521,
       "median_views": 6169,
       "uploads_30d": 20,
-      "views_30d": 209147,
+      "views_30d": 210429,
       "shorts_ratio": 0.1,
       "top_videos": [
         {
           "title": "해태도 못 넘었다 KBO 한국시리즈 최다 진출 TOP7",
-          "views": 40493,
+          "views": 40574,
           "date": "2026-11-04",
           "duration": 87,
           "url": "https://www.youtube.com/watch?v=_P5QcCsVc_U"
@@ -153,14 +153,14 @@ window.DATA = {
         },
         {
           "title": "박용택도 못 넘었다 원클럽맨 통산 도루 TOP5",
-          "views": 28039,
+          "views": 28139,
           "date": "2026-11-06",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=-zbu9eYt_6k"
         },
         {
           "title": "김성근도 못 넘었다 / KBO 감독 통산 최다승 TOP7",
-          "views": 20001,
+          "views": 20273,
           "date": "2026-11-04",
           "duration": 90,
           "url": "https://www.youtube.com/watch?v=83uVlxttv08"
@@ -176,42 +176,42 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "양준혁도 못 넘었다 KBO 좌타자 통산 홈런 TOP7",
-          "views": 4433,
+          "views": 4808,
           "date": "2026-11-08",
           "duration": 105,
           "url": "https://www.youtube.com/watch?v=HGK25aGN1HQ"
         },
         {
           "title": "선동열도 못 넘었다 KBO 우완 통산 최다승 TOP7",
-          "views": 4409,
+          "views": 4536,
           "date": "2026-11-08",
           "duration": 85,
           "url": "https://www.youtube.com/watch?v=awZ3B15e3Ws"
         },
         {
           "title": "오승환도 못 넘었다 KBO 최연소 100세이브 TOP7",
-          "views": 8009,
+          "views": 8201,
           "date": "2026-11-08",
           "duration": 95,
           "url": "https://www.youtube.com/watch?v=fPK7E0DefQQ"
         },
         {
           "title": "송진우도 못 넘었다 KBO 최연소 100승 TOP7",
-          "views": 6582,
+          "views": 6703,
           "date": "2026-11-06",
           "duration": 95,
           "url": "https://www.youtube.com/watch?v=hfOmE7vW9KM"
         },
         {
           "title": "오승환도 못 넘었다 포스트시즌 통산 등판 TOP5",
-          "views": 2283,
+          "views": 2294,
           "date": "2026-11-06",
           "duration": 73,
           "url": "https://www.youtube.com/watch?v=bmpiZLnDVDU"
         },
         {
           "title": "박용택도 못 넘었다 원클럽맨 통산 도루 TOP5",
-          "views": 28039,
+          "views": 28139,
           "date": "2026-11-06",
           "duration": 82,
           "url": "https://www.youtube.com/watch?v=-zbu9eYt_6k"
@@ -225,14 +225,14 @@ window.DATA = {
         },
         {
           "title": "김성근도 못 넘었다 / KBO 감독 통산 최다승 TOP7",
-          "views": 20001,
+          "views": 20273,
           "date": "2026-11-04",
           "duration": 90,
           "url": "https://www.youtube.com/watch?v=83uVlxttv08"
         },
         {
           "title": "해태도 못 넘었다 KBO 한국시리즈 최다 진출 TOP7",
-          "views": 40493,
+          "views": 40574,
           "date": "2026-11-04",
           "duration": 87,
           "url": "https://www.youtube.com/watch?v=_P5QcCsVc_U"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=3XtpdzwxdhA"
         }
       ],
-      "analyzed_at": "2026-11-09 08:41",
+      "analyzed_at": "2026-11-09 09:45",
       "subs_delta": 0
     },
     {
@@ -254,10 +254,10 @@ window.DATA = {
       "channel_id": "UCsjUVH-tiKr3JkffJNa3SDA",
       "subscribers": 3430,
       "sampled": 20,
-      "avg_views": 5981,
-      "median_views": 4062,
+      "avg_views": 5999,
+      "median_views": 4130,
       "uploads_30d": 20,
-      "views_30d": 119626,
+      "views_30d": 119990,
       "shorts_ratio": 0.9,
       "top_videos": [
         {
@@ -276,7 +276,7 @@ window.DATA = {
         },
         {
           "title": "야구 역대급 슬라이딩  TOP4",
-          "views": 13312,
+          "views": 13317,
           "date": "2026-11-02",
           "duration": 19,
           "url": "https://www.youtube.com/watch?v=OOCF4HlmSJY"
@@ -290,7 +290,7 @@ window.DATA = {
         },
         {
           "title": "야구 역대급 비거리 홈런 TOP4",
-          "views": 7448,
+          "views": 7456,
           "date": "2026-11-04",
           "duration": 18,
           "url": "https://www.youtube.com/watch?v=KPH3K7Qw5ao"
@@ -299,7 +299,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "야구 역대급 빈 글러브 태그 TOP4",
-          "views": 3609,
+          "views": 3744,
           "date": "2026-11-08",
           "duration": 53,
           "url": "https://www.youtube.com/watch?v=2WK1ELlQKjE"
@@ -320,7 +320,7 @@ window.DATA = {
         },
         {
           "title": "야구 역대급 심판캠 TOP4",
-          "views": 5416,
+          "views": 5622,
           "date": "2026-11-07",
           "duration": 26,
           "url": "https://www.youtube.com/watch?v=vjYbFyIOXuQ"
@@ -334,7 +334,7 @@ window.DATA = {
         },
         {
           "title": "이율예 끝내기 홈런볼 도착지",
-          "views": 6330,
+          "views": 6335,
           "date": "2026-11-06",
           "duration": 62,
           "url": "https://www.youtube.com/watch?v=MNJ079RkQ-A"
@@ -348,7 +348,7 @@ window.DATA = {
         },
         {
           "title": "야구 역대급 견제 TOP4",
-          "views": 5598,
+          "views": 5600,
           "date": "2026-11-05",
           "duration": 21,
           "url": "https://www.youtube.com/watch?v=1ns2SFW1hgY"
@@ -368,7 +368,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=ZPP9JSnuE34"
         }
       ],
-      "analyzed_at": "2026-11-09 08:42",
+      "analyzed_at": "2026-11-09 09:46",
       "subs_delta": 0
     },
     {
@@ -377,15 +377,15 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 3050,
       "sampled": 20,
-      "avg_views": 6893,
+      "avg_views": 6907,
       "median_views": 4504,
       "uploads_30d": 20,
-      "views_30d": 137868,
+      "views_30d": 138146,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "야구 역대급 물세례 TOP4",
-          "views": 22379,
+          "views": 22455,
           "date": "2026-11-07",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=s0p0PECpyVY"
@@ -413,7 +413,7 @@ window.DATA = {
         },
         {
           "title": "야구 역대급 포효 TOP4",
-          "views": 9252,
+          "views": 9331,
           "date": "2026-11-07",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=buxinEK7TKY"
@@ -422,35 +422,35 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "야구 역대급 포효 TOP4",
-          "views": 9252,
+          "views": 9331,
           "date": "2026-11-07",
           "duration": 27,
           "url": "https://www.youtube.com/watch?v=buxinEK7TKY"
         },
         {
           "title": "역대 33호 사이클링히트  완성하는 대스틴 3루타",
-          "views": 2164,
+          "views": 2214,
           "date": "2026-11-07",
           "duration": 56,
           "url": "https://www.youtube.com/watch?v=RVMHZ_uoGUI"
         },
         {
           "title": "야구 역대급 물세례 TOP4",
-          "views": 22379,
+          "views": 22455,
           "date": "2026-11-07",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=s0p0PECpyVY"
         },
         {
           "title": "어머니 드디어 프로리그 / 첫 승을 해냈습니다",
-          "views": 1835,
+          "views": 1842,
           "date": "2026-11-06",
           "duration": 63,
           "url": "https://www.youtube.com/watch?v=_x_OiYJT-mQ"
         },
         {
           "title": "야구 역대급 우승 확정 순간 TOP4",
-          "views": 1493,
+          "views": 1496,
           "date": "2026-11-06",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=KpLt-BuvvGY"
@@ -464,7 +464,7 @@ window.DATA = {
         },
         {
           "title": "야구 역대급 황당한 끝내기 TOP4",
-          "views": 8199,
+          "views": 8260,
           "date": "2026-11-05",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=Tnet0sv8DEQ"
@@ -491,11 +491,11 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=DAEgMYGZ3jU"
         }
       ],
-      "analyzed_at": "2026-11-09 08:43",
+      "analyzed_at": "2026-11-09 09:46",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-11-09 08:41",
+  "generated_at": "2026-11-09 09:44",
   "videos": [
     {
       "date": "2026-09-29",
@@ -515,7 +515,7 @@ window.DATA = {
       "date": "2026-09-15",
       "channel": "숏츠시작",
       "title": "알고보니 태권도 유단자였던 반전 스타 TOP7 (1위는 국가대표 출신)",
-      "views": 21188,
+      "views": 21190,
       "url": "https://www.youtube.com/watch?v=q-TLesWMUW4"
     },
     {
@@ -592,7 +592,7 @@ window.DATA = {
       "date": "2026-11-04",
       "channel": "이슈브리핑",
       "title": "해태도 못 넘었다 KBO 한국시리즈 최다 진출 TOP7",
-      "views": 40493,
+      "views": 40574,
       "url": "https://www.youtube.com/watch?v=_P5QcCsVc_U"
     },
     {
@@ -606,14 +606,14 @@ window.DATA = {
       "date": "2026-11-06",
       "channel": "이슈브리핑",
       "title": "박용택도 못 넘었다 원클럽맨 통산 도루 TOP5",
-      "views": 28039,
+      "views": 28139,
       "url": "https://www.youtube.com/watch?v=-zbu9eYt_6k"
     },
     {
       "date": "2026-11-04",
       "channel": "이슈브리핑",
       "title": "김성근도 못 넘었다 / KBO 감독 통산 최다승 TOP7",
-      "views": 20001,
+      "views": 20273,
       "url": "https://www.youtube.com/watch?v=83uVlxttv08"
     },
     {
@@ -627,35 +627,35 @@ window.DATA = {
       "date": "2026-11-08",
       "channel": "이슈브리핑",
       "title": "양준혁도 못 넘었다 KBO 좌타자 통산 홈런 TOP7",
-      "views": 4433,
+      "views": 4808,
       "url": "https://www.youtube.com/watch?v=HGK25aGN1HQ"
     },
     {
       "date": "2026-11-08",
       "channel": "이슈브리핑",
       "title": "선동열도 못 넘었다 KBO 우완 통산 최다승 TOP7",
-      "views": 4409,
+      "views": 4536,
       "url": "https://www.youtube.com/watch?v=awZ3B15e3Ws"
     },
     {
       "date": "2026-11-08",
       "channel": "이슈브리핑",
       "title": "오승환도 못 넘었다 KBO 최연소 100세이브 TOP7",
-      "views": 8009,
+      "views": 8201,
       "url": "https://www.youtube.com/watch?v=fPK7E0DefQQ"
     },
     {
       "date": "2026-11-06",
       "channel": "이슈브리핑",
       "title": "송진우도 못 넘었다 KBO 최연소 100승 TOP7",
-      "views": 6582,
+      "views": 6703,
       "url": "https://www.youtube.com/watch?v=hfOmE7vW9KM"
     },
     {
       "date": "2026-11-06",
       "channel": "이슈브리핑",
       "title": "오승환도 못 넘었다 포스트시즌 통산 등판 TOP5",
-      "views": 2283,
+      "views": 2294,
       "url": "https://www.youtube.com/watch?v=bmpiZLnDVDU"
     },
     {
@@ -690,7 +690,7 @@ window.DATA = {
       "date": "2026-11-02",
       "channel": "뷰포인트",
       "title": "야구 역대급 슬라이딩  TOP4",
-      "views": 13312,
+      "views": 13317,
       "url": "https://www.youtube.com/watch?v=OOCF4HlmSJY"
     },
     {
@@ -704,14 +704,14 @@ window.DATA = {
       "date": "2026-11-04",
       "channel": "뷰포인트",
       "title": "야구 역대급 비거리 홈런 TOP4",
-      "views": 7448,
+      "views": 7456,
       "url": "https://www.youtube.com/watch?v=KPH3K7Qw5ao"
     },
     {
       "date": "2026-11-08",
       "channel": "뷰포인트",
       "title": "야구 역대급 빈 글러브 태그 TOP4",
-      "views": 3609,
+      "views": 3744,
       "url": "https://www.youtube.com/watch?v=2WK1ELlQKjE"
     },
     {
@@ -732,7 +732,7 @@ window.DATA = {
       "date": "2026-11-07",
       "channel": "뷰포인트",
       "title": "야구 역대급 심판캠 TOP4",
-      "views": 5416,
+      "views": 5622,
       "url": "https://www.youtube.com/watch?v=vjYbFyIOXuQ"
     },
     {
@@ -746,14 +746,14 @@ window.DATA = {
       "date": "2026-11-06",
       "channel": "뷰포인트",
       "title": "이율예 끝내기 홈런볼 도착지",
-      "views": 6330,
+      "views": 6335,
       "url": "https://www.youtube.com/watch?v=MNJ079RkQ-A"
     },
     {
       "date": "2026-11-05",
       "channel": "뷰포인트",
       "title": "야구 역대급 견제 TOP4",
-      "views": 5598,
+      "views": 5600,
       "url": "https://www.youtube.com/watch?v=1ns2SFW1hgY"
     },
     {
@@ -774,7 +774,7 @@ window.DATA = {
       "date": "2026-11-07",
       "channel": "해외반응픽",
       "title": "야구 역대급 물세례 TOP4",
-      "views": 22379,
+      "views": 22455,
       "url": "https://www.youtube.com/watch?v=s0p0PECpyVY"
     },
     {
@@ -802,28 +802,28 @@ window.DATA = {
       "date": "2026-11-07",
       "channel": "해외반응픽",
       "title": "야구 역대급 포효 TOP4",
-      "views": 9252,
+      "views": 9331,
       "url": "https://www.youtube.com/watch?v=buxinEK7TKY"
     },
     {
       "date": "2026-11-07",
       "channel": "해외반응픽",
       "title": "역대 33호 사이클링히트  완성하는 대스틴 3루타",
-      "views": 2164,
+      "views": 2214,
       "url": "https://www.youtube.com/watch?v=RVMHZ_uoGUI"
     },
     {
       "date": "2026-11-06",
       "channel": "해외반응픽",
       "title": "어머니 드디어 프로리그 / 첫 승을 해냈습니다",
-      "views": 1835,
+      "views": 1842,
       "url": "https://www.youtube.com/watch?v=_x_OiYJT-mQ"
     },
     {
       "date": "2026-11-06",
       "channel": "해외반응픽",
       "title": "야구 역대급 우승 확정 순간 TOP4",
-      "views": 1493,
+      "views": 1496,
       "url": "https://www.youtube.com/watch?v=KpLt-BuvvGY"
     },
     {
@@ -837,7 +837,7 @@ window.DATA = {
       "date": "2026-11-05",
       "channel": "해외반응픽",
       "title": "야구 역대급 황당한 끝내기 TOP4",
-      "views": 8199,
+      "views": 8260,
       "url": "https://www.youtube.com/watch?v=Tnet0sv8DEQ"
     },
     {
