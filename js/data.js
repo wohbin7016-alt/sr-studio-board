@@ -246,7 +246,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-11-11 23:32",
-      "subs_delta": 60
+      "subs_delta": 0
     },
     {
       "url": "https://youtube.com/@viewpoint-q9y",
@@ -385,7 +385,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-11-11 23:33",
-      "subs_delta": 20
+      "subs_delta": 0
     }
   ],
   "generated_at": "2026-11-11 23:31",
