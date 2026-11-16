@@ -8,7 +8,7 @@ window.DATA = {
       "channel_id": "UCO6p7TPmjQ1lqC0PjW9F0Ag",
       "subscribers": 42200,
       "sampled": 20,
-      "avg_views": 67107,
+      "avg_views": 67108,
       "median_views": 9146,
       "uploads_30d": 0,
       "views_30d": 0,
@@ -60,7 +60,7 @@ window.DATA = {
         },
         {
           "title": "이분이 나오면 우리 아빠였다 — 국민 아버지 역 배우 TOP7 (1위는 90세 현역 전설)",
-          "views": 10801,
+          "views": 10806,
           "date": "2026-09-22",
           "duration": 85,
           "url": "https://www.youtube.com/watch?v=0T4weAvyJ9w"
@@ -116,13 +116,13 @@ window.DATA = {
         },
         {
           "title": "안방극장 국민 엄마는 다 이 배우였다 TOP7 (1위는 반세기 대명사)",
-          "views": 8123,
+          "views": 8122,
           "date": "2026-09-16",
           "duration": 86,
           "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
         }
       ],
-      "analyzed_at": "2026-11-16 16:41",
+      "analyzed_at": "2026-11-16 17:43",
       "subs_delta": 0
     },
     {
@@ -131,43 +131,43 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 9690,
       "sampled": 20,
-      "avg_views": 7292,
-      "median_views": 3844,
+      "avg_views": 7375,
+      "median_views": 3840,
       "uploads_30d": 20,
-      "views_30d": 145840,
+      "views_30d": 147507,
       "shorts_ratio": 0.05,
       "top_videos": [
         {
           "title": "장효조도 못 넘었다 1980년대 KBO 한 시즌 최다 안타 TOP7",
-          "views": 44614,
+          "views": 44714,
           "date": "2026-11-13",
           "duration": 100,
           "url": "https://www.youtube.com/watch?v=nLfbdUWbG9I"
         },
         {
           "title": "선동열도 못 넘었다 KBO 1990년대 한 시즌 완봉 TOP4",
-          "views": 25935,
+          "views": 26155,
           "date": "2026-11-13",
           "duration": 80,
           "url": "https://www.youtube.com/watch?v=jXLwVKWlnkM"
         },
         {
           "title": "이대호도 못 넘었다 KBO 타격왕 최다 TOP3",
-          "views": 14652,
+          "views": 14891,
           "date": "2026-11-12",
           "duration": 63,
           "url": "https://www.youtube.com/watch?v=dStkawRhKPA"
         },
         {
           "title": "선동열도 못 넘었다 20세기 KBO 한 시즌 탈삼진 TOP7",
-          "views": 12256,
+          "views": 12973,
           "date": "2026-11-15",
           "duration": 91,
           "url": "https://www.youtube.com/watch?v=vspi-lUEcN0"
         },
         {
           "title": "김태균도 못 넘었다 이글스 통산 홈런 TOP7",
-          "views": 6931,
+          "views": 6945,
           "date": "2026-11-11",
           "duration": 94,
           "url": "https://www.youtube.com/watch?v=R9qV8l2hpzM"
@@ -176,35 +176,35 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "이상훈도 못 넘었다 1990년대 KBO 세이브 TOP6",
-          "views": 528,
+          "views": 845,
           "date": "2026-11-16",
           "duration": 91,
           "url": "https://www.youtube.com/watch?v=65DSwlHUZh8"
         },
         {
           "title": "정우람도 못 넘었다 KBO 2000년대 한 시즌 홀드 TOP6",
-          "views": 1156,
+          "views": 1159,
           "date": "2026-11-16",
           "duration": 71,
           "url": "https://www.youtube.com/watch?v=MLaocIbUvyk"
         },
         {
           "title": "박철순도 못 넘었다 베어스 통산 다승 TOP7",
-          "views": 1457,
+          "views": 1489,
           "date": "2026-11-15",
           "duration": 97,
           "url": "https://www.youtube.com/watch?v=ZP-uBxzCN_4"
         },
         {
           "title": "선동열도 못 넘었다 20세기 KBO 한 시즌 탈삼진 TOP7",
-          "views": 12256,
+          "views": 12973,
           "date": "2026-11-15",
           "duration": 91,
           "url": "https://www.youtube.com/watch?v=vspi-lUEcN0"
         },
         {
           "title": "김광현도 못 넘었다 KBO 2000년대 한 시즌 승률 TOP7",
-          "views": 2076,
+          "views": 2103,
           "date": "2026-11-15",
           "duration": 96,
           "url": "https://www.youtube.com/watch?v=bd9v3GB2npU"
@@ -218,7 +218,7 @@ window.DATA = {
         },
         {
           "title": "정민철도 못 넘었다 KBO 1990년대 한 시즌 탈삼진 TOP7",
-          "views": 1278,
+          "views": 1284,
           "date": "2026-11-14",
           "duration": 97,
           "url": "https://www.youtube.com/watch?v=2RD1-A7kWCw"
@@ -232,20 +232,20 @@ window.DATA = {
         },
         {
           "title": "구대성도 못 넘었다 KBO 1990년대 한 시즌 승률 TOP7",
-          "views": 3816,
+          "views": 3810,
           "date": "2026-11-13",
           "duration": 91,
           "url": "https://www.youtube.com/watch?v=Y0OVDlBN3lQ"
         },
         {
           "title": "선동열도 못 넘었다 KBO 1990년대 한 시즌 완봉 TOP4",
-          "views": 25935,
+          "views": 26155,
           "date": "2026-11-13",
           "duration": 80,
           "url": "https://www.youtube.com/watch?v=jXLwVKWlnkM"
         }
       ],
-      "analyzed_at": "2026-11-16 16:42",
+      "analyzed_at": "2026-11-16 17:44",
       "subs_delta": 10
     },
     {
@@ -261,134 +261,134 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-11-16 16:42",
+      "analyzed_at": "2026-11-16 17:44",
       "subs_delta": 0
     },
     {
       "url": "https://www.youtube.com/@해외반응픽",
       "name": "해외반응픽",
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
-      "subscribers": 3340,
+      "subscribers": 3350,
       "sampled": 15,
-      "avg_views": 47325,
-      "median_views": 41640,
+      "avg_views": 47937,
+      "median_views": 42397,
       "uploads_30d": 15,
-      "views_30d": 709889,
+      "views_30d": 719069,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "맏형이 동생들 칭찬하면 생기는 일ㅋㅋ #방탄소년단 #bts #진 When the eldest tries to compliment everyone lol #BTS #Jin",
-          "views": 103086,
+          "views": 103610,
           "date": "2026-11-11",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=0TJ-T7OJ2IU"
         },
         {
           "title": "미국 토크쇼에서 자기소개 시키자 BTS가 한 말",
-          "views": 89914,
+          "views": 91610,
           "date": "2026-11-13",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=GILqBc0g-HQ"
         },
         {
           "title": "긍정의 비결을 묻자 BTS 진이 한 대답",
-          "views": 82534,
+          "views": 82933,
           "date": "2026-11-12",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=LYThTJ9XLG8"
         },
         {
           "title": "뷔가 나 유명하구나 느낀 순간 정답이 두 글자 BTS",
-          "views": 58753,
+          "views": 58783,
           "date": "2026-11-12",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=LZVJonuQnB8"
         },
         {
-          "title": "미국 토크쇼에서 목표를 묻자 슈가가 꺼낸 한마디ㄷㄷ Asked \"What's next?\" on US TV, SUGA said one thing #BTS #SUGA",
-          "views": 47881,
-          "date": "2026-11-11",
-          "duration": 38,
-          "url": "https://www.youtube.com/watch?v=HNqGj_H_ixc"
+          "title": "슈취타 봤다던 정국이 슈가 앞에서 한 고백",
+          "views": 48442,
+          "date": "2026-11-15",
+          "duration": 40,
+          "url": "https://www.youtube.com/watch?v=byTxNkZTONs"
         }
       ],
       "recent_videos": [
         {
           "title": "자기 장점을 하나씩 묻자 BTS 멤버별 대답 차이",
-          "views": 26891,
+          "views": 27232,
           "date": "2026-11-15",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=f30rzWs34LU"
         },
         {
           "title": "네가 첫 게스트야 했다가 바로 들통난 BTS 진",
-          "views": 31547,
+          "views": 32001,
           "date": "2026-11-15",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=NmEEG7rleBQ"
         },
         {
           "title": "슈취타 봤다던 정국이 슈가 앞에서 한 고백",
-          "views": 46619,
+          "views": 48442,
           "date": "2026-11-15",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=byTxNkZTONs"
         },
         {
           "title": "평생 한 가지 음식만 먹는다면 진의 대답에 정국 반응",
-          "views": 41640,
+          "views": 42397,
           "date": "2026-11-14",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=jCAG7jcoISk"
         },
         {
           "title": "나는 과즙상이다에 O를 들면 생기는 일 BTS",
-          "views": 30771,
+          "views": 30999,
           "date": "2026-11-14",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=ziGUjtoFQ-w"
         },
         {
           "title": "RM 운전 얘기가 나오자 멤버들 반응 BTS",
-          "views": 43990,
+          "views": 46362,
           "date": "2026-11-14",
           "duration": 54,
           "url": "https://www.youtube.com/watch?v=RZoZXXduF18"
         },
         {
           "title": "미국 토크쇼에서 자기소개 시키자 BTS가 한 말",
-          "views": 89914,
+          "views": 91610,
           "date": "2026-11-13",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=GILqBc0g-HQ"
         },
         {
           "title": "편하게 질문하라고 하면 BTS 슈가에게 생기는 일",
-          "views": 32653,
+          "views": 32733,
           "date": "2026-11-13",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=ATfe02TVqv0"
         },
         {
           "title": "PC방 전원이 꺼졌을 때 BTS 멤버별 반응 차이ㅋㅋ #방탄소년단 #bts The PC bang power goes out: how each BTS member reacts",
-          "views": 36948,
+          "views": 36995,
           "date": "2026-11-13",
           "duration": 46,
           "url": "https://www.youtube.com/watch?v=-YKueo5R0KI"
         },
         {
           "title": "아이유를 처음 만난 제이홉이 부른 호칭 BTS",
-          "views": 10049,
+          "views": 10090,
           "date": "2026-11-12",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=u9gUxyVV4sw"
         }
       ],
-      "analyzed_at": "2026-11-16 16:42",
-      "subs_delta": 50
+      "analyzed_at": "2026-11-16 17:45",
+      "subs_delta": 60
     }
   ],
-  "generated_at": "2026-11-16 16:41",
+  "generated_at": "2026-11-16 17:43",
   "videos": [
     {
       "date": "2026-09-29",
@@ -429,7 +429,7 @@ window.DATA = {
       "date": "2026-09-22",
       "channel": "숏츠시작",
       "title": "이분이 나오면 우리 아빠였다 — 국민 아버지 역 배우 TOP7 (1위는 90세 현역 전설)",
-      "views": 10801,
+      "views": 10806,
       "url": "https://www.youtube.com/watch?v=0T4weAvyJ9w"
     },
     {
@@ -478,70 +478,70 @@ window.DATA = {
       "date": "2026-09-16",
       "channel": "숏츠시작",
       "title": "안방극장 국민 엄마는 다 이 배우였다 TOP7 (1위는 반세기 대명사)",
-      "views": 8123,
+      "views": 8122,
       "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
     },
     {
       "date": "2026-11-13",
       "channel": "이슈브리핑",
       "title": "장효조도 못 넘었다 1980년대 KBO 한 시즌 최다 안타 TOP7",
-      "views": 44614,
+      "views": 44714,
       "url": "https://www.youtube.com/watch?v=nLfbdUWbG9I"
     },
     {
       "date": "2026-11-13",
       "channel": "이슈브리핑",
       "title": "선동열도 못 넘었다 KBO 1990년대 한 시즌 완봉 TOP4",
-      "views": 25935,
+      "views": 26155,
       "url": "https://www.youtube.com/watch?v=jXLwVKWlnkM"
     },
     {
       "date": "2026-11-12",
       "channel": "이슈브리핑",
       "title": "이대호도 못 넘었다 KBO 타격왕 최다 TOP3",
-      "views": 14652,
+      "views": 14891,
       "url": "https://www.youtube.com/watch?v=dStkawRhKPA"
     },
     {
       "date": "2026-11-15",
       "channel": "이슈브리핑",
       "title": "선동열도 못 넘었다 20세기 KBO 한 시즌 탈삼진 TOP7",
-      "views": 12256,
+      "views": 12973,
       "url": "https://www.youtube.com/watch?v=vspi-lUEcN0"
     },
     {
       "date": "2026-11-11",
       "channel": "이슈브리핑",
       "title": "김태균도 못 넘었다 이글스 통산 홈런 TOP7",
-      "views": 6931,
+      "views": 6945,
       "url": "https://www.youtube.com/watch?v=R9qV8l2hpzM"
     },
     {
       "date": "2026-11-16",
       "channel": "이슈브리핑",
       "title": "이상훈도 못 넘었다 1990년대 KBO 세이브 TOP6",
-      "views": 528,
+      "views": 845,
       "url": "https://www.youtube.com/watch?v=65DSwlHUZh8"
     },
     {
       "date": "2026-11-16",
       "channel": "이슈브리핑",
       "title": "정우람도 못 넘었다 KBO 2000년대 한 시즌 홀드 TOP6",
-      "views": 1156,
+      "views": 1159,
       "url": "https://www.youtube.com/watch?v=MLaocIbUvyk"
     },
     {
       "date": "2026-11-15",
       "channel": "이슈브리핑",
       "title": "박철순도 못 넘었다 베어스 통산 다승 TOP7",
-      "views": 1457,
+      "views": 1489,
       "url": "https://www.youtube.com/watch?v=ZP-uBxzCN_4"
     },
     {
       "date": "2026-11-15",
       "channel": "이슈브리핑",
       "title": "김광현도 못 넘었다 KBO 2000년대 한 시즌 승률 TOP7",
-      "views": 2076,
+      "views": 2103,
       "url": "https://www.youtube.com/watch?v=bd9v3GB2npU"
     },
     {
@@ -555,7 +555,7 @@ window.DATA = {
       "date": "2026-11-14",
       "channel": "이슈브리핑",
       "title": "정민철도 못 넘었다 KBO 1990년대 한 시즌 탈삼진 TOP7",
-      "views": 1278,
+      "views": 1284,
       "url": "https://www.youtube.com/watch?v=2RD1-A7kWCw"
     },
     {
@@ -569,105 +569,98 @@ window.DATA = {
       "date": "2026-11-13",
       "channel": "이슈브리핑",
       "title": "구대성도 못 넘었다 KBO 1990년대 한 시즌 승률 TOP7",
-      "views": 3816,
+      "views": 3810,
       "url": "https://www.youtube.com/watch?v=Y0OVDlBN3lQ"
     },
     {
       "date": "2026-11-11",
       "channel": "해외반응픽",
       "title": "맏형이 동생들 칭찬하면 생기는 일ㅋㅋ #방탄소년단 #bts #진 When the eldest tries to compliment everyone lol #BTS #Jin",
-      "views": 103086,
+      "views": 103610,
       "url": "https://www.youtube.com/watch?v=0TJ-T7OJ2IU"
     },
     {
       "date": "2026-11-13",
       "channel": "해외반응픽",
       "title": "미국 토크쇼에서 자기소개 시키자 BTS가 한 말",
-      "views": 89914,
+      "views": 91610,
       "url": "https://www.youtube.com/watch?v=GILqBc0g-HQ"
     },
     {
       "date": "2026-11-12",
       "channel": "해외반응픽",
       "title": "긍정의 비결을 묻자 BTS 진이 한 대답",
-      "views": 82534,
+      "views": 82933,
       "url": "https://www.youtube.com/watch?v=LYThTJ9XLG8"
     },
     {
       "date": "2026-11-12",
       "channel": "해외반응픽",
       "title": "뷔가 나 유명하구나 느낀 순간 정답이 두 글자 BTS",
-      "views": 58753,
+      "views": 58783,
       "url": "https://www.youtube.com/watch?v=LZVJonuQnB8"
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-15",
       "channel": "해외반응픽",
-      "title": "미국 토크쇼에서 목표를 묻자 슈가가 꺼낸 한마디ㄷㄷ Asked \"What's next?\" on US TV, SUGA said one thing #BTS #SUGA",
-      "views": 47881,
-      "url": "https://www.youtube.com/watch?v=HNqGj_H_ixc"
+      "title": "슈취타 봤다던 정국이 슈가 앞에서 한 고백",
+      "views": 48442,
+      "url": "https://www.youtube.com/watch?v=byTxNkZTONs"
     },
     {
       "date": "2026-11-15",
       "channel": "해외반응픽",
       "title": "자기 장점을 하나씩 묻자 BTS 멤버별 대답 차이",
-      "views": 26891,
+      "views": 27232,
       "url": "https://www.youtube.com/watch?v=f30rzWs34LU"
     },
     {
       "date": "2026-11-15",
       "channel": "해외반응픽",
       "title": "네가 첫 게스트야 했다가 바로 들통난 BTS 진",
-      "views": 31547,
+      "views": 32001,
       "url": "https://www.youtube.com/watch?v=NmEEG7rleBQ"
-    },
-    {
-      "date": "2026-11-15",
-      "channel": "해외반응픽",
-      "title": "슈취타 봤다던 정국이 슈가 앞에서 한 고백",
-      "views": 46619,
-      "url": "https://www.youtube.com/watch?v=byTxNkZTONs"
     },
     {
       "date": "2026-11-14",
       "channel": "해외반응픽",
       "title": "평생 한 가지 음식만 먹는다면 진의 대답에 정국 반응",
-      "views": 41640,
+      "views": 42397,
       "url": "https://www.youtube.com/watch?v=jCAG7jcoISk"
     },
     {
       "date": "2026-11-14",
       "channel": "해외반응픽",
       "title": "나는 과즙상이다에 O를 들면 생기는 일 BTS",
-      "views": 30771,
+      "views": 30999,
       "url": "https://www.youtube.com/watch?v=ziGUjtoFQ-w"
     },
     {
       "date": "2026-11-14",
       "channel": "해외반응픽",
       "title": "RM 운전 얘기가 나오자 멤버들 반응 BTS",
-      "views": 43990,
+      "views": 46362,
       "url": "https://www.youtube.com/watch?v=RZoZXXduF18"
     },
     {
       "date": "2026-11-13",
       "channel": "해외반응픽",
       "title": "편하게 질문하라고 하면 BTS 슈가에게 생기는 일",
-      "views": 32653,
+      "views": 32733,
       "url": "https://www.youtube.com/watch?v=ATfe02TVqv0"
     },
     {
       "date": "2026-11-13",
       "channel": "해외반응픽",
       "title": "PC방 전원이 꺼졌을 때 BTS 멤버별 반응 차이ㅋㅋ #방탄소년단 #bts The PC bang power goes out: how each BTS member reacts",
-      "views": 36948,
+      "views": 36995,
       "url": "https://www.youtube.com/watch?v=-YKueo5R0KI"
     },
     {
       "date": "2026-11-12",
       "channel": "해외반응픽",
       "title": "아이유를 처음 만난 제이홉이 부른 호칭 BTS",
-      "views": 10049,
+      "views": 10090,
       "url": "https://www.youtube.com/watch?v=u9gUxyVV4sw"
     }
   ],
