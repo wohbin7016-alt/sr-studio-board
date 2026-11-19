@@ -30,7 +30,7 @@ window.DATA = {
         },
         {
           "title": "알고보니 태권도 유단자였던 반전 스타 TOP7 (1위는 국가대표 출신)",
-          "views": 21237,
+          "views": 21238,
           "date": "2026-09-15",
           "duration": 84,
           "url": "https://www.youtube.com/watch?v=q-TLesWMUW4"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
         }
       ],
-      "analyzed_at": "2026-11-19 16:25",
+      "analyzed_at": "2026-11-19 17:28",
       "subs_delta": 0
     },
     {
@@ -131,15 +131,15 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 9710,
       "sampled": 20,
-      "avg_views": 7513,
-      "median_views": 2162,
+      "avg_views": 7550,
+      "median_views": 2160,
       "uploads_30d": 20,
-      "views_30d": 150264,
+      "views_30d": 151015,
       "shorts_ratio": 0.15,
       "top_videos": [
         {
           "title": "장효조도 못 넘었다 1980년대 KBO 한 시즌 최다 안타 TOP7",
-          "views": 52299,
+          "views": 52337,
           "date": "2026-11-13",
           "duration": 100,
           "url": "https://www.youtube.com/watch?v=nLfbdUWbG9I"
@@ -160,7 +160,7 @@ window.DATA = {
         },
         {
           "title": "최동원도 못 넘었다 1980년대 KBO 다승 TOP7",
-          "views": 4977,
+          "views": 4979,
           "date": "2026-11-12",
           "duration": 95,
           "url": "https://www.youtube.com/watch?v=bobJOYQa_aU"
@@ -176,42 +176,42 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "말하는 족족 다 받아 적자, 리센느 멤버들의 합리적 의심ㅋㅋ #리센느 #RESCENE #리브 #메이",
-          "views": 304,
+          "views": 767,
           "date": "2026-11-19",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=xI_5r8kWbiA"
         },
         {
           "title": "추억의 강세 챌린지에 리센느 04년생 원이 반응ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 1324,
+          "views": 1485,
           "date": "2026-11-19",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=dnWHX6hHmso"
         },
         {
           "title": "부모님 깜짝 영상 편지 받고, 리센느가 눈치챈 사실ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 1421,
+          "views": 1475,
           "date": "2026-11-18",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=w5y8ddPv7pk"
         },
         {
           "title": "롯데는 로이스터시절에 왜 코시를 못갔나요?",
-          "views": 1473,
+          "views": 1494,
           "date": "2026-11-18",
           "duration": 86,
           "url": "https://www.youtube.com/watch?v=uLloXWpPOGQ"
         },
         {
           "title": "김용수도 못 넘었다 1980년대 KBO 세이브 TOP7",
-          "views": 2184,
+          "views": 2180,
           "date": "2026-11-18",
           "duration": 106,
           "url": "https://www.youtube.com/watch?v=7BmC_wj79qE"
         },
         {
           "title": "두산 베어스 하면 누가 떠오르시나요?",
-          "views": 1915,
+          "views": 1928,
           "date": "2026-11-17",
           "duration": 99,
           "url": "https://www.youtube.com/watch?v=wEHYgwiT-KA"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=MLaocIbUvyk"
         }
       ],
-      "analyzed_at": "2026-11-19 16:26",
+      "analyzed_at": "2026-11-19 17:29",
       "subs_delta": 0
     },
     {
@@ -261,7 +261,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-11-19 16:26",
+      "analyzed_at": "2026-11-19 17:29",
       "subs_delta": 0
     },
     {
@@ -270,43 +270,43 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 3600,
       "sampled": 20,
-      "avg_views": 68853,
-      "median_views": 35790,
+      "avg_views": 69527,
+      "median_views": 35766,
       "uploads_30d": 20,
-      "views_30d": 1377078,
+      "views_30d": 1390540,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "RM 운전 얘기가 나오자 멤버들 반응 BTS",
-          "views": 333895,
+          "views": 337113,
           "date": "2026-11-14",
           "duration": 54,
           "url": "https://www.youtube.com/watch?v=RZoZXXduF18"
         },
         {
           "title": "슈취타 봤다던 정국이 슈가 앞에서 한 고백",
-          "views": 213204,
+          "views": 214563,
           "date": "2026-11-15",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=byTxNkZTONs"
         },
         {
-          "title": "스무 살의 나를 만난다면 BTS 뷔가 제일 먼저 할 일ㅋㅋ #방탄소년단 #bts #뷔 #슈가",
-          "views": 146160,
-          "date": "2026-11-16",
-          "duration": 37,
-          "url": "https://www.youtube.com/watch?v=Ule8hnzOAqI"
-        },
-        {
           "title": "후배들이 반말로 인사하자 BTS 진의 반응ㅋㅋ #방탄소년단 #bts #진 #투모로우바이투게더",
-          "views": 145243,
+          "views": 147259,
           "date": "2026-11-16",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=_qrgjJRc4qM"
         },
         {
+          "title": "스무 살의 나를 만난다면 BTS 뷔가 제일 먼저 할 일ㅋㅋ #방탄소년단 #bts #뷔 #슈가",
+          "views": 146761,
+          "date": "2026-11-16",
+          "duration": 37,
+          "url": "https://www.youtube.com/watch?v=Ule8hnzOAqI"
+        },
+        {
           "title": "미국 토크쇼에서 자기소개 시키자 BTS가 한 말",
-          "views": 139836,
+          "views": 140052,
           "date": "2026-11-13",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=GILqBc0g-HQ"
@@ -315,80 +315,80 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "샤워할 때 뭐 듣냐고 묻자 BTS 멤버별 대답 차이ㅋㅋ #방탄소년단 #bts #정국 #진",
-          "views": 376,
+          "views": 1170,
           "date": "2026-11-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=Lg9ohskVO9g"
         },
         {
           "title": "편안하게 생겼다는 칭찬에 BTS 진이 한 대답ㅋㅋ #방탄소년단 #bts #진 #이영지",
-          "views": 5317,
+          "views": 6843,
           "date": "2026-11-19",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=82602uBMM-8"
         },
         {
           "title": "전역 특집으로 좀비 촬영한 BTS 제이홉의 소감ㅋㅋ #방탄소년단 #bts #제이홉 #진",
-          "views": 2251,
+          "views": 2517,
           "date": "2026-11-18",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=0CD2peZd1hA"
         },
         {
           "title": "BTS 진 근황을 묻자 지민이 한 대답ㅋㅋ #방탄소년단 #bts #지민 #진 #슈가",
-          "views": 22852,
+          "views": 25203,
           "date": "2026-11-18",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=o8YZNmYand8"
         },
         {
           "title": "플라잉 요가 하랬더니 결제부터 한 BTS 뷔ㅋㅋ #방탄소년단 #bts #뷔 #지민",
-          "views": 4906,
+          "views": 5093,
           "date": "2026-11-18",
           "duration": 30,
           "url": "https://www.youtube.com/watch?v=bouypQyK3Q8"
         },
         {
           "title": "근육 키워서 전역했더니 BTS 멤버들이 한 말ㅋㅋ #방탄소년단 #bts #뷔 #태형",
-          "views": 25634,
+          "views": 25739,
           "date": "2026-11-17",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=pEe6kisNaEM"
         },
         {
           "title": "가장 더러운 룸메이트를 묻자 BTS 멤버들 폭로전ㅋㅋ #방탄소년단 #bts #RM #뷔",
-          "views": 32784,
+          "views": 32902,
           "date": "2026-11-17",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=SGaxZNrhKA0"
         },
         {
           "title": "식혜 밥알 토론에 BTS 7명이 소환된 이유ㅋㅋ #방탄소년단 #bts #달려라방탄",
-          "views": 24305,
+          "views": 24836,
           "date": "2026-11-17",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=Gq455NJp_Ck"
         },
         {
           "title": "후배들이 반말로 인사하자 BTS 진의 반응ㅋㅋ #방탄소년단 #bts #진 #투모로우바이투게더",
-          "views": 145243,
+          "views": 147259,
           "date": "2026-11-16",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=_qrgjJRc4qM"
         },
         {
           "title": "스무 살의 나를 만난다면 BTS 뷔가 제일 먼저 할 일ㅋㅋ #방탄소년단 #bts #뷔 #슈가",
-          "views": 146160,
+          "views": 146761,
           "date": "2026-11-16",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=Ule8hnzOAqI"
         }
       ],
-      "analyzed_at": "2026-11-19 16:26",
+      "analyzed_at": "2026-11-19 17:29",
       "subs_delta": 40
     }
   ],
-  "generated_at": "2026-11-19 16:25",
+  "generated_at": "2026-11-19 17:28",
   "videos": [
     {
       "date": "2026-09-29",
@@ -408,7 +408,7 @@ window.DATA = {
       "date": "2026-09-15",
       "channel": "숏츠시작",
       "title": "알고보니 태권도 유단자였던 반전 스타 TOP7 (1위는 국가대표 출신)",
-      "views": 21237,
+      "views": 21238,
       "url": "https://www.youtube.com/watch?v=q-TLesWMUW4"
     },
     {
@@ -485,7 +485,7 @@ window.DATA = {
       "date": "2026-11-13",
       "channel": "이슈브리핑",
       "title": "장효조도 못 넘었다 1980년대 KBO 한 시즌 최다 안타 TOP7",
-      "views": 52299,
+      "views": 52337,
       "url": "https://www.youtube.com/watch?v=nLfbdUWbG9I"
     },
     {
@@ -506,7 +506,7 @@ window.DATA = {
       "date": "2026-11-12",
       "channel": "이슈브리핑",
       "title": "최동원도 못 넘었다 1980년대 KBO 다승 TOP7",
-      "views": 4977,
+      "views": 4979,
       "url": "https://www.youtube.com/watch?v=bobJOYQa_aU"
     },
     {
@@ -520,42 +520,42 @@ window.DATA = {
       "date": "2026-11-19",
       "channel": "이슈브리핑",
       "title": "말하는 족족 다 받아 적자, 리센느 멤버들의 합리적 의심ㅋㅋ #리센느 #RESCENE #리브 #메이",
-      "views": 304,
+      "views": 767,
       "url": "https://www.youtube.com/watch?v=xI_5r8kWbiA"
     },
     {
       "date": "2026-11-19",
       "channel": "이슈브리핑",
       "title": "추억의 강세 챌린지에 리센느 04년생 원이 반응ㅋㅋ #리센느 #RESCENE #리마인",
-      "views": 1324,
+      "views": 1485,
       "url": "https://www.youtube.com/watch?v=dnWHX6hHmso"
     },
     {
       "date": "2026-11-18",
       "channel": "이슈브리핑",
       "title": "부모님 깜짝 영상 편지 받고, 리센느가 눈치챈 사실ㅋㅋ #리센느 #RESCENE #리마인",
-      "views": 1421,
+      "views": 1475,
       "url": "https://www.youtube.com/watch?v=w5y8ddPv7pk"
     },
     {
       "date": "2026-11-18",
       "channel": "이슈브리핑",
       "title": "롯데는 로이스터시절에 왜 코시를 못갔나요?",
-      "views": 1473,
+      "views": 1494,
       "url": "https://www.youtube.com/watch?v=uLloXWpPOGQ"
     },
     {
       "date": "2026-11-18",
       "channel": "이슈브리핑",
       "title": "김용수도 못 넘었다 1980년대 KBO 세이브 TOP7",
-      "views": 2184,
+      "views": 2180,
       "url": "https://www.youtube.com/watch?v=7BmC_wj79qE"
     },
     {
       "date": "2026-11-17",
       "channel": "이슈브리핑",
       "title": "두산 베어스 하면 누가 떠오르시나요?",
-      "views": 1915,
+      "views": 1928,
       "url": "https://www.youtube.com/watch?v=wEHYgwiT-KA"
     },
     {
@@ -590,91 +590,91 @@ window.DATA = {
       "date": "2026-11-14",
       "channel": "해외반응픽",
       "title": "RM 운전 얘기가 나오자 멤버들 반응 BTS",
-      "views": 333895,
+      "views": 337113,
       "url": "https://www.youtube.com/watch?v=RZoZXXduF18"
     },
     {
       "date": "2026-11-15",
       "channel": "해외반응픽",
       "title": "슈취타 봤다던 정국이 슈가 앞에서 한 고백",
-      "views": 213204,
+      "views": 214563,
       "url": "https://www.youtube.com/watch?v=byTxNkZTONs"
     },
     {
       "date": "2026-11-16",
       "channel": "해외반응픽",
-      "title": "스무 살의 나를 만난다면 BTS 뷔가 제일 먼저 할 일ㅋㅋ #방탄소년단 #bts #뷔 #슈가",
-      "views": 146160,
-      "url": "https://www.youtube.com/watch?v=Ule8hnzOAqI"
+      "title": "후배들이 반말로 인사하자 BTS 진의 반응ㅋㅋ #방탄소년단 #bts #진 #투모로우바이투게더",
+      "views": 147259,
+      "url": "https://www.youtube.com/watch?v=_qrgjJRc4qM"
     },
     {
       "date": "2026-11-16",
       "channel": "해외반응픽",
-      "title": "후배들이 반말로 인사하자 BTS 진의 반응ㅋㅋ #방탄소년단 #bts #진 #투모로우바이투게더",
-      "views": 145243,
-      "url": "https://www.youtube.com/watch?v=_qrgjJRc4qM"
+      "title": "스무 살의 나를 만난다면 BTS 뷔가 제일 먼저 할 일ㅋㅋ #방탄소년단 #bts #뷔 #슈가",
+      "views": 146761,
+      "url": "https://www.youtube.com/watch?v=Ule8hnzOAqI"
     },
     {
       "date": "2026-11-13",
       "channel": "해외반응픽",
       "title": "미국 토크쇼에서 자기소개 시키자 BTS가 한 말",
-      "views": 139836,
+      "views": 140052,
       "url": "https://www.youtube.com/watch?v=GILqBc0g-HQ"
     },
     {
       "date": "2026-11-19",
       "channel": "해외반응픽",
       "title": "샤워할 때 뭐 듣냐고 묻자 BTS 멤버별 대답 차이ㅋㅋ #방탄소년단 #bts #정국 #진",
-      "views": 376,
+      "views": 1170,
       "url": "https://www.youtube.com/watch?v=Lg9ohskVO9g"
     },
     {
       "date": "2026-11-19",
       "channel": "해외반응픽",
       "title": "편안하게 생겼다는 칭찬에 BTS 진이 한 대답ㅋㅋ #방탄소년단 #bts #진 #이영지",
-      "views": 5317,
+      "views": 6843,
       "url": "https://www.youtube.com/watch?v=82602uBMM-8"
     },
     {
       "date": "2026-11-18",
       "channel": "해외반응픽",
       "title": "전역 특집으로 좀비 촬영한 BTS 제이홉의 소감ㅋㅋ #방탄소년단 #bts #제이홉 #진",
-      "views": 2251,
+      "views": 2517,
       "url": "https://www.youtube.com/watch?v=0CD2peZd1hA"
     },
     {
       "date": "2026-11-18",
       "channel": "해외반응픽",
       "title": "BTS 진 근황을 묻자 지민이 한 대답ㅋㅋ #방탄소년단 #bts #지민 #진 #슈가",
-      "views": 22852,
+      "views": 25203,
       "url": "https://www.youtube.com/watch?v=o8YZNmYand8"
     },
     {
       "date": "2026-11-18",
       "channel": "해외반응픽",
       "title": "플라잉 요가 하랬더니 결제부터 한 BTS 뷔ㅋㅋ #방탄소년단 #bts #뷔 #지민",
-      "views": 4906,
+      "views": 5093,
       "url": "https://www.youtube.com/watch?v=bouypQyK3Q8"
     },
     {
       "date": "2026-11-17",
       "channel": "해외반응픽",
       "title": "근육 키워서 전역했더니 BTS 멤버들이 한 말ㅋㅋ #방탄소년단 #bts #뷔 #태형",
-      "views": 25634,
+      "views": 25739,
       "url": "https://www.youtube.com/watch?v=pEe6kisNaEM"
     },
     {
       "date": "2026-11-17",
       "channel": "해외반응픽",
       "title": "가장 더러운 룸메이트를 묻자 BTS 멤버들 폭로전ㅋㅋ #방탄소년단 #bts #RM #뷔",
-      "views": 32784,
+      "views": 32902,
       "url": "https://www.youtube.com/watch?v=SGaxZNrhKA0"
     },
     {
       "date": "2026-11-17",
       "channel": "해외반응픽",
       "title": "식혜 밥알 토론에 BTS 7명이 소환된 이유ㅋㅋ #방탄소년단 #bts #달려라방탄",
-      "views": 24305,
+      "views": 24836,
       "url": "https://www.youtube.com/watch?v=Gq455NJp_Ck"
     }
   ],
