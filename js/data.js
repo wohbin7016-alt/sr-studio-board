@@ -336,7 +336,7 @@ window.DATA = {
         }
       ],
       "analyzed_at": "2026-11-19 23:47",
-      "subs_delta": 70
+      "subs_delta": 0
     }
   ],
   "generated_at": "2026-11-19 23:46",
