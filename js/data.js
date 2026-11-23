@@ -16,7 +16,7 @@ window.DATA = {
       "top_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 1105564,
+          "views": 1105567,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 1105564,
+          "views": 1105567,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
         }
       ],
-      "analyzed_at": "2026-11-23 13:17",
+      "analyzed_at": "2026-11-23 14:19",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 9720,
       "sampled": 12,
-      "avg_views": 8424,
-      "median_views": 7387,
+      "avg_views": 8499,
+      "median_views": 7453,
       "uploads_30d": 12,
-      "views_30d": 101097,
+      "views_30d": 101993,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -146,7 +146,7 @@ window.DATA = {
         },
         {
           "title": "데뷔곡 파트가 다 바뀌자 리센느 멤버별 반응ㅋㅋ #리센느 #rescene #미나미 #원이",
-          "views": 17069,
+          "views": 17330,
           "date": "2026-11-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=G8fJ80K_Q6E"
@@ -160,14 +160,14 @@ window.DATA = {
         },
         {
           "title": "요리를 막내들에게 떠넘기자, 리센느 막내들의 대답ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 10443,
+          "views": 10580,
           "date": "2026-11-20",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=jrsODfX6nLs"
         },
         {
           "title": "피구 팀원을 고르라고 하자 리센느 메이의 선택 이유ㅋㅋ #리센느 #RESCENE #메이",
-          "views": 10007,
+          "views": 10084,
           "date": "2026-11-20",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=5GoRPRmpVXc"
@@ -176,63 +176,63 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "리브 옷 사라고 20만 원 줬더니 리센느 원이·제나의 큰 그림ㅋㅋ #리센느 #rescene #원이 #제나",
-          "views": 1253,
+          "views": 1382,
           "date": "2026-11-22",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=TG4NWhcQDm0"
         },
         {
           "title": "쌩얼로 나타난 메이를 리센느 미나미가 꾸며 주자ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 3612,
+          "views": 3718,
           "date": "2026-11-22",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=Khegg0Hw_ns"
         },
         {
           "title": "가루 다 흘리며 대충 만들더니 요리 대결 1등 해버린 리브ㅋㅋ #리센느 #rescene #리브 #제나",
-          "views": 3153,
+          "views": 3207,
           "date": "2026-11-22",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=UIMPmg-A2lE"
         },
         {
           "title": "데뷔곡 파트가 다 바뀌자 리센느 멤버별 반응ㅋㅋ #리센느 #rescene #미나미 #원이",
-          "views": 17069,
+          "views": 17330,
           "date": "2026-11-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=G8fJ80K_Q6E"
         },
         {
           "title": "진실을 말하게 하는 인형을 리센느에게 써 보면 생기는 일ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 6421,
+          "views": 6517,
           "date": "2026-11-21",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=vUrTrOLGkC0"
         },
         {
           "title": "막내들이 김치를 안 사 오자, 리센느 미나미가 한 말ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 56,
+          "views": 57,
           "date": "2026-11-21",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=IFZMH67l010"
         },
         {
           "title": "요리를 막내들에게 떠넘기자, 리센느 막내들의 대답ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 10443,
+          "views": 10580,
           "date": "2026-11-20",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=jrsODfX6nLs"
         },
         {
           "title": "피구 팀원을 고르라고 하자 리센느 메이의 선택 이유ㅋㅋ #리센느 #RESCENE #메이",
-          "views": 10007,
+          "views": 10084,
           "date": "2026-11-20",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=5GoRPRmpVXc"
         },
         {
           "title": "프로필에 키 162cm라고 적자, 리센느 멤버들 반응ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 8354,
+          "views": 8389,
           "date": "2026-11-19",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=0M36Of8L3q8"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=xI_5r8kWbiA"
         }
       ],
-      "analyzed_at": "2026-11-23 13:17",
+      "analyzed_at": "2026-11-23 14:20",
       "subs_delta": 0
     },
     {
@@ -261,7 +261,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-11-23 13:17",
+      "analyzed_at": "2026-11-23 14:20",
       "subs_delta": 0
     },
     {
@@ -270,10 +270,10 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 3680,
       "sampled": 20,
-      "avg_views": 36222,
+      "avg_views": 36229,
       "median_views": 21264,
       "uploads_30d": 20,
-      "views_30d": 724453,
+      "views_30d": 724597,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -285,7 +285,7 @@ window.DATA = {
         },
         {
           "title": "스무 살의 나를 만난다면 BTS 뷔가 제일 먼저 할 일ㅋㅋ #방탄소년단 #bts #뷔 #슈가",
-          "views": 159703,
+          "views": 159706,
           "date": "2026-11-16",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=Ule8hnzOAqI"
@@ -306,7 +306,7 @@ window.DATA = {
         },
         {
           "title": "자기 장점을 하나씩 묻자 BTS 멤버별 대답 차이",
-          "views": 44402,
+          "views": 44405,
           "date": "2026-11-15",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=f30rzWs34LU"
@@ -322,7 +322,7 @@ window.DATA = {
         },
         {
           "title": "애빼시 뜻을 묻자 BTS 진이 한 대답ㅋㅋ #방탄소년단 #bts #진 #연준",
-          "views": 2498,
+          "views": 2604,
           "date": "2026-11-21",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=rkzW9SeTpUc"
@@ -336,7 +336,7 @@ window.DATA = {
         },
         {
           "title": "숫자 속여도 되는 게임에서 BTS 진만 집에 간 이유ㅋㅋ #방탄소년단 #bts #제이홉 #진",
-          "views": 2266,
+          "views": 2298,
           "date": "2026-11-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=kw8tfV9NgxU"
@@ -384,17 +384,17 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=0CD2peZd1hA"
         }
       ],
-      "analyzed_at": "2026-11-23 13:18",
+      "analyzed_at": "2026-11-23 14:20",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-11-23 13:17",
+  "generated_at": "2026-11-23 14:19",
   "videos": [
     {
       "date": "2026-09-29",
       "channel": "숏츠시작",
       "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-      "views": 1105564,
+      "views": 1105567,
       "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
     },
     {
@@ -492,7 +492,7 @@ window.DATA = {
       "date": "2026-11-21",
       "channel": "이슈브리핑",
       "title": "데뷔곡 파트가 다 바뀌자 리센느 멤버별 반응ㅋㅋ #리센느 #rescene #미나미 #원이",
-      "views": 17069,
+      "views": 17330,
       "url": "https://www.youtube.com/watch?v=G8fJ80K_Q6E"
     },
     {
@@ -506,56 +506,56 @@ window.DATA = {
       "date": "2026-11-20",
       "channel": "이슈브리핑",
       "title": "요리를 막내들에게 떠넘기자, 리센느 막내들의 대답ㅋㅋ #리센느 #RESCENE #리마인",
-      "views": 10443,
+      "views": 10580,
       "url": "https://www.youtube.com/watch?v=jrsODfX6nLs"
     },
     {
       "date": "2026-11-20",
       "channel": "이슈브리핑",
       "title": "피구 팀원을 고르라고 하자 리센느 메이의 선택 이유ㅋㅋ #리센느 #RESCENE #메이",
-      "views": 10007,
+      "views": 10084,
       "url": "https://www.youtube.com/watch?v=5GoRPRmpVXc"
     },
     {
       "date": "2026-11-22",
       "channel": "이슈브리핑",
       "title": "리브 옷 사라고 20만 원 줬더니 리센느 원이·제나의 큰 그림ㅋㅋ #리센느 #rescene #원이 #제나",
-      "views": 1253,
+      "views": 1382,
       "url": "https://www.youtube.com/watch?v=TG4NWhcQDm0"
     },
     {
       "date": "2026-11-22",
       "channel": "이슈브리핑",
       "title": "쌩얼로 나타난 메이를 리센느 미나미가 꾸며 주자ㅋㅋ #리센느 #RESCENE #리마인",
-      "views": 3612,
+      "views": 3718,
       "url": "https://www.youtube.com/watch?v=Khegg0Hw_ns"
     },
     {
       "date": "2026-11-22",
       "channel": "이슈브리핑",
       "title": "가루 다 흘리며 대충 만들더니 요리 대결 1등 해버린 리브ㅋㅋ #리센느 #rescene #리브 #제나",
-      "views": 3153,
+      "views": 3207,
       "url": "https://www.youtube.com/watch?v=UIMPmg-A2lE"
     },
     {
       "date": "2026-11-21",
       "channel": "이슈브리핑",
       "title": "진실을 말하게 하는 인형을 리센느에게 써 보면 생기는 일ㅋㅋ #리센느 #RESCENE #리마인",
-      "views": 6421,
+      "views": 6517,
       "url": "https://www.youtube.com/watch?v=vUrTrOLGkC0"
     },
     {
       "date": "2026-11-21",
       "channel": "이슈브리핑",
       "title": "막내들이 김치를 안 사 오자, 리센느 미나미가 한 말ㅋㅋ #리센느 #RESCENE #리마인",
-      "views": 56,
+      "views": 57,
       "url": "https://www.youtube.com/watch?v=IFZMH67l010"
     },
     {
       "date": "2026-11-19",
       "channel": "이슈브리핑",
       "title": "프로필에 키 162cm라고 적자, 리센느 멤버들 반응ㅋㅋ #리센느 #RESCENE #리마인",
-      "views": 8354,
+      "views": 8389,
       "url": "https://www.youtube.com/watch?v=0M36Of8L3q8"
     },
     {
@@ -569,7 +569,7 @@ window.DATA = {
       "date": "2026-11-16",
       "channel": "해외반응픽",
       "title": "스무 살의 나를 만난다면 BTS 뷔가 제일 먼저 할 일ㅋㅋ #방탄소년단 #bts #뷔 #슈가",
-      "views": 159703,
+      "views": 159706,
       "url": "https://www.youtube.com/watch?v=Ule8hnzOAqI"
     },
     {
@@ -590,7 +590,7 @@ window.DATA = {
       "date": "2026-11-15",
       "channel": "해외반응픽",
       "title": "자기 장점을 하나씩 묻자 BTS 멤버별 대답 차이",
-      "views": 44402,
+      "views": 44405,
       "url": "https://www.youtube.com/watch?v=f30rzWs34LU"
     },
     {
@@ -604,7 +604,7 @@ window.DATA = {
       "date": "2026-11-21",
       "channel": "해외반응픽",
       "title": "애빼시 뜻을 묻자 BTS 진이 한 대답ㅋㅋ #방탄소년단 #bts #진 #연준",
-      "views": 2498,
+      "views": 2604,
       "url": "https://www.youtube.com/watch?v=rkzW9SeTpUc"
     },
     {
@@ -618,7 +618,7 @@ window.DATA = {
       "date": "2026-11-21",
       "channel": "해외반응픽",
       "title": "숫자 속여도 되는 게임에서 BTS 진만 집에 간 이유ㅋㅋ #방탄소년단 #bts #제이홉 #진",
-      "views": 2266,
+      "views": 2298,
       "url": "https://www.youtube.com/watch?v=kw8tfV9NgxU"
     },
     {
