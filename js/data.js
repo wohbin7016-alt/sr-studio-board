@@ -16,7 +16,7 @@ window.DATA = {
       "top_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 1105579,
+          "views": 1105585,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -53,7 +53,7 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-          "views": 1105579,
+          "views": 1105585,
           "date": "2026-09-29",
           "duration": 93,
           "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
         }
       ],
-      "analyzed_at": "2026-11-24 03:50",
+      "analyzed_at": "2026-11-24 04:52",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 9720,
       "sampled": 12,
-      "avg_views": 9111,
-      "median_views": 7775,
+      "avg_views": 9115,
+      "median_views": 7773,
       "uploads_30d": 12,
-      "views_30d": 109334,
+      "views_30d": 109388,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -153,7 +153,7 @@ window.DATA = {
         },
         {
           "title": "요리를 막내들에게 떠넘기자, 리센느 막내들의 대답ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 11897,
+          "views": 11957,
           "date": "2026-11-20",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=jrsODfX6nLs"
@@ -183,7 +183,7 @@ window.DATA = {
         },
         {
           "title": "쌩얼로 나타난 메이를 리센느 미나미가 꾸며 주자ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 4239,
+          "views": 4237,
           "date": "2026-11-22",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=Khegg0Hw_ns"
@@ -204,7 +204,7 @@ window.DATA = {
         },
         {
           "title": "진실을 말하게 하는 인형을 리센느에게 써 보면 생기는 일ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 6996,
+          "views": 6992,
           "date": "2026-11-21",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=vUrTrOLGkC0"
@@ -218,7 +218,7 @@ window.DATA = {
         },
         {
           "title": "요리를 막내들에게 떠넘기자, 리센느 막내들의 대답ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 11897,
+          "views": 11957,
           "date": "2026-11-20",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=jrsODfX6nLs"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=xI_5r8kWbiA"
         }
       ],
-      "analyzed_at": "2026-11-24 03:50",
+      "analyzed_at": "2026-11-24 04:52",
       "subs_delta": 0
     },
     {
@@ -261,7 +261,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-11-24 03:50",
+      "analyzed_at": "2026-11-24 04:52",
       "subs_delta": 0
     },
     {
@@ -270,10 +270,10 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 3680,
       "sampled": 20,
-      "avg_views": 36355,
-      "median_views": 21296,
+      "avg_views": 36359,
+      "median_views": 21298,
       "uploads_30d": 20,
-      "views_30d": 727112,
+      "views_30d": 727188,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -292,7 +292,7 @@ window.DATA = {
         },
         {
           "title": "BTS 진 근황을 묻자 지민이 한 대답ㅋㅋ #방탄소년단 #bts #지민 #진 #슈가",
-          "views": 56689,
+          "views": 56746,
           "date": "2026-11-18",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=o8YZNmYand8"
@@ -364,7 +364,7 @@ window.DATA = {
         },
         {
           "title": "샤워할 때 뭐 듣냐고 묻자 BTS 멤버별 대답 차이ㅋㅋ #방탄소년단 #bts #정국 #진",
-          "views": 37356,
+          "views": 37362,
           "date": "2026-11-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=Lg9ohskVO9g"
@@ -378,23 +378,23 @@ window.DATA = {
         },
         {
           "title": "전역 특집으로 좀비 촬영한 BTS 제이홉의 소감ㅋㅋ #방탄소년단 #bts #제이홉 #진",
-          "views": 10343,
+          "views": 10344,
           "date": "2026-11-18",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=0CD2peZd1hA"
         }
       ],
-      "analyzed_at": "2026-11-24 03:51",
+      "analyzed_at": "2026-11-24 04:53",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-11-24 03:50",
+  "generated_at": "2026-11-24 04:52",
   "videos": [
     {
       "date": "2026-09-29",
       "channel": "숏츠시작",
       "title": "오디션 1등들만 모았더니, 1등 중의 1등은 반전이었다",
-      "views": 1105579,
+      "views": 1105585,
       "url": "https://www.youtube.com/watch?v=qEaA7Bxu2pA"
     },
     {
@@ -499,7 +499,7 @@ window.DATA = {
       "date": "2026-11-20",
       "channel": "이슈브리핑",
       "title": "요리를 막내들에게 떠넘기자, 리센느 막내들의 대답ㅋㅋ #리센느 #RESCENE #리마인",
-      "views": 11897,
+      "views": 11957,
       "url": "https://www.youtube.com/watch?v=jrsODfX6nLs"
     },
     {
@@ -527,7 +527,7 @@ window.DATA = {
       "date": "2026-11-22",
       "channel": "이슈브리핑",
       "title": "쌩얼로 나타난 메이를 리센느 미나미가 꾸며 주자ㅋㅋ #리센느 #RESCENE #리마인",
-      "views": 4239,
+      "views": 4237,
       "url": "https://www.youtube.com/watch?v=Khegg0Hw_ns"
     },
     {
@@ -541,7 +541,7 @@ window.DATA = {
       "date": "2026-11-21",
       "channel": "이슈브리핑",
       "title": "진실을 말하게 하는 인형을 리센느에게 써 보면 생기는 일ㅋㅋ #리센느 #RESCENE #리마인",
-      "views": 6996,
+      "views": 6992,
       "url": "https://www.youtube.com/watch?v=vUrTrOLGkC0"
     },
     {
@@ -576,7 +576,7 @@ window.DATA = {
       "date": "2026-11-18",
       "channel": "해외반응픽",
       "title": "BTS 진 근황을 묻자 지민이 한 대답ㅋㅋ #방탄소년단 #bts #지민 #진 #슈가",
-      "views": 56689,
+      "views": 56746,
       "url": "https://www.youtube.com/watch?v=o8YZNmYand8"
     },
     {
@@ -646,14 +646,14 @@ window.DATA = {
       "date": "2026-11-19",
       "channel": "해외반응픽",
       "title": "샤워할 때 뭐 듣냐고 묻자 BTS 멤버별 대답 차이ㅋㅋ #방탄소년단 #bts #정국 #진",
-      "views": 37356,
+      "views": 37362,
       "url": "https://www.youtube.com/watch?v=Lg9ohskVO9g"
     },
     {
       "date": "2026-11-18",
       "channel": "해외반응픽",
       "title": "전역 특집으로 좀비 촬영한 BTS 제이홉의 소감ㅋㅋ #방탄소년단 #bts #제이홉 #진",
-      "views": 10343,
+      "views": 10344,
       "url": "https://www.youtube.com/watch?v=0CD2peZd1hA"
     }
   ],
