@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
         }
       ],
-      "analyzed_at": "2026-11-23 22:38",
+      "analyzed_at": "2026-11-23 23:41",
       "subs_delta": 0
     },
     {
@@ -131,29 +131,29 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 9720,
       "sampled": 12,
-      "avg_views": 8978,
-      "median_views": 7703,
+      "avg_views": 9029,
+      "median_views": 7750,
       "uploads_30d": 12,
-      "views_30d": 107738,
+      "views_30d": 108356,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "말하는 족족 다 받아 적자, 리센느 멤버들의 합리적 의심ㅋㅋ #리센느 #RESCENE #리브 #메이",
-          "views": 27755,
+          "views": 27762,
           "date": "2026-11-19",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=xI_5r8kWbiA"
         },
         {
           "title": "데뷔곡 파트가 다 바뀌자 리센느 멤버별 반응ㅋㅋ #리센느 #rescene #미나미 #원이",
-          "views": 19633,
+          "views": 19867,
           "date": "2026-11-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=G8fJ80K_Q6E"
         },
         {
           "title": "요리를 막내들에게 떠넘기자, 리센느 막내들의 대답ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 11373,
+          "views": 11482,
           "date": "2026-11-20",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=jrsODfX6nLs"
@@ -167,7 +167,7 @@ window.DATA = {
         },
         {
           "title": "피구 팀원을 고르라고 하자 리센느 메이의 선택 이유ㅋㅋ #리센느 #RESCENE #메이",
-          "views": 10570,
+          "views": 10627,
           "date": "2026-11-20",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=5GoRPRmpVXc"
@@ -176,35 +176,35 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "리브 옷 사라고 20만 원 줬더니 리센느 원이·제나의 큰 그림ㅋㅋ #리센느 #rescene #원이 #제나",
-          "views": 1897,
+          "views": 1979,
           "date": "2026-11-22",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=TG4NWhcQDm0"
         },
         {
           "title": "쌩얼로 나타난 메이를 리센느 미나미가 꾸며 주자ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 4154,
+          "views": 4155,
           "date": "2026-11-22",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=Khegg0Hw_ns"
         },
         {
           "title": "가루 다 흘리며 대충 만들더니 요리 대결 1등 해버린 리브ㅋㅋ #리센느 #rescene #리브 #제나",
-          "views": 3546,
+          "views": 3579,
           "date": "2026-11-22",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=UIMPmg-A2lE"
         },
         {
           "title": "데뷔곡 파트가 다 바뀌자 리센느 멤버별 반응ㅋㅋ #리센느 #rescene #미나미 #원이",
-          "views": 19633,
+          "views": 19867,
           "date": "2026-11-21",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=G8fJ80K_Q6E"
         },
         {
           "title": "진실을 말하게 하는 인형을 리센느에게 써 보면 생기는 일ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 6864,
+          "views": 6951,
           "date": "2026-11-21",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=vUrTrOLGkC0"
@@ -218,34 +218,34 @@ window.DATA = {
         },
         {
           "title": "요리를 막내들에게 떠넘기자, 리센느 막내들의 대답ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 11373,
+          "views": 11482,
           "date": "2026-11-20",
           "duration": 38,
           "url": "https://www.youtube.com/watch?v=jrsODfX6nLs"
         },
         {
           "title": "피구 팀원을 고르라고 하자 리센느 메이의 선택 이유ㅋㅋ #리센느 #RESCENE #메이",
-          "views": 10570,
+          "views": 10627,
           "date": "2026-11-20",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=5GoRPRmpVXc"
         },
         {
           "title": "프로필에 키 162cm라고 적자, 리센느 멤버들 반응ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 8542,
+          "views": 8550,
           "date": "2026-11-19",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=0M36Of8L3q8"
         },
         {
           "title": "말하는 족족 다 받아 적자, 리센느 멤버들의 합리적 의심ㅋㅋ #리센느 #RESCENE #리브 #메이",
-          "views": 27755,
+          "views": 27762,
           "date": "2026-11-19",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=xI_5r8kWbiA"
         }
       ],
-      "analyzed_at": "2026-11-23 22:39",
+      "analyzed_at": "2026-11-23 23:41",
       "subs_delta": 0
     },
     {
@@ -261,7 +261,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-11-23 22:39",
+      "analyzed_at": "2026-11-23 23:41",
       "subs_delta": 0
     },
     {
@@ -270,22 +270,22 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 3680,
       "sampled": 20,
-      "avg_views": 36294,
-      "median_views": 21277,
+      "avg_views": 36313,
+      "median_views": 21281,
       "uploads_30d": 20,
-      "views_30d": 725893,
+      "views_30d": 726275,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
           "title": "후배들이 반말로 인사하자 BTS 진의 반응ㅋㅋ #방탄소년단 #bts #진 #투모로우바이투게더",
-          "views": 183914,
+          "views": 183928,
           "date": "2026-11-16",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=_qrgjJRc4qM"
         },
         {
           "title": "스무 살의 나를 만난다면 BTS 뷔가 제일 먼저 할 일ㅋㅋ #방탄소년단 #bts #뷔 #슈가",
-          "views": 159938,
+          "views": 159960,
           "date": "2026-11-16",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=Ule8hnzOAqI"
@@ -306,7 +306,7 @@ window.DATA = {
         },
         {
           "title": "자기 장점을 하나씩 묻자 BTS 멤버별 대답 차이",
-          "views": 44423,
+          "views": 44428,
           "date": "2026-11-15",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=f30rzWs34LU"
@@ -322,35 +322,35 @@ window.DATA = {
         },
         {
           "title": "애빼시 뜻을 묻자 BTS 진이 한 대답ㅋㅋ #방탄소년단 #bts #진 #연준",
-          "views": 2771,
+          "views": 3023,
           "date": "2026-11-21",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=rkzW9SeTpUc"
         },
         {
           "title": "음악 안 하고 춤추겠다던 슈가의 비보이 시절ㅋㅋ #방탄소년단 #bts #슈가 #제이홉",
-          "views": 2391,
+          "views": 2386,
           "date": "2026-11-21",
           "duration": 36,
           "url": "https://www.youtube.com/watch?v=LqlFCSV68TU"
         },
         {
           "title": "숫자 속여도 되는 게임에서 BTS 진만 집에 간 이유ㅋㅋ #방탄소년단 #bts #제이홉 #진",
-          "views": 2383,
+          "views": 2402,
           "date": "2026-11-21",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=kw8tfV9NgxU"
         },
         {
           "title": "소면 삶다가 벽에 던지라는 BTS 진의 요리 비법ㅋㅋ #방탄소년단 #bts #진 #지민",
-          "views": 3740,
+          "views": 3748,
           "date": "2026-11-20",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=8BY7XmRWhDY"
         },
         {
           "title": "물구나무 서서 샤워한다던 진에게 멤버들이 한 말ㅋㅋ #방탄소년단 #bts #진",
-          "views": 8219,
+          "views": 8225,
           "date": "2026-11-20",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=kS1j55nZru4"
@@ -364,7 +364,7 @@ window.DATA = {
         },
         {
           "title": "샤워할 때 뭐 듣냐고 묻자 BTS 멤버별 대답 차이ㅋㅋ #방탄소년단 #bts #정국 #진",
-          "views": 37316,
+          "views": 37348,
           "date": "2026-11-19",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=Lg9ohskVO9g"
@@ -384,11 +384,11 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=0CD2peZd1hA"
         }
       ],
-      "analyzed_at": "2026-11-23 22:39",
+      "analyzed_at": "2026-11-23 23:42",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-11-23 22:38",
+  "generated_at": "2026-11-23 23:41",
   "videos": [
     {
       "date": "2026-09-29",
@@ -485,21 +485,21 @@ window.DATA = {
       "date": "2026-11-19",
       "channel": "이슈브리핑",
       "title": "말하는 족족 다 받아 적자, 리센느 멤버들의 합리적 의심ㅋㅋ #리센느 #RESCENE #리브 #메이",
-      "views": 27755,
+      "views": 27762,
       "url": "https://www.youtube.com/watch?v=xI_5r8kWbiA"
     },
     {
       "date": "2026-11-21",
       "channel": "이슈브리핑",
       "title": "데뷔곡 파트가 다 바뀌자 리센느 멤버별 반응ㅋㅋ #리센느 #rescene #미나미 #원이",
-      "views": 19633,
+      "views": 19867,
       "url": "https://www.youtube.com/watch?v=G8fJ80K_Q6E"
     },
     {
       "date": "2026-11-20",
       "channel": "이슈브리핑",
       "title": "요리를 막내들에게 떠넘기자, 리센느 막내들의 대답ㅋㅋ #리센느 #RESCENE #리마인",
-      "views": 11373,
+      "views": 11482,
       "url": "https://www.youtube.com/watch?v=jrsODfX6nLs"
     },
     {
@@ -513,35 +513,35 @@ window.DATA = {
       "date": "2026-11-20",
       "channel": "이슈브리핑",
       "title": "피구 팀원을 고르라고 하자 리센느 메이의 선택 이유ㅋㅋ #리센느 #RESCENE #메이",
-      "views": 10570,
+      "views": 10627,
       "url": "https://www.youtube.com/watch?v=5GoRPRmpVXc"
     },
     {
       "date": "2026-11-22",
       "channel": "이슈브리핑",
       "title": "리브 옷 사라고 20만 원 줬더니 리센느 원이·제나의 큰 그림ㅋㅋ #리센느 #rescene #원이 #제나",
-      "views": 1897,
+      "views": 1979,
       "url": "https://www.youtube.com/watch?v=TG4NWhcQDm0"
     },
     {
       "date": "2026-11-22",
       "channel": "이슈브리핑",
       "title": "쌩얼로 나타난 메이를 리센느 미나미가 꾸며 주자ㅋㅋ #리센느 #RESCENE #리마인",
-      "views": 4154,
+      "views": 4155,
       "url": "https://www.youtube.com/watch?v=Khegg0Hw_ns"
     },
     {
       "date": "2026-11-22",
       "channel": "이슈브리핑",
       "title": "가루 다 흘리며 대충 만들더니 요리 대결 1등 해버린 리브ㅋㅋ #리센느 #rescene #리브 #제나",
-      "views": 3546,
+      "views": 3579,
       "url": "https://www.youtube.com/watch?v=UIMPmg-A2lE"
     },
     {
       "date": "2026-11-21",
       "channel": "이슈브리핑",
       "title": "진실을 말하게 하는 인형을 리센느에게 써 보면 생기는 일ㅋㅋ #리센느 #RESCENE #리마인",
-      "views": 6864,
+      "views": 6951,
       "url": "https://www.youtube.com/watch?v=vUrTrOLGkC0"
     },
     {
@@ -555,21 +555,21 @@ window.DATA = {
       "date": "2026-11-19",
       "channel": "이슈브리핑",
       "title": "프로필에 키 162cm라고 적자, 리센느 멤버들 반응ㅋㅋ #리센느 #RESCENE #리마인",
-      "views": 8542,
+      "views": 8550,
       "url": "https://www.youtube.com/watch?v=0M36Of8L3q8"
     },
     {
       "date": "2026-11-16",
       "channel": "해외반응픽",
       "title": "후배들이 반말로 인사하자 BTS 진의 반응ㅋㅋ #방탄소년단 #bts #진 #투모로우바이투게더",
-      "views": 183914,
+      "views": 183928,
       "url": "https://www.youtube.com/watch?v=_qrgjJRc4qM"
     },
     {
       "date": "2026-11-16",
       "channel": "해외반응픽",
       "title": "스무 살의 나를 만난다면 BTS 뷔가 제일 먼저 할 일ㅋㅋ #방탄소년단 #bts #뷔 #슈가",
-      "views": 159938,
+      "views": 159960,
       "url": "https://www.youtube.com/watch?v=Ule8hnzOAqI"
     },
     {
@@ -590,7 +590,7 @@ window.DATA = {
       "date": "2026-11-15",
       "channel": "해외반응픽",
       "title": "자기 장점을 하나씩 묻자 BTS 멤버별 대답 차이",
-      "views": 44423,
+      "views": 44428,
       "url": "https://www.youtube.com/watch?v=f30rzWs34LU"
     },
     {
@@ -604,35 +604,35 @@ window.DATA = {
       "date": "2026-11-21",
       "channel": "해외반응픽",
       "title": "애빼시 뜻을 묻자 BTS 진이 한 대답ㅋㅋ #방탄소년단 #bts #진 #연준",
-      "views": 2771,
+      "views": 3023,
       "url": "https://www.youtube.com/watch?v=rkzW9SeTpUc"
     },
     {
       "date": "2026-11-21",
       "channel": "해외반응픽",
       "title": "음악 안 하고 춤추겠다던 슈가의 비보이 시절ㅋㅋ #방탄소년단 #bts #슈가 #제이홉",
-      "views": 2391,
+      "views": 2386,
       "url": "https://www.youtube.com/watch?v=LqlFCSV68TU"
     },
     {
       "date": "2026-11-21",
       "channel": "해외반응픽",
       "title": "숫자 속여도 되는 게임에서 BTS 진만 집에 간 이유ㅋㅋ #방탄소년단 #bts #제이홉 #진",
-      "views": 2383,
+      "views": 2402,
       "url": "https://www.youtube.com/watch?v=kw8tfV9NgxU"
     },
     {
       "date": "2026-11-20",
       "channel": "해외반응픽",
       "title": "소면 삶다가 벽에 던지라는 BTS 진의 요리 비법ㅋㅋ #방탄소년단 #bts #진 #지민",
-      "views": 3740,
+      "views": 3748,
       "url": "https://www.youtube.com/watch?v=8BY7XmRWhDY"
     },
     {
       "date": "2026-11-20",
       "channel": "해외반응픽",
       "title": "물구나무 서서 샤워한다던 진에게 멤버들이 한 말ㅋㅋ #방탄소년단 #bts #진",
-      "views": 8219,
+      "views": 8225,
       "url": "https://www.youtube.com/watch?v=kS1j55nZru4"
     },
     {
@@ -646,7 +646,7 @@ window.DATA = {
       "date": "2026-11-19",
       "channel": "해외반응픽",
       "title": "샤워할 때 뭐 듣냐고 묻자 BTS 멤버별 대답 차이ㅋㅋ #방탄소년단 #bts #정국 #진",
-      "views": 37316,
+      "views": 37348,
       "url": "https://www.youtube.com/watch?v=Lg9ohskVO9g"
     },
     {
