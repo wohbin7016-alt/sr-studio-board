@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
         }
       ],
-      "analyzed_at": "2026-11-27 08:56",
+      "analyzed_at": "2026-11-27 09:58",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 9720,
       "sampled": 20,
-      "avg_views": 7527,
-      "median_views": 5738,
+      "avg_views": 7550,
+      "median_views": 5745,
       "uploads_30d": 20,
-      "views_30d": 150545,
+      "views_30d": 151003,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -160,7 +160,7 @@ window.DATA = {
         },
         {
           "title": "피구 팀원을 고르라고 하자 리센느 메이의 선택 이유ㅋㅋ #리센느 #RESCENE #메이",
-          "views": 12181,
+          "views": 12187,
           "date": "2026-11-20",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=5GoRPRmpVXc"
@@ -183,56 +183,56 @@ window.DATA = {
         },
         {
           "title": "팬들이 44,230km를 걷자 리센느 메이가 고른 거리ㅋㅋ #리센느 #rescene #메이",
-          "views": 1327,
+          "views": 1333,
           "date": "2026-11-26",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=jBJBxYySOx0"
         },
         {
           "title": "말 탈 때 입는 옷이라더니 리센느 멤버들이 직접 말이 됐다ㅋㅋ #리센느 #rescene #리브",
-          "views": 1477,
+          "views": 1568,
           "date": "2026-11-26",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=LpI7CiaNj7Q"
         },
         {
           "title": "눈 가리고 젤리빈 먹던 리센느 리브의 충격 취향ㅋㅋ #리센느 #rescene #리브",
-          "views": 5008,
+          "views": 5192,
           "date": "2026-11-25",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=No2vfgAs6cQ"
         },
         {
           "title": "오줌 싼 담요 덮고 잤다는 폭로에 리센느 메이 반응ㅋㅋ #리센느 #rescene #메이",
-          "views": 3907,
+          "views": 3919,
           "date": "2026-11-25",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=BQXV1ii1g9w"
         },
         {
           "title": "오랜만에 만난 쌤에게 리센느 미나미가 한 말ㅠㅠ #리센느 #rescene #미나미",
-          "views": 3783,
+          "views": 3826,
           "date": "2026-11-25",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=jlkJG7-85ds"
         },
         {
           "title": "주인 몰래 브이로그를 뺏은 리센느 미나미의 한마디ㅋㅋ #리센느 #RESCENE #미나미",
-          "views": 7408,
+          "views": 7505,
           "date": "2026-11-24",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=eUFSB314UE8"
         },
         {
           "title": "거제 여자가 이런 거 무섭겠냐던 리센느 원이에게 생긴 일ㅋㅋ #리센느 #rescene #원이 #리브",
-          "views": 5640,
+          "views": 5644,
           "date": "2026-11-24",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=EJPYMeP3Dg4"
         },
         {
           "title": "편지 읽고 멤버들이 울자, 리센느 메이가 한 말ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 5836,
+          "views": 5847,
           "date": "2026-11-23",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=6dRZatFRWuc"
@@ -245,7 +245,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=TG4NWhcQDm0"
         }
       ],
-      "analyzed_at": "2026-11-27 08:56",
+      "analyzed_at": "2026-11-27 09:59",
       "subs_delta": 0
     },
     {
@@ -261,7 +261,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-11-27 08:56",
+      "analyzed_at": "2026-11-27 09:59",
       "subs_delta": 0
     },
     {
@@ -270,10 +270,10 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 3690,
       "sampled": 20,
-      "avg_views": 10306,
-      "median_views": 3763,
+      "avg_views": 10321,
+      "median_views": 3765,
       "uploads_30d": 20,
-      "views_30d": 206134,
+      "views_30d": 206429,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -322,7 +322,7 @@ window.DATA = {
         },
         {
           "title": "촬영 중에 갑자기 나타난 뷔를 본 정국·슈가 반응ㅋㅋ #방탄소년단 #bts #뷔 #정국",
-          "views": 4183,
+          "views": 4465,
           "date": "2026-11-26",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=IvXaCB_BEow"
@@ -343,7 +343,7 @@ window.DATA = {
         },
         {
           "title": "괜찮아 한 단어를 BTS가 설명하면 생기는 일ㅋㅋ #방탄소년단 #bts #RM #정국",
-          "views": 2222,
+          "views": 2231,
           "date": "2026-11-25",
           "duration": 39,
           "url": "https://www.youtube.com/watch?v=IuF6-2nimHI"
@@ -357,7 +357,7 @@ window.DATA = {
         },
         {
           "title": "질문 좀 하라고 했더니 BTS 진이 한 질문ㅋㅋ #방탄소년단 #bts #진",
-          "views": 3668,
+          "views": 3672,
           "date": "2026-11-24",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=AsIoAkkBJ-U"
@@ -384,11 +384,11 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=VKkmQWNdZa8"
         }
       ],
-      "analyzed_at": "2026-11-27 08:57",
+      "analyzed_at": "2026-11-27 09:59",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-11-27 08:56",
+  "generated_at": "2026-11-27 09:58",
   "videos": [
     {
       "date": "2026-09-29",
@@ -506,7 +506,7 @@ window.DATA = {
       "date": "2026-11-20",
       "channel": "이슈브리핑",
       "title": "피구 팀원을 고르라고 하자 리센느 메이의 선택 이유ㅋㅋ #리센느 #RESCENE #메이",
-      "views": 12181,
+      "views": 12187,
       "url": "https://www.youtube.com/watch?v=5GoRPRmpVXc"
     },
     {
@@ -527,56 +527,56 @@ window.DATA = {
       "date": "2026-11-26",
       "channel": "이슈브리핑",
       "title": "팬들이 44,230km를 걷자 리센느 메이가 고른 거리ㅋㅋ #리센느 #rescene #메이",
-      "views": 1327,
+      "views": 1333,
       "url": "https://www.youtube.com/watch?v=jBJBxYySOx0"
     },
     {
       "date": "2026-11-26",
       "channel": "이슈브리핑",
       "title": "말 탈 때 입는 옷이라더니 리센느 멤버들이 직접 말이 됐다ㅋㅋ #리센느 #rescene #리브",
-      "views": 1477,
+      "views": 1568,
       "url": "https://www.youtube.com/watch?v=LpI7CiaNj7Q"
     },
     {
       "date": "2026-11-25",
       "channel": "이슈브리핑",
       "title": "눈 가리고 젤리빈 먹던 리센느 리브의 충격 취향ㅋㅋ #리센느 #rescene #리브",
-      "views": 5008,
+      "views": 5192,
       "url": "https://www.youtube.com/watch?v=No2vfgAs6cQ"
     },
     {
       "date": "2026-11-25",
       "channel": "이슈브리핑",
       "title": "오줌 싼 담요 덮고 잤다는 폭로에 리센느 메이 반응ㅋㅋ #리센느 #rescene #메이",
-      "views": 3907,
+      "views": 3919,
       "url": "https://www.youtube.com/watch?v=BQXV1ii1g9w"
     },
     {
       "date": "2026-11-25",
       "channel": "이슈브리핑",
       "title": "오랜만에 만난 쌤에게 리센느 미나미가 한 말ㅠㅠ #리센느 #rescene #미나미",
-      "views": 3783,
+      "views": 3826,
       "url": "https://www.youtube.com/watch?v=jlkJG7-85ds"
     },
     {
       "date": "2026-11-24",
       "channel": "이슈브리핑",
       "title": "주인 몰래 브이로그를 뺏은 리센느 미나미의 한마디ㅋㅋ #리센느 #RESCENE #미나미",
-      "views": 7408,
+      "views": 7505,
       "url": "https://www.youtube.com/watch?v=eUFSB314UE8"
     },
     {
       "date": "2026-11-24",
       "channel": "이슈브리핑",
       "title": "거제 여자가 이런 거 무섭겠냐던 리센느 원이에게 생긴 일ㅋㅋ #리센느 #rescene #원이 #리브",
-      "views": 5640,
+      "views": 5644,
       "url": "https://www.youtube.com/watch?v=EJPYMeP3Dg4"
     },
     {
       "date": "2026-11-23",
       "channel": "이슈브리핑",
       "title": "편지 읽고 멤버들이 울자, 리센느 메이가 한 말ㅋㅋ #리센느 #RESCENE #리마인",
-      "views": 5836,
+      "views": 5847,
       "url": "https://www.youtube.com/watch?v=6dRZatFRWuc"
     },
     {
@@ -632,7 +632,7 @@ window.DATA = {
       "date": "2026-11-26",
       "channel": "해외반응픽",
       "title": "촬영 중에 갑자기 나타난 뷔를 본 정국·슈가 반응ㅋㅋ #방탄소년단 #bts #뷔 #정국",
-      "views": 4183,
+      "views": 4465,
       "url": "https://www.youtube.com/watch?v=IvXaCB_BEow"
     },
     {
@@ -653,7 +653,7 @@ window.DATA = {
       "date": "2026-11-25",
       "channel": "해외반응픽",
       "title": "괜찮아 한 단어를 BTS가 설명하면 생기는 일ㅋㅋ #방탄소년단 #bts #RM #정국",
-      "views": 2222,
+      "views": 2231,
       "url": "https://www.youtube.com/watch?v=IuF6-2nimHI"
     },
     {
@@ -667,7 +667,7 @@ window.DATA = {
       "date": "2026-11-24",
       "channel": "해외반응픽",
       "title": "질문 좀 하라고 했더니 BTS 진이 한 질문ㅋㅋ #방탄소년단 #bts #진",
-      "views": 3668,
+      "views": 3672,
       "url": "https://www.youtube.com/watch?v=AsIoAkkBJ-U"
     },
     {
