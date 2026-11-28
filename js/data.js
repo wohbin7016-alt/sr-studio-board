@@ -122,7 +122,7 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=Z_YEkoJ5jO8"
         }
       ],
-      "analyzed_at": "2026-11-28 13:06",
+      "analyzed_at": "2026-11-28 14:09",
       "subs_delta": 0
     },
     {
@@ -131,10 +131,10 @@ window.DATA = {
       "channel_id": "UC29M9AGVR19NtIrAHsjx-XA",
       "subscribers": 9720,
       "sampled": 20,
-      "avg_views": 5687,
-      "median_views": 5116,
+      "avg_views": 5756,
+      "median_views": 5216,
       "uploads_30d": 20,
-      "views_30d": 113752,
+      "views_30d": 115124,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -153,21 +153,21 @@ window.DATA = {
         },
         {
           "title": "주인 몰래 브이로그를 뺏은 리센느 미나미의 한마디ㅋㅋ #리센느 #RESCENE #미나미",
-          "views": 8447,
+          "views": 8486,
           "date": "2026-11-24",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=eUFSB314UE8"
         },
         {
           "title": "눈 가리고 젤리빈 먹던 리센느 리브의 충격 취향ㅋㅋ #리센느 #rescene #리브",
-          "views": 7945,
+          "views": 8278,
           "date": "2026-11-25",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=No2vfgAs6cQ"
         },
         {
           "title": "왜 다들 예쁘냐고 따지자 리센느 멤버들 반응ㅋㅋ #리센느 #rescene #제나",
-          "views": 7541,
+          "views": 7926,
           "date": "2026-11-27",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=af2Xzwyh3QE"
@@ -176,35 +176,35 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "나 완전 테토라는 리브에게 리센느 멤버들 반응#RESCENE #리센느 #kpop #shorts",
-          "views": 658,
+          "views": 800,
           "date": "2026-11-28",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=EqYFb61VQnw"
         },
         {
           "title": "리브가 고기 굽다 불이 나자 리센느 원이의 반응ㅋㅋ #리센느 #rescene #원이",
-          "views": 2136,
+          "views": 2272,
           "date": "2026-11-27",
           "duration": 33,
           "url": "https://www.youtube.com/watch?v=iH8nRBegfJk"
         },
         {
           "title": "왜 다들 예쁘냐고 따지자 리센느 멤버들 반응ㅋㅋ #리센느 #rescene #제나",
-          "views": 7541,
+          "views": 7926,
           "date": "2026-11-27",
           "duration": 35,
           "url": "https://www.youtube.com/watch?v=af2Xzwyh3QE"
         },
         {
           "title": "카톡 알림음 흉내 내다가, 비밀까지 말해 버린 리센느 제나ㅋㅋ #리센느 #RESCENE #리마인",
-          "views": 5529,
+          "views": 5803,
           "date": "2026-11-27",
           "duration": 34,
           "url": "https://www.youtube.com/watch?v=Fly1Ae1Tpq0"
         },
         {
           "title": "메이 생일 선물 사러 갔다가 리센느 멤버들이 산 것ㅋㅋ #리센느 #rescene #제나 #원이 #메이",
-          "views": 1385,
+          "views": 1386,
           "date": "2026-11-26",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=3R5q8fDDXNc"
@@ -218,34 +218,34 @@ window.DATA = {
         },
         {
           "title": "말 탈 때 입는 옷이라더니 리센느 멤버들이 직접 말이 됐다ㅋㅋ #리센느 #rescene #리브",
-          "views": 2198,
+          "views": 2204,
           "date": "2026-11-26",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=LpI7CiaNj7Q"
         },
         {
           "title": "눈 가리고 젤리빈 먹던 리센느 리브의 충격 취향ㅋㅋ #리센느 #rescene #리브",
-          "views": 7945,
+          "views": 8278,
           "date": "2026-11-25",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=No2vfgAs6cQ"
         },
         {
           "title": "오줌 싼 담요 덮고 잤다는 폭로에 리센느 메이 반응ㅋㅋ #리센느 #rescene #메이",
-          "views": 4163,
+          "views": 4177,
           "date": "2026-11-25",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=BQXV1ii1g9w"
         },
         {
           "title": "오랜만에 만난 쌤에게 리센느 미나미가 한 말ㅠㅠ #리센느 #rescene #미나미",
-          "views": 4703,
+          "views": 4719,
           "date": "2026-11-25",
           "duration": 40,
           "url": "https://www.youtube.com/watch?v=jlkJG7-85ds"
         }
       ],
-      "analyzed_at": "2026-11-28 13:07",
+      "analyzed_at": "2026-11-28 14:09",
       "subs_delta": 0
     },
     {
@@ -261,7 +261,7 @@ window.DATA = {
       "shorts_ratio": 0,
       "top_videos": [],
       "recent_videos": [],
-      "analyzed_at": "2026-11-28 13:07",
+      "analyzed_at": "2026-11-28 14:09",
       "subs_delta": 0
     },
     {
@@ -270,10 +270,10 @@ window.DATA = {
       "channel_id": "UC-bwcXoKPzMsfEBs1EvO3oA",
       "subscribers": 3690,
       "sampled": 20,
-      "avg_views": 3328,
+      "avg_views": 3350,
       "median_views": 2499,
       "uploads_30d": 20,
-      "views_30d": 66563,
+      "views_30d": 67005,
       "shorts_ratio": 1.0,
       "top_videos": [
         {
@@ -285,7 +285,7 @@ window.DATA = {
         },
         {
           "title": "촬영 중에 갑자기 나타난 뷔를 본 정국·슈가 반응ㅋㅋ #방탄소년단 #bts #뷔 #정국",
-          "views": 7946,
+          "views": 8061,
           "date": "2026-11-26",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=IvXaCB_BEow"
@@ -299,14 +299,14 @@ window.DATA = {
         },
         {
           "title": "멤버들이 주문한 달걀을 슈가가 그리면 생기는 일ㅋㅋ #방탄소년단 #bts #슈가 #진",
-          "views": 4875,
+          "views": 4876,
           "date": "2026-11-23",
           "duration": 43,
           "url": "https://www.youtube.com/watch?v=svZf8sJTtM8"
         },
         {
           "title": "정국·지민 화보를 본 RM·슈가 반응ㅋㅋ #방탄소년단 #bts #RM #슈가",
-          "views": 4399,
+          "views": 4407,
           "date": "2026-11-24",
           "duration": 31,
           "url": "https://www.youtube.com/watch?v=-Txr2JCaDN0"
@@ -315,49 +315,49 @@ window.DATA = {
       "recent_videos": [
         {
           "title": "짜장면 지식 배틀하던 뷔가 진 한마디에 바로 유턴#BTS #kpop #shorts",
-          "views": 754,
+          "views": 885,
           "date": "2026-11-28",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=qFPYvi5V90o"
         },
         {
           "title": "멤버들과 꼭 하고 싶은 걸 묻자 BTS 뷔의 대답ㅋㅋ #방탄소년단 #bts #뷔 #지민",
-          "views": 1878,
+          "views": 1908,
           "date": "2026-11-27",
           "duration": 44,
           "url": "https://www.youtube.com/watch?v=IycOXeVN7GA"
         },
         {
           "title": "슈가가 무서워하는 걸 묻자 갑자기 시작된 플러팅 강의ㅋㅋ #방탄소년단 #bts #슈가",
-          "views": 1945,
+          "views": 1905,
           "date": "2026-11-27",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=04FX-A4gtec"
         },
         {
           "title": "딸이 슈가랑 사진 찍었다는 박명수에게 BTS 진이 한 말ㅋㅋ #방탄소년단 #bts #진 #슈가",
-          "views": 1971,
+          "views": 2030,
           "date": "2026-11-27",
           "duration": 37,
           "url": "https://www.youtube.com/watch?v=m3RNuFoe8sE"
         },
         {
           "title": "이어 말하기 게임 하다가 BTS 진이 당황한 단어ㅋㅋ #방탄소년단 #bts #진 #기안84",
-          "views": 1305,
+          "views": 1317,
           "date": "2026-11-26",
           "duration": 41,
           "url": "https://www.youtube.com/watch?v=RmFoAdRyNL8"
         },
         {
           "title": "촬영 중에 갑자기 나타난 뷔를 본 정국·슈가 반응ㅋㅋ #방탄소년단 #bts #뷔 #정국",
-          "views": 7946,
+          "views": 8061,
           "date": "2026-11-26",
           "duration": 42,
           "url": "https://www.youtube.com/watch?v=IvXaCB_BEow"
         },
         {
           "title": "운동한다는 소문만 늘어나는 BTS 슈가ㅋㅋ #방탄소년단 #bts #슈가 #달려라방탄",
-          "views": 1911,
+          "views": 2006,
           "date": "2026-11-26",
           "duration": 32,
           "url": "https://www.youtube.com/watch?v=MWtflYqmQ9M"
@@ -384,11 +384,11 @@ window.DATA = {
           "url": "https://www.youtube.com/watch?v=d3Z_a3vsL4E"
         }
       ],
-      "analyzed_at": "2026-11-28 13:07",
+      "analyzed_at": "2026-11-28 14:10",
       "subs_delta": 0
     }
   ],
-  "generated_at": "2026-11-28 13:06",
+  "generated_at": "2026-11-28 14:09",
   "videos": [
     {
       "date": "2026-09-29",
@@ -499,49 +499,49 @@ window.DATA = {
       "date": "2026-11-24",
       "channel": "이슈브리핑",
       "title": "주인 몰래 브이로그를 뺏은 리센느 미나미의 한마디ㅋㅋ #리센느 #RESCENE #미나미",
-      "views": 8447,
+      "views": 8486,
       "url": "https://www.youtube.com/watch?v=eUFSB314UE8"
     },
     {
       "date": "2026-11-25",
       "channel": "이슈브리핑",
       "title": "눈 가리고 젤리빈 먹던 리센느 리브의 충격 취향ㅋㅋ #리센느 #rescene #리브",
-      "views": 7945,
+      "views": 8278,
       "url": "https://www.youtube.com/watch?v=No2vfgAs6cQ"
     },
     {
       "date": "2026-11-27",
       "channel": "이슈브리핑",
       "title": "왜 다들 예쁘냐고 따지자 리센느 멤버들 반응ㅋㅋ #리센느 #rescene #제나",
-      "views": 7541,
+      "views": 7926,
       "url": "https://www.youtube.com/watch?v=af2Xzwyh3QE"
     },
     {
       "date": "2026-11-28",
       "channel": "이슈브리핑",
       "title": "나 완전 테토라는 리브에게 리센느 멤버들 반응#RESCENE #리센느 #kpop #shorts",
-      "views": 658,
+      "views": 800,
       "url": "https://www.youtube.com/watch?v=EqYFb61VQnw"
     },
     {
       "date": "2026-11-27",
       "channel": "이슈브리핑",
       "title": "리브가 고기 굽다 불이 나자 리센느 원이의 반응ㅋㅋ #리센느 #rescene #원이",
-      "views": 2136,
+      "views": 2272,
       "url": "https://www.youtube.com/watch?v=iH8nRBegfJk"
     },
     {
       "date": "2026-11-27",
       "channel": "이슈브리핑",
       "title": "카톡 알림음 흉내 내다가, 비밀까지 말해 버린 리센느 제나ㅋㅋ #리센느 #RESCENE #리마인",
-      "views": 5529,
+      "views": 5803,
       "url": "https://www.youtube.com/watch?v=Fly1Ae1Tpq0"
     },
     {
       "date": "2026-11-26",
       "channel": "이슈브리핑",
       "title": "메이 생일 선물 사러 갔다가 리센느 멤버들이 산 것ㅋㅋ #리센느 #rescene #제나 #원이 #메이",
-      "views": 1385,
+      "views": 1386,
       "url": "https://www.youtube.com/watch?v=3R5q8fDDXNc"
     },
     {
@@ -555,21 +555,21 @@ window.DATA = {
       "date": "2026-11-26",
       "channel": "이슈브리핑",
       "title": "말 탈 때 입는 옷이라더니 리센느 멤버들이 직접 말이 됐다ㅋㅋ #리센느 #rescene #리브",
-      "views": 2198,
+      "views": 2204,
       "url": "https://www.youtube.com/watch?v=LpI7CiaNj7Q"
     },
     {
       "date": "2026-11-25",
       "channel": "이슈브리핑",
       "title": "오줌 싼 담요 덮고 잤다는 폭로에 리센느 메이 반응ㅋㅋ #리센느 #rescene #메이",
-      "views": 4163,
+      "views": 4177,
       "url": "https://www.youtube.com/watch?v=BQXV1ii1g9w"
     },
     {
       "date": "2026-11-25",
       "channel": "이슈브리핑",
       "title": "오랜만에 만난 쌤에게 리센느 미나미가 한 말ㅠㅠ #리센느 #rescene #미나미",
-      "views": 4703,
+      "views": 4719,
       "url": "https://www.youtube.com/watch?v=jlkJG7-85ds"
     },
     {
@@ -583,7 +583,7 @@ window.DATA = {
       "date": "2026-11-26",
       "channel": "해외반응픽",
       "title": "촬영 중에 갑자기 나타난 뷔를 본 정국·슈가 반응ㅋㅋ #방탄소년단 #bts #뷔 #정국",
-      "views": 7946,
+      "views": 8061,
       "url": "https://www.youtube.com/watch?v=IvXaCB_BEow"
     },
     {
@@ -597,56 +597,56 @@ window.DATA = {
       "date": "2026-11-23",
       "channel": "해외반응픽",
       "title": "멤버들이 주문한 달걀을 슈가가 그리면 생기는 일ㅋㅋ #방탄소년단 #bts #슈가 #진",
-      "views": 4875,
+      "views": 4876,
       "url": "https://www.youtube.com/watch?v=svZf8sJTtM8"
     },
     {
       "date": "2026-11-24",
       "channel": "해외반응픽",
       "title": "정국·지민 화보를 본 RM·슈가 반응ㅋㅋ #방탄소년단 #bts #RM #슈가",
-      "views": 4399,
+      "views": 4407,
       "url": "https://www.youtube.com/watch?v=-Txr2JCaDN0"
     },
     {
       "date": "2026-11-28",
       "channel": "해외반응픽",
       "title": "짜장면 지식 배틀하던 뷔가 진 한마디에 바로 유턴#BTS #kpop #shorts",
-      "views": 754,
+      "views": 885,
       "url": "https://www.youtube.com/watch?v=qFPYvi5V90o"
     },
     {
       "date": "2026-11-27",
       "channel": "해외반응픽",
       "title": "멤버들과 꼭 하고 싶은 걸 묻자 BTS 뷔의 대답ㅋㅋ #방탄소년단 #bts #뷔 #지민",
-      "views": 1878,
+      "views": 1908,
       "url": "https://www.youtube.com/watch?v=IycOXeVN7GA"
     },
     {
       "date": "2026-11-27",
       "channel": "해외반응픽",
       "title": "슈가가 무서워하는 걸 묻자 갑자기 시작된 플러팅 강의ㅋㅋ #방탄소년단 #bts #슈가",
-      "views": 1945,
+      "views": 1905,
       "url": "https://www.youtube.com/watch?v=04FX-A4gtec"
     },
     {
       "date": "2026-11-27",
       "channel": "해외반응픽",
       "title": "딸이 슈가랑 사진 찍었다는 박명수에게 BTS 진이 한 말ㅋㅋ #방탄소년단 #bts #진 #슈가",
-      "views": 1971,
+      "views": 2030,
       "url": "https://www.youtube.com/watch?v=m3RNuFoe8sE"
     },
     {
       "date": "2026-11-26",
       "channel": "해외반응픽",
       "title": "이어 말하기 게임 하다가 BTS 진이 당황한 단어ㅋㅋ #방탄소년단 #bts #진 #기안84",
-      "views": 1305,
+      "views": 1317,
       "url": "https://www.youtube.com/watch?v=RmFoAdRyNL8"
     },
     {
       "date": "2026-11-26",
       "channel": "해외반응픽",
       "title": "운동한다는 소문만 늘어나는 BTS 슈가ㅋㅋ #방탄소년단 #bts #슈가 #달려라방탄",
-      "views": 1911,
+      "views": 2006,
       "url": "https://www.youtube.com/watch?v=MWtflYqmQ9M"
     },
     {
